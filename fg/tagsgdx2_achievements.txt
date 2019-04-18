@@ -101,7 +101,7 @@ achGDX232Title=科凡杀手
 achGDX232Desc=消灭2500只精英怪物(带有星形标记)。
 
 achGDX233Title=像沙漠中的沙子
-achGDX233Desc清除凯恩世界的250000只怪物。
+achGDX233Desc=清除凯恩世界的250000只怪物。
 
 achGDX234Title=科凡虔诚
 achGDX234Desc=修复60座神龛。
@@ -153,24 +153,3 @@ achGDX249Desc=
 
 achGDX250Title=
 achGDX250Desc=
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

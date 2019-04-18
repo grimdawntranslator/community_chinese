@@ -460,7 +460,7 @@ tagGDX1ItemSkillD161Desc=复仇者的精神在你体内膨胀。
 tagGDX1ItemSkillD162Name=奥术灾变
 tagGDX1ItemSkillD162Desc=一阵奥术能量在你的命令下爆发。
 
-tagGDX1ItemSkillD163Name=石之守卫
+tagGDX1ItemSkillD163Name=石之守护
 tagGDX1ItemSkillD163Desc=一道保护你免受伤害的物理屏障。
 
 tagGDX1ItemSkillD164Name=石之守卫

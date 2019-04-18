@@ -30,7 +30,7 @@ tagGDX2EndlessDungeon_Special06=NAME ME
 tagGDX2EndlessDungeon_Special07=完美般正常的超大蛆虫
 tagGDX2EndlessDungeon_Special07B=超大蛆虫
 tagGDX2EndlessDungeon_Special08=板条箱之魂
-tagGDX2EndlessDungeon_Special09=白骨单峰驼 
+tagGDX2EndlessDungeon_Special09=白骨单峰驼
 tagGDX2EndlessDungeon_Special10=白骨单峰驼~精英
 tagGDX2EndlessDungeon_Special11=白骨单峰驼~哨兵
 
@@ -66,7 +66,7 @@ tagGDX2EndlessDungeon_NPC_Smith01=伊卡洛德
 tagGDX2EndlessDungeon_StoreTitle_Smith01=被诅咒的铁匠
 tagGDX2EndlessDungeon_StoreDesc_Smith01_1={}亡者之礼
 tagGDX2EndlessDungeon_StoreDesc_Smith01_2=伊卡洛德数个世纪以来都在锻造学识上颇有天赋，被他那特别的...存在形态所支持着。
-tagGDX2EndlessDungeon_StoreDesc_Smith01_3= 
+tagGDX2EndlessDungeon_StoreDesc_Smith01_3=
 tagGDX2EndlessDungeon_StoreDesc_Smith01_4=制作武器，护甲或饰品，并向其中灌注下列特性之一：
 
 tagGDX2EndlessDungeon_NPC_Smuggler01=阿格纳斯
@@ -141,7 +141,7 @@ tagGDX2EndlessDungeon_Key_05=上神引路石
 tagGDX2EndlessDungeon_Key_05_Desc=上神引路石完全恢复了它的神圣力量。它能使玛赞打开通往第65碎界至第75碎界的道路。
 tagGDX2EndlessDungeon_Key_05_Blueprint=设计图：上神引路石
 
-tagGDX2ItemTest=人形凝视者小姐
+tagGDX2ItemTest=人形凝视者小姐♀
 tagGDX2ItemTestDesc="一个成就不凡的家伙把凝视者套在了身上。"
 tagGDX2ItemTest2=温和有趣的盒子
 tagGDX2ItemTest2Desc="受现实生活的启发"
@@ -174,7 +174,7 @@ tagGDX2Notification_Special02=你听到附近有石头移动的声音...
 #Doors
 tagGDX2EndlessDungeonEntrance=碎裂之境传送门
 tagGDX2EndlessDungeonFloorEntrance=碎裂之境传送门
-tagGDX2EndlessDungeonNextFloor=向更深出前进
+tagGDX2EndlessDungeonNextFloor=向更深处前进
 tagGDX2EndlessDungeonTreasureRoom=永恒珍藏传送门
 tagGDX2EndlessDungeonExit=返回凯恩世界
 
@@ -200,4 +200,3 @@ tagGDX2Item_ChestQ01=永恒珍藏
 
 tagGDX2Item_SpecialChestA01=碎裂之境的秘密
 tagGDX2Item_SpecialChestA02=碎裂之境的礼物
-

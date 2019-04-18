@@ -51,9 +51,9 @@ tagGDX1EnemyAetherialCorruption_B02=血肉扭曲者 风暴行者
 tagGDX1EnemyAetherialCorruption_B03=血肉扭曲者 焚烧
 tagGDX1EnemyAetherialCorruption_C01=血肉扭曲者 畸变
 
-tagGDX1EnemyAetherialFleshshaper_A01=血肉塑造者 
+tagGDX1EnemyAetherialFleshshaper_A01=血肉塑造者
 tagGDX1EnemyAetherialFleshshaper_B01=血肉编织者
-tagGDX1EnemyAetherialFleshshaper_C01=血肉建筑师
+tagGDX1EnemyAetherialFleshshaper_C01=血肉筑造者
 
 tagGDX1EnemyAetherialImp_A00=虚灵爬虫
 tagGDX1EnemyAetherialImp_A01=虚灵恶棍
@@ -350,7 +350,7 @@ tagGDX1Boss_Aetherial02=阿洛斯崔亚·心灵窃贼
 tagGDX1Boss_Aetherial03=博拉格·守门人
 tagGDX1Boss_Aetherial04=血肉编织者·哈拉克西斯
 
-tagGDX1MiniBoss_Aetherial01=血肉塑造者·辛尼西尔斯 
+tagGDX1MiniBoss_Aetherial01=血肉塑造者·辛尼西尔斯
 tagGDX1MiniBoss_Aetherial02=加拉克洛斯·大山
 tagGDX1MiniBoss_Aetherial03=特尔诺克斯
 tagGDX1MiniBoss_Aetherial04=瓦拉克斯特瑞亚
@@ -508,4 +508,3 @@ tagGDX1BountyPM05=布拉格拉·火焰喷吐
 tagGDX1BountyPM06=风暴巨人
 tagGDX1BountyPM07=布莱兹拉加鲁斯
 tagGDX1BountyPM08=托拉克斯特莉亚
-

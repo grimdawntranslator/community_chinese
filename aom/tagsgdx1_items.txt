@@ -43,9 +43,9 @@ tagGDX1WeaponBluntF102=马尔茅斯之锤
 tagGDX1WeaponBluntF103=温迪戈之锤
 tagGDX1WeaponBluntF104=温迪戈之嚎
 
-tagGDX1WeaponAxeB101=仆从的切刀
-tagGDX1WeaponAxeB102=仆从的腐蚀者
-tagGDX1WeaponAxeB103=溢血切肉刀
+tagGDX1WeaponAxeB101=仆从的切斧
+tagGDX1WeaponAxeB102=仆从的腐化者
+tagGDX1WeaponAxeB103=溢血切斧
 
 tagGDX1WeaponAxeC101=哈尔沃的剥皮者
 
@@ -57,9 +57,9 @@ tagGDX1WeaponAxeD104_Desc="目前还不确定这种武器最终是否会使受�
 tagGDX1WeaponAxeD105=戈尔巴的刽子手
 tagGDX1WeaponAxeD106=戈尔巴的狂怒
 
-tagGDX1WeaponAxeF101=女巫团切肉刀
+tagGDX1WeaponAxeF101=女巫团切斧
 tagGDX1WeaponAxeF102=女巫团战斧
-tagGDX1WeaponAxeF103=温迪戈切肉刀
+tagGDX1WeaponAxeF103=温迪戈切斧
 tagGDX1WeaponAxeF104=女巫之月
 
 
@@ -778,9 +778,9 @@ tagGDX1MedalA101=尊贵星章
 tagGDX1MedalA102=保护者徽章
 
 tagGDX1MedalB101=蛇怪徽章
-tagGDX1MedalB101_Desc="尖刺上滴着能使人麻痹的毒液."
+tagGDX1MedalB101_Desc="尖牙上滴着能使人麻痹的毒液."
 tagGDX1MedalB102=蛇怪标记
-tagGDX1MedalB102_Desc="尖刺上滴着能使人大出血的毒液."
+tagGDX1MedalB102_Desc="尖牙上滴着能使人大出血的毒液."
 tagGDX1MedalB103=莱洛克徽章
 tagGDX1MedalB103_Desc="冥神渴望大量的鲜血."
 tagGDX1MedalB104=莱洛克标记
@@ -934,7 +934,7 @@ tagGDX1Blueprint_WeaponD108=设计图：神话 新月
 tagGDX1Blueprint_WeaponD109=设计图：神话 德里格的瘟疫使者
 tagGDX1Blueprint_WeaponD110=设计图：神话 贝若纳斯，重铸之剑
 tagGDX1Blueprint_WeaponD111=设计图：神话 风暴撕裂者
-tagGDX1Blueprint_WeaponD112=设计图：神话 弧光之剑
+tagGDX1Blueprint_WeaponD112=设计图：神话 弧光之刃
 tagGDX1Blueprint_WeaponD113=设计图：神话 阿斯特堪碎片
 tagGDX1Blueprint_WeaponD114=设计图：神话 冥神之牙
 tagGDX1Blueprint_WeaponD115=设计图：神话 佐尔汉的复仇

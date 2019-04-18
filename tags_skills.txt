@@ -437,7 +437,7 @@ tagClass04SkillDescription11B=幻影刀消耗被其困住的敌人的生命精�
 
 tagClass04SkillName10A=[夜刃]刀锋阵列
 tagClass04SkillDescription10A=召唤一阵幻影刀刃包围你的敌人,撕裂他们的身体并使他们软弱的心灵陷入恐惧.
-tagClass04SkillName10B=[夜刃]阿玛拉斯塔的双刃 
+tagClass04SkillName10B=[夜刃]阿玛拉斯塔的双刃
 tagClass04SkillDescription10B=一项精湛的技艺,让刀阵能使敌人的武器背叛他们,让他们承受自己的战争工具所造成的痛苦.
 
 tagClass04SkillName13A=[夜刃]幻影甲
@@ -469,7 +469,7 @@ tagClass04SkillDescription14B=阿玛拉斯塔专注于进攻,在发出一波刀�
 
 xtagClass04SkillName14A=[夜刃]致命策略
 xtagClass04SkillDescription14A=刺杀大师阿玛拉斯塔偏爱的一种冒险的技艺.如果使用得当,致命策略会造成毁灭性的伤害.风险在于有时它会变成软弱无力的一击.^o需要一把近战武器或者双手远程武器.当使用一把近战武器时,将会击中附近的额外敌人.
-xtagClass04SkillName14B=[夜刃]爆裂之刃 
+xtagClass04SkillName14B=[夜刃]爆裂之刃
 xtagClass04SkillDescription14B=熟练掌握致命策略之后,就能以攻击目标为原点爆射出大量致人死地的幻影刀锋,对附近的敌人造成伤害.
 
 
@@ -532,7 +532,7 @@ tagClass05SkillName06B=[奥术师]崩解
 tagClass05SkillDescription06B=倾泻你所有的能量灌注在虚化射线之中,毁灭性的力量将粉碎所有它接触到的物体.^o每次造成伤害的时间间隔之后魔法消耗都会提高.
 tagClass05SkillName06C=[奥术师]堕落之力
 tagClass05SkillDescription06C=与崩解相反,用狂暴的混沌之力腐化虚化射线.
- 
+
 tagClass05SkillName07A=[奥术师]净化
 tagClass05SkillDescription07A=在目标区域集中大量负面能量,清除敌人所有的有益的光环和法术,同时清除友军的有害状态,包括持续性伤害效果.
 
@@ -804,7 +804,7 @@ tagItemSkillB004Desc=用能在周围敌人间跳跃的闪电打击目标.
 tagItemSkillA006Name=闪电新星
 tagItemSkillA006Desc=用一阵闪电能量反击,对附近所有敌人造成伤害.
 
-tagItemSkillB005Name=剧毒新星 
+tagItemSkillB005Name=剧毒新星
 tagItemSkillB005Desc=用一阵剧毒烟雾反击,使附近所有敌人中毒.
 
 tagItemSkillB006Name=出血
@@ -940,9 +940,9 @@ tagItemSkillC003Desc=令目标如狂战士般陷入狂怒,使其造成更高的�
 
 tagItemSkillC004Name=坚定守卫
 tagItemSkillC004Desc=召唤具有强力防御与高威胁的守护者.
-tagItemSkillC004PetSkill01=嘲讽怒吼 
+tagItemSkillC004PetSkill01=嘲讽怒吼
 tagItemSkillC004PetSkill01Desc=守护者发起挑战怒吼,嘲讽附近的敌人.
-tagItemSkillC004PetSkill02=基本属性 
+tagItemSkillC004PetSkill02=基本属性
 
 tagItemSkillC005Name=鲁莽守卫
 tagItemSkillC005Desc=召唤具有强力攻击的守护者.
@@ -1050,7 +1050,7 @@ tagItemSkillC037Desc=投掷一枚粘液和烂泥组成的黏性弹药,黏住并�
 tagItemSkillC038Name=冰风
 tagItemSkillC038Desc=发动一片令人胆寒的尖刺,穿透护甲并冻结血肉.
 
-tagItemSkillC039Name=震荡炸弹 
+tagItemSkillC039Name=震荡炸弹
 tagItemSkillC039Desc=投掷一枚震荡炸弹使你的目标陷入不知所措的迷乱中.
 
 tagItemSkillC040Name=抗凝血标枪
@@ -1064,7 +1064,7 @@ tagItemSkillC042Desc=在成千上万道痕迹中再加上一道,不过又有谁�
 
 tagItemSkillC043Name=不熄烈焰之环
 tagItemSkillC043Desc=沐浴在能够将周围一切焚烧成灰的烈焰之中,而你本身却能毫发无损.^o这项技能必须保持开启以持续生效.
-tagItemSkillC043NameB=不熄烈焰之环 
+tagItemSkillC043NameB=不熄烈焰之环
 tagItemSkillC043DescB=沐浴在能够将周围一切焚烧成灰的烈焰之中,而你本身却能毫发无损.
 
 tagItemSkillC044Name=摧心诅咒
@@ -1352,12 +1352,12 @@ tagItemSkillC136Desc=释放一股在敌人之间奔流的虚化闪电.
 tagItemSkillC137Name=元素之力
 tagItemSkillC137Desc=从你所在的位置向外释放一阵冰与火的旋转魔法阵.
 
-tagItemSkillC138Name=Oathbreaker毁誓者
+tagItemSkillC138Name=毁誓者
 tagItemSkillC138Desc=毁誓者发出一颗充满黑暗力量的爆弹.^o使用默认武器攻击时激活.
 
 tagItemSkillC139Name=奥德里奇的腐化之触
 tagItemSkillC139Desc=以奥德里奇权杖的腐化能量猛击你的敌人.
- 
+
 tagItemSkillM005Name=狂暴
 tagItemSkillM005Desc=进入狂暴状态,以牺牲耐力为代价凶猛地攻击敌人.
 
@@ -2258,16 +2258,16 @@ tagCompSkillB007Desc=用你的意志束缚你的仆从.^o(被动技能)
 
 #Relic Skills
 
-tagRelicSkillB001Name=灾虐 
+tagRelicSkillB001Name=灾虐
 tagRelicSkillB001Desc=释放出一片灼热的地狱硫磺之火.
 
-tagRelicSkillB002Name=快速打击 
+tagRelicSkillB002Name=快速打击
 tagRelicSkillB002Desc=进行快速攻击,有一定几率进行散射打击.
 
-tagRelicSkillB003Name=宁静 
+tagRelicSkillB003Name=宁静
 tagRelicSkillB003Desc=用你的意志压制敌人.
 
-tagRelicSkillB004Name=寒冰巨浪 
+tagRelicSkillB004Name=寒冰巨浪
 tagRelicSkillB004Desc=透过你的内心输送寒冰能量,使攻击你的敌人有几率触发寒冰巨浪.^o这项需要开启才能保持生效.
 
 tagRelicSkillB005Name=闪电风暴
@@ -2276,7 +2276,7 @@ tagRelicSkillB005Desc=在目标区域召唤暴风雷云,周期性的电击被笼
 tagRelicSkillB006Name=火山之怒
 tagRelicSkillB006Desc=令你充满火山般的狂怒,使你的攻击能够点燃敌人.
 
-tagRelicSkillB007Name=腐化 
+tagRelicSkillB007Name=腐化
 tagRelicSkillB007Desc=腐蚀你的血液,使敢于攻击你的敌人感染致命的病毒.
 
 tagRelicSkillB008Name=庇护
@@ -2309,7 +2309,7 @@ tagRelicSkillC003Desc=一项能使你的敌人血流如注的邪恶技能,导致
 tagRelicSkillC004Name=勇不可挡
 tagRelicSkillC004Desc=犹如无坚不摧之力一般,迸发出能击倒小体型生物的冲击.
 
-tagRelicSkillC005Name=恐惧 
+tagRelicSkillC005Name=恐惧
 tagRelicSkillC005Desc=将绝对的恐惧灌输进你敌人的心中,从内部侵蚀他们.
 
 tagRelicSkillC006Name=苦痛
@@ -2321,7 +2321,7 @@ tagRelicSkillC007Desc=唤起受折磨的灵魂缠绕你的敌人并冰冻他们�
 tagRelicSkillC008Name=爆炎
 tagRelicSkillC008Desc=发动一束强烈到即使最坚固的护甲也无法抵挡的纯净火焰.^o这是一项引导技能,需要持续施法.施法速度为100%时，爆炎每0.3s造成伤害并消耗能量。
 
-tagRelicSkillC009Name=召唤风暴魔犬 
+tagRelicSkillC009Name=召唤风暴魔犬
 tagRelicSkillC009Desc=召唤一只忠诚的风暴魔犬~源于天堂的可怕野兽.^o同一时间只能召唤一只风暴魔犬.风暴魔犬会受到战宠加成影响.
 
 tagRelicSkillC010Name=死寒光环
@@ -2340,7 +2340,7 @@ tagRelicSkillC013Desc2=用破坏性的静态能量破坏你脚下的大地.
 tagRelicSkillC014Name=枯萎
 tagRelicSkillC014Desc=一片枯萎之云环绕周身,产生能感染任何接触到的人的无尽灾疫.
 
-tagRelicSkillC015Name=先祖的羁绊 
+tagRelicSkillC015Name=先祖的羁绊
 tagRelicSkillC015Desc=你的先祖与你的仆从们之间的联系释放了他们以往不可能拥有的潜力.^o这项技能必须保持开启以持续生效.
 
 tagRelicSkillD001Name=救赎
@@ -2860,13 +2860,13 @@ tagEnemySkillA03_Desc=冥煞的诅咒会侵蚀你所有的防御力.
 tagEnemySkillA04=痛苦标记
 tagEnemySkillA04_Desc=恶魔的标记将吸取你的力量,减少伤害输出,速度并严重抑制生命回复力.
 
-tagEnemySkillA05=自然之怒 
+tagEnemySkillA05=自然之怒
 tagEnemySkillA05_Desc=巨魔的诅咒衰弱你的精神和肉体,削弱你对元素的抵抗能力.
 
-tagEnemySkillA06=血之虹吸 
+tagEnemySkillA06=血之虹吸
 tagEnemySkillA06_Desc=穴居人的诅咒吸取你的生命力并将其传递给施法者.
 
-tagEnemySkillA07=血之瘟疫 
+tagEnemySkillA07=血之瘟疫
 tagEnemySkillA07_Desc=食尸鬼的诅咒使你的血液沸腾,损伤你的防御能力.
 
 tagEnemySkillA08=苦痛
@@ -2956,5 +2956,3 @@ tagEnemySkillD15_Desc=一只幽魂正在吸取你的魂魄,它吸收着你的生
 
 tagEnemySkillD16=
 tagEnemySkillD16_Desc=
-
-
