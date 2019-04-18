@@ -1,0 +1,17 @@
+#Loading Tips
+
+
+#Tutorial Pages
+
+tagGDX1TutorialTip65Title=幻化师
+tagGDX1TutorialTip65TextA=幻化师可以转化你的装备的外观，使用你之前得到的相似装备的外观替换掉现有的外观。幻化外观的目录将在所有角色之间共享。 (普通模式和专家模式间不可共享).
+tagGDX1TutorialTip65SubtitleA=改变外观
+tagGDX1TutorialTip65TextB=要改变一件物品的外观，选择右边的装备栏位，然后再选择左边希望得到的新外观。选择到了满意的外观效果之后，点击应用幻化按钮并支付相应数目的铁币就能让你的装备外形焕然一新!
+tagGDX1TutorialTip65SubtitleB=重置外观
+tagGDX1TutorialTip65TextC=要将一见物品恢复至原有外观，只需要右键点击该装备所属的装备栏位便可以在其现有的外观和原有外观之间转换。点击应用幻化按钮就可以确认改变外观.
+tagGDX1TutorialTip65TextD=应用装备本身的外观是不需要花费任何铁币的.
+
+
+#Quick Tips
+
+tagGDX1QuickTip65={^z}幻化师{^-}{^n}{^n}幻化师可以转化你的装备的外观，使用你之前得到的相似装备的外观替换掉现有的外观.

@@ -1,0 +1,511 @@
+
+#CreatureFriendly
+
+tagGDX1FriendlyMalmouth_Guard01=马尔茅斯反抗军~ 游击兵
+tagGDX1FriendlyMalmouth_Guard02=马尔茅斯反抗军~ 守卫
+
+tagGDX1FriendlyMalmouth_MeleeA01=马尔茅斯反抗军~ 战士
+tagGDX1FriendlyMalmouth_MeleeB01=马尔茅斯反抗军~ 爆破者
+tagGDX1FriendlyMalmouth_RangeA01=马尔茅斯反抗军~ 游骑兵
+tagGDX1FriendlyMalmouth_CasterB01=马尔茅斯反抗军~ 奥术师
+tagGDX1FriendlyMalmouth_CasterB02=马尔茅斯反抗军~ 军医
+tagGDX1FriendlyMalmouth_ChampionC01=马尔茅斯反抗军~ 队长
+
+tagGDX1FriendlyCoven_Guard01=女巫团守卫
+tagGDX1FriendlyCoven_Guard02=女巫团妖术师
+
+
+#CreatureFaction
+
+tagGDX1FactionCult_Guard_A01=巴罗霍尔姆 守卫
+
+tagGDX1FactionCult_Melee_A01=温迪戈崇拜者 ~ 野心家
+tagGDX1FactionCult_Ranged_A01=温迪戈崇拜者 ~ 野心家
+tagGDX1FactionCult_Caster_B01=温迪戈崇拜者 ~ 鲜血法师
+tagGDX1FactionCult_Champion_C01=温迪戈崇拜者 ~ 神选者
+
+tagGDX1FactionCult_Hero_H01=汉达尔 鲜血编织者
+tagGDX1FactionCult_Hero_H02=加卡拉 吟骨者
+tagGDX1FactionCult_Hero_H03=崔迪亚 蔑视者
+tagGDX1FactionCult_Hero_H04=维罗纳 穿血者
+
+tagGDX1WendigoWard=激活的守卫
+tagGDX1WendigoWard01=被摧毁的守卫
+
+tagGDX1HumanFodder=顽强的幸存者
+
+
+#CreatureAetherial
+tagGDX1EnemyAetherialBloater_A01=虚灵肿胀者
+tagGDX1EnemyAetherialBloater_B01=虚灵愤怒吞噬者
+tagGDX1EnemyAetherialBloater_C01=虚灵反刍者
+
+tagGDX1EnemyAetherialColossus_A01=虚灵巨兽
+tagGDX1EnemyAetherialColossus_B01=虚灵巨像
+tagGDX1EnemyAetherialColossus_C01=虚灵巨人
+tagGDX1EnemyAetherialColossus_C02=虚灵风暴
+
+tagGDX1EnemyAetherialCorruption_A01=血肉扭曲者 腐败
+tagGDX1EnemyAetherialCorruption_B01=血肉扭曲者 冰冷
+tagGDX1EnemyAetherialCorruption_B02=血肉扭曲者 风暴行者
+tagGDX1EnemyAetherialCorruption_B03=血肉扭曲者 焚烧
+tagGDX1EnemyAetherialCorruption_C01=血肉扭曲者 畸变
+
+tagGDX1EnemyAetherialFleshshaper_A01=血肉塑造者 
+tagGDX1EnemyAetherialFleshshaper_B01=血肉编织者
+tagGDX1EnemyAetherialFleshshaper_C01=血肉建筑师
+
+tagGDX1EnemyAetherialImp_A00=虚灵爬虫
+tagGDX1EnemyAetherialImp_A01=虚灵恶棍
+tagGDX1EnemyAetherialImp_B01=虚灵小恶魔
+
+tagGDX1EnemyAetherialSentry_A01=虚灵守卫
+tagGDX1EnemyAetherialSentry_B01=虚灵哨兵
+
+tagGDX1EnemyAetherialWorm_A00=虚灵内脏挖掘者
+tagGDX1EnemyAetherialWorm_A01=虚灵肿胀蠕虫
+tagGDX1EnemyAetherialWorm_B01=虚灵腐烂咆哮者
+tagGDX1EnemyAetherialWorm_B02=虚灵饮火者
+tagGDX1EnemyAetherialWorm_B03=虚灵寒冰穴居者
+tagGDX1EnemyAetherialWorm_B04=虚灵风暴饮者
+
+tagGDX1HeroAetherialBloater_H01=巴加高尔 瘟疫持有者
+tagGDX1HeroAetherialBloater_H02=浩卓斯 燃烧之怒
+tagGDX1HeroAetherialBloater_H03=弗拉格 ~ 冰冻
+tagGDX1HeroAetherialBloater_H04=弗卡佐尔 ~ 吸血
+
+
+tagGDX1HeroAetherialColossus_H01=风暴之拳 ~ 导电
+tagGDX1HeroAetherialColossus_H02=因布拉利斯 ~ 燃烧
+tagGDX1HeroAetherialColossus_H03=亨格隆 ~ 吸血
+tagGDX1HeroAetherialColossus_H04=阿肯尼斯 ~ 奥术
+
+tagGDX1HeroAetherialCorruption_H01=查尔德鲁斯 冰冻之心
+tagGDX1HeroAetherialCorruption_H02=瓦纳利尔斯 贪婪
+tagGDX1HeroAetherialCorruption_H03=迪斯奥鲁斯 ~ 疾病
+tagGDX1HeroAetherialCorruption_H04=克罗马鲁斯 ~ 时光扭曲
+
+tagGDX1HeroAetherialFleshshaper_H01=弗兰纳查德 ~ 燃烧
+tagGDX1HeroAetherialFleshshaper_H02=诺克斯雷卓德 ~ 冰冻
+tagGDX1HeroAetherialFleshshaper_H03=乔克萨鲁斯 ~ 导电
+tagGDX1HeroAetherialFleshshaper_H04=奥普勒希尔斯 ~ 无人可挡
+
+tagGDX1HeroAetherialImp_H01=菲吉利尔斯 风暴之怒
+tagGDX1HeroAetherialImp_H02=凡诺格 冰冷血脉
+tagGDX1HeroAetherialImp_H03=沃尔伯 ~ 反弹
+tagGDX1HeroAetherialImp_H04=加巴尔 ~ 再生者
+
+tagGDX1HeroAetherialTheodin=西奥丁的创造物
+
+
+#CreatureBasilisk
+tagGDX1EnemyBasilisk_A01=年幼的蛇怪
+tagGDX1EnemyBasilisk_B01=剧毒凝视蛇怪
+tagGDX1EnemyBasilisk_C01=岩石凝视蛇怪
+
+tagGDX1HeroBasilisk_H01=风暴爬行者
+tagGDX1HeroBasilisk_H02=腐烂之嘴
+tagGDX1HeroBasilisk_H03=阿瑞戈斯 ~ 腐化
+tagGDX1HeroBasilisk_H04=兰纳克萨斯 ~ 虚空之触
+
+
+#CreatureChthonian
+tagGDX1EnemyChthonicCultistSpecial_A01=裂口夺取 追随者
+
+tagGDX1EnemyChthonianWretch_A01=虚空潜伏者
+tagGDX1EnemyChthonianWretch_B01=虚空潜伏者 疫病的
+tagGDX1EnemyChthonianWretch_C01=虚空潜伏者 瘟疫的
+
+tagGDX1EnemyChthonianRylok_A01=虚空莱洛克
+tagGDX1EnemyChthonianRylok_B01=虚空监工
+tagGDX1EnemyChthonianRylok_C01=虚空压迫者
+
+tagGDX1EnemyChthonianServitor_A01=冥煞寄生虫
+tagGDX1EnemyChthonianServitor_B01=冥煞仆从
+tagGDX1EnemyChthonianServitor_B02=冥煞收割者
+tagGDX1EnemyChthonianServitor_C01=冥煞鲜血守护者
+
+tagGDX1HeroChthonianRylok_H01=瓦尔隆·阿尔多斯 虚空使者
+tagGDX1HeroChthonianRylok_H02=奥达斯·阿尔多斯 ~ 迅捷
+tagGDX1HeroChthonianRylok_H03=瑞达尔·阿尔多斯 ~ 吸血
+tagGDX1HeroChthonianRylok_H04=哈弗·阿尔多斯 ~ 奥术
+
+tagGDX1HeroChthonianServitor_H01=梅塔希斯·马尔 血法师
+tagGDX1HeroChthonianServitor_H02=奥利托特·马尔 折磨者
+tagGDX1HeroChthonianServitor_H03=加沃克·马尔 ~ 导电
+tagGDX1HeroChthonianServitor_H04=亚克瓦·马尔 ~ 奥术
+
+
+#CreatureAscended
+tagGDX1EnemyAscended_A01=升灵侍从
+tagGDX1EnemyAscended_A02=升灵侍从
+tagGDX1EnemyAscended_B01=升灵破法者
+tagGDX1EnemyAscended_C01=升灵追随者
+
+tagGDX1HeroAscended_H01=帕弗若斯·恩迪伦, 火语者
+tagGDX1HeroAscended_H02=哈格拉斯 虚灵火焰
+tagGDX1HeroAscended_H03=乌纳斯特利亚 风暴之触 ~ 导电
+tagGDX1HeroAscended_H04=乌兰纳·艾弗利斯 ~ 冰冻
+
+
+#CreatureLivingPlant
+tagGDX1EnemyLivingPlant_A00=恶毒树藤
+tagGDX1EnemyLivingPlant_A01=食肉植物
+tagGDX1EnemyLivingPlant_A02=烧焦植物
+tagGDX1EnemyLivingPlant_B00=有毒的花
+tagGDX1EnemyLivingPlant_B01=贪婪植株
+
+tagGDX1HeroLivingPlant_H01=嗜血之花
+tagGDX1HeroLivingPlant_H02=燃烧之花
+tagGDX1HeroLivingPlant_H03=雷电之花 ~ 导电
+tagGDX1HeroLivingPlant_H04=剧毒植株 ~ 疾病
+
+
+#CreatureSlith
+tagGDX1Enemy_SlithWarriorA01=血鳞战士
+tagGDX1Enemy_SlithWarriorB01=血鳞狂战士
+tagGDX1Enemy_SlithWarriorC01=血鳞征服者
+tagGDX1Enemy_SlithShamanB01=血鳞巫医
+tagGDX1Enemy_SlithShamanC01=血鳞术士
+
+tagGDX1HeroSlith_H01=图拉利斯 虚灵风暴
+tagGDX1HeroSlith_H02=加拉斯 觅血者
+tagGDX1HeroSlith_H03=法拉克西那 ~ 拥护者
+tagGDX1HeroSlith_H04=斯里克西斯 ~ 无人可挡
+
+
+#CreatureSwampCrab
+tagGDX1EnemySwampCrab_A01=巫登沼泽蟹
+tagGDX1EnemySwampCrab_B01=巫登沼泽刺壳
+tagGDX1EnemySwampCrab_C01=巫登沼泽石壳
+tagGDX1EnemySwampCrab_A00Summon=巫登沼泽横行者
+
+tagGDX1EnemyGhostCrab_A01=灵魂蟹
+tagGDX1EnemyGhostCrab_B01=灵魂刺壳
+tagGDX1EnemyGhostCrab_C01=灵魂石壳
+
+tagGDX1HeroSwampCrab_H01=冰冷斯考恩
+tagGDX1HeroSwampCrab_H02=邪恶之爪
+tagGDX1HeroSwampCrab_H03=泥土投掷者 ~ 反弹
+tagGDX1HeroSwampCrab_H04=混乱之壳 ~ 虚空之触
+
+tagGDX1HeroGhostCrab_H01=福尔 燃烧之壳
+tagGDX1HeroGhostCrab_H02=戈尔 风暴之壳
+tagGDX1HeroGhostCrab_H03=泥石 ~ 防御者
+tagGDX1HeroGhostCrab_H04=腐化之壳 ~ 腐化
+
+tagGDX1EnemyMineCrab=巫登沼泽 坑洞爬藤
+
+#CreatureSwampGolem
+tagGDX1EnemySwampGolem_A01=巫登沼泽傀儡
+tagGDX1EnemySwampGolem_B01=巫登沼泽苔藓投掷者
+tagGDX1EnemySwampGolem_C01=巫登沼泽茂盛植株
+
+tagGDX1HeroSwampGolem_H01=费罗希尔斯 ~ 迅捷
+tagGDX1HeroSwampGolem_H02=泰坦纽斯·钢肤 ~ 防御者
+tagGDX1HeroSwampGolem_H03=乔蒙德尔 ~ 疾病
+tagGDX1HeroSwampGolem_H04=加尔 ~ 虚空之触
+
+
+#CreatureWendigo
+tagGDX1EnemyHumanWendigo_A01=巫登沼泽食人者 ~ 血肉疯狂者
+tagGDX1EnemyHumanWendigo_B01=巫登沼泽食人者 ~ 吟血者
+tagGDX1EnemyHumanWendigo_C01=巫登沼泽食人者 ~ 幽灵语者
+
+tagGDX1EnemyWendigo_A01=温迪戈
+tagGDX1EnemyWendigo_B01=温迪戈 ~ 剥皮者
+tagGDX1EnemyWendigo_B02=温迪戈 ~ 嗜髓者
+tagGDX1EnemyWendigo_C01=温迪戈 ~ 古代的
+
+tagGDX1EnemyWendigoCannibal_A01=巫登沼泽恶棍
+tagGDX1EnemyWendigoCannibal_A02=巫登沼泽恶棍
+tagGDX1EnemyWendigoCannibal_B01=巫登沼泽转变者
+tagGDX1EnemyWendigoCannibal_C01=巫登沼泽标记者
+
+tagGDX1EnemyWendigoCannibal_Special01=希尔维
+tagGDX1EnemyWendigoCannibal_Special02=纽亚纳
+
+tagGDX1HeroHumanWendigo_H01=加弗斯 碎骨者
+tagGDX1HeroHumanWendigo_H02=托利亚 裂舌者
+tagGDX1HeroHumanWendigo_H03=伊格纳菲尔斯 血法师 ~ 奥术
+tagGDX1HeroHumanWendigo_H04=贝利亚 渴望 ~ 吸血
+
+tagGDX1HeroWendigo_H01=沃拉瑞尔斯 ~ 奥术
+tagGDX1HeroWendigo_H02=安娜希尔斯 ~ 腐化的
+tagGDX1HeroWendigo_H03=瓦拉普利尔斯 ~ 时光扭曲
+tagGDX1HeroWendigo_H04=拉瓦格拉德 ~ 无人可挡
+
+tagGDX1HeroWendigoCannibal_H01=奥达 灰烬之爪
+tagGDX1HeroWendigoCannibal_H02=哈尔德拉 嗜血者
+tagGDX1HeroWendigoCannibal_H03=帕尔罗斯 兽群卫士 ~ 防御者
+tagGDX1HeroWendigoCannibal_H04=奥卡迪尔斯 未葬者 ~ 反弹
+
+
+#CreatureWraith
+tagGDX1EnemyWraith_A01=幽灵
+tagGDX1EnemyWraith_B01=恶毒的幽灵
+tagGDX1EnemyWraith_C01=古代幽灵
+
+tagGDX1HeroWraith_H01=阿坎诺姆 窃魂者
+tagGDX1HeroWraith_H02=奥布利特瑞尔斯
+tagGDX1HeroWraith_H03=提尔杜姆 ~ 时光扭曲
+tagGDX1HeroWraith_H04=苏瓦尔 无尽饥渴 ~ 吸血
+
+
+#CreatureYetiSwamp
+
+tagGDX1EnemyYetiSwampA01=叶鬃 野蛮的
+tagGDX1EnemyYetiSwampB01=叶鬃 狂暴者
+tagGDX1EnemyYetiSwampB02=叶鬃 腐烂之息
+tagGDX1EnemyYetiSwampC01=叶鬃 首领
+
+tagGDX1YetiSwampHeroH01=腐烂喷涌者
+tagGDX1YetiSwampHeroH02=啮骨者
+tagGDX1YetiSwampHeroH03=腐烂之血 ~ 吸血
+tagGDX1YetiSwampHeroH04=虚灵鬃毛 ~ 腐化的
+
+#CreatureBeastRoguelike
+tagGDX1EnemyBasiliskAetherA01=虚化之舌 蛇怪
+tagGDX1EnemyBasiliskAetherB01=虚化凝视 蛇怪
+tagGDX1EnemyBasiliskAetherC01=虚化之血 蛇怪
+
+tagGDX1EnemyBasiliskChthonicA01=虚空之舌 蛇怪
+tagGDX1EnemyBasiliskChthonicB01=虚化凝视 蛇怪
+tagGDX1EnemyBasiliskChthonicC01=虚化之血 蛇怪
+
+tagGDX1EnemyBoarChthonicB01=虚空獠牙
+tagGDX1EnemyBoarChthonicC01=巨型虚空獠牙
+
+tagGDX1EnemyManticoreChthonicA01=虚空腐化的蝎尾狮
+tagGDX1EnemyManticoreChthonicB01=虚空腐化的废土漫步者
+tagGDX1EnemyManticoreChthonicC01=虚空腐化的蝎尾狮头领
+
+tagGDX1EnemyManticoreD01=蝎尾狮 死亡追猎者
+
+tagGDX1EnemySwampCrabAetherA01=血肉扭曲的螃蟹
+tagGDX1EnemySwampCrabAetherB01=血肉扭曲的尖刺之壳
+tagGDX1EnemySwampCrabAetherC01=血肉扭曲的岩石之壳
+
+tagGDX1EnemyThornedHorrorAetherA01=虚化之刺 恐兽
+tagGDX1EnemyThornedHorrorAetherB01=虚化之刺 惧兽
+tagGDX1EnemyThornedHorrorAetherC01=虚化之刺 巨型恐兽
+
+tagGDX1EnemyYetiChthonicB01=虚空之鬃 狂暴者
+tagGDX1EnemyYetiChthonicB02=虚空之鬃 鲜血之息
+tagGDX1EnemyYetiChthonicC01=虚空之鬃 雪怪头领
+
+
+#CreatureTraps
+
+tagGDX1EnemyTrapA01=巫登沼泽气云
+tagGDX1EnemyTrapA02=巫登沼泽蘑菇
+
+
+#Pets
+
+tagGDX1PetArcaneSeal=奥术秘印
+tagGDX1PetConcussiveRune=震荡神符
+tagGDX1PetIceRune=寒潮神符
+tagGDX1PetManticore02=死亡追猎者
+
+tagGDX1PetBlightBeast=疫病野兽
+tagGDX1PetBlightBeastB=不稳定畸变
+tagGDX1PetMaggot=蛆虫
+tagGDX1PetWraith=碎裂的幽灵
+tagGDX1PetSkeleton01=骷髅战士
+tagGDX1PetSkeleton01b=骷髅弓箭手
+tagGDX1PetSkeleton01c=骷髅奥术师
+tagGDX1PetSkeleton01d=骷髅亡魂
+
+tagGDX1DevotionPet_ArcaneCurrent=奥术电流
+
+tagGDX1ItemPetGhostCrab=灵魂蟹
+tagGDX1ItemPetSkeletalGolem=骷髅仆从
+tagGDX1ItemPetWraith=束缚的幽灵
+tagGDX1ItemPetKasparov=净化水晶
+tagGDX1ItemPetHargate=虚化水晶
+tagGDX1ItemPetKasparovSkill=结晶
+tagGDX1ItemPetFireDevil=余烬之风
+tagGDX1ItemPetFireDevil_Skill=火焰生命体
+tagGDX1ItemPetBloodWraith=纳扎染之魂
+tagGDX1ItemPetBloodWraith_Skill=吸血鬼之触
+tagGDX1ItemPetBloodWraith_Skill02=吸血鬼之灵
+tagGDX1ItemPetBloodSkeleton=血浴奴仆
+tagGDX1ItemPetBloodSkeleton_Skill=鲜血噬咬
+#EnemySummons
+
+tagGDX1EnemySummon_ObsidianBeacon=黑曜石塔
+tagGDX1EnemySummon_AetherialSpirit=虚灵灵魂
+tagGDX1EnemySummon_BurningBlood=燃烧之血
+
+
+#Boss&Quest
+
+tagGDX1Boss_FactoryGuardian01=骸骨巨人·哈加瓦尔
+tagGDX1Boss_FactoryGuardian02=血肉收集者·罗达加尔
+tagGDX1Boss_Final01=血肉领主 ~ 西奥丁·马塞尔
+
+tagGDX1Boss_Aetherial01=血肉编织者·克里格
+tagGDX1Boss_Aetherial02=阿洛斯崔亚·心灵窃贼
+tagGDX1Boss_Aetherial03=博拉格·守门人
+tagGDX1Boss_Aetherial04=血肉编织者·哈拉克西斯
+
+tagGDX1MiniBoss_Aetherial01=血肉塑造者·辛尼西尔斯 
+tagGDX1MiniBoss_Aetherial02=加拉克洛斯·大山
+tagGDX1MiniBoss_Aetherial03=特尔诺克斯
+tagGDX1MiniBoss_Aetherial04=瓦拉克斯特瑞亚
+tagGDX1MiniBoss_Aetherial05=哈加隆德
+tagGDX1MiniBoss_Aetherial06=阿加尔加拉兹
+tagGDX1MiniBoss_Aetherial07=血肉塑造者·伊吉尔弗
+tagGDX1MiniBoss_Aetherial08=德拉尔加·伯尔维治守护者
+
+tagGDX1MiniBoss_Bog01=克拉瓦尔·水域古魔
+tagGDX1MiniBoss_Bog01_Tentacle01=克拉瓦尔的触手
+tagGDX1MiniBoss_Bog01_Tentacle02=克拉瓦尔的触手
+tagGDX1MiniBoss_Bog02=希尔瓦莉亚·丛林女王
+tagGDX1MiniBoss_Bog02_Vine01=希尔瓦莉亚的藤蔓
+tagGDX1MiniBoss_Bog02_Vine02=希尔瓦莉亚的藤蔓
+tagGDX1MiniBoss_Bog02_VineCluster=藤蔓簇
+tagGDX1MiniBoss_Bog03=阿格达尔, 巫登沼泽之怒
+tagGDX1MiniBoss_Bog04=嘉娜克希亚, 背叛者
+tagGDX1MiniBoss_Bog05=莱莉亚, 妖术师
+tagGDX1MiniBoss_Bog06=巴高尔, 腐烂之土
+tagGDX1MiniBoss_Bog07=污秽·卡拉克萨斯
+tagGDX1MiniBoss_Bog08=被困的幽灵
+tagGDX1MiniBoss_Bog09=阿弗瑞斯·骨髓疾病
+tagGDX1MiniBoss_Bog10=奈克森·阴影
+tagGDX1MiniBoss_Bog11=掠夺者的仆人 斯科夫
+
+tagGDX1MiniBoss_Bog12=艾亚·杜格尔德
+tagGDX1MiniBoss_Bog13=弗瑞斯·杜格尔德
+tagGDX1MiniBoss_Bog14=尼克·杜格尔德
+
+tagGDX1WitchBoss_Basilisk=岩石蛇怪
+tagGDX1WitchBoss_Spirit=邪恶的灵魂
+
+tagGDX1Boss_Chthonian01=黑暗管家 露娜瓦尔高斯
+tagGDX1Boss_Chthonian02=黑暗先驱 艾柯特祖尔
+
+tagGDX1MiniBoss_Chthonian01=疯狂面容 盖博尔森
+
+tagGDX1MiniBoss_Chthonian02=血肉饮者 拉卡瓦尔高斯
+
+tagGDX1Boss_Wendigo01=心智掠夺者
+tagGDX1Boss_Wendigo02=灵魂掠夺者
+tagGDX1Boss_Wendigo03=血肉掠夺者
+tagGDX1Boss_Wendigo04=尖啸者 纳梅迪亚
+
+tagGDX1MiniBoss_Wendigo01=汉达罗斯
+tagGDX1MiniBoss_Wendigo02=奥利维斯
+tagGDX1MiniBoss_Wendigo03=尤沃劳斯
+tagGDX1MiniBoss_Wendigo04=转变者 帕克拉
+
+tagGDX1Boss_Roguelike01=虚灵凝视 斯拉萨尔
+tagGDX1Boss_Roguelike02=受折磨的拉加若斯
+tagGDX1Boss_Roguelike03=野性之心 加尔加伯
+tagGDX1Boss_Roguelike04=古尔盖佐
+tagGDX1Boss_Roguelike05=维尔盖佐
+
+tagGDX1EnclaveBoss01=德莱文·科尔
+tagGDX1EnclaveBoss02=艾尔贝兰·瑞恩
+tagGDX1EnclaveBoss03=希瑞恩·马肯
+
+tagGDX1DravisBoss01=班德拉戈斯，德拉维斯的奴隶
+tagGDX1DravisThrall01=德拉维斯的仆从
+tagGDX1DravisThrall02=德拉维斯的仆从
+
+
+#Nemesis
+tagGDX1Nemesis_Aetherial01=大法师 亚历山大
+tagGDX1Nemesis_Aetherial01_Crystal=亚历山大的碎片
+tagGDX1Nemesis_Chthonian01=格拉瓦苏尔·虚空饮者
+tagGDX1Nemesis_Beast01=库巴卡布拉·无尽的威胁
+tagGDX1Nemesis_Beast01B=库巴卡布拉·不朽的
+tagGDX1Nemesis_Beast01C=库巴卡布拉·顽强的
+tagGDX1Nemesis_Wendigo01=迷失的收割者
+
+tagGDX1Nemesis_Plant=万恶之源
+tagGDX1Nemesis_NotClone=不是约翰·波旁的克隆
+tagGDX1Nemesis_Zombie=弗拉加德·布勒
+
+
+
+#Devotion
+tagGDX1DevotionAetherialBloater_H01=巴斯纳斯·瘟疫降生
+tagGDX1DevotionAetherialBloater_H02=伊格诺斯
+tagGDX1DevotionAetherialBloater_H03=弗洛兹达尔 ~ 冰冻
+tagGDX1DevotionAetherialBloater_H04=德拉科隆 ~ 吸血
+
+tagGDX1DevotionAetherialColossus_H01=闪电之拳 ~ 导电
+tagGDX1DevotionAetherialColossus_H02=因弗诺克斯 ~ 燃烧
+tagGDX1DevotionAetherialColossus_H03=奥布雷根 ~ 吸血
+tagGDX1DevotionAetherialColossus_H04=斯拜尔德拉库斯 ~ 奥术
+
+tagGDX1DevotionAetherialCorruption_H01=丘利安
+tagGDX1DevotionAetherialCorruption_H02=纳拉根 猎人
+tagGDX1DevotionAetherialCorruption_H03=帕格利斯 ~ 疾病
+tagGDX1DevotionAetherialCorruption_H04=提兰达尔 ~ 时光扭曲
+
+tagGDX1DevotionAetherialFleshshaper_H01=菲纳德尔扎德~ 燃烧
+tagGDX1DevotionAetherialFleshshaper_H02=诺克萨斯 ~ 冰冻
+tagGDX1DevotionAetherialFleshshaper_H03=卡萨拉斯 ~ 迅捷
+tagGDX1DevotionAetherialFleshshaper_H04=珀兰达罗斯 ~ 无人可挡
+
+tagGDX1DevotionBasilisk_H01=拉加斯林 风暴之肤
+tagGDX1DevotionBasilisk_H02=凡诺姆纽斯
+tagGDX1DevotionBasilisk_H03=克尔普勒 ~ 腐化的
+tagGDX1DevotionBasilisk_H04=沃拉克希尔斯 ~ 虚空之触
+
+tagGDX1DevotionChthonianRylok_H01=巴尔格加托克 虚空使者
+tagGDX1DevotionChthonianRylok_H02=加鲁多斯 ~ 迅捷
+tagGDX1DevotionChthonianRylok_H03=祖斯阿格拉森 ~ 吸血
+tagGDX1DevotionChthonianRylok_H04=诺杜尔辛 ~ 奥术
+
+tagGDX1DevotionChthonianServitor_H01=伊诗修盖尔 恐怖之血
+tagGDX1DevotionChthonianServitor_H02=兰克祖尔 折磨者
+tagGDX1DevotionChthonianServitor_H03=尤考格达尔 ~ 导电
+tagGDX1DevotionChthonianServitor_H04=尤纳图乌考格 ~ 奥术
+
+tagGDX1DevotionSwampCrab_H01=冰爪
+tagGDX1DevotionSwampCrab_H02=愤怒之爪
+tagGDX1DevotionSwampCrab_H03=谢尔德洛克 ~ 反弹
+tagGDX1DevotionSwampCrab_H04=虚空之壳 ~ 虚空之触
+
+tagGDX1DevotionSwampGolem_H01=斯威夫特洛克 ~ 迅捷
+tagGDX1DevotionSwampGolem_H02=凡纳托斯 ~ 防御者
+tagGDX1DevotionSwampGolem_H03=吉加图斯 ~ 疾病
+tagGDX1DevotionSwampGolem_H04=劳克 ~ 虚空之触
+
+tagGDX1DevotionWendigo_H01=海加蒙 ~ 奥术
+tagGDX1DevotionWendigo_H02=考珀鲁斯 ~ 腐化的
+tagGDX1DevotionWendigo_H03=精神灾祸 ~ 时光扭曲
+tagGDX1DevotionWendigo_H04=瑞普莱萨德 ~ 无人可挡
+
+tagGDX1DevotionWraith_H01=苏尔史瑞克
+tagGDX1DevotionWraith_H02=奥布勒根
+tagGDX1DevotionWraith_H03=多尔萨尔 ~ 时光扭曲
+tagGDX1DevotionWraith_H04=安德隆 ~ 吸血
+
+
+
+
+#Bounties
+tagGDX1BountyCU04=凡诺克西斯·愤怒
+tagGDX1BountyCU05=炽热先锋  克罗格诺斯
+tagGDX1BountyCU06=哈布诺·虚空之选
+tagGDX1BountyCU07=希兰卡尔·污染的
+tagGDX1BountyCU08=寒冷钳爪
+tagGDX1BountyCU09=永不满足的瓦加罗斯
+
+tagGDX1BountyCW04=法师之爪 达尔维高
+tagGDX1BountyCW05=风暴之血 瑞达高瓦
+tagGDX1BountyCW06=斯维利尔斯
+tagGDX1BountyCW07=波特瑞奥斯
+tagGDX1BountyCW08=弗拉德里斯
+tagGDX1BountyCW09=尤克纳尔
+
+tagGDX1BountyPM05=布拉格拉·火焰喷吐
+tagGDX1BountyPM06=风暴巨人
+tagGDX1BountyPM07=布莱兹拉加鲁斯
+tagGDX1BountyPM08=托拉克斯特莉亚
+

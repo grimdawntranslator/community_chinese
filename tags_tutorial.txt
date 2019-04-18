@@ -1,0 +1,297 @@
+#Loading Tips
+tagLoadingTip01={^g}小贴士: {^w}你可以通过在生命条左侧的战利品过滤按钮来访问强大的战利品过滤功能.
+tagLoadingTip02={^g}小贴士: {^w}如果你找到了一座暂时无法修复的神龛,它的位置会在世界地图上显示出来.
+tagLoadingTip03={^g}小贴士: {^w}你可以在任何时候打开书典窗口来重新查阅指引教程,默认热键：H.
+tagLoadingTip04={^g}小贴士: {^w}显著低于你等级的敌人将不会提供经验值以及势力声望.
+tagLoadingTip05={^g}小贴士: {^w}记得往专精条中投入点数.它会提供帮助你生存与增强的核心属性.
+tagLoadingTip06={^g}小贴士: {^w}访问 www.GrimDawn.com 来查阅游戏指引,其中有对游戏架构描述相当丰富的资料信息.
+tagLoadingTip07={^g}小贴士: {^w}英雄怪物(以星号标识)是拥有特殊能力的敌人,但也提供更好的战利品.
+tagLoadingTip08={^g}小贴士: {^w}显著低于你等级的敌人将不会掉落类似远古之心的稀有锻造材料.
+tagLoadingTip09={^g}小贴士: {^w}在精英难度,你的核心抗性将会降低25%.到终极难度则会提升至50%的惩罚.
+tagLoadingTip10={^g}小贴士: {^w}凯恩世界中存在很多秘密地点.仔细观察,你就会找到隐藏的宝藏！
+tagLoadingTip11={^g}小贴士: {^w}在老兵难度或者更高的难度中,首领怪物会在你阵亡后回复部分血量.
+tagLoadingTip12={^g}小贴士: {^w}探索整个世界来找到一次性的宝箱,它们总是会掉落一件史诗物品,每个角色都有一次机会.
+tagLoadingTip13={^g}小贴士: {^w}史诗和传奇物品会使你获得辅助甚至是重新定义你人物架构的特有能力.
+tagLoadingTip14={^g}小贴士: {^w}一些怪物会掉落他们的特有装备,就是罕见怪物装备(特绿).
+tagLoadingTip15={^g}小贴士: {^w}传奇物品是非常稀有的,同时也异常强力.它们会在50级以上时开始掉落.
+tagLoadingTip16={^g}小贴士: {^w}如果穿戴齐全,套装物品拥有强力的属性奖励,甚至能获得新技能.
+tagLoadingTip17={^g}小贴士: {^w}用于武器上的镶嵌物使你获得能够补足你人物架构的主动技能.
+tagLoadingTip18={^g}小贴士: {^w}圣物是只能由熟练锻造师制作的特殊物品.
+tagLoadingTip19={^g}小贴士: {^w}很多镶嵌物只能制作出来.通过满足凯恩的势力声望来学习新的设计图.
+tagLoadingTip20={^g}小贴士: {^w}在更高难度你会更有机会获得强大的战利品,但也会面对更大的挑战.
+tagLoadingTip21={^g}小贴士: {^w}你可以随时按下鼠标中键来旋转游戏视角。或者你也可以绑定键盘键位.
+
+#Tutorial Pages
+
+tagTutorialTip06Title=未动过的食物
+tagTutorialTip06TextA=在凯恩世界找到的被丢弃的食物.估计是个倒霉的冒险者留下的.{^n}{^n}它们可以帮助你恢复一些体力.
+
+tagTutorialTip08Title=欢迎来到恐怖黎明
+tagTutorialTip08TextA=感谢你对我们和我们工作的支持.恐怖黎明在慷慨的赞助者们的帮助下才能得以发布,不论是通过我们的网站,Kickstarter或者是Steam上的早期先行版进行支持.
+tagTutorialTip08TextB=如果你发现BUG,请在我们的论坛www.grimdawn.com上进行反馈.
+tagTutorialTip08SubtitleA=游戏教程
+tagTutorialTip08TextC=你可以随时在选项菜单中开关游戏教程.选项按钮可以在游戏中按下{^x}[ESC]{^-}来进入.
+
+tagTutorialTip09Title=商人界面
+tagTutorialTip09TextA=商人出售与收购在凯恩世界的险境中生存所必需的武器装备.
+tagTutorialTip09TextB=在这绝望的时期,好的装备可不便宜.商人们不会为普通物品出高价,但是充满魔力的装备能够卖到好价钱.
+
+tagTutorialTip10Title=传送裂缝
+tagTutorialTip10TextA=安全的传送裂缝允许你在各个地点间快速移动.左键点击传送裂缝以打开世界地图并选择目的地.
+tagTutorialTip10SubtitleA=个人传送裂缝:
+tagTutorialTip10TextB=作为一个接触过虚化之力的人类,你拥有打开个人传送裂缝的能力.要激活你的个人传送裂缝,点击在你技能条右边的传送旅行按钮,或者按下{^x}[%t0]{^-}.
+tagTutorialTip10TextC=个人传送裂缝可以在世界的任何地点开启,并与主要的传送裂缝网络相连.你的传送裂缝将一直持续开启直到你返回.当它开启的时候,你的队伍成员也可以传送到它的位置.在任何时间段内你只能同时开启一处个人传送裂缝.
+
+tagTutorialTip14Title=药水
+tagTutorialTip14TextA=生命与能量药水分别能够回复你的角色的生命和能量.要饮用药水,点击技能栏内的图标或者按下指定的快捷键.
+tagTutorialTip14TextB=药水默认被分配到技能栏的最后两格内.通过右击空的技能栏并从菜单选择一种药水你可以手动设定药水到任意快捷栏.
+tagTutorialTip14TextC=要饮用药水,点击技能栏内的图标或者按下指定的快捷键.
+tagTutorialTip14TextD=你会从宝箱以及怪物身上获得药水,但如果你发觉不够用的时候,随时都能从商人那里购买.
+
+tagTutorialTip15Title=等级
+tagTutorialTip15TextA=每次你的角色升级的时候,都会获得技能点和属性点.
+tagTutorialTip15TextB=属性点数可以用来提升你的灵巧,体质以及精神,每点可提升8点相应属性.
+tagTutorialTip15TextC=技能点数可以用来提升专精等级,解锁新技能或提升已解锁的技能等级.
+tagTutorialTip15TextD=最初,每提升一级会获得3点技能点,但随着你级别的提升,这个数字会逐渐降低为2(51级以上)并最终每级只有一点.
+tagTutorialTip15SubtitleA=分配点数
+tagTutorialTip15TextE=属性点数可以在角色面板分配.点击技能条左边的图标或按下 {^x}[%t0]{^-}.要分配属性点数,点击在相应属性旁的"+".
+tagTutorialTip15TextF=技能点数可以在技能窗口分配.点击技能条左边的图标,或者按下 {^x}[%t0]{^-}.
+tagTutorialTip15SubtitleB=经验
+tagTutorialTip15TextG=你可以在生命与能量条下方查看你的经验进度,也可以在角色面板中查看.经验条显示你当前的经验值,获得的经验值,以及提升到下一级所需的经验值.当进度条填满时,你就会升级.
+
+tagTutorialTip16Title=角色窗口
+tagTutorialTip16TextA=使用角色窗口来装备物品,管理背包,花费属性点和查看角色属性一览.把鼠标悬停在属性上可以获得更多的信息.
+tagTutorialTip16SubtitleA=物品栏管理
+tagTutorialTip16TextB=要装备物品,从背包中右键点击或者将它拖动到适当的装备槽.你可以将物品拖出角色窗口来扔掉它,或者点击它然后按下{^x}[{%t0}]{^-}键.
+tagTutorialTip16SubtitleB=属性点
+tagTutorialTip16TextC=点击想要的属性左边的“+”按钮来花费属性点.每个属性点提升8点属性.
+
+tagTutorialTip17Title=专精
+tagTutorialTip17TextA=选择专精是一项定义角色的功能.不同的专精带来不同的游戏风格,所以要谨慎选择.
+tagTutorialTip17TextB=一旦你选择了一项专精并点了技能点,你将不能恢复专精的选择.
+tagTutorialTip17TextC=当你的角色到达10级时,你将可以选择第二个专精.
+
+tagTutorialTip20Title=镶嵌物
+tagTutorialTip20TextA=镶嵌物可以用来增强装备.他们通常呈碎片形式,可以通过合成来获得更强力的加成.稀有镶嵌物用淡黄色边框来显示.
+tagTutorialTip20SubtitleA=附着镶嵌物
+tagTutorialTip20TextB=右击部件选择它,然后左键单击你想要附加的装备.注意每个镶嵌物只能用于镶嵌特定的类型的物品.
+tagTutorialTip20SubtitleB=合成镶嵌物
+tagTutorialTip20TextC=你可以合成相同名字的镶嵌物碎片来获得更强力的加成效果.
+tagTutorialTip20TextD=同种镶嵌物碎片可以在第一次附着后继续叠加.
+
+tagTutorialTip22Title=技能窗口
+tagTutorialTip22TextA=每次你升级的时候都将获得技能点.将你的技能点投资到专精等级上或解锁技能.
+tagTutorialTip22SubtitleA=专精等级
+tagTutorialTip22TextB=如果你投资技能点到技能专精上,你将解锁新的技能.你可以通过点击技能窗口左下角的专精按钮来提升专精等级.
+tagTutorialTip22TextC=你必须在专精等级上投入至少一点来解锁第一级的技能.
+tagTutorialTip22SubtitleB=技能等级
+tagTutorialTip22TextD=点击一个解锁技能图标来为技能添加点数.第一个技能点将允许你使用该能力,额外的技能点将使能力增强.
+tagTutorialTip22TextE=绿线表明与技能改进的联系.你必须在基础技能上至少拥有一点才能在它的改进技能上投入点数.
+
+tagTutorialTip23Title=技能分配
+tagTutorialTip23TextA=主动技能(方形图标)需要分配到鼠标按键或者技能栏中方可使用.
+tagTutorialTip23TextB=要分配技能,在技能栏或右面的鼠标按键栏上右键并从菜单中选择一个技能.
+tagTutorialTip23SubtitleA=使用技能
+tagTutorialTip23TextC=主动技能在技能栏上左键单击图标,或者按下分配好的快捷键.
+tagTutorialTip23TextD=被动技能(圆图标)一直生效且不需要分配到技能栏上.一旦你为它们分配了技能点,它们会立即提供增益.
+
+tagTutorialTip24Title=死亡
+tagTutorialTip24TextA=当你的生命变为0时,你的角色会死亡.死亡会损失一些经验并在你上次访问的避难所复活.你可以通过找回墓碑来挽回损失的经验.
+tagTutorialTip24TextB=为了避免死亡,好好利用你角色的生命快速恢复能力,当离开战斗几秒后就会激活.当你的体力消耗殆尽时,记得用技能和药水来保证生存.
+
+tagTutorialTip26Title=聊天
+tagTutorialTip26TextA=在游戏中你可以使用聊天窗口给其他玩家发送消息.通过点击"发送"按钮然后选择一个接受者来发送私人消息.
+tagTutorialTip26SubtitleA=物品链接
+tagTutorialTip26TextB=要在聊天中加入物品链接,打开聊天窗口后按住shift单击你想要发出的物品.一条带有物品链接的消息会被自动发送出去.
+
+tagTutorialTip27Title=多人游戏
+tagTutorialTip27TextA=加入允许你共享经验与战利品的队伍.你可以通过点击图标来进入队伍窗口,或者按下{^x}[%t0]{^-}.组队对于PvP也是至关重要的.
+tagTutorialTip27TextB=右击玩家的头像并选择“交易”就可以对队伍内的另一名玩家发起交易.
+tagTutorialTip27TextC=你也可以使用聊天窗口与其他玩家交谈,可以通过按下{^x}[%t0]{^-}来打开.
+
+tagTutorialTip28Title=玩家交易
+tagTutorialTip28TextA=你可以把物品放入你的交易窗口内来进行交易.在窗口顶部输入铁币的数目就能使用铁币来进行交易了.
+tagTutorialTip28TextB=在双方玩家都选择接受之后,双方的交换才会生效.如果交易被取消了的话,所有的物品和铁币都会被返还到玩家的物品栏内.
+
+tagTutorialTip33Title=学习技能
+tagTutorialTip33TextA=升级的时候,将点数分配到专精条上与技能上同样重要.学习新的技能会为你提供强大的进攻与防御能力.
+tagTutorialTip33TextB=要在一项能力上投入技能点,点击技能窗口上的解锁技能图标.第一个技能点将允许你使用该能力.额外的技能点将使能力增强.
+
+tagTutorialTip34Title=交易
+tagTutorialTip34TextA=如果你的背包满了,你应该去拜访商人并出售一些不想要的物品.
+tagTutorialTip34TextB=商人可以在人类控制的保护区内找到,但是你也会在世界上遇到旅行商人.在罗盘或在地图窗口上查看商人图标.
+
+tagTutorialTip35Title=战宠
+tagTutorialTip35TextA=战宠会自动与你并肩战斗.如果你想要给你的战宠直接下达命令,你可以在你点击屏幕左上角指定的战宠的时候按下{^x}[{%t0}]{^-},然后选择一个目标.
+tagTutorialTip35TextB=你可以在任何时候通过在它们的头像上右键并选择“解散宠物”来解散你的战宠.
+tagTutorialTip35TextC=你可以使用战宠攻击技能来命令所有战宠攻击或者移动至目标.要分配这个技能,在快捷栏上右击并从技能栏中选择它.
+
+tagTutorialTip36Title=技能重新分配
+tagTutorialTip36TextA=灵魂向导允许你复原技能点选择.在灵魂向导的界面上点击技能图标来从该技能上移除一点技能点.其花费将随着你移除随后的技能点而增多.
+tagTutorialTip36TextB=你不能移除投资在专精上的技能点.此外,你不能移除在延伸技能上面投资了的前置技能的最后一点.
+
+tagTutorialTip37Title=仓库窗口
+tagTutorialTip37TextA=走私者可以存储你的物品,甚至可以在你的角色间转移物品!你可以在整个凯恩世界能找到的任何走私者那里访问你的物品.
+tagTutorialTip37TextB=物品可以通过Shift+左键来快速转移.
+tagTutorialTip37TextC=点击物品转移来和你的其他角色分享物品.
+
+tagTutorialTip38Tile=物品转移
+tagTutorialTip38TextA=放在走私者处物品转移窗口的物品是在你的所有角色间共享的(普通和专家模式会不共用)
+tagTutorialTip38TextB=你可以用铁币购买额外的标签来扩展你的共享仓库.这些额外的标签就在转移窗口左边.
+tagTutorialTip38SubtitleA=角色间转移
+tagTutorialTip38TextC=要转移物品,把他们放在物品转移窗口.当你登陆其他角色时,你可以从走私犯那里访问这些物品.
+tagTutorialTip38SubtitleB=玩家间转移
+tagTutorialTip38TextD=要想在多人游戏中与其他玩家的角色交易物品,你需要使用交易功能.在玩家头像上右键并选择“交易”.
+
+tagTutorialTip39Title=发明家
+tagTutorialTip39TextA=发明家有从物品上移除镶嵌物和增幅的能力.物品或镶嵌物其中一项将在工序中保留下来.任何的增幅都会丢失.
+tagTutorialTip39SubtitleA=移除镶嵌物
+tagTutorialTip39TextB=物品上镶嵌物的移除将按物品,镶嵌物和增幅的组合价值的比例收取费用.在拆分界面放置一个带有镶嵌物的物品来开始移除吧.
+tagTutorialTip39TextC=你可以恢复物品或者镶嵌物,但在此过程中另一件东西会被摧毁.
+tagTutorialTip39SubtitleB=只移除增幅
+tagTutorialTip39TextD=无论何时你只移除增幅的话,物品和镶嵌物都会被保留下来.如果一件灵魂绑定的增幅以这种方式移除,而且物品原本并非灵魂绑定,那么物品的灵魂绑定状态也将会被移除.
+
+tagTutorialTip42Title=铁匠
+tagTutorialTip42TextA=铁匠有制作强大威力物品的能力.他是一位经验丰富的工匠,每个他制作的物品都细微的制作属性奖励,他的知识可以通过新的设计图来扩充.
+tagTutorialTip42SubtitleA=设计图
+tagTutorialTip42TextB=当你发现新的设计图时铁匠将学会制作新物品.设计图可以从任务获得,或者在世界范围内掉落.
+tagTutorialTip42SubtitleB=制作
+tagTutorialTip42TextC=要制作一个物品,在制作界面选择配方.物品会自动放置在锻造界面中,按照以下次序进行消耗：个人储物箱,公共储物箱,物品栏以及已装备的物品.
+tagTutorialTip42TextD=如果你有全部的材料,就可以点击合成按钮来制作了.
+
+tagTutorialTip43Title=设计图
+tagTutorialTip43TextA=设计图是用来创造强力失传物品的模板,铁匠可以学习.
+tagTutorialTip43TextB=要学习一个设计图,在它上面右击.如果你还没学过这个设计图,它会被加入到你的铁匠物品列表中.
+tagTutorialTip43TextC=设计图在所有角色间存储(普通和专家模式不共用)并且每张设计图只可以学一次.
+
+tagTutorialTip44Title=铁匠不见了!
+tagTutorialTip44TextA=你学会了一个新设计图,但没有能为你制作物品的铁匠.{^n}{^n}你必须先找到一个铁匠才能制作物品.{^n}{^n}铁匠会马上知道怎么用这个设计图制作物品.
+tagTutorialTip44TextB=
+
+tagTutorialTip45Title=体力
+tagTutorialTip45TextA=当战斗结束你的生命值未满时,一个叫做体力的次级回复系统就会激活.
+tagTutorialTip45TextB=体力会快速补满你的生命,但是在这个过程中也会被消耗.在你的生命槽内的黄色能量槽显示的就是体力的多少.
+tagTutorialTip45TextC=当你找到食物补给和生命精华的时候体力会进行补充,升级或者角色死亡亦会如此.
+tagTutorialTip45TextD=如果你的体力消耗完了,脱离战斗后生命值不会再快速回复.
+
+tagTutorialTip46Title=体力不足
+tagTutorialTip46TextA=你的体力消耗完了,脱离战斗后生命值不会再快速回复.你可以通过收集食物给养和生命精华来补充体力.
+
+tagTutorialTip47Title=分解
+tagTutorialTip47TextA=拜访发明家来将物品分解成废铁,在此过程中有几率额外产生一个镶嵌物.越是强力的物品,越有机会分解出镶嵌物.
+tagTutorialTip47SubtitleA=分解一件物品
+tagTutorialTip47TextB=要分解一件物品,你需要炸药和一些铁币.被分解的物品会被永久摧毁,在发拆解窗口放上一件魔法品质以上的装备来开始分解吧.
+tagTutorialTip47TextC=按下分解按钮,物品栏中的炸药和一些铁币就会被消耗,然后该物品就会被分解为基础部件.
+
+tagTutorialTip49Title=武器对比
+tagTutorialTip49TextA=当鼠标停留在物品栏中的一件装备上时,会自动与你已装备的物品进行对比.对于武器来说,会额外对比每秒的伤害(DPS).
+tagTutorialTip49SubtitleA=不含镶嵌物的对比
+tagTutorialTip49TextB=你可以按住{^x}[Ctrl]{^-}键来比较武器,镶嵌物将不被计入结果.
+
+tagTutorialTip50Title=增幅
+tagTutorialTip50TextA=增幅可以用来附魔物品以增强其属性.如何制作增幅的秘诀只有凯恩世界中的多种势力团体才知晓.
+tagTutorialTip50TextB=要使用增幅进行附魔,右键点击它.一旦附魔过后,增幅是不能被移除的,不过它可以再次附魔来被覆盖掉.
+
+tagTutorialTip51Title=增幅附魔
+tagTutorialTip51TextA=右键单击一件增幅,然后再左键单击你想要附魔的装备.
+tagTutorialTip51TextB=注意增幅只能在特定的装备类型上进行附魔而且已经使用不能被移除,但是你可以通过再次附魔来覆盖掉之前的增幅.
+
+tagTutorialTip53Title=势力军需官
+tagTutorialTip53TextA=势力军需官贩卖该势力特有的物品.只有获得该势力的信任才能购买.
+tagTutorialTip53SubtitleA=灵魂绑定装备
+tagTutorialTip53TextB=势力军需官贩卖的特有装备是灵魂绑定的,不能交易也不能放在角色共享的储物箱里.
+tagTutorialTip53TextC=如果一个灵魂绑定的增幅用在了一件物品上,那么这件物品也将变为灵魂绑定.
+
+tagTutorialTip55Title=势力窗口
+tagTutorialTip55TextA=使用势力窗口来查看你与凯恩世界中各股势力的关系,这将决定你为了赢得他们的青睐而需要做的事情.
+tagTutorialTip55SubtitleA=获取声望
+tagTutorialTip55TextB=每个势力都有特殊的目标和欲望.你可以在“声望获得途径”部分查看如何获得他们的尊重.
+tagTutorialTip55TextC=你的声望等级决定了凯恩世界的各方势力对你如何反应.更高的声望等级使你获得所有该势力商人的货物折扣并能在军需官处购买更好的装备.
+tagTutorialTip55TextD=随着声望等级的提升,新任务也会对你开放.别忘了探索它们.
+tagTutorialTip55TextE=注意,随着声望提升,你将需要击败更强的怪物来获得声望.
+
+tagTutorialTip56Title=赏金任务
+tagTutorialTip56TextA=赏金任务对于提升凯恩各大势力的声望是非常有效的途径.赏金任务派遣你去完成各种不同难度的任务,并且报酬是不固定的.你必须在有限的帮助下完成猎杀.
+tagTutorialTip56SubtitleA=赏金任务是可重复的.
+tagTutorialTip56TextB=和普通任务不同,赏金任务的完成次数对每个角色并没有限制.每次载入游戏中,每个势力都会提供最多5个赏金任务,并且你会接到之前完成过的赏金任务.
+
+tagTutorialTip59Title=神龛
+tagTutorialTip59TextA=神龛是一个失落已久的远古帝国所遗留下来的,用来对各种神灵以及信仰符记进行祭祀.必须通过击败被困于其中的腐朽生物或者放置各种材料祭品来净化神龛.各个神龛的要求是不一样的.
+tagTutorialTip59CaptionA=修复神龛
+tagTutorialTip59TextB=要修复一座神龛,你必须在个人储物箱,公共储物箱,物品栏以及已装备的物品中存有所需的材料,并以此次序消耗.当你已有全部所需的材料时,点击献祭按钮即可.
+tagTutorialTip59CaptionB=虔诚点数
+tagTutorialTip59TextC=当一座神龛被净化后,你会获得一点虔诚点数.要分配虔诚点数,打开信仰窗口并进行分配, 可以通过技能窗口进入.点击在技能条左侧的按钮或者按下{^x}[%t0]{^-}.
+
+tagTutorialTip60Title=信仰窗口
+tagTutorialTip60TextA=信仰窗口允许你分配虔诚点数到各种神灵或者凯恩的信仰符记之上.
+tagTutorialTip60TextB=当你完成完整星座时,你会获得亲和点数,它可以让你解锁并获得更为强大的星座.
+tagTutorialTip60SubtitleA=亲和点数
+tagTutorialTip60TextC=星座对应着5种亲和点数,代表着不同的神之位面.不同的星座需要不同数量的亲和点数来解锁.
+tagTutorialTip60SubtitleB=使用虔诚点数
+tagTutorialTip60TextD=入门级的星座都能给予很多的亲和点数奖励,而最强大的星座不会有任何奖励.
+tagTutorialTip60TextE=注意,如果你撤销了完整星座中的一颗天星,就会失去它的亲和点数.
+tagTutorialTip60TextF=宝蓝色的天星表示你下一次可以投入点数的地方.左键单击一颗天星来解锁奖励.
+tagTutorialTip60TextG=带有光晕的天星标志着拥有信仰之力的地方,解锁它们的效果来增强你的主要技能.
+
+tagTutorialTip61Title=信仰之力
+tagTutorialTip61TextA=信仰之力是能够与你来自天赋和装备的主要技能绑定的可以自动激活生效的技能.与你技能绑定的信仰之力能够从战斗和任务中获得经验值,这能使它们升级并更为强力.当绑定到宠物技能上时,它们会受到宠物伤害的影响.
+tagTutorialTip61SubtitleA=分配到一个主要技能
+tagTutorialTip61TextB=要分配一个信仰之力,你必须先在信仰窗口中解锁它,然后从弹出的列表中选取一个可用技能.你能够毫无惩罚地重新分配信仰之力.如果你解绑了一个信仰之力,它仍会保存已获得的经验和等级.
+
+tagTutorialTip69Title=战利品过滤
+tagTutorialTip69TextA=战利品过滤窗口使你可以调节在地上显示的物品.这个强大的工具将专注于你当前角色的需求,使恐怖黎明游戏中的大量战利品显示更加简明.
+tagTutorialTip69SubtitleA=品质过滤
+tagTutorialTip69TextB=你可以根据装备品质来显示或隐藏物品.如果其中一个选项未勾选,则无论其他分类的选项如何,该品质的物品都不会显示在地上.此规则的例外情况是专属掉落和套装,即使它们是稀有、史诗和传说物品的子类目,也仅在你想进一步微调过滤器时生效.{^n}{^n}默认情况下,此区域的所有选项均是已勾选状态.
+tagTutorialTip69SubtitleB=类型过滤
+tagTutorialTip69TextC=你可以根据装备槽位来显示或隐藏物品.如果其中一个选项未勾选,则无论其"伤害和角色"分类选项如何,该类型的物品都不会显示在地上.{^n}{^n}默认情况下,此区域的所有选项均是已勾选状态.
+tagTutorialTip69SubtitleC=伤害和角色过滤
+tagTutorialTip69TextD=你可以根据装备属性来显示或隐藏物品.如果其中一个选项未勾选,则只有满足至少一项过滤时才会显示在地上.{^n}{^n}默认情况下,此区域的所有选项均是已勾选状态.
+
+
+#Quick Tips
+
+tagQuickTipMainMenu={^z}欢迎来到恐怖黎明!{^-} {^n}{^n}{^w}游戏教程{^-} 已经启用, {^n}你可以通过选项菜单来关闭它. {^n}{^w}正常难度{^-} 是为 {^n}经验不足的ARPG玩家所准备的. {^n}想要更具挑战性请选择 {^w}老兵难度{^-}.
+tagQuickTip06={^z}未动过的食物{^-}搜罗一份未食用过的食物来恢复大量体力, {^n}这在你离开战斗后会快速恢复生命.
+tagQuickTip07={^z}你解锁了裂缝传送门!{^-} {^n}{^n}{^w}裂缝传送{^-} {^x}[%t0]{^-} 允许你创造一个传送裂隙, {^n}并使用它与其他已在凯恩世界 {^n}发现的传送门之间进行传送.
+tagQuickTip08={^z}指引教程{^-}{^n}{^n}{^s}指引教程已经启用.{^n}你可以通过选项菜单来关闭它.{^n}想了解更多信息,只需在显示出的{^n}贴士上左键或者右键关闭它.{^n}游戏内帮助可在书典窗口{^x}[%t0]{^-}中随时查阅.
+tagQuickTip09={^z}商人{^-} {^n}{^n}商人允许你贩卖收集的战利品 {^n}并购买装备与药水. {^n}最快捷的买卖方法是右键一件物品.
+tagQuickTip11={^z}个人传送裂缝{^-} {^n}{^n}使用个人传送裂缝来打开世界地图 {^n}并选择要传送地点的传送门.
+tagQuickTip14={^z}药水{^-} {^n}{^n}药水有着较长的冷却时间, {^n}但它们能极快地回复生命与能量. {^n}要饮用药水,在技能栏上点击它的图标 {^n}或者按下分配的快捷键. 
+tagQuickTip15={^z}升级{^-} {^n}{^n}当你升级时会获得技能与属性点数, {^n}它们可以在技能与角色面板中分配.
+tagQuickTip16={^z}角色窗口{^-} {^n}{^n}角色窗口允许你管理物品栏, {^n}装备并查看状态.
+tagQuickTip20={^z}镶嵌物{^-} {^n}{^n}镶嵌物为装备或物品提供加成, {^n}并且合成后会更加强力.
+tagQuickTip21={^z}第二专精{^-} {^n}{^n}当你到达10级时, {^n}即可选择第二专精了.
+tagQuickTip22={^z}技能窗口{^-} {^n}{^n}技能窗口 {^x}[%t0]{^-} {^n}允许你消耗升级时获得的技能点数.
+tagQuickTip23={^z}专精 & 技能{^-} {^n}{^n}在专精条中投入更多的点数 {^n}允许你获得更多的技能, {^n}还能增加基础属性. {^n}记得在学新技能时也不要忘了专精条.
+tagQuickTip24={^z}死亡不是结局!{^-} {^n}{^n}当你死亡的时候会失去经验, {^n}但可以通过找到墓碑来挽回经验损失.
+tagQuickTip26={^z}聊天{^-} {^n}{^n}按下 {^x}[Enter]{^-} {^n}来与其他玩家交谈,或者按下 {^n}"Send To"来发送私密信息. {^n}Shift+左键点击物品来发送 {^n}可监视的链接给游戏中的其他玩家.
+tagQuickTip27={^z}多人游戏{^-} {^n}{^n}进入队伍窗口 {^x}[%t0]{^-} 来组建队伍. {^n}按下 {^x}[Enter]{^-} {^n}来与其他玩家进行交谈.
+tagQuickTip30={^z}未分配的技能!{^-} {^n}{^n}主动技能必须分配到技能条 {^n}来使用它们.右键点击快捷栏来 {^n}分配一个技能到其中一个栏位.
+tagQuickTip31={^z}生命药水{^-} {^n}{^n}当你生命在战斗中降低时, {^n}使用生命药水来回复. {^n}生命药水有较长的冷却时间, {^n}但能回复大量的生命值.
+tagQuickTip32={^z}未分配的点数!{^-} {^n}{^n}你有未分配的属性或技能点数, {^n}记得在你升级后使用它们.
+tagQuickTip33={^z}学习技能{^-} {^n}{^n}学习技能与专精条同样重要. {^n}技能为你提供强大的进攻与防御能力.
+tagQuickTip34={^z}物品栏满了!{^-} {^n}{^n}打开角色窗口来管理你的物品栏, {^n}或者拜访一位商人 {^n}来卖出战利品并获取铁币.
+tagQuickTip35={^z}召唤战宠{^-} {^n}{^n}你可以通过使用宠物技能 {^n}命令所有的战宠攻击 {^n}或移动到指定目标.它们也可以设置为 {^n}进攻/防御状态,或者在必要时解散.
+tagQuickTip36={^z}灵魂向导{^-} {^n}{^n}灵魂向导允许你使用铁币与虚化水晶 {^n}来更改技能和信仰. {^n}每多一点的花费都会提升.
+tagQuickTip37={^z}走私者{^-} {^n}{^n}走私者允许你保存私人物品, {^n}并能使用转移仓库.
+tagQuickTip38={^z}转移仓库{^-} {^n}{^n}转移仓库用来在你不同角色间 {^n}交换物品.额外的转移空间 {^n}可以用铁币购买.
+tagQuickTip39={^z}发明家{^-} {^n}{^n}发明家允许你恢复物品上的镶嵌物, {^n}并将不想要的物品拆解为制作材料.
+tagQuickTip42={^z}铁匠{^-} {^n}{^n}铁匠允许你运用习得的设计图 {^n}制作强力的物品与制作材料.
+tagQuickTip43={^z}设计图{^-} {^n}{^n}拜访铁匠来制作物品与材料.
+tagQuickTip44={^z}设计图{^-} {^n}{^n}设计图物品需要铁匠来制作. {^n}任何你收集的设计图都会被保存下来, {^n}直到你重新获得一份.
+tagQuickTip45={^z}快速恢复{^-} {^n}{^n}体力在你离开战斗后会转换为生命值, {^n}允许你快速恢复生命.
+tagQuickTip46={^z}体力耗尽!{^-} {^n}{^n}当你的体力耗尽时就不能快速恢复了. {^n}收集未动过的食物与生命精华 {^n}来填充它.
+tagQuickTip47={^z}拆解{^-} {^n}{^n}拆解窗口允许你将不想要的物品 {^n}分解为各种材料.
+tagQuickTip49={^z}装备对比{^-} {^n}{^n}将鼠标指向一件物品,就会显示该物品 {^n}与你身上所穿装备的比较界面.
+tagQuickTip50={^z}增幅{^-} {^n}{^n}增幅可以用在装备上 {^n}来获得额外加成. {^n}它们能从势力军需官处买到, {^n}前提是声望要达到要求.
+tagQuickTip52={^z}获得声望{^-} {^n}{^n}你获得了一些凯恩势力的声望. {^n}你可以在势力窗口 {^x}[%t0]{^-}中 {^n}查看声望.
+tagQuickTip53={^z}势力军需官{^-} {^n}{^n}势力军需官允许你购买对应的物品, {^n}如果你声望达标的话.
+tagQuickTip54={^z}声望{^-} {^n}{^n}你在凯恩的某个势力声望等级提升了. {^n}势力窗口 {^x}[%t0]{^-} 包含了 {^n}更高声望等级所关联的报酬信息.
+tagQuickTip55={^z}势力窗口{^-} {^n}{^n}势力窗口允许你检视 {^n}当前与各大友好势力的声望等级 {^n}以及与敌人势力的状况, {^n}还能了解各他们各自的背景信息.
+tagQuickTip56={^z}赏金任务{^-} {^n}{^n}与常规任务不同, {^n}赏金任务是可重复的. {^n}每个势力在每次游戏中 {^n}最多会提供5项赏金任务.
+tagQuickTip57={^z}神龛{^-} {^n}{^n}净化神龛会使你获得虔诚点数, {^n}通过技能窗口{^x}[%t0]{^-}来使用. {^n}信仰系统是一项额外的 {^n}能使你自定义角色的专精系统.
+tagQuickTip58={^z}净化神龛{^-} {^n}{^n}神龛可以通过供奉神灵 {^n}或击败困于其中的敌人来净化, {^n}取决于你所遇到的神龛类型.
+tagQuickTip59={^z}虔诚点数{^-} {^n}{^n}虔诚点数通过净化神龛来获得, {^n}并在技能窗口{^x}[%t0]{^-}中使用.
+tagQuickTip60={^z}信仰窗口{^-} {^n}{^n}信仰窗口允许你使用虔诚点数. {^n}每个点数都会令你解锁新的加成 {^n}与技能.
+tagQuickTip61={^z}信仰之力{^-} {^n}{^n}通过点击信仰窗口中的图标 {^n}并从列表中选择一项技能 {^n}来将你的信仰之力绑定到该技能上.
+tagQuickTip69={^z}战利品过滤器{^-}{^n}{^n}使用战利品过滤器调节在地上显示的战利品.

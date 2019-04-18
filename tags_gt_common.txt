@@ -1,0 +1,6 @@
+Common_tagMenuCheckForUpdates=检查更新中...
+
+Common_tagUpdateIsAvailableShort=有可用更新
+Common_tagUpdateIsAvailable=有可用更新! 你可以在这里查看版本日志并下载:
+Common_tagNoUpdates=当前版本已是最新版本.
+Common_tagCheckUpdatesError=不能检查更新.

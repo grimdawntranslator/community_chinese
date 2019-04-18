@@ -1,0 +1,159 @@
+#Faction
+
+tagFactionUser13=拜斯迈教团
+tagFactionUser13Info=营地：三巫神秘会 {^n}{^n} 信奉难以捉摸的低语女士，拜斯迈教团以伪造和诡计为荣。{^n}{^n} 正是由于拜斯迈的阴谋诡计，帝国的审判官们花了几个世纪漫无目的地寻找巫神教团，他们的努力被无尽的诱骗和谎言所困扰。{^n}{^n}所有这一切都是通过庞大的间谍和线人网络实现的，这些网络被称为拜斯迈的情报网，只有极少数被熏人的人才知道拜斯迈计划的全貌。
+tagFactionUser13Rewards1=N/A
+tagFactionUser13Rewards2=N/A
+tagFactionUser13Rewards3=N/A
+tagFactionUser13Rewards4=空
+tagFactionUser13Rewards5=可进入势力特有商店
+tagFactionUser13Rewards6=领取赏金任务 {^n}势力特有武器 {^n}势力特有护甲 {^n}势力特有设计图
+tagFactionUser13Rewards7=新任务(已结盟) {^n}势力特有增幅 {^n}势力特有武器 {^n}势力特有饰品 {^n}该势力赦令 {^n}势力特有设计图
+tagFactionUser13Rewards8=稀有增幅 {^n}该势力的委任状 {^n}精英级势力护甲 {^n}精英级势力设计图
+tagFactionUser14=德里格教团
+tagFactionUser14Info=营地：三巫神秘会 {^n}{^n} 宏伟守护者赐予了德里格的信徒们一副真实的景象，他们被未来的景象所吸引。许多人被低语逼疯，但是为了追寻巫神的目标成功而忍耐下来的人变成了足以改变世界的无价之宝。{^n}{^n}德里格的信徒们说，站在宏伟守护者面前是一件无与伦比的恩赐。他的智慧之言千古流传，因为他试图在天神们编织的混乱命运中取得平衡。传言说目睹德里格那扭曲的身形，会使脆弱的凡人心智崩溃。
+tagFactionUser14Rewards1=N/A
+tagFactionUser14Rewards2=N/A
+tagFactionUser14Rewards3=N/A
+tagFactionUser14Rewards4=空
+tagFactionUser14Rewards5=可进入势力特有商店
+tagFactionUser14Rewards6=领取赏金任务 {^n}势力特有武器 {^n}势力特有护甲 {^n}势力特有设计图
+tagFactionUser14Rewards7=新任务(已结盟)  {^n}势力特有增幅 {^n}势力特有武器 {^n}势力特有饰品 {^n}该势力赦令 {^n}势力特有设计图
+tagFactionUser14Rewards8=稀有增幅 {^n}该势力的委任状 {^n}精英级势力护甲 {^n}精英级势力设计图
+tagFactionUser15=索拉尔教团
+tagFactionUser15Info=营地：三巫神秘会 {^n}{^n}邪术领域扭曲的本质是由于索拉尔按照他认为合适的方式创造所导致的。他与他的仆人们分享了这些知识。但是这种力量并非没有牺牲。有些人必须死，以便其他人可以获取他的荣耀，这是忠诚的终极表现。{^n}{^n}索拉尔的信徒会为了索拉尔的恩赐付出任何代价。他们说邪术之火是无与伦比的，值得付出一点鲜血，即使是他们自己的血...或者是他们盟友的。
+tagFactionUser15Rewards1=N/A
+tagFactionUser15Rewards2=N/A
+tagFactionUser15Rewards3=N/A
+tagFactionUser15Rewards4=空
+tagFactionUser15Rewards5=可进入势力特有商店
+tagFactionUser15Rewards6=领取赏金任务 {^n}势力特有武器 {^n}势力特有护甲 {^n}势力特有设计图
+tagFactionUser15Rewards7=新任务(已结盟)  {^n}势力特有增幅 {^n}势力特有武器 {^n}势力特有饰品 {^n}该势力赦令 {^n}势力特有设计图
+tagFactionUser15Rewards8=稀有增幅 {^n}该势力的委任状 {^n}精英级势力护甲 {^n}精英级势力设计图
+tagFactionUser16=邪魔
+tagFactionUser16Info= 几个世纪以来，邪术生物都能够通过位面之间的漏洞来进入凯恩世界，但是在科凡大陆，不同位面之间的屏障似乎是最薄弱的。{^n}{^n}在这里，恐怖生物数量众多，它们的外形结构不同于在凯恩其他地方看到的任何形式。它们使用充满邪术能量的牙齿和爪子来攻击，使用甲壳保护着的双翼扑倒任何毫无防备的猎物。{^n}{^n}据说邪术领域是巫神们的领地，但是在科凡大陆上，似乎有其他人在争夺对其秘密的控制权，并且他的仆人们也随时等待着召唤。
+tagFactionUser16Rewards1=刷新复仇级单位
+tagFactionUser16Rewards2=刷新额外英雄单位
+tagFactionUser16Rewards3=刷新额外敌人
+tagFactionUser16Rewards4=空
+tagFactionUser16Rewards5=N/A
+tagFactionUser16Rewards6=N/A
+tagFactionUser16Rewards7=N/A
+tagFactionUser16Rewards8=N/A
+
+
+#Quest
+tagCodexJournalSubHeadingWitchGods=幸存者 - 巫神教团
+tagCodexJournalSubHeadingKorvan=历史 - 科凡
+
+
+#Challenge Areas
+tagChallengeArea_Easy=危险区域
+tagChallengeArea_Easy_Desc=你进入了一个被敌人控制的危险区域。这里的怪物更加强大，同时异化也被激活，但是掉落奖励也得到了提升。
+
+tagChallengeArea_Hard=极其危险的区域
+tagChallengeArea_Hard_Desc=你进入了一个充满了敌人极其危险的区域。这里的怪物被增强了，同时数个异化也被激活，但是掉落奖励也得到了显著提升。
+
+tagChallengeArea_Roguelike=被禁止的区域
+tagChallengeArea_Roguelike_Desc=你进入了一个随机地下城。这里的怪物被注入了邪恶的力量，使他们变得更加强大，同时数个异化也被激活。当前游戏进程也无法再次进入。然而掉落奖励也得到了极大提升。
+
+#Endless Dungeon
+tagEndlessFloorNotComplete=消灭敌人，收集碎裂之魂
+tagEndlessFloorComplete=前往下一个传送门
+tagEndlessFloorBoss=击败你的敌人
+tagEndlessFloorBossDead=与玛赞对话
+tagEndlessFloorLoot=获取你的奖励
+tagEndlessDungeonCounterName=碎界
+tagEndlessDungeonCounterInfo=当前碎裂之境的碎界
+tagEndlessFloorCounterName=区块
+tagEndlessFloorCounterInfo=当前碎界内的区块
+tagEndlessTimerName=计时器
+tagEndlessTimerNameInfo=碎裂之境变得不稳定之前的剩余时间。^n^n击杀强大的敌人或者迅速消除大量的敌人可以获得奖励时间。^n^n在时间耗尽前击杀碎界的Boss可以在碎裂之境的辉煌中领取额外的奖励。
+tagEndlessDungeonBonusTime=屠杀: {%d0} 怪物被击杀！^n^n+{%.0f1} 秒到计时器！
+tagEndlessDungeonHeroBonusTime=击杀强力敌人！^n^n+{%.0f0} 秒到计时器！
+
+#Inventor - Transmute
+tagConvertCost=转换消耗：
+tagConvertSameSet=
+tagConvertSameSetInfo=将套装中的某件物品转换至相同套装中的另一件物品
+tagConvertRandomSet=
+tagConvertRandomSetInfo=将套装中的某件物品随机转为其他同种品级套装中某一件物品
+tagConvert=转换
+tagConvertCreateInfo=进行转换将摧毁这件物品^o(从固定来源掉落的套装物品不能用于转换)
+tagConvertInfo=转换室可以将一件属于某个套装的强大物品转换为相同套装中的另一件物品亦或者是转换为其他套装中的某件物品。发明家尚未掌握能力。
+tagConvertInfoB=转换室可以将一件属于某个套装的强大物品转换为相同套装中的另一件物品亦或者是转换为其他套装中的某件物品。这个过程需要一些强大的奥术能量，所以发明者直接找到了源头。
+tagConvertBlacklist=这个物品无法被转换。
+
+#Crafter - Subheadings
+tagCraftingRunes=符文
+
+#Mutators
+Mutator_Monster_01=虚化扭曲
+Mutator_Monster_01Desc=怪物具有虚化抗性，但易受混乱伤害。
+Mutator_Monster_02=全副武装
+Mutator_Monster_02Desc=怪物基本无视物理伤害与护甲穿透，但易受元素伤害。
+Mutator_Monster_03=狂暴
+Mutator_Monster_03Desc=怪物处于狂暴状态，更快速的攻击但同时更易受到攻击。
+Mutator_Monster_04=野蛮
+Mutator_Monster_04Desc=怪物会造成更多的暴击，但伤害降低。
+Mutator_Monster_05=腐坏
+Mutator_Monster_05Desc=怪物具有混乱抗性，但更易受虚化伤害。
+Mutator_Monster_06=削弱
+Mutator_Monster_06Desc=怪物攻击减速的对手，但自身攻击速度降低。
+Mutator_Monster_07=残忍
+Mutator_Monster_07Desc=怪物的暴击更加致命，但同时也降低其命中率。
+Mutator_Monster_08=点燃
+Mutator_Monster_08Desc=怪物被灌注了火焰，造成额外火焰伤害并能反击火焰伤害，但更易受冰冷伤害。
+Mutator_Monster_09=时间扭曲
+Mutator_Monster_09Desc=怪物的施法间隔缩短并加快了施法速度，但造成更少的物理伤害。
+Mutator_Monster_10=吸血
+Mutator_Monster_10Desc=怪物的每一击都会吸取生命，但总体生命值较低。
+Mutator_Monster_11=恶毒
+Mutator_Monster_11Desc=怪物被毒素感染，造成额外的毒素伤害并能反击毒素伤害，但更易受活力吸取伤害。
+Mutator_Monster_12=恢复
+Mutator_Monster_12Desc=怪物具有大幅加强的生命与能量恢复能力，但更易受酸性，毒素与流血伤害。
+Mutator_Monster_13=抗性
+Mutator_Monster_13Desc=怪物近乎无视魔法伤害，但更易受物理伤害。
+Mutator_Monster_14=坚韧
+Mutator_Monster_14Desc=怪物具有大幅增加的生命值，但降低了生命恢复速度。
+Mutator_Monster_15=势不可挡
+Mutator_Monster_15Desc=怪物对群体控制具有极高的抗性，但移动速度降低。
+Mutator_Monster_16=复仇
+Mutator_Monster_16Desc=怪物具有极高的反击能力，但降低了护甲。
+Mutator_Monster_17=迅捷
+Mutator_Monster_17Desc=怪物的移动速度得到极大的提高，但更易受群体控制影响。
+
+Mutator_Player_01=虚化标记
+Mutator_Player_01Desc=玩家攻击速度降低，但对虚化伤害有更高的抗性。
+Mutator_Player_02=虚空标记
+Mutator_Player_02Desc=玩家施法速度降低但对混乱伤害有更高的抗性。
+Mutator_Player_03=标记
+Mutator_Player_03Desc=玩家防御能力降低，但伤害加强了。
+Mutator_Player_04=疲劳
+Mutator_Player_04Desc=玩家生命恢复速度降低，但对毒素与流血有更高的抗性。
+Mutator_Player_05=击碎
+Mutator_Player_05Desc=玩家伤害与反击效果降低，但护甲提高。
+Mutator_Player_06=折磨
+Mutator_Player_06Desc=玩家的生命降低，但对活力吸取有更高的抗性。
+Mutator_Player_07=减速
+Mutator_Player_07Desc=玩家的移动速度降低，但降低受到群体控制效果的时间。
+Mutator_Player_08=感染
+Mutator_Player_08Desc=玩家速度降低，但暴击伤害提高了。
+Mutator_Player_09=暴露
+Mutator_Player_09Desc=玩家的护甲降低，但冷却时间缩短。
+Mutator_Player_10=虚弱
+Mutator_Player_10Desc=玩家的暴击能力降低，但更容易命中目标。
+
+SkillRetaliationDamageFormat={%.0f0%} {^E}的反击伤害附加至攻击
+SkillRetaliationDamageFormatNumbers={%.0f0%} {^E}反击伤害附加至攻击 ({^H}{%.0f1} - {%.0f2}{^E})
+
+tagCharHealIncreaseModifier={^E}治疗效果提升 {^H}{%.0f0}%
+tagCharHealIncreaseModifierR={^E}治疗效果提升 {^H}{%.0f0}% - {%.0f1}%
+
+#Char Stats Tab 2
+
+#Character
+tagCharStatsHealIncrease=治疗强化
+tagCharStatsHealIncreaseInfo=所有治疗效果的百分比加强，包括药水和攻击伤害转化为生命值。不增加生命恢复速度。
+tagCharStatsOathkeeperSkillsBonus=守誓者技能
+tagCharStatsOathkeeperSkillsBonusInfo=对所有已学守誓者专精技能的加成。

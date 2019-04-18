@@ -1,0 +1,60 @@
+Calc_tagCalc=恐怖黎明BD模拟器
+
+Calc_tagConfirmUndoClassSelection=确定撤销专精选择?
+Calc_tagConfirmUndoClassPoints=确定返还所有技能点数?
+Calc_tagConfirmUndoDevotionPoints=确定返还所有虔诚点数?
+# buff types, e.g. "Permanent buffs: OFF"
+Calc_tagBuffsPermanent=永久Buff: {%s0}
+Calc_tagBuffsTemporary=临时Buff: {%s0}
+Calc_tagBuffsProc=触发Buff: {%s0}
+Calc_tagBuffsOn={^G}开{^E}
+Calc_tagBuffsOff={^R}关{^E}
+Calc_tagBuffsNone=无
+
+Calc_tagLinkToThisBuild=为此BD生成链接:
+Calc_tagBuildBBCode=BD描述 (论坛BB代码):
+
+Calc_tagGameVersion=游戏版本:
+Calc_tagBuildVersion=BD版本:
+Calc_tagDifficulty=难度:
+Calc_tagNoItemSelected=未选择物品
+
+Calc_tagInvalidBuild=不可用BD
+
+Calc_tagMenuItemIgnoreDevotionRequirements=忽视亲和需求
+Calc_tagMenuItemIgnoreMasterySkillLimits=忽视专精技能等级限制
+
+Calc_tagDevotionSearch=搜索...
+Calc_tagDevotionSearchConstellations=星座
+Calc_tagDevotionSearchStars=星
+
+# save upload form
+Calc_tagLoadFromSaveFile=从存档文件中加载人物
+Calc_tagCharacterFilesLocation1=如果你打开了云存储 (默认打开) 你的人物文件会在:
+Calc_tagCharacterFilesLocation2=否则它们在:
+Calc_tagCharacterSaveFileLocation=人物存档文件位于人物文件夹:
+
+# offline calc
+Calc_tagMenuFile=文件
+Calc_tagMenuLoadFromSaveFile=从存档文件中加载人物...
+Calc_tagMenuLoadFromLink=从链接加载BD...
+Calc_tagMenuLoadFromLinkPrompt=输入BD链接 (http://www.grimtools.com/calc/###):
+Calc_tagMenuGetLinkToThisBuild=为此BD生成链接...
+Calc_tagMenuResetBuild=重置BD
+Calc_tagMenuResetBuildPrompt=确定重置此BD?
+Calc_tagMenuViewSavedBuilds=查看已保存的BD...
+Calc_tagMenuSaveBuild=保存BD...
+Calc_tagMenuExit=退出
+Calc_tagMenuAbout=关于
+Calc_tagMenuFeedback=反馈
+Calc_tagMenuHelp=帮助
+
+# errors
+Calc_tagLoadFromLinkError=不能载入BD.
+Calc_tagGetLinkToThisBuildError=不能为此BD生成链接.
+
+Calc_tagSavedBuilds=已保存的BD
+Calc_tagSavedBuildsNone=这里还没有任何BD.
+Calc_tagSetBuildName=输入BD名称:
+Calc_tagDeleteSavedBuild=删除BD
+Calc_tagDeleteSavedBuildPrompt=确定删除此BD?

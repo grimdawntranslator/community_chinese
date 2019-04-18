@@ -1,0 +1,87 @@
+#Faction
+tagFactionBeasts=野兽
+tagFactionBeastsInfo=皮毛和利爪，鳞片与毒液，甲壳及尖刺，拥有这些的野兽们属于凯恩世界的一部分。适者生存，自然界最为残酷的法则使它们的后裔一代又一代变得更强。{^n}{^n}不管是面对大自然的力量还是无知人类的阴谋诡计，凯恩世界的野兽们都将经受住考验，变得更加强大，凶猛和无畏。
+tagFactionBeastsRewards1=刷新复仇级单位
+tagFactionBeastsRewards2=刷新额外英雄单位
+tagFactionBeastsRewards3=刷新额外敌人
+tagFactionBeastsRewards4=空
+tagFactionBeastsRewards5=N/A
+tagFactionBeastsRewards6=N/A
+tagFactionBeastsRewards7=N/A
+tagFactionBeastsRewards8=N/A
+tagFactionUser9=巫登沼泽女巫团
+tagFactionUser9Info=营地:巫登沼泽{^n}{^n}人们对神秘的巫登沼泽女巫团所知甚少。教团由女巫和术士组成，世俗社会无法理解他们掌握的力量因此畏惧着这些力量。而教团则力图保护他们的兄弟姐妹们不受到社会的迫害。{^n}{^n}他们成功地逃脱了光明会几十年来的追捕，女巫们在危险的巫登沼泽深处建造了一处让他们躲藏中得以喘息的地方。巫登沼泽是个让光明会坚定的追捕者都不敢踏入的地方，但这样一个地方对女巫团也同样不太安全。{^n}{^n}藏身在女巫团的庇护所的人们必须时刻保持警觉，因为威胁可能来自那些失足踏足他们藏身之处的旅行者或者来自沼泽中致命的野生生物。{^n}{^n}更加危险的是，沼泽里还隐藏着女巫团也不敢染指的秘密，他们唯恐重复犯下过去的错误而再度招致光明会的追捕。
+tagFactionUser9Rewards1=N/A
+tagFactionUser9Rewards2=N/A
+tagFactionUser9Rewards3=N/A
+tagFactionUser9Rewards4=空
+tagFactionUser9Rewards5=可进入势力特有商店
+tagFactionUser9Rewards6=新任务 {^n}领取赏金任务 {^n}势力特有武器 {^n}势力特有护甲 {^n}势力特有装备设计图
+tagFactionUser9Rewards7=新任务 {^n}势力特有增幅 {^n}势力特有武器 {^n}势力特有饰品 {^n}该势力赦令 {^n}势力特有装备设计图
+tagFactionUser9Rewards8=稀有增幅 {^n}该势力委任状 {^n}精英级势力护甲 {^n}势力传奇装备设计图
+tagFactionUser10=巴罗霍尔姆
+tagFactionUser10Info=营地:巫登沼泽{^n}{^n}巴罗霍尔姆，如同泥泞中的一颗宝石，洁净无瑕又平和安宁的它与其四周危险的沼泽截然不同。它的居民们保护他们的家园，对新的造访者们既热情又提防着。{^n}{^n}总之，在这个被虚灵和冥煞蹂躏着的世界中，如此完美的家园值得不惜一切代价来保护。
+tagFactionUser10Rewards1=刷新复仇级单位
+tagFactionUser10Rewards2=刷新额外英雄单位
+tagFactionUser10Rewards3=刷新额外敌人
+tagFactionUser10Rewards4=空
+tagFactionUser10Rewards5=可进入势力特有商店
+tagFactionUser10Rewards6=新任务 {^n}领取赏金任务 {^n}势力特有武器  {^n}势力特有护甲 {^n}势力特有装备设计图
+tagFactionUser10Rewards7=新任务 {^n}势力特有增幅 {^n}势力特有武器 {^n}势力特有饰品 {^n}该势力赦令{^n}势力特有装备设计图
+tagFactionUser10Rewards8=稀有增幅 {^n}该势力委任状 {^n}精英级势力护甲 {^n}势力传奇装备设计图
+tagFactionUser11=马尔茅斯反抗军
+tagFactionUser11Info=营地:马尔茅斯{^n}{^n}曾是东方的骄傲，马尔茅斯的发展是伊露兰帝国的工业奇迹。它拥有热闹繁华的港口和欣欣向荣的经济。但它也是最先在恐怖黎明中陷落的城市之一。{^n}{^n}马尔茅斯被操纵人心的虚灵从内部瓦解了，只不过数周的时间，它便从帝国灯塔般闪耀的城市变成了一座人间炼狱。但并非所有的市民都被消灭掉了，有一些人活了下来……忍耐着……抗争着。{^n}{^n}这些人现今成为了这支反抗军的骨干，他们要从诡计多端的入侵者手中夺回他们的城市。但他们的物资短缺，而且有限的人命根本无法和盘踞在马尔茅斯城中那近乎无限的虚灵大军相提并论。
+tagFactionUser11Rewards1=N/A
+tagFactionUser11Rewards2=N/A
+tagFactionUser11Rewards3=N/A
+tagFactionUser11Rewards4=空
+tagFactionUser11Rewards5=可进入势力特有商店
+tagFactionUser11Rewards6=新任务 {^n}领取赏金任务 {^n}势力特有武器   {^n}F势力特有护甲 {^n}势力特有装备设计图
+tagFactionUser11Rewards7=新任务 {^n}势力特有增幅 {^n}势力特有武器 {^n}势力特有饰品 {^n}该势力赦令 {^n}势力特有装备设计图
+tagFactionUser11Rewards8=稀有增幅 {^n}该势力委任状 {^n}精英级势力护甲 {^n}势力传奇装备设计图
+tagFactionUser12=虚灵先锋
+tagFactionUser12Info=被称作恐怖黎明的毁灭性事件发生时，在所有参与摧毁人类帝国的虚灵之中，有一些虚灵最先突破了空间的屏障，他们因此成为了给人类带来毁灭的使者。{^n}{^n}是他们最先渗透了伊露兰的各个阶层，是他们最先操纵了毫不知情的人类去破坏他们自己的城市和政府。这种虚灵先锋如今在城市的废墟中散播着腐化，而这废墟曾是沦陷的伊露兰那座帝国灯塔般的城市。{^n}{^n}可所有这些杀戮只不过是他们阴谋诡计的开端罢了。在虚灵血肉塑形者的手中创造出的邪物正在马尔茅斯的深处肆虐着，而接下来无论如何人类的抵抗势力都将迎来它的末日。
+tagFactionUser12Rewards1=刷新复仇级单位
+tagFactionUser12Rewards2=刷新额外英雄单位
+tagFactionUser12Rewards3=刷新额外敌人
+tagFactionUser12Rewards4=空
+tagFactionUser12Rewards5=N/A
+tagFactionUser12Rewards6=N/A
+tagFactionUser12Rewards7=N/A
+tagFactionUser12Rewards8=N/A
+
+#Quest
+tagCodexJournalSubHeadingUgdenbog=幸存者-巫登沼泽
+tagCodexJournalSubHeadingBarrowholm=幸存者-巴罗霍尔姆
+tagCodexJournalSubHeadingMalmouth=幸存者-马尔茅斯
+
+#SkillUI
+
+tagSkillUndoClass=撤销专精
+
+#Transmuter
+tagTransmuterWindow=幻化师
+tagTransmuteButton=应用幻化
+tagTransmuteNew=你得到了一种新幻化 : {%t0}
+tagTransmutePageFormat={%d0} / {%d1}
+tagTransmuteNoItems=你没有装备上任何幻化师可以施展幻化效果的装备。
+tagTransmuteTotalGold=拥有的铁币总数 :
+tagTransmuteCost=幻化费用 :
+
+SkillDamageAbsorptionReflectPercent={%.0f0}% {^E}伤害吸收反弹
+
+tagGDX1w=GrimDawn/images/evil
+
+#Maps
+
+tagMapSymbolTransmuteNpc=幻化师
+tagMapSymbolTransmuteNpcDesc=亦真亦幻的幻觉。
+
+#Skills
+tagItemSkillModified= {^E}至 {^Z}{%s0}
+
+#Char Stats Tab 2
+tagCharStatsInquisitorSkillsBonus=审判官技能加成
+tagCharStatsInquisitorSkillsBonusInfo=审判官专精中已习得的所有技能加成。
+tagCharStatsNecroSkillsBonus=死灵法师技能加成
+tagCharStatsNecroSkillsBonusInfo=死灵法师专精中已习得的所有技能加成。

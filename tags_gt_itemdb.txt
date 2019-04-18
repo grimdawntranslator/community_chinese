@@ -1,0 +1,134 @@
+ItemDB_tagItemDB=Grim Dawn 物品数据库
+
+# Menu
+ItemDB_tagMenuLanguage=语言
+ItemDB_tagMenuSettings=设置
+ItemDB_tagMenuItemAttributes=物品属性
+ItemDB_tagMenuItemAttributesAverage=显示平均值
+ItemDB_tagMenuItemAttributesMinMax=显示最小/最大值
+ItemDB_tagMenuItemAttributesRaw=显示基础（原始）数值
+ItemDB_tagMenuItemShowAllPetAttributesAndSkills=显示所有战宠属性和战宠技能
+ItemDB_tagMenuItemHighlightMI=高亮显示专属掉落装备
+ItemDB_tagMenuItemShowAllMonsters=展开“掉落来源”列表
+
+# Misc
+ItemDB_tagOverlayBuildingDB=构建数据库中...
+ItemDB_tagItemLevel=物品等级: {%d0}
+ItemDB_tagBlueprint=设计图: {%s0}
+ItemDB_tagCommon=普通
+ItemDB_tagMagic=魔法
+ItemDB_tagRare=稀有
+ItemDB_tagEpic=史诗
+ItemDB_tagLegend=传奇
+
+# Top bar / Search
+ItemDB_tagSearch=搜索...
+ItemDB_tagSearchIncludeItemDescriptions=包含物品描述
+ItemDB_tagNothingFound=无匹配结果
+# Search results: e.g. Search results for query "arcane" (105)
+ItemDB_tagSearchResults={^E} 查询{^H}{%s0}{^E}产生 ({%d1})条搜索结果
+ItemDB_tagSearchInvalidRegularExpression=错误: 无效的正则表达式
+
+# Overview / General terms
+ItemDB_tagOverview=总览
+ItemDB_tagTotalNumberOfItems=物品总数
+ItemDB_tagItemPrefixes=前缀
+ItemDB_tagItemSuffixes=后缀
+ItemDB_tagItemSets=套装
+ItemDB_tagItems=物品
+ItemDB_tagMonsterInfrequents=专属掉落
+ItemDB_tagUniqueRares=独特稀有
+ItemDB_tagUniqueRaresDescription=独特稀有物品 (任务奖励/ 特定位置掉落)
+ItemDB_tagFactionItems=势力物品
+ItemDB_tagNewInVersion=版本改动
+ItemDB_tagNewInVersionCategories=物品 | 前缀 | 后缀 | 套装 | 专属掉落 | 独特稀有 || 改动
+ItemDB_tagVersionNewItems=新物品
+ItemDB_tagVersionNewPrefixes=新前缀
+ItemDB_tagVersionNewSuffixes=新后缀
+ItemDB_tagVersionNewItemSets=新套装
+ItemDB_tagVersionNewMIs=新专属掉落
+ItemDB_tagVersionNewUniqueRares=新独特稀有
+ItemDB_tagFaction=势力
+ItemDB_tagItemSkillModifiers=物品技能修正
+
+# Category tabs
+ItemDB_tagTabPrefixes=前缀
+ItemDB_tagTabSuffixes=后缀
+
+# Affixes: applies to
+ItemDB_tagAffixAppliesTo=可用于: {%s0}
+ItemDB_tagAffixAllArmor=所有护甲
+ItemDB_tagAffixAllArmorExceptBelts=所有护甲 (除了腰带)
+ItemDB_tagAffixAllOneHandedWeapons=所有单手武器
+ItemDB_tagAffixAllTwoHandedWeapons=所有双手武器
+ItemDB_tagAffixAllJewelry=所有首饰
+
+# Left panel
+ItemDB_tagArmor=护甲
+ItemDB_tagWeapons=武器
+ItemDB_tagJewelry=首饰
+ItemDB_tagOther=其他
+
+# Left panel: category titles
+ItemDB_tagCategoryHelms=头盔
+ItemDB_tagCategoryShoulders=肩甲
+ItemDB_tagCategoryChestArmor=胸甲
+ItemDB_tagCategoryGloves=手套
+ItemDB_tagCategoryBelts=腰带
+ItemDB_tagCategoryPants=腿甲
+ItemDB_tagCategoryBoots=靴鞋
+ItemDB_tagCategorySwords=剑
+ItemDB_tagCategoryAxes=斧
+ItemDB_tagCategoryMaces=锤
+ItemDB_tagCategoryDaggers=匕首
+ItemDB_tagCategoryScepters=权杖
+ItemDB_tagCategoryOneHandedRanged=单手远程
+ItemDB_tagCategoryShields=盾牌
+ItemDB_tagCategoryOffHands=副手
+ItemDB_tagCategoryTwoHandedSwords=双手剑
+ItemDB_tagCategoryTwoHandedAxes=双手斧
+ItemDB_tagCategoryTwoHandedMaces=双手锤
+ItemDB_tagCategoryTwoHandedRanged=双手远程
+ItemDB_tagCategoryRings=戒指
+ItemDB_tagCategoryAmulets=项链
+ItemDB_tagCategoryMedals=胸章
+ItemDB_tagCategoryRelics=圣符
+ItemDB_tagCategoryAugments=附魔
+ItemDB_tagCategoryComponents=镶嵌物
+ItemDB_tagCategoryConsumables=消耗物
+ItemDB_tagCategoryQuestItems=任务物品
+ItemDB_tagCategoryBlueprints=设计图
+
+#Diff
+ItemDB_tagDiffChanges=改动
+ItemDB_tagDiffPetStatsChanges=战宠数据改动
+ItemDB_tagDiffItemSetBonusesChanges=套装奖励改动
+ItemDB_tagDiffItemAttributeScalingChanges=属性比例改动
+
+# Unique affixes
+ItemDB_tagUniquePrefix=独特前缀
+ItemDB_tagUniqueSuffix=独特后缀
+ItemDB_tagViewUniqueAffixes=查看独特词缀
+
+# Extra stuff for pets
+ItemDB_tagPetSkillPassive=[被动]
+ItemDB_tagPetSkillSelfBuff=[自享式Buff]
+ItemDB_tagPetSkillAttack=[攻击]
+ItemDB_tagPetSpawnWeight={^E}生成权重:{^H} {%s0}%
+
+# Extra
+ItemDB_tagHiddenStat={^S}(隐藏)
+
+ItemDB_tagPetInvincible={^E}无敌的
+ItemDB_tagNonTransmutableSetItem=不能从此套装转变成另一个物品
+
+# Monster db integration
+ItemDB_tagDroppedFromMonsters=掉落自:
+ItemDB_tagAnyMonster=(任意)
+
+# Map integration
+# Link to monster location on the map
+ItemDB_tagDroppedFromContainers=掉落自:
+# Link to merchant location on the map
+ItemDB_tagSoldByMerchant=可以购买自:
+ItemDB_tagMonsterMapLink=在地图中查看

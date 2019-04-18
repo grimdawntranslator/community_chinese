@@ -1,0 +1,138 @@
+MonsterDB_tagMonsterDB=Grim Dawn 怪物数据库
+MonsterDB_tagMonsterDBPets=Grim Dawn 战宠数据库
+
+# buff types, e.g. "Permanent buffs: OFF"
+MonsterDB_tagBuffsPermanent=永久buffs: {%s0}
+MonsterDB_tagBuffsTemporary=临时buffs: {%s0}
+MonsterDB_tagBuffsProc=触发buffs: {%s0}
+MonsterDB_tagBuffsOn={^G}开{^E}
+MonsterDB_tagBuffsOff={^R}关{^E}
+MonsterDB_tagBuffsNone=无
+
+MonsterDB_tagGameVersion=游戏版本:
+MonsterDB_tagBuildVersion=BD版本:
+MonsterDB_tagDifficulty=难度:
+
+MonsterDB_tagMonsterLevel=怪物等级
+// Shattered Realm shard #
+MonsterDB_tagShardNumber=破碎之境碎界
+// Player level for pet db
+MonsterDB_tagPlayerLevel=玩家等级
+MonsterDB_tagPetLevel=战宠等级
+
+MonsterDB_tagPetSummonSkillSource=来源
+MonsterDB_tagPetSummonSkillLevel=召唤技能等级
+MonsterDB_tagPetSummonSkillCooldown=召唤技能冷却
+MonsterDB_tagPetSummonSkillLimit=召唤限制
+
+MonsterDB_tagPetTypeRegular=常规战宠
+MonsterDB_tagPetTypePlayerScaling=玩家加成战宠
+MonsterDB_tagPetTypeCosmetic=装饰战宠
+
+MonsterDB_tagPetSourceMastery=专精
+MonsterDB_tagPetSourceDevotion=星座信仰
+MonsterDB_tagPetSourceEquipment=装备
+
+MonsterDB_tagPetSourceExtItemSet=物品套装
+MonsterDB_tagPetSourceExtPrefix=前缀
+MonsterDB_tagPetSourceExtSuffix=后缀
+MonsterDB_tagPetSourceExtConsumable=消耗品
+MonsterDB_tagPetSourceExtConstellation=星座
+MonsterDB_tagPetSourceExtSkill=技能
+# "Select" button for item selection
+MonsterDB_tagPetSourceExtSelect=选择
+
+# skills tab
+MonsterDB_tagTabSkills=技能
+MonsterDB_tagSkillInitialTimeout={^E}初次使用时间:{^H} {%s0}
+MonsterDB_tagSkillUseDelay={^E}使用时间间隔:{^H} {%s0}
+MonsterDB_tagSkillChanceToUse={^E}间隔时间后{^H} {%d0}%{^E}机率使用
+MonsterDB_tagSkillRange={^E}距离:{^H} {%s0}
+MonsterDB_tagSkillRangeShort=近
+MonsterDB_tagSkillRangeMedium=中
+MonsterDB_tagSkillRangeLong=远
+MonsterDB_tagSkillNoData=无
+MonsterDB_tagSkillNightBuff={^O}仅在夜晚激活
+MonsterDB_tagSkillAutoAttack={^O}自动攻击
+MonsterDB_tagSkillCastOnSpawn={^O}生成时释放
+MonsterDB_tagSkillCastOnDeath={^O}死亡时释放
+MonsterDB_tagSkillGroupAttack=攻击类
+MonsterDB_tagSkillGroupBuffs=Buff类
+MonsterDB_tagSkillGroupHealOthers=治疗盟友
+MonsterDB_tagSkillGroupOnSpawn=生成时
+MonsterDB_tagSkillGroupOnDeath=死亡时
+MonsterDB_tagSkillGroupPassive=被动
+# Usage: "Spawn: Wind Devil"
+MonsterDB_tagSkillSpawn={^E}生成:{^H}
+# Usage: "10 Seconds Spawn interval"
+MonsterDB_tagSkillSpawnInterval= {%s0} {^E}生成间隔{^H}
+# Usage: "Number of spawns: 2-4"
+MonsterDB_tagSkillNumberOfSpawns={^E}生成物数量:{^H} {%s0}
+
+# spawn locations tab
+MonsterDB_tagTabSpawnLocations=刷新点
+MonsterDB_tagShowOnTheMap=在地图上显示
+# shown if monster can't appear on its own, but instead spawned by someone else (as a pet, n-th phase etc.)
+# Usage: "Spawned by: Avatar of Mogdrogen" 
+MonsterDB_tagSpawnedBy=生成自:
+
+# loot tab
+MonsterDB_tagTabNotableLoot=值得注意的战利品
+MonsterDB_tagLootMonsterLevel=怪物等级 {%s}
+MonsterDB_tagLootItemLevel=等级 {%s}
+MonsterDB_tagLootNone=无
+MonsterDB_tagLootHeader1=战利品及其掉落率取决于怪物级别.
+MonsterDB_tagLootHeader2=战利品掉落表随下列怪物等级下改变:
+
+# monster list
+MonsterDB_tagListHeaderName=名称
+MonsterDB_tagListHeaderRace=种族
+MonsterDB_tagListHeaderType=类型
+MonsterDB_tagListHeaderPetType=类型
+# pet source (e.g. equipment, mastery, devotion)
+MonsterDB_tagListHeaderPetSource=来源
+MonsterDB_tagMonsterTypeCommon=普通
+MonsterDB_tagMonsterTypeChampion=精锐
+MonsterDB_tagMonsterTypeHero=精英
+MonsterDB_tagMonsterTypeBoss=Boss
+MonsterDB_tagMonsterTypeNemesis=复仇
+MonsterDB_tagMonsterTypeSuperBoss=超级Boss
+
+MonsterDB_tagMonsterExtraFirstPhase=第一阶段
+MonsterDB_tagMonsterExtraSecondPhase=第二阶段
+MonsterDB_tagMonsterExtraThirdPhase=第三阶段
+MonsterDB_tagMonsterExtraFourthPhase=第四阶段
+MonsterDB_tagMonsterExtraNormalDifficulty=普通
+MonsterDB_tagMonsterExtraEliteDifficulty=精英
+MonsterDB_tagMonsterExtraUltimateDifficulty=终极
+# used in conjunction with "MonsterDB_tagDifficulty" in the form of "Difficulty: Any"
+MonsterDB_tagMonsterExtraDifficulty=任意
+# Usage: "Player Level 75+"
+MonsterDB_tagMonsterExtraPlayerLevel=玩家等级 {%s}
+# Defense tier for crucible 
+MonsterDB_tagMonsterExtraTier={%d0}层
+
+MonsterDB_tagMenuSettings=设置
+MonsterDB_tagMenuLanguage=语言
+MonsterDB_tagMenuShowInitialSkillChain=分组显示初始技能链
+
+MonsterDB_tagSearch=搜索...
+MonsterDB_tagRaceAny=任意
+MonsterDB_tagTypeAny=任意
+MonsterDB_tagTypePetAny=任意
+MonsterDB_tagSourceAny=任意
+MonsterDB_tagNothingFound=无匹配结果
+
+MonsterDB_tagMonsterInvincible={^E}无敌的
+
+# offline
+MonsterDB_tagMenuFile=文件
+MonsterDB_tagMenuExit=退出
+MonsterDB_tagMenuAbout=关于
+MonsterDB_tagMenuFeedback=反馈
+MonsterDB_tagMenuHelp=帮助
+MonsterDB_tagMenuCheckForUpdates=检查更新...
+
+MonsterDB_tagUpdateIsAvailableShort=有可用更新
+MonsterDB_tagUpdateIsAvailable=有可用更新！你可以在这查看版本日志以及下载更新:
+MonsterDB_tagNoUpdates=当前版本已是最新版本

@@ -1,0 +1,66 @@
+Map_tagMap=恐怖黎明世界地图
+
+Map_tagNavigationAreas=区域
+Map_tagNavigationMarkers=标记图例
+Map_tagNavigationSearch=搜索
+
+Map_tagNavigationSearchHint=搜索...
+Map_tagSearchExpandAll=展开全部
+Map_tagSearchCollapseAll=折叠全部
+# Example usage: 3 group(s)
+Map_tagSearchGrouptCount={%d0}类
+Map_tagNavigationAreasSortAZ=按字母顺序排列
+Map_tagNavigationAreasSortHierarchichally=按等级排列
+
+Map_tagMarkerRift=裂隙传送门
+Map_tagMarkerShrine=祭坛
+Map_tagMarkerPOI=入口 / 出口
+Map_tagMarkerRogueDungeon=地牢入口
+Map_tagMarkerChest=珍贵宝箱
+Map_tagMarkerOneShotChest=一次性宝箱
+Map_tagMarkerLockedChest=上锁的宝箱
+Map_tagMarkerTreasureTrove=宝藏
+Map_tagMarkerBoss=值得注意的敌人
+Map_tagMarkerBounty=赏金目标
+Map_tagMarkerNemesis=复仇Boss
+Map_tagMarkerSuperBoss=超级Boss
+Map_tagMarkerNPC=NPC
+Map_tagMarkerNPCMerchant=商人
+Map_tagMarkerNPCSmith=铁匠
+Map_tagMarkerNPCSmuggler=走私者
+Map_tagMarkerNPCSpiritGuide=灵魂向导
+Map_tagMarkerNPCInventor=发明家
+Map_tagMarkerNPCIllusionist=幻化师
+Map_tagMarkerLever=控制杆
+Map_tagMarkerRepairSite=修理点
+Map_tagMarkerDetonationSite=爆破点
+Map_tagMarkerDynamite=炸药
+Map_tagMarkerQuest=任务
+Map_tagMarkerLoreNote=学识笔记
+
+Map_tagTransitionOneWayEntrance=单向入口
+Map_tagTransitionOneWayExit=单向出口
+# Extra info for entrances / exits that are initially hidden (mostly shortcuts)
+Map_tagTransitionHidden=初识隐藏
+Map_tagDesecratedShrineGoal=击败怪物
+
+Map_tagChestNotableLoot=值得注意的战利品
+
+# Example usage: "Nemesis" markers enabled
+Map_tagMarkersTurnedOn="{%s0}" 标记启用
+
+Map_tagMapLayerMarkers=标记
+Map_tagMapLayerPathing=路线
+Map_tagMapLayerAreaNames=区域名称
+Map_tagMapLayerLevelLimits=等级限制
+Map_tagMapLayerChallengeAreas=挑战区域
+
+# Example usage: Mutators: 1-2
+Map_tagMapChallengeAreaMutators=异化
+
+# Example usage: Group #123
+Map_tagObjectGroup=#{%s0}类
+# Example usage: 3 object(s)
+Map_tagGroupObjectCount={%d0}对象
+
+Map_tagPermalink=静态链接

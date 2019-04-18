@@ -1,0 +1,6 @@
+#Survival Mode Tags
+
+#NPCs
+tagGDX1NPC_IllusionistS01=艾德沃
+
+tagNotification_Checkpoint15=你现在可以从第150波试炼重新开始了。
