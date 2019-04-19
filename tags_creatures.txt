@@ -33,7 +33,7 @@ tagZealot_RangedA01=凯蒙的神选者 ~ 狂战士
 tagZealot_CasterB01=凯蒙的神选者 ~ 驭雷者
 tagZealot_ChampionC01=凯蒙的神选者 ~ 剑姬
 tagZealotH01=暴风侍女~ 修女奥赛蒂亚
-tagZealotH02=至高神使~ 神选者鲍德里斯 
+tagZealotH02=至高神使~ 神选者鲍德里斯
 tagZealotH03=修女珊德莉亚 ~ 防御者
 tagZealotH04=神选者汉德瑞克 ~ 燃烧
 tagZealot_Boss01=裂天者~ 修女布拉夫娜
@@ -99,7 +99,7 @@ tagEnemyBoneRatMeleeB02=骨背瘟疫散布者
 tagEnemyBoneratWitchGodA01=狂乱的瘟疫野兽
 tagEnemyBoneratWitchGodA02=腐败的瘟疫野兽
 
-tagEnemyBoneRatMeleeB02_Summon=海里昂白鼠
+tagEnemyBoneRatMeleeB02_Summon=海里昂的白鼠
 
 tagBoneRatHeroH01=诅咒者
 tagBoneRatHeroH02=剃刀背
@@ -183,7 +183,7 @@ tagEnemyChthonianDevourerB02=冥煞饱食者
 tagChthonianDevourerHeroH01=湮灭之爪~ 紐加鲁
 tagChthonianDevourerHeroH02=饥饿之胃~ 萨戈丁
 tagChthonianDevourerHeroH03=暴食者~ 纳尔·玛什
-tagChthonianDevourerHeroH04=烈焰魔口~ 奈卡祖尔 
+tagChthonianDevourerHeroH04=烈焰魔口~ 奈卡祖尔
 tagChthonianDevourerHeroH05=火花巨口~ 沃班纳
 
 tagChthonianDevourerBossB01=巨胃~ 拉格·纳达
@@ -218,7 +218,7 @@ tagFleshHulkHeroH04=菲斯特利斯 ~ 碾压者
 
 tagEnemyFleshHulkBoss01=脊背粉碎者~ 维纳瑞斯
 
-#CreatureGazer 
+#CreatureGazer
 
 tagEnemyGazerA01=腐化者
 tagEnemyGazerB01=监察者
@@ -361,7 +361,7 @@ tagHarpyBossB01=被遗忘的卢特拉
 tagEnemyHarvestmanA01=鬼怪稻草人
 tagEnemyHarvestmanB01=幽魂收割者
 
-tagHarvestmanHeroH01=内米笛安~ 收割者 
+tagHarvestmanHeroH01=内米笛安~ 收割者
 tagHarvestmanHeroH02=感染者~ 艾菲格斯
 tagHarvestmanHeroH03=阿斯珀 ~ 迅捷
 tagHarvestmanHeroH04=乌鸦邪灵 ~ 碾碎者
@@ -1016,8 +1016,8 @@ tagPetSpirit=束缚灵魂
 tagPetRitualCircle=仪式之环
 tagPetStormShard=风暴碎片
 tagPetArcaneWisp=奥术精灵
- 
- 
+
+
 tagDevotionPet_Skeleton=骸骨骷髅
 tagDevotionPet_ArcaneBomb=奥术炸弹
 tagDevotionPet_Hound=畏惧猎犬
@@ -1229,7 +1229,7 @@ tagBountyDC06=压碎者~ 罗曼诺夫
 tagBountyDC07=乌鸦~ 波拉
 tagBountyDC08=疫病的斯莱瑟拉
 tagBountyDC09=巴利尔 ~ 燃烧
-tagBountyDC10="格斗士" 伊戈尔 
+tagBountyDC10="格斗士" 伊戈尔
 tagBountyDC11=饮血者~ 贾斯匹斯
 tagBountyDC15=虚化之火~ 罗斯托夫
 tagBountyDC17=寒霜之裔~ 纳罗斯
@@ -1294,5 +1294,3 @@ tagRace013P=魔法生物
 tagRace014P=天神
 tagRace015P=蜘蛛族
 tagRace016P=植物
-
-

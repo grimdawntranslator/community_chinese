@@ -65,7 +65,7 @@ tagGDX1WeaponAxeF104=女巫之月
 
 tagGDX1WeaponGun1hB101=巫登沼泽咆哮者
 tagGDX1WeaponGun1hB101Desc="灌注了温迪戈的灵魂."
-tagGDX1WeaponGun1hB102=巫登沼泽毒液发射器
+tagGDX1WeaponGun1hB102=巫登沼泽射毒器
 tagGDX1WeaponGun1hB102Desc="每颗子弹都浸入了由栖息在巫登沼泽的各种野兽制作而成的混合物."
 tagGDX1WeaponGun1hB103=风暴电涌手枪
 
@@ -354,7 +354,7 @@ tagGDX1HeadD102=剧毒术士的诡计
 tagGDX1HeadD103=法术凝视
 tagGDX1HeadD104=龙骨面具
 tagGDX1HeadD109=德里格的呼声
-tagGDX1HeadD109_Desc="祝福和诅咒被赋予德里格之语持有者，当一个声音穿过，是女巫之神回应了他的神秘信息."
+tagGDX1HeadD109_Desc="施与传达德里格之语者的祝福与诅咒，便是巫神回应他隐晦信息的那个声音。"
 tagGDX1HeadD110=至高之神的凝视
 tagGDX1HeadD110_Desc="至高神的神圣之光照耀着这个皇冠的持有者."
 tagGDX1HeadD111=掠夺者的恐惧凝视
@@ -1017,7 +1017,7 @@ tagGDX1Blueprint_ArmorD136=设计图：神话 马尔科夫的面甲
 tagGDX1Blueprint_ArmorD137=设计图：神话 奥祖因的护面
 tagGDX1Blueprint_ArmorD138=设计图：神话 德里格的兜帽
 tagGDX1Blueprint_ArmorD139=设计图：神话 死亡印记兜帽
-tagGDX1Blueprint_ArmorD140=设计图：神话 伊斯坎德拉的兜帽
+tagGDX1Blueprint_ArmorD140=设计图：神话 伊斯坎德拉的罩帽
 tagGDX1Blueprint_ArmorD141=设计图：神话 尤尔托斯的头巾
 tagGDX1Blueprint_ArmorD142=设计图：神话 凛冬之王的头冠
 tagGDX1Blueprint_ArmorD143=设计图：神话 特洛赞的风帽

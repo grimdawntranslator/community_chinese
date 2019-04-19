@@ -213,8 +213,8 @@ tagGDX2ItemSkillD230_Pet02Desc=邪术碎片持续散发有害能量。
 tagGDX2ItemSkillD231Name=虚空之触
 tagGDX2ItemSkillD231Desc=从虚空之中汲取腐朽的力量赋予你的武器，每一次打击都会释放邪恶能量。^o当时用默认武器攻击时，虚空之触会造成额外的伤害。
 
-tagGDX2ItemSkillD232Name=疫病领主的馈赠
-tagGDX2ItemSkillD232Desc=疫病领主的馈赠会标记你的敌人，给予你的敌人虚弱诅咒从而更容易传播与感染。
+tagGDX2ItemSkillD232Name=枯萎领主的馈赠
+tagGDX2ItemSkillD232Desc=枯萎领主的馈赠会标记你的敌人，给予你的敌人虚弱诅咒从而更容易传播与感染。
 
 tagGDX2ItemSkillD233Name=召唤邪能利爪
 tagGDX2ItemSkillD233Desc=召唤一个恶魔与你并肩作战。邪能利爪将会撕裂附近敌人的存在。^o同一时间只能召唤一只邪能利爪。邪能利爪会受到战宠加成影响。

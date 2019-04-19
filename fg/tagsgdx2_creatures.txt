@@ -378,7 +378,7 @@ tagGDX2BountyWG05=沃诺克斯，熔火之铸
 tagGDX2BountyWG06=加尔兰诺
 tagGDX2BountyWG07=阿弗罗纳斯
 tagGDX2BountyWG08=雷纳，憎恶者
-tagGDX2BountyWG09=凯南，熔火核心
+tagGDX2BountyWG09=凯南，燃心
 tagGDX2BountyWG10=守卫者 亚哈鲁姆
 tagGDX2BountyWG11=守卫者 乌拉佐
 

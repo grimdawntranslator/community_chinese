@@ -69,7 +69,7 @@ tagGDX2WeaponGun1hD204=路德里根的佩枪
 
 tagGDX2WeaponGun1hF201=拜斯迈手炮
 tagGDX2WeaponGun1hF202=德里格手炮
-tagGDX2WeaponGun1hF203=钻血者
+tagGDX2WeaponGun1hF203=血钻
 
 tagGDX2WeaponGun2hB201=信使的连发枪
 tagGDX2WeaponGun2hB201_Desc="每一枪都是寇瓦克之先驱的毁灭复仇。"
@@ -113,10 +113,10 @@ tagGDX2WeaponMelee2hF203=怨恨
 tagGDX2WeaponMelee2hF203_Desc="据说德里格还是凡人时曾经用过这把剑。"
 
 
-tagGDX2WeaponCaster1hB201=赛格留斯的污染之刃
+tagGDX2WeaponCaster1hB201=塞格留斯的污染之刃
 tagGDX2WeaponCaster1hB201_Desc="曾经是一把神圣之刃，被虚空之触所污染。"
-tagGDX2WeaponCaster1hB202=赛格留斯的神圣之刃
-tagGDX2WeaponCaster1hB202_Desc="圣父凯蒙本人传下的神圣之刃。"
+tagGDX2WeaponCaster1hB202=塞格留斯的神圣之刃
+tagGDX2WeaponCaster1hB202_Desc="神父凯蒙本人传下的神圣之刃。"
 tagGDX2WeaponCaster1hB203=绯红修女的邪恶权杖
 tagGDX2WeaponCaster1hB204=绯红修女的奥术权杖
 tagGDX2WeaponCaster1hB205=飞升威权
@@ -142,7 +142,7 @@ tagGDX2WeaponCaster1hF203=德里格邪恶编织者
 tagGDX2WeaponCaster1hF204=德里格剧毒编织者
 tagGDX2WeaponCaster1hF205=索拉尔火焰散播者
 tagGDX2WeaponCaster1hF206=索拉尔鲜血编织者
-tagGDX2WeaponCaster1hF207=拜斯迈的心灵织机
+tagGDX2WeaponCaster1hF207=拜斯迈的心灵编织者
 tagGDX2WeaponCaster1hF208=吸血魔
 
 
@@ -197,9 +197,9 @@ tagGDX2FocusF201=拜斯迈邪火神像
 tagGDX2FocusF202=拜斯迈污染神像
 tagGDX2FocusF203=德里格负魂者之卷
 tagGDX2FocusF204=德里格帷幕编织者密卷
-tagGDX2FocusF205=索拉尔得织天密卷
+tagGDX2FocusF205=索拉尔的织天密卷
 tagGDX2FocusF206=索拉尔的虚空秘卷
-tagGDX2FocusF207=索拉尔的言语
+tagGDX2FocusF207=索拉尔之语
 tagGDX2FocusF207_Desc="索拉尔的残酷言语，原样传递给了他的祭司们。"
 
 
@@ -207,7 +207,7 @@ tagGDX2FocusF207_Desc="索拉尔的残酷言语，原样传递给了他的祭司
 #ArmorHead
 tagGDX2HeadB201=神选者之容
 tagGDX2HeadB202=神选者面具
-tagGDX2HeadB203=科凡华丽头盔
+tagGDX2HeadB203=科凡兜盔
 tagGDX2HeadB204=科凡头盔
 tagGDX2HeadB205=神选者凝视
 tagGDX2HeadB206=科凡凝视
@@ -430,7 +430,7 @@ tagGDX2WaistF203B=索拉尔邪恶束腰
 
 
 #Rings
-tagGDX2RingB201=爬藤戒指
+tagGDX2RingB201=爬藤指环
 
 tagGDX2RingC201=血红荆棘指环
 tagGDX2RingC202=纱幕守望指环
@@ -534,14 +534,14 @@ tagGDX2MedalF209=燃影印记
 
 
 #Blueprints
-tagGDX2Blueprint_RelicC201=设计图：圣物 - 坚忍
+tagGDX2Blueprint_RelicC201=设计图：圣物-坚忍
 
-tagGDX2Blueprint_RelicD201=设计图：圣物 - 沉思
-tagGDX2Blueprint_RelicD202=设计图：圣物 - 荣耀
-tagGDX2Blueprint_RelicD203=设计图：圣物 - 阿兹拉卡的时代
-tagGDX2Blueprint_RelicD204=设计图：圣物 - 尤戈尔的饥饿
-tagGDX2Blueprint_RelicD205=设计图：圣物 - 宁静
-tagGDX2Blueprint_RelicD206=设计图：圣物 - 宽恕
+tagGDX2Blueprint_RelicD201=设计图：圣物-沉思
+tagGDX2Blueprint_RelicD202=设计图：圣物-荣耀
+tagGDX2Blueprint_RelicD203=设计图：圣物-阿兹拉卡的时代
+tagGDX2Blueprint_RelicD204=设计图：圣物-尤戈尔的饥饿
+tagGDX2Blueprint_RelicD205=设计图：圣物-宁静
+tagGDX2Blueprint_RelicD206=设计图：圣物-宽恕
 
 tagGDX2Blueprint_WaistF201A=设计图：拜斯迈致命护腰
 tagGDX2Blueprint_WaistF201B=设计图：拜斯迈致命束腰
@@ -553,10 +553,10 @@ tagGDX2Blueprint_WaistF203B=设计图：索拉尔邪恶束腰
 tagGDX2Blueprint_WeaponD201=设计图：神话 仇苦烈风之裔
 tagGDX2Blueprint_WeaponD202=设计图：三巫神之裁决
 
-tagGDX2Blueprint_WeaponF201=设计图：钻血者
+tagGDX2Blueprint_WeaponF201=设计图：血钻
 tagGDX2Blueprint_WeaponF202=设计图：拜斯迈之握
 tagGDX2Blueprint_WeaponF203=设计图：拜斯迈的心灵编织者
-tagGDX2Blueprint_WeaponF204=设计图：腐化
+tagGDX2Blueprint_WeaponF204=设计图：腐化师
 tagGDX2Blueprint_WeaponF205=设计图：怨恨
 tagGDX2Blueprint_WeaponF206=设计图：秘术守御
 tagGDX2Blueprint_WeaponF207=设计图：放血者
@@ -578,8 +578,8 @@ tagGDX2Blueprint_ArmorD203=设计图：阳焰头盔
 tagGDX2Blueprint_ArmorD204=设计图：神话 黎明碎片之凝视
 tagGDX2Blueprint_ArmorD205=设计图：神话 幽魂之王华冠
 tagGDX2Blueprint_ArmorD206=设计图：神话 阳焰头盔
-tagGDX2Blueprint_ArmorD207=设计图：凌冽轻语风帽
-tagGDX2Blueprint_ArmorD208=设计图：路德里根之帽
+tagGDX2Blueprint_ArmorD207=设计图：凌冽轻语王冠
+tagGDX2Blueprint_ArmorD208=设计图：路德里根的檐帽
 tagGDX2Blueprint_ArmorD209=设计图：贩骨者的兜帽
 tagGDX2Blueprint_ArmorD210=设计图：美德之视
 tagGDX2Blueprint_ArmorD211=设计图：哈拉的头盔
@@ -772,10 +772,10 @@ tagGDX2EnchantA217Desc="取自一种传说中的邪术生物，这种生物几�
 tagGDX2EnchantA218A=贤者荆棘粉末
 tagGDX2EnchantA218Desc="贤者荆棘因其流出的暗红色墨汁而被学者们认为是无价之宝，但是采集那种汁液的人必须极其小心地避开那些刺，以免受到永远无法真正治愈的伤害。"^w^n（用于戒指和护符）
 
-tagGDX2EnchantA219A=帷幕蠢动粉末
+tagGDX2EnchantA219A=帷幕虫粉
 tagGDX2EnchantA219Desc="由虚空中令人不安的现象中得到的粉末，似乎虚空正以世界间的屏障为食。"^w^n（用于戒指和护符）
 
-tagGDX2EnchantA220A=虚空盐
+tagGDX2EnchantA220A=虚空之盐
 tagGDX2EnchantA220Desc="这些魔法粉末提取自虚空本身中的灰烬。你在这混合物中察觉到了一点人类灵魂的气息，你不知道那是一种额外添加进去的材料，还是虚空本身更令人不安的一面。"^w^n（用于戒指和护符）
 
 tagGDX2EnchantA221A=石像鬼鳞片

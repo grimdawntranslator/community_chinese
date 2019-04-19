@@ -733,8 +733,8 @@ tagQuestItemExileBossDrop_03Desc="这块黑曜石碎片闪烁着黑暗之力。"
 tagQuestItemExileBossDrop_04=骸骨猎手之牙
 tagQuestItemExileBossDrop_04Desc="卡利斯卡的尖牙，贝若纳斯的子嗣。能从一名商人那里取得等价报酬，或者是交给一个偏执的女巫。"
 
-tagQuestItemBlackLegionInsignia=黑色军团徽章
-tagQuestItemBlackLegionInsignia_Desc="授予普通士兵作为他们忠诚服役的奖赏。"
+tagQuestItemBlackLegionInsignia=黑色军团徽盾
+tagQuestItemBlackLegionInsignia_Desc="授予普通士兵作为他们忠诚服役的盾牌。"
 
 tagQuestItemCultistNecropolisNote=卡若兹的秘典
 tagQuestItemCultistNecropolisNote_Desc="一本写满了黑暗仪式的秘典，其中记述着大墓地中一股强大的黑暗力量即将归来。"
