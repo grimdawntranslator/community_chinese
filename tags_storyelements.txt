@@ -1,4 +1,4 @@
-﻿#Region Names
+#Region Names
 
 tagMapDevilsCrossing01=恶魔十字
 tagMapLowerCrossing01=下游渡口

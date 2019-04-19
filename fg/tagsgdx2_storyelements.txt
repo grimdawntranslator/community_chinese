@@ -60,7 +60,7 @@ tagGDX2WorldMapRaisedTemple=向阳{^n}尖塔
 tagGDX2WorldMapMessengersVolcano=赎罪{^n}洞穴
 tagGDX2WorldMapRoadToKorvaakTemple=晋升{^n}之路
 tagGDX2WorldMapKorvaakTomb=邪阳{^n}之墓
-tagGDX2WorldMapVanguard=三巫神{^n}先驱
+tagGDX2WorldMapVanguard=三巫神{^n}先锋营
 
 #Underground Names
 tagGDX2RuinedTemple01=奥西尔神庙

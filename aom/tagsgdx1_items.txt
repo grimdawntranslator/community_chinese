@@ -900,7 +900,7 @@ tagGDX1Blueprint_WaistF106B=设计图：温迪戈守卫束腰
 
 tagGDX1Blueprint_WeaponB101=设计图：风暴电涌手枪
 tagGDX1Blueprint_WeaponB102=设计图：火焰守卫步枪
-tagGDX1Blueprint_WeaponB103=设计图：溢血切肉刀
+tagGDX1Blueprint_WeaponB103=设计图：溢血切斧
 tagGDX1Blueprint_WeaponB104=设计图：碎肠者战槌
 tagGDX1Blueprint_WeaponB105=设计图：石墙防御者
 tagGDX1Blueprint_WeaponB106=设计图：法术冲击宝典
@@ -1016,7 +1016,7 @@ tagGDX1Blueprint_ArmorD135=设计图：神话 洞察者之帽
 tagGDX1Blueprint_ArmorD136=设计图：神话 马尔科夫的面甲
 tagGDX1Blueprint_ArmorD137=设计图：神话 奥祖因的护面
 tagGDX1Blueprint_ArmorD138=设计图：神话 德里格的兜帽
-tagGDX1Blueprint_ArmorD139=设计图：神话 死亡标记兜帽
+tagGDX1Blueprint_ArmorD139=设计图：神话 死亡印记兜帽
 tagGDX1Blueprint_ArmorD140=设计图：神话 伊斯坎德拉的兜帽
 tagGDX1Blueprint_ArmorD141=设计图：神话 尤尔托斯的头巾
 tagGDX1Blueprint_ArmorD142=设计图：神话 凛冬之王的头冠
