@@ -221,7 +221,7 @@ tagGDX2NPC_AreaG_25=尼兰
 
 tagGDX2NPC_AreaG_26=尤若布鲁克
 
-tagGDX2NPC_AreaG_27=卡娜萨，少卫女主
+tagGDX2NPC_AreaG_27=卡娜萨，哨卫女王
 
 tagGDX2NPC_AreaG_28=哈根 修士
 tagGDX2NPC_AreaG_29=瓦伊拉 修女
