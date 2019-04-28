@@ -178,26 +178,26 @@ tagGDX1POI_BridgeLever=马尔茅斯桥控制装置
 
 #Notifications
 
-tagNotification_AreaE_Barrowholm_Clue01=你从地下室听到了一些令人不安的声音…
+tagNotification_AreaE_Barrowholm_Clue01=你从地下室听到了一些令人不安的声音...
 tagNotification_AreaE_Barrowholm_Clue02=巴罗霍尔姆一定有着丰富多彩的历史...
 tagNotification_AreaE_Barrowholm_Clue03=这个配方看起来有些古怪...
 tagNotification_AreaE_Barrowholm_CellarOpen=斯科夫的钥匙似乎能与这个地下室的门锁相匹配...
 
-tagNotification_AreaF_OuterBridgeRiftgateEvent=这个传送门充满了虚灵.
-tagNotification_AreaF_OuterBridgeRiftGateEventClear=这个传送门的敌人已经被清除了.
-tagNotification_AreaF_RebelBaseRiftgateEvent=反抗军基地的虚灵泛滥成灾.
-tagNotification_AreaF_RebelBaseRiftgateEventClear=你清除了敌人的基地.
-tagNotification_AreaF_LiberateRebels01Found=附近有一群囚犯在呼救.
-tagNotification_AreaF_LiberateRebels02Found=附近有人在呼救.
-tagNotification_AreaF_EmberCrags=你成功地从虚空中逃脱并进入了马尔茅斯郊外!
+tagNotification_AreaF_OuterBridgeRiftgateEvent=这个传送门充满了虚灵。
+tagNotification_AreaF_OuterBridgeRiftGateEventClear=这个传送门的敌人已经被清除了。
+tagNotification_AreaF_RebelBaseRiftgateEvent=反抗军基地的虚灵泛滥成灾。
+tagNotification_AreaF_RebelBaseRiftgateEventClear=你清除了敌人的基地。
+tagNotification_AreaF_LiberateRebels01Found=附近有一群囚犯在呼救。
+tagNotification_AreaF_LiberateRebels02Found=附近有人在呼救。
+tagNotification_AreaF_EmberCrags=你成功地从虚空中逃脱并进入了马尔茅斯郊外！
 tagNotification_AreaF_MadRamblingsDoorOpened=你听到石头在附近移动的声音...
 tagNotification_AreaF_CantLeaveThem=不幸的是，已来不及拯救这些人...
 tagNotification_AreaF_CantLeaveThemNoQuest=对这些不幸的人所做的行径...令人不安...
-tagNotification_AreaF_DocksRiftgateEvent=黑铁码头已经被侵占了.
-tagNotification_AreaF_DocksEventFinished=在黑铁码头的虚灵已经被铲除了!
+tagNotification_AreaF_DocksRiftgateEvent=黑铁码头已经被侵占了。
+tagNotification_AreaF_DocksEventFinished=在黑铁码头的虚灵已经被铲除了！
 
 tagNotification_WarningAncientGroveGates=通往远古树林的路已经被打开。赶快，通道不会保持太久...
-tagNotification_WarningAncientGroveGatesLocked=远古树林的入口被封印了，而且不会在此次游戏中再次打开.
+tagNotification_WarningAncientGroveGatesLocked=远古树林的入口被封印了，而且不会在此次游戏中再次打开。
 tagNotification_WarningAncientGroveChallenge=腐化已经消失了。
 
 tagNotification_WarningAreaFSecret01=一个小小的萨蒂娜纪念品在杀戮后出现...
@@ -257,7 +257,7 @@ tagGDX1NPC_AreaF_19=金尼
 tagGDX1NPC_AreaF_20=艾拉琳娜
 tagGDX1NPC_AreaF_21=萨德
 tagGDX1NPC_AreaF_22=摧毁母巢
-tagGDX1NPC_AreaF_23=尼可·艾琳
+tagGDX1NPC_AreaF_23=尼可·艾林
 tagGDX1NPC_AreaF_24=妮莎
 tagGDX1NPC_AreaF_25=提莫
 tagGDX1NPC_AreaF_26=雷克托·克拉克
@@ -271,7 +271,7 @@ tagGDX1_NPC_S_S=罗卡的斗篷
 tagGDX1_NPC_S_T=罗卡的外套
 tagGDX1_NPC_S_F=罗卡的靴子
 tagGDX1_NPC_S_Set=罗卡的战利品
-tagGDX1_NPC_S_SetDesc="从血战中获得半神的装扮."
+tagGDX1_NPC_S_SetDesc="从血战中获得半神的装扮。"
 
 
 #Flavor NPC Names
@@ -300,49 +300,49 @@ tagGDX1NPC_Flavor_AreaF_06=
 #Quest Items
 
 tagQuestItemCovenTribute=卡拉克萨斯之心
-tagQuestItemCovenTributeDesc="一个巨大甲壳生物奇形怪状的心脏。它散发着海藻般的恶臭."
+tagQuestItemCovenTributeDesc="一个巨大甲壳生物奇形怪状的心脏。它散发着海藻般的恶臭。"
 
 tagQuestItemCovenRitual=巫登沼泽的神像
-tagQuestItemCovenRitualDesc="神像出现了破损，像是操作不慎导致的，但这正是格蕾蒂亚在寻找的."
+tagQuestItemCovenRitualDesc="神像出现了破损，像是操作不慎导致的，但这正是格蕾蒂亚在寻找的。"
 
 tagQuestItemInquisitorsRune=克里德的吊坠
-tagQuestItemInquisitorsRuneDesc="一个乍看普通的吊坠，中心刻着华丽的符文。然而它却散发着力量."
+tagQuestItemInquisitorsRuneDesc="一个乍看普通的吊坠，中心刻着华丽的符文。然而它却散发着力量。"
 
 tagGDX1QuestItemUlgrimHeirloom=艾格瑞姆的信物
-tagGDX1QuestItemUlgrimHeirloom_Desc="一个看似平凡之物。审判官克里德希望用它来找到艾格瑞姆的位置."
+tagGDX1QuestItemUlgrimHeirloom_Desc="一个看似平凡之物。审判官克里德希望用它来找到艾格瑞姆的位置。"
 tagGDX1QuestItemUlgrimHeirloom02=艾格瑞姆的信物
-tagGDX1QuestItemUlgrimHeirloom02_Desc="用女巫团的魔法制成，它应该，有希望，能找到通往艾格瑞姆的路。."
+tagGDX1QuestItemUlgrimHeirloom02_Desc="用女巫团的魔法制成，它应该，有希望，能找到通往艾格瑞姆的路。"
 
 tagGDX1QuestItemCellarKey_Name=巴罗霍尔姆地窖钥匙
-tagGDX1QuestItemCellarKey_Desc="一把简易锻造的钥匙。它看起来比巴罗霍尔姆的任何东西都要古老和破旧."
+tagGDX1QuestItemCellarKey_Desc="一把简易锻造的钥匙。它看起来比巴罗霍尔姆的任何东西都要古老和破旧。"
 
 
 
 tagGDX1QuestItemCovenMaterial_01=剧毒凝视者的胆汁
-tagGDX1QuestItemCovenMaterial_01_Desc="这东西闻着比看起来更糟."
+tagGDX1QuestItemCovenMaterial_01_Desc="这东西闻着比看起来更糟。"
 tagGDX1QuestItemCovenMaterial_02=叶鬃首领之角
-tagGDX1QuestItemCovenMaterial_02_Desc="不管遭受多重的刮擦，这支角仍然完好无损。它的原主人可能经历了残酷的竞争才赢得了首领之位."
+tagGDX1QuestItemCovenMaterial_02_Desc="不管遭受多重的刮擦，这支角仍然完好无损。它的原主人可能经历了残酷的竞争才赢得了首领之位。"
 
 tagGDX1QuestItemWendigoHeart_01=汉达罗斯之心
-tagGDX1QuestItemWendigoHeart_01_Desc="在这只野兽死后，还能发出响亮的心跳律动."
+tagGDX1QuestItemWendigoHeart_01_Desc="在这只野兽死后，还能发出响亮的心跳律动。"
 tagGDX1QuestItemWendigoHeart_02=奥利维斯之心
-tagGDX1QuestItemWendigoHeart_02_Desc="在这只野兽死后，还能发出响亮的心跳律动."
+tagGDX1QuestItemWendigoHeart_02_Desc="在这只野兽死后，还能发出响亮的心跳律动。"
 tagGDX1QuestItemWendigoHeart_03=尤沃劳斯之心
-tagGDX1QuestItemWendigoHeart_03_Desc="在这只野兽死后，还能发出响亮的心跳律动."
+tagGDX1QuestItemWendigoHeart_03_Desc="在这只野兽死后，还能发出响亮的心跳律动。"
 
 tagGDX1QuestItemDravisClue_01=德拉维斯的信
-tagGDX1QuestItemDravisClue_01_Desc=亲爱的妹妹,{^n}我又发现自己几乎说不出话来。为什么要背叛你的血亲？为什么要背弃你的哥哥，在我如此接近真相之时？{^n}{^n}不过这没有关系，不管你在不在，我都会终结我们父亲的最后一口气。如果你正在读这封信，那就太迟了，因为我再一次冒险踏上死人都不敢去的地方，活人之血与主人结合的地方。加入我的时机已经错过了，黛拉。回去吧，因为我去的地方，你不能跟来...{^n}德拉维斯
+tagGDX1QuestItemDravisClue_01_Desc=亲爱的妹妹，{^n}我又发现自己几乎说不出话来。为什么要背叛你的血亲？为什么要背弃你的哥哥，在我如此接近真相之时？{^n}{^n}不过这没有关系，不管你在不在，我都会终结我们父亲的最后一口气。如果你正在读这封信，那就太迟了，因为我再一次冒险踏上死人都不敢去的地方，活人之血与主人结合的地方。加入我的时机已经错过了，黛拉。回去吧，因为我去的地方，你不能跟来...{^n}德拉维斯
 
 tagGDX1QuestItemDravisClue_02=德拉维斯的献礼
-tagGDX1QuestItemDravisClue_02_Desc="有一张附在花上的便条：一朵带刺的花送给一位带刺的女人. -D"
+tagGDX1QuestItemDravisClue_02_Desc="有一张附在花上的便条：一朵带刺的花送给一位带刺的女人。 -D"
 
 tagGDX1QuestItemMadRamblings_01=伊旺达的记忆
-tagGDX1QuestItemMadRamblings_01_Desc="日记里大部分都是疯狂的胡言乱语，但有些还是挺有趣的，如果你能弄懂它们的话."
+tagGDX1QuestItemMadRamblings_01_Desc="日记里大部分都是疯狂的胡言乱语，但有些还是挺有趣的，如果你能弄懂它们的话。"
 
 tagQuestItemRebelBomb=反抗军炸弹
-tagQuestItemRebelBombDesc="一个简易的炸弹。看起来它的威力并不足以完成工作."
+tagQuestItemRebelBombDesc="一个简易的炸弹。看起来它的威力并不足以完成工作。"
 tagQuestItemCreedsAdditive=克里德的添加剂
-tagQuestItemCreedsAdditiveDesc="一种带有恶臭的糊状混合物。审判官克里德声称这能让反抗军的临时炸药更强力."
+tagQuestItemCreedsAdditiveDesc="一种带有恶臭的糊状混合物。审判官克里德声称这能让反抗军的临时炸药更强力。"
 
 
 #Journals
@@ -353,11 +353,11 @@ tagGDX1LoreObj_InquisitorCreedA09Text=在被占据者的帮助下，我们给了
 
 tagGDX1LoreObj_InquisitorCreedA10Name=审判官克里德的日志-第10章
 tagGDX1LoreObj_InquisitorCreedA10codexTitle=审判官克里德-第10章
-tagGDX1LoreObj_InquisitorCreedA10Text=被占据者从伯尔维治，穿过幽暗林地开辟出了一条道路。他再次深入虚空将艾格瑞姆带回世间。我已经不可能不去想艾格瑞姆确实是位传奇人物，一位不朽的升灵者。{^n}{^n}我既庆幸拥有一位这样强大的盟友，可同样又感到紧张不安。在艾格瑞姆和最近关于莫格卓根的流言之间，我担心其他神祇就像古时候常常插手凡间事务一样，也搅入了这场世间动乱。{^n}{^n}这让我回想起了萦绕心头的凯蒙的秘密。他和他的追随者们显然是从某股神一般的势力那里汲取来的力量。可那是谁?他又是什么?我对凯蒙最初宣称是至高神引导他的这种说法十分的怀疑。我从凯蒙派来霍姆斯特德的使者身上觉察到的力量之中包含着一种...怨恨的感觉。{^n}{^n}凯蒙曾是我的审判官同袍之一，可他在恐怖黎明发生的多年之前就已经离经叛道。他虽不是虚灵，但我恐怕他已经签下了某种黑暗契约，以换得未知的力量。传说中的上神，至高神如果再临凯恩世界的话，他可不会把神力交给一位疯言疯语的狂热信徒和他带领的一群流民。{^n}{^n}尽管如此，凯蒙神选者背后的那股力量的确有不可小觑的威势，可不知其身份和动机使我困惑不安。
+tagGDX1LoreObj_InquisitorCreedA10Text=被占据者从伯尔维治，穿过幽暗林地开辟出了一条道路。他再次深入虚空将艾格瑞姆带回世间。我已经不可能不去想艾格瑞姆确实是位传奇人物，一位不朽的升灵者。{^n}{^n}我既庆幸拥有一位这样强大的盟友，可同样又感到紧张不安。在艾格瑞姆和最近关于莫格卓根的流言之间，我担心其他神祇就像古时候常常插手凡间事务一样，也搅入了这场世间动乱。{^n}{^n}这让我回想起了萦绕心头的凯蒙的秘密。他和他的追随者们显然是从某股神一般的势力那里汲取来的力量。可那是谁？他又是什么？我对凯蒙最初宣称是至高神引导他的这种说法十分的怀疑。我从凯蒙派来霍姆斯特德的使者身上觉察到的力量之中包含着一种...怨恨的感觉。{^n}{^n}凯蒙曾是我的审判官同袍之一，可他在恐怖黎明发生的多年之前就已经离经叛道。他虽不是虚灵，但我恐怕他已经签下了某种黑暗契约，以换得未知的力量。传说中的上神，至高神如果再临凯恩世界的话，他可不会把神力交给一位疯言疯语的狂热信徒和他带领的一群流民。{^n}{^n}尽管如此，凯蒙神选者背后的那股力量的确有不可小觑的威势，可不知其身份和动机使我困惑不安。
 
 #AreaE Notes
 #Barrowholm_01
-tagGDX1LoreObj_AreaE_Barrowholm_A01Name=未来会怎样?
+tagGDX1LoreObj_AreaE_Barrowholm_A01Name=未来会怎样？
 tagGDX1LoreObj_AreaE_Barrowholm_A01Text=在这些艰难的日子里，我经常发现自己在祈祷。我的脑子里装满了无法回答的问题；或者，如果有答案的话，我们就真的能理解吗？{^n}{^n}众神以神秘的方式工作。我们的守护神取予有节，但我相信他对那些没有质疑并追随他的人是慷慨的。我现在明白了我们存在的必要性，我们的选择会产生后果，我们必须低头尊敬我们被给予的一切。{^n}{^n}我们永远不会忘记一旦离开他，我们将变得毫无价值。我们的家园会被沼泽的大水所摧毁，我们的人民会屈服于疯狂温迪戈的吞噬。我们必须引以为戒;因为不服从将导致死亡，我们必须坚定不移地履行我们的承诺。
 
 #Barrowholm_02
@@ -370,7 +370,7 @@ tagGDX1LoreObj_AreaE_Barrowholm_A03Text=我并不是一直就喜欢这种味道�
 
 #Barrowholm_04
 tagGDX1LoreObj_AreaE_Barrowholm_A04Name=掠夺者
-tagGDX1LoreObj_AreaE_Barrowholm_A04Text=不公正。这是伟主的故事。不公正和背叛。{^n}{^n}掠夺者曾经走到我们中间，他是一个美丽的生物，自然平衡的化身。他在崇拜者中壮大并赐予他们许多礼物。但他并不是唯一拥有这种力量的人。{^n}{^n}野兽之神越发地嫉妒掠夺者的信徒。在黑夜中，他找到了掠夺者的巢穴，在他的奴隶的帮助下，他将伟主驱逐出了本位面。{^n}{^n}失去实体并被遗忘，掠夺者抵抗着精神牢笼。他试图重返现世，并纠正所受到的不公；通过我们的牺牲，他的审判日就要来临了。我们将成为贯彻他意志的先驱，他怜悯的恩人。当掠夺者的嘴紧咬着背叛者的喉咙时，让我们喝他的血并超越弱者.
+tagGDX1LoreObj_AreaE_Barrowholm_A04Text=不公正。这是伟主的故事。不公正和背叛。{^n}{^n}掠夺者曾经走到我们中间，他是一个美丽的生物，自然平衡的化身。他在崇拜者中壮大并赐予他们许多礼物。但他并不是唯一拥有这种力量的人。{^n}{^n}野兽之神越发地嫉妒掠夺者的信徒。在黑夜中，他找到了掠夺者的巢穴，在他的奴隶的帮助下，他将伟主驱逐出了本位面。{^n}{^n}失去实体并被遗忘，掠夺者抵抗着精神牢笼。他试图重返现世，并纠正所受到的不公；通过我们的牺牲，他的审判日就要来临了。我们将成为贯彻他意志的先驱，他怜悯的恩人。当掠夺者的嘴紧咬着背叛者的喉咙时，让我们喝他的血并超越弱者。
 
 #DarkWood_01
 tagGDX1LoreObj_AreaE_NoteA01Name=浸血的潦草文章
@@ -399,13 +399,13 @@ tagGDX1LoreObj_AreaE_NoteA06Text=我们自以为聪明，掌握了这种魔法�
 tagGDX1LoreObj_AreaE_NoteA07Name=纳内的藏匿物
 tagGDX1LoreObj_AreaE_NoteA07Text=我不知道他在干什么，但在上周有两次我见到纳内驾着满载的马车驶向北方途径旧磨坊。然后两次都空车返回。他一定在那里藏了什么，我想找出来。如果他发了什么大财， 那我肯定要跟着捞上一笔。
 
-#AncientGrove 
+#AncientGrove
 tagGDX1LoreObj_AreaE_AncientGrove_NoteA01Name=莫格卓根的沉思
 tagGDX1LoreObj_AreaE_AncientGrove_NoteA01Text=最近的事件让我心忧。{^n}{^n}一名叫做凯蒙伊露兰审判官的凡人偶然发现了一些东西，一些……古老已被遗忘的事物。就像其他鲁莽的凡人一样，他并没有丢下那该被遗忘的东西。科凡高原的地下深处正在进行着一场巨变。凯恩世界的野兽们焦躁不安，它们也感觉到了。{^n}{^n}更具神秘色彩的是，那些平日反复无常的伪神却不寻常地保持着沉默。我怀疑他们已经退入了他们的私人位面之中。在这个时间点，他们这么做绝非出于偶然。巫神们感到恐惧。他们一定关注着吸食凯蒙和其信众灵魂的那股力量。凡人们热情地顶礼膜拜滋养着它，予其力量使其成型。{^n}{^n}人类传言伟大的至高神即将回归，但我知道这只不过是可怜无助者们的一厢情愿罢了。这股被遗忘的力量令我百思不得其解，但这力量却让我感到那么的……熟悉。{^n}{^n}可以肯定的是我们即将大难临头。我已从大地和风中感觉到了，那股数千年都未再现身的力量渴望着鲜血与复仇。{^n}{^n}我必须召集我的罗瓦里们，考验他们信念的时候就要到了。
 
 #Kraken
 tagGDX1LoreObj_AreaE_Kraken_NoteA01Name=巫登之谜
-tagGDX1LoreObj_AreaE_Kraken_NoteA01Text=遵循着伊露兰皇帝本人的法令，我和我尊敬的同事将进入更广阔的帝国，并为那广阔领域的动植物编写目录。当时我认为这不过是一个闲差，但不是所有的任务都是平等的，在我从伯尔维治村外的潮湿并有着不详黑暗的巫登沼泽写下这一点时。{^n}{^n}在我抵达的三周内，我的两个侍卫的生命被，这里我非常认真，植物夺走了。被至高神所遗弃的植物夺走了。我要补充一点，我的专长一直都是神秘能量对植物的严重影响，而不是特殊的葡萄藤肢解了两个人的其中一个而一朵巨大的花朵消化了我整个队伍的另一个人！{^n}{^n}如果我没有离开伊露兰几周，我一定会要求重新分配任务。然而旅途并非一无所获。因为我确实沿途观察到了一些奇特的现象：那些看似自然的生物，没有表现在这个区域的生物应该表现的表现型的基本范围内。就好象它们是从另一个地方被连根拔起然后被瞬间重定位在这个位置一样。{^n}{^n}在营地的这些天讨论的东西中最令人着迷的，就是被当地人称为克拉瓦尔，水域古魔的生物。到目前为止，我们只瞥见了它众多触角中的一个。我只能想象这个生物的全部尺寸，但是它是巨大的，而且完全不像在巫登沼泽水域里发现的其他任何生物。{^n}{^n}我们的旅途将我们带到了我怀疑是其水下巢穴的地方，并且我的调查员同伴立即开始抱怨起头疼，就像在接触到高浓度的邪术魔法一样。结合它那不寻常的外观，我得出的结论是，这个生物，和其他类似的生物一样，都是邪术生物。但是那是巫神的无情玩物的体现，还是有可能是别的什么事情？{^n}{^n}-Gallad nico, 帝国档案保管员。
+tagGDX1LoreObj_AreaE_Kraken_NoteA01Text=遵循着伊露兰皇帝本人的法令，我和我尊敬的同事将进入更广阔的帝国，并为那广阔领域的动植物编写目录。当时我认为这不过是一个闲差，但不是所有的任务都是平等的，在我从伯尔维治村外的潮湿并有着不详黑暗的巫登沼泽写下这一点时。{^n}{^n}在我抵达的三周内，我的两个侍卫的生命被，这里我非常认真，植物夺走了。被至高神所遗弃的植物夺走了。我要补充一点，我的专长一直都是神秘能量对植物的严重影响，而不是特殊的葡萄藤肢解了两个人的其中一个而一朵巨大的花朵消化了我整个队伍的另一个人！{^n}{^n}如果我没有离开伊露兰几周，我一定会要求重新分配任务。然而旅途并非一无所获。因为我确实沿途观察到了一些奇特的现象：那些看似自然的生物，没有表现在这个区域的生物应该表现的表现型的基本范围内。就好象它们是从另一个地方被连根拔起然后被瞬间重定位在这个位置一样。{^n}{^n}在营地的这些天讨论的东西中最令人着迷的，就是被当地人称为克拉瓦尔，水域古魔的生物。到目前为止，我们只瞥见了它众多触角中的一个。我只能想象这个生物的全部尺寸，但是它是巨大的，而且完全不像在巫登沼泽水域里发现的其他任何生物。{^n}{^n}我们的旅途将我们带到了我怀疑是其水下巢穴的地方，并且我的调查员同伴立即开始抱怨起头疼，就像在接触到高浓度的邪术魔法一样。结合它那不寻常的外观，我得出的结论是，这个生物，和其他类似的生物一样，都是邪术生物。但是那是巫神的无情玩物的体现，还是有可能是别的什么事情？{^n}{^n}-Gallad nico，帝国档案保管员。
 
 #AreaF Notes
 #CultOfChthon_01
@@ -501,13 +501,13 @@ tagLoreObj_AreaF_KatrineNote_Text=我亲爱的爱丽丝，我辜负了你。{^n}
 tagGDX1LoreObj_AreaF_Puppetmaster01Name=阿洛斯崔亚的命令
 tagGDX1LoreObj_AreaF_Puppetmaster01Text=按照我们的命令，你要前往马尔茅斯。不惜一切代价，加快行进。一旦你到了那里，你需要查明在血肉塑造者统治下所取得的成果。我们有理由相信，他最近的行为偏离了共识并威胁到了我们的宏伟愿景。{^n}{^n}如果我们的怀疑属实，请立即把塑造者送回伊露兰，并取代他的位置作为在马尔茅斯行动的核心。但是如果我们怀疑错了，那么按照命令立即报告这个误判并确保共识继续进行。{^n}{^n}伟大之眼在注视着我们，我们必须立即行动。没有一块拼图能够按照自己的想法去扭曲自己。当胜利就在眼前，我们不能受到阻碍。{^n}{^n}-助手奥林·沃斯特拉，五圣圈之四
 
-tagGDX1LoreObj_AreaF_Special01Name=快滚!
-tagGDX1LoreObj_AreaF_Special01Text=我能感受到你的企图，旅行者，无尽的欲望。但最终，大多数凡人为了避免死亡而却步。如果你不害怕，无论如何都要继续前进。{^n}{^n}不要因为一无所获而气急败坏。当火焰与火焰相遇时，前进的路也会打开，我们的相遇会更近一步.
+tagGDX1LoreObj_AreaF_Special01Name=快滚！
+tagGDX1LoreObj_AreaF_Special01Text=我能感受到你的企图，旅行者，无尽的欲望。但最终，大多数凡人为了避免死亡而却步。如果你不害怕，无论如何都要继续前进。{^n}{^n}不要因为一无所获而气急败坏。当火焰与火焰相遇时，前进的路也会打开，我们的相遇会更近一步。
 
-tagGDX1LoreObj_AreaF_Special02Name=你最后的机会!
+tagGDX1LoreObj_AreaF_Special02Name=你最后的机会！
 tagGDX1LoreObj_AreaF_Special02Text=面前的道路铺满了挑战者的尸骨，就像你一样。他们所有人都会落入无法理解的现实之中。{^n}{^n}快滚吧，趁你还有得选，凡人，恐怕我的领域也要你滚。
 
-tagGDX1LoreObj_AreaF_Special03Name=这里不欢迎你!
+tagGDX1LoreObj_AreaF_Special03Name=这里不欢迎你！
 tagGDX1LoreObj_AreaF_Special03Text=你的毅力使我发笑，凡人。你以为自己是人生舞台上的角斗士，奋力地想从平庸之辈中脱颖而出。{^n}{^n}但在这里，在我的领域，你只是另一个寻找你自以为应得奖赏的傻瓜。说到底贪婪乃万恶之源。
 
 
@@ -536,7 +536,7 @@ tagGDX1StoreTitle_SmugglerA01=走私者
 tagGDX1NPC_ReallocatorA02=丽娜
 tagGDX1StoreTitle_ReallocatorA02=灵魂向导
 
-tagGDX1NPC_InventorA01=纳蒂亚
+tagGDX1NPC_InventorA01=娜蒂亚
 tagGDX1StoreTitle_InventorA01=发明家
 
 tagGDX1NPC_MerchantA03=海拉姆

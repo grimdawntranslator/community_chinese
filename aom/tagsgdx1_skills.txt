@@ -216,7 +216,7 @@ tagGDX1Class08SkillDescription11A=训练有素的死灵法师是一种可怕的�
 tagGDX1Class08SkillName12A=[死灵法师]收割打击
 tagGDX1Class08SkillDescription12A=将致命的死灵能量注入武器，死灵法师可以造成比肉体切割更深的伤害。 ^o所有默认武器攻击均可激活该技能效果。
 tagGDX1Class08SkillName13A=[死灵法师]死灵刀锋
-tagGDX1Class08SkillDescription13A=打击中附带着死亡寒气，你的攻击能使伤口立即坏死，这一景象甚至会使意志最坚定的敌人动摇。^o所有默认武器攻击均可激活该技能效果。当使用一把近战武器发动时,会击中附近多个目标。
+tagGDX1Class08SkillDescription13A=打击中附带着死亡寒气，你的攻击能使伤口立即坏死，这一景象甚至会使意志最坚定的敌人动摇。^o所有默认武器攻击均可激活该技能效果。当使用一把近战武器发动时，会击中附近多个目标。
 
 tagGDX1Class08SkillName14A=[死灵法师]折磨印记
 tagGDX1Class08SkillDescription14A=虽然所有人都必须面对最终的命运，但是对死亡的掌控使你可以延缓不可避免的宿命。将灵魂连接到附近的敌人，把部分伤害转移到他们身上。^o同一时间只能标记一个敌人。
@@ -542,7 +542,7 @@ tagGDX1CompSkillA105Name=虚化腐烂
 tagGDX1CompSkillA105Desc=用腐烂的虚化能量撕裂你的敌人，迅速在你的敌人中散播腐烂。
 
 tagGDX1CompSkillA106Name=虚空燃烧
-tagGDX1CompSkillA106Desc=通过将毁灭性的虚空能量注入攻击,你以巧妙一击对毫无戒备的敌人释放这些能量。投射物会在接触敌人时爆裂开来。^o所有的默认武器攻击均可生效。
+tagGDX1CompSkillA106Desc=通过将毁灭性的虚空能量注入攻击，你以巧妙一击对毫无戒备的敌人释放这些能量。投射物会在接触敌人时爆裂开来。^o所有的默认武器攻击均可生效。
 
 tagGDX1CompSkillA107Name=寒冷尖刺
 tagGDX1CompSkillA107Desc=投掷魔法纯冰尖刺刺穿你的敌人。
@@ -608,7 +608,7 @@ tagGDX1RelicSkillD105Name=毁灭力量
 tagGDX1RelicSkillD105Desc=释放一道强大的物理冲击波击倒并且拉近附近的敌人。
 
 tagGDX1RelicSkillD106Name=炽热冲锋
-tagGDX1RelicSkillD106Desc=以至高之神之名冲锋陷阵并用神圣之火焚烧敌人。^o需要一个近战武器。当装备盾牌时,盾牌的伤害也会被计算在内。
+tagGDX1RelicSkillD106Desc=以至高之神之名冲锋陷阵并用神圣之火焚烧敌人。^o需要一个近战武器。当装备盾牌时，盾牌的伤害也会被计算在内。
 
 tagGDX1RelicSkillD107Name=混沌波涛
 tagGDX1RelicSkillD107Desc=释放毁灭性能量的冲击波穿透敌人再返回你身边。
@@ -718,7 +718,7 @@ tagGDX1Devotion_C103=维尔，石夫人
 tagGDX1Devotion_C103Desc=安克维亚传说中的众神之母，最强大的石夫人代表了凯恩本身，她拥有来自石头的刚毅和力量，巍然不动地对抗最大的困境。
 tagGDX1Devotion_C104=阿塔克瑟如，幻影
 tagGDX1Devotion_C104Desc=阿塔克瑟如曾是织法守护女神，是那些敢于使用魔法之人的保护神。所有安克维亚仪式都把阿塔克瑟如的象征刻进符文圈当作预防措施；但即使是她的守护也不足矣避开死灵法师诅咒的影响。
-tagGDX1Devotion_C105=莱托什,暗影守望者
+tagGDX1Devotion_C105=莱托什，暗影守望者
 tagGDX1Devotion_C105Desc=隐藏在阴影中，安克维亚伟大的守护者注视着现实世界的边界，确保没有恶魔逃脱精神境界肆虐生者。当安克维亚的诅咒蔓延开来，人民乞求莱托什的恩赐解脱，但他从未出现。
 
 tagGDX1DevotionEffectB101=谣言

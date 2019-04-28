@@ -39,7 +39,7 @@ tagGDX2WeaponBluntF203=拜斯迈之握
 tagGDX2WeaponAxeB201=沙爪切斧
 tagGDX2WeaponAxeB202=熔爪切斧
 tagGDX2WeaponAxeB203=裂爪切斧
-tagGDX2WeaponAxeB204=切骨者
+tagGDX2WeaponAxeB204=骨切者
 tagGDX2WeaponAxeB205=仆从的剃刃
 
 tagGDX2WeaponAxeC201=帷幕之锋
@@ -56,7 +56,7 @@ tagGDX2WeaponAxeF203=腐化师
 tagGDX2WeaponGun1hB201=毒蛇喷砂枪
 tagGDX2WeaponGun1hB202=毒蛇放血枪
 tagGDX2WeaponGun1hB203=巫登沼泽连发枪
-tagGDX2WeaponGun1hB103Desc="枪中注入了温迪戈的灵魂."
+tagGDX2WeaponGun1hB103Desc="枪中注入了温迪戈的灵魂。"
 
 tagGDX2WeaponGun1hC201=沙刺
 tagGDX2WeaponGun1hC202=影脊执法者
@@ -93,7 +93,7 @@ tagGDX2WeaponMelee2hB201=科凡烈焰戟
 tagGDX2WeaponMelee2hB202=科凡风暴戟
 tagGDX2WeaponMelee2hB203=摄政王长戟
 tagGDX2WeaponMelee2hB203_Desc="包含着群星那不可思议的力量。"
-tagGDX2WeaponMelee2hB204=巴尔霍罗姆木槌
+tagGDX2WeaponMelee2hB204=巴索勒姆的法槌
 tagGDX2WeaponMelee2hB205=科凡邪术戟
 tagGDX2WeaponMelee2hB206=科凡收割戟
 
@@ -225,10 +225,10 @@ tagGDX2HeadC207=腐败之焰面具
 tagGDX2HeadC208=戴迦的风帽
 tagGDX2HeadC209=石父头盔
 tagGDX2HeadC210=卡拉加德拉的凝视
-tagGDX2HeadC210_Desc="生动的表现了科凡城的人们拼命逃亡时的恐惧。"
+tagGDX2HeadC210_Desc="生动地表现了科凡城的人们拼命逃亡时的恐惧。"
 
 tagGDX2HeadD201=黎明碎片之凝视
-tagGDX2HeadD201_Desc="由最纯净的烈阳水晶碎片铸造而成。"
+tagGDX2HeadD201_Desc="由最纯净的索拉丁水晶碎片铸造而成。"
 tagGDX2HeadD202=幽魂之王华冠
 tagGDX2HeadD202_Desc="死神亦需在其王前俯首。"
 tagGDX2HeadD203=阳焰头盔
@@ -246,7 +246,7 @@ tagGDX2HeadD212=哈拉的兜帽
 tagGDX2HeadD213=飓风面具
 tagGDX2HeadD214=枯萎领主的兜帽
 tagGDX2HeadD215=卡拉加德拉的面容
-tagGDX2HeadD215_Desc="生动的表现了科凡城的人们拼命逃亡时的恐惧。"
+tagGDX2HeadD215_Desc="生动地表现了科凡城的人们拼命逃亡时的恐惧。"
 
 tagGDX2HeadF201=拜斯迈夜幕华丽头盔
 tagGDX2HeadF202=拜斯迈恐怖兜帽
@@ -323,7 +323,7 @@ tagGDX2TorsoC206=戴迦的华服
 tagGDX2TorsoC207=石父重甲
 
 tagGDX2TorsoD201=黎明碎片锁子甲
-tagGDX2TorsoD201_Desc="由最纯净的烈阳水晶碎片铸造而成。"
+tagGDX2TorsoD201_Desc="由最纯净的索拉丁水晶碎片铸造而成。"
 tagGDX2TorsoD202=断誓夹克
 tagGDX2TorsoD202_Desc="由于对曼海尔的牧师那无法兑现测承诺感到失望，塔利亚找到了另一个回应她祈祷的声音。"
 tagGDX2TorsoD203=尤戈尔之心
@@ -366,9 +366,9 @@ tagGDX2HandsC203_Desc="这东西很适合...拿着些非常刺激的东西。"
 tagGDX2HandsC204=邪恶之蔑护腕
 
 tagGDX2HandsD201=裂虚之爪
-tagGDX2HandsD201_Desc="曾深入莱洛克流血的心脏中."
+tagGDX2HandsD201_Desc="曾深入莱洛克流血的心脏中。"
 tagGDX2HandsD202=黎明碎片手甲
-tagGDX2HandsD202_Desc="由最纯净的烈阳水晶碎片铸造而成。"
+tagGDX2HandsD202_Desc="由最纯净的索拉丁水晶碎片铸造而成。"
 tagGDX2HandsD203=沙漠抢匪手甲
 tagGDX2HandsD203_Desc="这双手套的前主人已经将不知多少人的血洒入了无尽的沙粒中。"
 tagGDX2HandsD204=高尔之手
@@ -396,8 +396,8 @@ tagGDX2FeetC203=蔑视护腿
 
 tagGDX2FeetD201=原始狂怒之靴
 tagGDX2FeetD202=读石者
-tagGDX2FeetD203=阿马托克之踏
-tagGDX2FeetD203_Desc="当阿马托克之星在寒夜中显现时，这双靴子在寒冷的高峰上受到了祝福。"
+tagGDX2FeetD203=阿玛托克之踏
+tagGDX2FeetD203_Desc="当阿玛托克之星在寒夜中显现时，这双靴子在寒冷的高峰上受到了祝福。"
 tagGDX2FeetD204=死亡行者之恩典
 
 
@@ -412,10 +412,10 @@ tagGDX2WaistC203=风暴巨蛇之环
 
 tagGDX2WaistD201=风暴牧人
 tagGDX2WaistD202=血红莲花
-tagGDX2WaistD202_Desc="上面烙印着血红莲花，血红莲花将见到这世界被火焰吞噬。"
+tagGDX2WaistD202_Desc="上面烙印着血红莲花，血红莲花将见证这世界被火焰吞噬。"
 tagGDX2WaistD203=夜火之链
 tagGDX2WaistD204=白莲花
-tagGDX2WaistD204_Desc="上面有着白莲花的徽记，照料着科凡大地上绽开的天界之花."
+tagGDX2WaistD204_Desc="上面有着白莲花的徽记，照料着科凡大地上绽开的天界之花。"
 tagGDX2WaistD205=诺斯费拉提斯
 tagGDX2WaistD206=拉辛的护腰
 tagGDX2WaistD207=穆谟之吻
@@ -475,7 +475,7 @@ tagGDX2NecklaceD203=混乱化身
 tagGDX2NecklaceD203_Desc="人类七大神圣美的之三，被虚空扭曲至面目全非。"
 tagGDX2NecklaceD204=剑刃意志
 tagGDX2NecklaceD205=沙王之心
-tagGDX2NecklaceD205_Desc="甘纳'瓦卡, 科凡沙漠之王的心脏。"
+tagGDX2NecklaceD205_Desc="甘纳'瓦卡，科凡沙漠之王的心脏。"
 tagGDX2NecklaceD206=碎境护符
 tagGDX2NecklaceD207=征服者的宝石
 tagGDX2NecklaceD208=贩骨者的宝石
@@ -632,7 +632,7 @@ tagGDX2Blueprint_RuneC225=设计图：阴影巨人铭文
 tagGDX2Blueprint_RuneC226=设计图：蝎尾铭文
 tagGDX2Blueprint_RuneC227=设计图：不羁之魂铭文
 
-tagGDX2Blueprint_RuneD201=设计图：阿马托克之息符文
+tagGDX2Blueprint_RuneD201=设计图：阿玛托克之息符文
 tagGDX2Blueprint_RuneD202=设计图：陨落之王符文
 tagGDX2Blueprint_RuneD203=设计图：暴力之悦符文
 tagGDX2Blueprint_RuneD204=设计图：奥祖因之落符文
@@ -885,10 +885,10 @@ tagGDX2EnchantB225A=索拉尔的眩光
 tagGDX2EnchantB225Desc="一件来自巫神索拉尔的馈赠， 注入了邪术烈焰意志的精华。"^w^n（用于全部单手武器，盾牌，以及副手法器）
 
 tagGDX2EnchantB226A=强效索拉尔的眩光
-tagGDX2EnchantB226Desc="一件来自巫神索拉尔的馈赠, 注入了邪术烈焰意志的精华。"^w^n（用于全部双手武器）
+tagGDX2EnchantB226Desc="一件来自巫神索拉尔的馈赠，注入了邪术烈焰意志的精华。"^w^n（用于全部双手武器）
 
 tagGDX2EnchantB227A=伊拉的灵魂火
-tagGDX2EnchantB227Desc="这些上好的魔法粉末是从伊拉神庙中的圣火灰烬中获得的, 祭祀牺牲者的灵魂碎片依旧附着其上久久不散。"^w^n（用于戒指和护符）
+tagGDX2EnchantB227Desc="这些上好的魔法粉末是从伊拉神庙中的圣火灰烬中获得的，祭祀牺牲者的灵魂碎片依旧附着其上久久不散。"^w^n（用于戒指和护符）
 
 tagGDX2EnchantB228A=伊拉的耐心
 tagGDX2EnchantB228Desc="这些上好的魔法粉末是从伊拉神庙中的圣火灰烬中获得的，可以让持有者充满不自然的镇定。"^w^n（用于戒指和护符）
@@ -900,13 +900,13 @@ tagGDX2EnchantB230A=伊拉之血
 tagGDX2EnchantB230Desc="这些上好的魔法粉末是从伊拉神庙中的圣火灰烬中获得的，据说其中渗入了天神的血。"^w^n（用于戒指和护符）
 
 tagGDX2EnchantC201A=拜斯迈的银沙
-tagGDX2EnchantC201Desc="一件来自巫神拜斯迈的馈赠, 这些品质极佳的银粉通常用于幻象，但是也是很不错的护符素材。"^w^n（用于全部护甲）
+tagGDX2EnchantC201Desc="一件来自巫神拜斯迈的馈赠，这些品质极佳的银粉通常用于幻象，但是也是很不错的护符素材。"^w^n（用于全部护甲）
 
 tagGDX2EnchantC202A=拜斯迈的沙语
-tagGDX2EnchantC202Desc="一件来自巫神拜斯迈的馈赠, 诡计之神的死亡之吻附在了这些注入了魔力的粉末中。"^w^n（用于全部护甲）
+tagGDX2EnchantC202Desc="一件来自巫神拜斯迈的馈赠，诡计之神的死亡之吻附在了这些注入了魔力的粉末中。"^w^n（用于全部护甲）
 
 tagGDX2EnchantC203A=拜斯迈的帷幕之触
-tagGDX2EnchantC203Desc="一件来自巫神拜斯迈的馈赠, 这种粉末以魔力连接着分隔生与死的帷幕。"^w^n（用于全部护甲）
+tagGDX2EnchantC203Desc="一件来自巫神拜斯迈的馈赠，这种粉末以魔力连接着分隔生与死的帷幕。"^w^n（用于全部护甲）
 
 tagGDX2EnchantC204A=德里格的预知
 tagGDX2EnchantC204Desc="一件来自巫神德里格的馈赠，可以让持有者得以短暂窥见未来的一角。"^w^n（用于全部护甲）
@@ -915,16 +915,16 @@ tagGDX2EnchantC205A=德里格的帷幕守护
 tagGDX2EnchantC205Desc="一件来自巫神德里格的馈赠，用于抵御宏伟守卫对其追随者施加的能扭曲心灵的幻象。"^w^n（用于全部护甲）
 
 tagGDX2EnchantC206A=德里格的恶魔血
-tagGDX2EnchantC206Desc="一件来自巫神德里格的馈赠, 这是从邪术领域大门前被宏伟守卫碾碎的冥煞恶魔身上抽取的。"^w^n（用于全部护甲）
+tagGDX2EnchantC206Desc="一件来自巫神德里格的馈赠，这是从邪术领域大门前被宏伟守卫碾碎的冥煞恶魔身上抽取的。"^w^n（用于全部护甲）
 
 tagGDX2EnchantC207A=索拉尔的缚血尘
-tagGDX2EnchantC207Desc="一件来自巫神索拉尔的馈赠, 这种邪秽的粉末用于索拉尔的契约签订仪式。"^w^n（用于全部护甲）
+tagGDX2EnchantC207Desc="一件来自巫神索拉尔的馈赠，这种邪秽的粉末用于索拉尔的契约签订仪式。"^w^n（用于全部护甲）
 
 tagGDX2EnchantC208A=索拉尔的虚空守护
 tagGDX2EnchantC208Desc="一件来自巫神索拉尔的馈赠，用于抵御虚空的破坏力，以此，邪术之火才可以畅通无阻地研究虚空的奥秘。"^w^n（用于全部护甲）
 
 tagGDX2EnchantC209A=索拉尔的缚魂尘
-tagGDX2EnchantC209Desc="一件来自巫神索拉尔的馈赠, 这种邪恶的粉末用于灵魂绑定仪式，为邪术之火提供食粮。"^w^n（用于全部护甲）
+tagGDX2EnchantC209Desc="一件来自巫神索拉尔的馈赠，这种邪恶的粉末用于灵魂绑定仪式，为邪术之火提供食粮。"^w^n（用于全部护甲）
 
 #Mobility Runes
 tagGDX2RuneBDesc="由巫神秘教使用的普通魔法符文。"^w^n(用于勋章)
@@ -966,7 +966,7 @@ tagGDX2RuneC225=阴影巨人铭文
 tagGDX2RuneC226=蝎尾铭文
 tagGDX2RuneC227=不羁之魂铭文
 
-tagGDX2RuneD201=阿马托克之息符文
+tagGDX2RuneD201=阿玛托克之息符文
 tagGDX2RuneD202=陨落之王符文
 tagGDX2RuneD203=暴力之悦符文
 tagGDX2RuneD204=奥祖因之落符文
@@ -1045,7 +1045,7 @@ tagGDX2ItemSetD206Name=美德之光
 tagGDX2ItemSetD206Desc="传说曾受到万神中最伟大的至高之神所祝福。美德之光是希望与正义的明灯，尤其是在一个渴望这二者的世界中。"
 
 tagGDX2ItemSetD207Name=三巫神的哨卫
-tagGDX2ItemSetD207Desc="这是哨卫的盔甲, 哨卫是三巫神的誓约守卫，也是他们凡间利益的捍卫者。"
+tagGDX2ItemSetD207Desc="这是哨卫的盔甲，哨卫是三巫神的誓约守卫，也是他们凡间利益的捍卫者。"
 
 tagGDX2ItemSetD208Name=哈拉的技艺
 tagGDX2ItemSetD208Desc="哈拉喜欢剑刃与魔法结合之道，其接受了神秘的夜刃与吉尔达姆学会二者的训练。"

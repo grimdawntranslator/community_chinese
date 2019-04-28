@@ -81,7 +81,7 @@ tagTutorialTip62TextC=在怪物波数空隙期间的任何时候，你都可以�
 tagTutorialTip62SubtitleB=试炼贡品
 tagTutorialTip62TextD=贡品从试炼战斗中获得。它们可以用在一些功能上，例如在场地周围建造防御工事或者激活强大的神之祝福。
 tagTutorialTip62SubtitleC=不朽的大法师
-tagTutorialTip62TextE=泰拉利亚提供只有在试练场才有的特殊服务。与她对话来消费珍贵的贡品，换取神之祝福并解锁信仰点数。
+tagTutorialTip62TextE=泰拉利亚提供只有在试练场才有的特殊服务。与她对话来消费珍贵的贡品，换取神之祝福并解锁虔诚点数。
 
 tagTutorialTip63Title=试练场防御工事
 tagTutorialTip63TextA=你建造了一处试练场防御工事。这些建筑会帮助你对抗罗卡的仆从。

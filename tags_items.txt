@@ -29,7 +29,7 @@ tagWeaponSwordB005=^l抛光阔剑
 tagWeaponSwordB006=抛光的征服者之剑
 tagWeaponSwordB007=^l马卡达的恐惧之刃
 tagWeaponSwordB008=蝎尾狮长剑
-tagWeaponSwordB009=刻骨刀
+tagWeaponSwordB009=骨刻刀
 tagWeaponSwordB010=^l骨剑
 tagWeaponSwordB011=革翅目之爪
 tagWeaponSwordB012=^l革翅目切刀
@@ -168,8 +168,8 @@ tagWeaponAxeA009=鈎斧
 tagWeaponAxeB001=幽光切肉斧
 tagWeaponAxeB002=^l幽光战斧
 tagWeaponAxeB003=^l竞技场主之斧
-tagWeaponAxeB004=切骨斧
-tagWeaponAxeB005=^l骨镰
+tagWeaponAxeB004=骨切斧
+tagWeaponAxeB005=^l骨钐镰
 tagWeaponAxeB006=奥尔曼的斧头
 tagWeaponAxeB007=^l虚化扭曲之斧
 
@@ -357,7 +357,7 @@ tagWeaponCrossbow2hC011Desc="曾身为奥术师的刺客，阿托斯·纳尔偏�
 tagWeaponCrossbow2hC012=瞬息强弩
 
 tagWeaponCrossbow2hD001=银弹弓弩
-tagWeaponCrossbow2hD001Desc="恶魔猎人~ 嗜血的伊迪斯选用了这把武器，昔日冥神的狂热信徒变成了屠魔者。"
+tagWeaponCrossbow2hD001Desc="恶魔猎人 ~ 嗜血的伊迪斯选用了这把武器，昔日冥神的狂热信徒变成了屠魔者。"
 tagWeaponCrossbow2hD002=德里格的尖刺弩
 tagWeaponCrossbow2hD002Desc="被灌注了巫神德里格真正本体之力的武器。"
 tagWeaponCrossbow2hD003=北地冰龙
@@ -438,7 +438,7 @@ tagWeaponMelee2hD005Desc="当圣骑士阿里斯特·熔炉受祝福的长矛刺�
 tagWeaponMelee2hD006=风暴撕裂者
 tagWeaponMelee2hD006Desc="经过无数次闪电风暴的充能，这把武器上的自然之怒已蓄势待发。"
 tagWeaponMelee2hD007=凛冬之王的灾祸
-tagWeaponMelee2hD007Desc="北方边境的统治者，白狼之子~ 霍思纳尔王的圣剑，"
+tagWeaponMelee2hD007Desc="北方边境的统治者，白狼之子 ~ 霍思纳尔王的圣剑，"
 tagWeaponMelee2hD008=弧光之刃
 tagWeaponMelee2hD009=野性之血粉碎者
 tagWeaponMelee2hD010=尤尔托斯的风暴探寻者
@@ -493,7 +493,7 @@ tagWeaponCaster1hC003=冰心权杖
 tagWeaponCaster1hC004=风暴召唤者的魔刃
 tagWeaponCaster1hC004_Desc="剑刃闪耀着能量，它对能量的渴求永无止境。"
 tagWeaponCaster1hC005=虚空魔刃
-tagWeaponCaster1hC006=血瘟刻刀
+tagWeaponCaster1hC006=血疫刻刀
 tagWeaponCaster1hC007=魂之刻刀
 tagWeaponCaster1hC007_Desc="据说这把刀不仅能切割肉体，还能伤及灵魂。"
 tagWeaponCaster1hC008=科托锡安召唤者
@@ -567,7 +567,7 @@ tagWeaponCrossbow1hA001=手枪弩
 tagWeaponCrossbow1hA002=复合弩
 tagWeaponCrossbow1hA003=滑轮弩
 tagWeaponCrossbow1hA004=连弩
-tagWeaponCrossbow2hB003=伽弗林的十字弓
+
 
 #Shields盾牌
 
@@ -2489,7 +2489,7 @@ tagDLCA09=掠夺者的恐惧头盔
 tagDLCA09Desc="这顶头盔见证着数不清的流血冲突。"
 tagDLCIllusionA10=幻化：可敬战士之盔
 tagDLCA10=可敬战士之盔
-tagDLCA10Desc="万物荣耀."
+tagDLCA10Desc="万物荣耀。"
 tagDLCConsumableA01=罐中精灵
 tagDLCConsumableA01Desc="一个人畜无害的精灵，困在了一个罐子里。"
 tagDLCConsumableA01PetSkill01=精灵光环
@@ -3122,16 +3122,16 @@ tagComponentConfirmation=你确定要组合成完整镶嵌物吗？
 tagCompA001Name=尖刺外壳
 tagCompA001Desc="一种长着锯齿状尖刺的厚重甲壳" ^w^n(用于所有护甲)
 
-tagCompA002Name=^k冲击铠甲片
+tagCompA002Name=冲击铠甲片
 tagCompA002Desc="一种用来抵御箭头和子弹的古老盔甲的碎片。" ^w^n(用于胸甲)
 
-tagCompA003Name=^k圣骨
+tagCompA003Name=圣骨
 tagCompA003Desc="一名牺牲在圣战中的骑士身上经过净化的骨头。" ^w^n(用于胸甲和头盔)
 
 tagCompA004Name=坚韧兽皮
 tagCompA004Desc="一块厚厚的兽皮，粗糙的表面非常适合用来吸收突如其来的冲击。" ^w^n(用于头盔)
 
-tagCompA005Name=^k符文之石
+tagCompA005Name=符文之石
 tagCompA005Desc="一种神秘的符文灌注在这块石头之中。" ^w^n(用于头盔)
 
 tagCompA006Name=突变脓水
@@ -3173,7 +3173,7 @@ tagCompA017Desc="灌注了强大魔力的银粉。" ^w^n(用于所有武器，�
 tagCompA018Name=恶毒尖刺
 tagCompA018Desc="从一只非自然生物身上得来的尖刺。" ^w^n(用于所有武器，盾牌和法器副手)
 
-tagCompA019Name=^k辐光宝石
+tagCompA019Name=辐光宝石
 tagCompA019Desc="一块发光的宝石，随着不同的元素而闪烁着。" ^w^n(用于盾牌和法器副手)
 
 tagCompA020Name=诛魔弹药
@@ -3182,7 +3182,7 @@ tagCompA020Desc="神力加持的子弹，带给渎神者以极大的痛苦。" ^
 tagCompA021Name=死寒箭矢
 tagCompA021Desc="给敌人带去死亡般的寒冷。" ^w^n(用于枪械，双手弩和法器副手)
 
-tagCompA022Name=^k虚化之魂
+tagCompA022Name=虚化之魂
 tagCompA022Desc="一块含有能量并震颤着的石头。在现实位面被杀死的虚灵经常会留下这种石头。" ^w^n(用于项链和勋章)
 
 tagCompA023Name=坚硬外壳
@@ -3396,7 +3396,7 @@ tagFactionAlreadyBoosted={^r}[你已经对这股势力使用过了委任状]
 tagFactionNegativeBooster={^E}从{%s1}势力获得的敌意提升{^H}{%d0}%
 tagFactionAlreadyNegativeBoosted={^r}[这股势力已经使用过了通缉令]
 
-tagFactionMandateConfirmation=你确定要使用该势力委任状吗? 这将会覆盖现有的势力赦令效果。
+tagFactionMandateConfirmation=你确定要使用该势力委任状吗？这将会覆盖现有的势力赦令效果。
 tagFactionWarrantConfirmation=你确定要使用该势力赦令吗？这将会覆盖现有的势力委任状效果。
 
 tagBoosterADesc=势力颁发的文书，将你视作该势力的盟友。^o不与委任状叠加。委任状会覆盖奖励效果。
@@ -3611,7 +3611,7 @@ tagItemSetC029Name=元素平衡
 tagItemSetC029Desc="火焰的狂怒与寒冰之力在你指尖跳动。"
 
 tagItemSetD001Name=审判者装甲
-tagItemSetD001Desc="曼海尔的卫士中的大审判官~ 沉默的霍瓦德的盔甲。"
+tagItemSetD001Desc="曼海尔的卫士中的大审判官 ~ 沉默的霍瓦德的盔甲。"
 
 tagItemSetD002Name=神圣平衡
 tagItemSetD002Desc="生命和死亡的本质灌注于这些刀锋之中。"

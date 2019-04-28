@@ -1,15 +1,15 @@
 
 #CreatureFriendly
 
-tagGDX1FriendlyMalmouth_Guard01=马尔茅斯反抗军~ 游击兵
-tagGDX1FriendlyMalmouth_Guard02=马尔茅斯反抗军~ 守卫
+tagGDX1FriendlyMalmouth_Guard01=马尔茅斯反抗军 ~ 游击兵
+tagGDX1FriendlyMalmouth_Guard02=马尔茅斯反抗军 ~ 守卫
 
-tagGDX1FriendlyMalmouth_MeleeA01=马尔茅斯反抗军~ 战士
-tagGDX1FriendlyMalmouth_MeleeB01=马尔茅斯反抗军~ 爆破者
-tagGDX1FriendlyMalmouth_RangeA01=马尔茅斯反抗军~ 游骑兵
-tagGDX1FriendlyMalmouth_CasterB01=马尔茅斯反抗军~ 奥术师
-tagGDX1FriendlyMalmouth_CasterB02=马尔茅斯反抗军~ 军医
-tagGDX1FriendlyMalmouth_ChampionC01=马尔茅斯反抗军~ 队长
+tagGDX1FriendlyMalmouth_MeleeA01=马尔茅斯反抗军 ~ 战士
+tagGDX1FriendlyMalmouth_MeleeB01=马尔茅斯反抗军 ~ 爆破者
+tagGDX1FriendlyMalmouth_RangeA01=马尔茅斯反抗军 ~ 游骑兵
+tagGDX1FriendlyMalmouth_CasterB01=马尔茅斯反抗军 ~ 奥术师
+tagGDX1FriendlyMalmouth_CasterB02=马尔茅斯反抗军 ~ 军医
+tagGDX1FriendlyMalmouth_ChampionC01=马尔茅斯反抗军 ~ 队长
 
 tagGDX1FriendlyCoven_Guard01=女巫团守卫
 tagGDX1FriendlyCoven_Guard02=女巫团妖术师
@@ -142,7 +142,7 @@ tagGDX1EnemyAscended_A02=升灵侍从
 tagGDX1EnemyAscended_B01=升灵破法者
 tagGDX1EnemyAscended_C01=升灵追随者
 
-tagGDX1HeroAscended_H01=帕弗若斯·恩迪伦, 火语者
+tagGDX1HeroAscended_H01=帕弗若斯·恩迪伦，火语者
 tagGDX1HeroAscended_H02=哈格拉斯 虚灵火焰
 tagGDX1HeroAscended_H03=乌纳斯特利亚 风暴之触 ~ 导电
 tagGDX1HeroAscended_H04=乌兰纳·艾弗利斯 ~ 冰冻
@@ -366,10 +366,10 @@ tagGDX1MiniBoss_Bog02=希尔瓦莉亚·丛林女王
 tagGDX1MiniBoss_Bog02_Vine01=希尔瓦莉亚的藤蔓
 tagGDX1MiniBoss_Bog02_Vine02=希尔瓦莉亚的藤蔓
 tagGDX1MiniBoss_Bog02_VineCluster=藤蔓簇
-tagGDX1MiniBoss_Bog03=阿格达尔, 巫登沼泽之怒
-tagGDX1MiniBoss_Bog04=嘉娜克希亚, 背叛者
-tagGDX1MiniBoss_Bog05=莱莉亚, 妖术师
-tagGDX1MiniBoss_Bog06=巴高尔, 腐烂之土
+tagGDX1MiniBoss_Bog03=阿格达尔，巫登沼泽之怒
+tagGDX1MiniBoss_Bog04=背叛者，嘉娜克希亚
+tagGDX1MiniBoss_Bog05=莱莉亚，妖术师
+tagGDX1MiniBoss_Bog06=巴高尔，腐烂之土
 tagGDX1MiniBoss_Bog07=污秽·卡拉克萨斯
 tagGDX1MiniBoss_Bog08=被困的幽灵
 tagGDX1MiniBoss_Bog09=阿弗瑞斯·骨髓疾病
@@ -446,7 +446,7 @@ tagGDX1DevotionAetherialCorruption_H02=纳拉根 猎人
 tagGDX1DevotionAetherialCorruption_H03=帕格利斯 ~ 疾病
 tagGDX1DevotionAetherialCorruption_H04=提兰达尔 ~ 时光扭曲
 
-tagGDX1DevotionAetherialFleshshaper_H01=菲纳德尔扎德~ 燃烧
+tagGDX1DevotionAetherialFleshshaper_H01=菲纳德尔扎德 ~ 燃烧
 tagGDX1DevotionAetherialFleshshaper_H02=诺克萨斯 ~ 冰冻
 tagGDX1DevotionAetherialFleshshaper_H03=卡萨拉斯 ~ 迅捷
 tagGDX1DevotionAetherialFleshshaper_H04=珀兰达罗斯 ~ 无人可挡

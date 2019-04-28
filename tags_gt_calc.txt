@@ -3,7 +3,7 @@ Calc_tagCalc=恐怖黎明BD模拟器
 Calc_tagConfirmUndoClassSelection=确定撤销专精选择?
 Calc_tagConfirmUndoClassPoints=确定返还所有技能点数?
 Calc_tagConfirmUndoDevotionPoints=确定返还所有虔诚点数?
-# buff types, e.g. "Permanent buffs: OFF"
+# buff types,e.g. "Permanent buffs: OFF"
 Calc_tagBuffsPermanent=永久Buff: {%s0}
 Calc_tagBuffsTemporary=临时Buff: {%s0}
 Calc_tagBuffsProc=触发Buff: {%s0}

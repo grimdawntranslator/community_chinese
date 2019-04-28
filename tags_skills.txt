@@ -527,7 +527,7 @@ tagClass05SkillName05B=[奥术师]转化
 tagClass05SkillDescription05B=球形护盾将吸收有害的虚弱效果,转化成为能量为你所用.
 
 tagClass05SkillName06A=[奥术师]阿尔布雷特的虚化射线
-tagClass05SkillDescription06A=一种强大奥术,能将原始的奥术能量引导为高能的毁灭射线.阿尔布雷特大师在恐怖黎明来临之前经过多年的时间使它臻至完美.^o需要装备副手法器.^o施法速度为100%时，虚化射线每0.3s造成伤害并消耗能量。
+tagClass05SkillDescription06A=一种强大奥术,能将原始的奥术能量引导为高能的毁灭射线.阿尔布雷特大师在恐怖黎明来临之前经过多年的时间使它臻至完美.^o需要装备副手法器.^o施法速度为100%时,虚化射线每0.3s造成伤害并消耗能量。
 tagClass05SkillName06B=[奥术师]崩解
 tagClass05SkillDescription06B=倾泻你所有的能量灌注在虚化射线之中,毁灭性的力量将粉碎所有它接触到的物体.^o每次造成伤害的时间间隔之后魔法消耗都会提高.
 tagClass05SkillName06C=[奥术师]堕落之力
@@ -593,7 +593,7 @@ tagClass06SkillDescription02B=攻击的原始力量在目标体内汹涌释放,�
 tagClass06SkillName02C=[萨满]激流
 tagClass06SkillDescription02C=汹涌的力量奔流于你的武器中,震击目标并跳跃至更远的敌人身上.
 tagClass06SkillName02D=[萨满]雷电打击
-tagClass06SkillDescription02D=风暴召唤者,信奉上天的萨满教派的成员们,当向敌人释放自然的愤怒时,他们向天空之神~尤尔托斯呼唤,允许他们更加频繁的召唤雷电.^o雷电打击不是一项默认武器攻击,不能触发类似狂野饥渴的特效.
+tagClass06SkillDescription02D=风暴召唤者,信奉上天的萨满教派的成员们,当向敌人释放自然的愤怒时,他们向天空之神 ~ 尤尔托斯呼唤,允许他们更加频繁的召唤雷电.^o雷电打击不是一项默认武器攻击,不能触发类似狂野饥渴的特效.
 
 tagClass06SkillName03A=[萨满]温迪戈图腾
 tagClass06SkillDescription03A=温迪戈图腾象征着萨满仪式中更黑暗的一面,崇尚自然的邪恶双重性：必须用一人的死亡来使另一个人得以喂食并存活.一旦被放置,图腾将会吸取附近敌人的生命,同时形成疗伤的光环治疗同伴.这种图腾被大部分部落设为禁忌.尽管如此,但原始的饥渴灵魂呼唤着它并使得很多萨满陷入了疯狂,让他们充满无厌的饥渴并因此不可避免的导致了自相残杀.^o温迪戈图腾受到人物伤害的加成.
@@ -626,15 +626,15 @@ tagClass06SkillDescription06B=荆棘兽的血肉变得更加坚硬并且脊刺�
 tagClass06SkillName06C=[萨满]大地猛击
 tagClass06SkillDescription06C=荆棘兽用带刺的利爪猛击大地,迸出一串尖刺来刺穿附近的敌人.
 tagClass06SkillName06D=[萨满]激励风采
-tagClass06SkillDescription06D=荆棘兽在战场中保持着威风凛凛的姿态，激励着它的战友更加猛烈地攻击敌人。
+tagClass06SkillDescription06D=荆棘兽在战场中保持着威风凛凛的姿态,激励着它的战友更加猛烈地攻击敌人。
 tagClass06SkillName06E=荆棘之爪
 tagClass06SkillDescription06E=基础攻击.
 
 tagClass06SkillName07A=[萨满]狂野饥渴
-tagClass06SkillDescription07A=展露你最原始的一面,撕裂你的敌人并在溅出的鲜血中贪婪享乐.^o需要一把近战双手或远程双手武器.当使用近战武器时，攻击附近多个目标。这项技能会由默认武器攻击触发.
+tagClass06SkillDescription07A=展露你最原始的一面,撕裂你的敌人并在溅出的鲜血中贪婪享乐.^o需要一把近战双手或远程双手武器.当使用近战武器时,攻击附近多个目标。这项技能会由默认武器攻击触发.
 
 tagClass06SkillName08A=[萨满]风暴召唤者的契约
-tagClass06SkillDescription08A=与尤尔托斯~天空之神合为一体,将你的凡人躯体转变成为极具破坏力的闪电风暴的形态.^o这项技能必须保持开启以持续生效.
+tagClass06SkillDescription08A=与尤尔托斯 ~ 天空之神合为一体,将你的凡人躯体转变成为极具破坏力的闪电风暴的形态.^o这项技能必须保持开启以持续生效.
 
 tagClass06SkillName09A=[萨满]召唤原始之灵
 tagClass06SkillDescription09A=传说中有一名强大的掠食者,莫格卓根的衷心仆从,他无情地猎杀任何未受邀请而踏足野兽之神领地的人.作为莫格卓根的最喜爱的追随者,你可以召唤这个原始之灵来协助战斗.^o原始之灵会受到战宠加成影响.
@@ -876,7 +876,7 @@ tagItemSkillB027Name=元素魔印
 tagItemSkillB027Desc=在地面施放一枚具有毁灭之力的奥术魔印.
 
 tagItemSkillB028Name=噬命魔印
-tagItemSkillB028Desc=在地面上释放一种神秘的印记,它将吞噬深陷其中的敌人的生命力.造成的伤害将以一定的比例返还给施法者者.
+tagItemSkillB028Desc=在地面上释放一种神秘的印记,它将吞噬深陷其中的敌人的生命力.造成的伤害将以一定的比例返还给施法者.
 
 tagItemSkillB029Name=霜火之环
 tagItemSkillB029Desc=冰环围绕在施法者的周围,降低一定范围内敌人的速度.
@@ -1192,7 +1192,7 @@ tagItemSkillC083Desc=当双持手枪时,你偶尔会释放一阵装满弹药的�
 tagItemSkillC084Name=瘴气
 tagItemSkillC084Desc=释放一片毒气之云窒息并使敌人混乱.
 
-tagItemSkillC085Name=召唤枯萎者~ 裂隙之灾
+tagItemSkillC085Name=召唤枯萎者 ~ 裂隙之灾
 tagItemSkillC085Desc=从深渊中召唤裂隙之灾,它将听命于你.^o同时只能召唤一只裂隙之灾.裂隙之灾会受到战宠加成影响.
 tagItemSkillC085PetSkillName01=酸液喷吐
 tagItemSkillC085PetSkillName02=剧毒新星
@@ -1780,7 +1780,7 @@ tagItemSkillD145Name=暗影毒液
 tagItemSkillD145Desc=施放封闭于刀锋之中的邪恶毒素,将敌人的血肉化为岩石.
 
 tagItemSkillD146Name=清算
-tagItemSkillD146Desc=释放一束奥术破坏能量来清除它所触碰的一切,穿透并抹除敌人的存在.^o施法速度为100%时，清算每0.3s造成伤害并消耗能量。
+tagItemSkillD146Desc=释放一束奥术破坏能量来清除它所触碰的一切,穿透并抹除敌人的存在.^o施法速度为100%时,清算每0.3s造成伤害并消耗能量。
 
 tagItemSkillD147Name=黑曜石震颤
 tagItemSkillD147Desc=像黑曜石尖刺穿透大地一般地粉碎虚空与现实的屏障.
@@ -2319,10 +2319,10 @@ tagRelicSkillC007Name=噬魂
 tagRelicSkillC007Desc=唤起受折磨的灵魂缠绕你的敌人并冰冻他们的血液.
 
 tagRelicSkillC008Name=爆炎
-tagRelicSkillC008Desc=发动一束强烈到即使最坚固的护甲也无法抵挡的纯净火焰.^o这是一项引导技能,需要持续施法.施法速度为100%时，爆炎每0.3s造成伤害并消耗能量。
+tagRelicSkillC008Desc=发动一束强烈到即使最坚固的护甲也无法抵挡的纯净火焰.^o这是一项引导技能,需要持续施法.施法速度为100%时,爆炎每0.3s造成伤害并消耗能量。
 
 tagRelicSkillC009Name=召唤风暴魔犬
-tagRelicSkillC009Desc=召唤一只忠诚的风暴魔犬~源于天堂的可怕野兽.^o同一时间只能召唤一只风暴魔犬.风暴魔犬会受到战宠加成影响.
+tagRelicSkillC009Desc=召唤一只忠诚的风暴魔犬 ~ 源于天堂的可怕野兽.^o同一时间只能召唤一只风暴魔犬.风暴魔犬会受到战宠加成影响.
 
 tagRelicSkillC010Name=死寒光环
 tagRelicSkillC010Desc=以恐怖阴森的死亡之寒强化你和你附近队友的攻击.^o此技能需要开启以保持生效.
@@ -2350,7 +2350,7 @@ tagRelicSkillD002Name=诅咒
 tagRelicSkillD002Desc=用腐蚀毒药和致命疾病灌注你的武器,每一击都能感染你的敌人.^o这项技能必须保持开启以持续生效.
 
 tagRelicSkillD003Name=召唤复仇女神
-tagRelicSkillD003Desc=召唤复仇女神~暗影半神以及暗夜狩猎之王.^o你在同一时间只能召唤一个复仇女神的化身.复仇女神受到玩家伤害影响.
+tagRelicSkillD003Desc=召唤复仇女神 ~ 暗影半神以及暗夜狩猎之王.^o你在同一时间只能召唤一个复仇女神的化身.复仇女神受到玩家伤害影响.
 
 tagRelicSkillD004Name=堡垒
 tagRelicSkillD004Desc=增强你和队友的防御,使你们成为移动的堡垒.^o这项技能必须保持开启以持续生效.
@@ -2718,7 +2718,7 @@ tagDevotionEffectA18=海啸
 tagDevotionEffectA18Desc=一波激流水浪朝着前方的敌人席卷而去.
 tagDevotionEffectA19=虚化烈焰
 tagDevotionEffectA19Desc=一阵小型的虚化之火喷向你目标的足部.
-tagDevotionEffectA20=苦痛烈焰
+tagDevotionEffectA20=烈焰洪流
 tagDevotionEffectA20Desc=邪恶的火焰环绕周身,将触碰到的敌人烧成灰烬.
 tagDevotionEffectA21=蛮牛冲撞
 tagDevotionEffectA21Desc=像一头冲锋的蛮牛一般用身躯急速地冲击附近的敌人.
@@ -2824,10 +2824,10 @@ tagReallocateError03=不能从专精中撤销点数.
 tagDecreaseMasteryError=不能从专精中撤销点数.
 tagReclaimPoint=点击以撤销加点(费用{^y}{%t0}{^-}铁币)
 tagReclaimDevotionPoint=点击来撤回虔诚点数 (消耗 {^s}{%t0}{^-} 铁币,{^g}{%t1}{^-} 虚化水晶)
-tagRemovePoint=左键点击来移除专精点数
+tagRemovePoint=左键点击来移除虔诚点数
 tagReclaimBase=先移除其延伸技能才能移除该技能
 tagReclaimDevotion=先移除已绑定的信仰效果
-tagRemoveBase=无法移除专精点数
+tagRemoveBase=无法移除虔诚点数
 tagReclaimNoPoints=没有技能点数可以撤销
 tagRemoveNoPoints=没有点数可以移除
 tagReclaimTotalGold=铁币总数:
@@ -2925,7 +2925,7 @@ tagEnemySkillD05=奥德里奇的权杖
 tagEnemySkillD05_Desc=奥德里奇的权杖释放的能量之弧会击打附近的敌人.
 
 tagEnemySkillD06=血誓诅咒
-tagEnemySkillD06_Desc=血誓诅咒削弱了你反抗虚空腐化力量的意志。减少你的抗性，回复力和防御能力。
+tagEnemySkillD06_Desc=血誓诅咒削弱了你反抗虚空腐化力量的意志。减少你的抗性,回复力和防御能力。
 
 tagEnemySkillD07=钩网
 tagEnemySkillD07_Desc=你被网住了,流血并减少防御能力.

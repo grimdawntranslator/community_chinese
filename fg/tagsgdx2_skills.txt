@@ -44,7 +44,7 @@ tagGDX2Class09SkillName03C=[守誓者]愤怒之心
 tagGDX2Class09SkillDescription03C=执行审判将使你内心充满灼热的意志，并灼烧附近的敌人。
 
 tagGDX2Class09SkillName04A=[守誓者]维尔之力
-tagGDX2Class09SkillDescription04A=最早记录于安克维亚文献中，维尔神庙的忠诚奉献者阿加沃德不惧死亡冲锋陷阵，撕开敌军的防线，使他们暴露在箭雨的猛攻之下，自己却毫发无伤。从此面临绝境之时，维尔之力成为了守誓者无论是肉体还是精神方面优势的绝佳体现。^o当装备盾牌时,盾牌的伤害也会被计算在内.
+tagGDX2Class09SkillDescription04A=最早记录于安克维亚文献中，维尔神庙的忠诚奉献者阿加沃德不惧死亡冲锋陷阵，撕开敌军的防线，使他们暴露在箭雨的猛攻之下，自己却毫发无伤。从此面临绝境之时，维尔之力成为了守誓者无论是肉体还是精神方面优势的绝佳体现。^o当装备盾牌时，盾牌的伤害也会被计算在内.
 tagGDX2Class09SkillName04B=[守誓者]火山步伐
 tagGDX2Class09SkillDescription04B=心怀烈火向维尔默念祷言，使你在冲锋路径上留下火山之焰焚烧敌人。
 tagGDX2Class09SkillName04C=[守誓者]地质位移
@@ -229,7 +229,7 @@ tagGDX2ItemSkillD235Name=威廉！
 tagGDX2ItemSkillD235Desc=啊哈哈哈哈！
 
 tagGDX2ItemSkillD236Name=虚化烈焰
-tagGDX2ItemSkillD236Desc=从敌人脚下喷发出一阵纯净的奥术火焰.
+tagGDX2ItemSkillD236Desc=从敌人脚下喷发出一阵纯净的奥术火焰。
 
 tagGDX2ItemSkillD237Name=穆谟之吻
 tagGDX2ItemSkillD237Desc=向你的敌人射出酸毒的刺。
@@ -301,7 +301,7 @@ tagGDX2Devotion_B201Desc=一个只忠于寇瓦克的巨人，奥扎德向所有�
 tagGDX2Devotion_B202=海瑞恩，天国之门的守护者
 tagGDX2Devotion_B202Desc=海瑞恩是创建者塔戈的不朽造物，数千年前是为了守护原始神灵所居住的*神之壁毯*而创造。
 
-tagGDX2Devotion_C201=寇瓦克,邪阳
+tagGDX2Devotion_C201=寇瓦克，邪阳
 tagGDX2Devotion_C201Desc=邪恶的太阳再次升起，自宣天神之王。
 tagGDX2Devotion_C202=阿兹拉卡，永恒之沙
 tagGDX2Devotion_C202Desc=阿兹拉卡，伊恩的永恒伴星，是她创造了，决定凡人命运的时光守护者手中的时之沙。她是他的配偶，也是最值得信赖的顾问，她能缓和伊恩的严苛审判，并为她所怜爱的凡人提供慰藉。
@@ -394,7 +394,7 @@ tagGDX2RuneSkillC217=火焰裂隙
 tagGDX2RuneSkillC217Desc=撕开现实一个燃烧的裂隙将自己带向目标地，并且借冥界虚空的力量爆发一阵火焰。
 
 tagGDX2RuneSkillC218=刀刃裂隙
-tagGDX2RuneSkillC218Desc=如云消失的同时将自己传送到目标地，然后像敌人爆发一阵刀刃。
+tagGDX2RuneSkillC218Desc=如云消失的同时将自己传送到目标地，然后向敌人爆发一阵刀刃。
 
 tagGDX2RuneSkillC219=动乱
 tagGDX2RuneSkillC219Desc=当你想前往目标点时现实会屈从你的意志并立即进行传送。

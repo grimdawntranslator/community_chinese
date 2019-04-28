@@ -26,7 +26,7 @@ achGDX207Title=一颗给索拉尔的心
 achGDX207Desc=把奥纳瑞克斯之心献给索拉尔。
 
 achGDX208Title=主宰
-achGDX208Desc=使用冲锋式技能(例如.维尔之力)一次穿越15名敌人。
+achGDX208Desc=使用冲锋式技能(例如:维尔之力)一次穿越15名敌人。
 
 achGDX209Title=狮鹫君王
 achGDX209Desc=击杀位于向阳尖塔的阿泽隆，狮鹫君王。
@@ -86,7 +86,7 @@ achGDX227Title=崇高的勇士
 achGDX227Desc=与12个势力声望达到崇敬。
 
 achGDX228Title=科凡保护者
-achGDX228Desc=完成被遗忘的诸神.
+achGDX228Desc=完成被遗忘的诸神。
 
 achGDX229Title=科凡勇士
 achGDX229Desc=完成被遗忘的诸神，在精英难度中。

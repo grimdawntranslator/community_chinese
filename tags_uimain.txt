@@ -1,4 +1,4 @@
-tagTitleScreenText=恐怖黎明{^n}©2019 Crate Entertainment, LLC{^n}{^n}请访问我们的官网 www.grimdawn.com 并参与到恐怖黎明的开发中来！
+tagTitleScreenText=恐怖黎明{^n}©2019 Crate Entertainment,LLC{^n}{^n}请访问我们的官网 www.grimdawn.com 并参与到恐怖黎明的开发中来！
 tagDemoScreenText=感谢游戏！{^n}{^n}恐怖黎明现在已在Steam上发布，或者通过访问www.grimdawn.com来查看。
 tagMenu01=开始游戏
 tagMenu02=自定义游戏
@@ -21,7 +21,7 @@ tagMenuButton08=默认
 tagMenuButton09=确定
 tagMenuButton10=创建
 tagMenuButton11=下载
-tagMenuChar={%d0}~{%d1}
+tagMenuChar={%d0} ~ {%d1}
 tagCharLevelClass= {%d0} 级{%t1}
 
 #Temporarypopupmessageforalphamultiplayerbuildwarning
@@ -449,7 +449,7 @@ tagMenuError21=该主机需要自定义地图：{%t0}
 tagMenuError21a=此游戏主机使用了一个不匹配的游戏模式。你的游戏模式："{%s0}"，服务器的模式："{%s1}"
 tagMenuError21b=专家模式和非专家模式的玩家不能在一起进行游戏。请选择其他的游戏主机。
 tagMenuError22=该游戏已满，请选择其他游戏主机。
-tagMenuError23=该游戏需要人物等级介于{%d0}~{%d1}之间。请选择其他游戏主机。
+tagMenuError23=该游戏需要人物等级介于{%d0} ~ {%d1}之间。请选择其他游戏主机。
 tagMenuError24=一些改动重启游戏才会生效。
 tagMenuError25=你改变了一些选项，是否应用这些改动？
 tagMenuError26=无法连接至服务器，无效的cdkey

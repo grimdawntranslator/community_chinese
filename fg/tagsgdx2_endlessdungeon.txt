@@ -5,7 +5,7 @@ tagGDX2MapEndlessTreasure=碎裂之境的辉煌
 
 #Shattered Bosses
 tagGDX2EndlessDungeon_Boss01=典狱长克里夫，碎界守卫
-tagGDX2EndlessDungeon_Boss02=德莱厄斯·克隆莱, 碎裂之魂
+tagGDX2EndlessDungeon_Boss02=德莱厄斯·克隆莱，碎裂之魂
 tagGDX2EndlessDungeon_Boss03=破碎的卡里夫
 tagGDX2EndlessDungeon_Boss03B=卡里夫之魂
 tagGDX2EndlessDungeon_Boss04=艾克特扎尔，尤戈尔的先驱
@@ -31,8 +31,8 @@ tagGDX2EndlessDungeon_Special07=完美般正常的超大蛆虫
 tagGDX2EndlessDungeon_Special07B=超大蛆虫
 tagGDX2EndlessDungeon_Special08=板条箱之魂
 tagGDX2EndlessDungeon_Special09=白骨单峰驼
-tagGDX2EndlessDungeon_Special10=白骨单峰驼~精英
-tagGDX2EndlessDungeon_Special11=白骨单峰驼~哨兵
+tagGDX2EndlessDungeon_Special10=白骨单峰驼 ~ 精英
+tagGDX2EndlessDungeon_Special11=白骨单峰驼 ~ 哨兵
 
 tagGDX2EndlessDungeon_Lever01=红色拉杆
 tagGDX2EndlessDungeon_Lever02=绿色拉杆
