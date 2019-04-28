@@ -181,7 +181,7 @@ tagGameplayDesc27=如果启用，“移动到”命令将会攻击可破坏物�
 tagGameplayDesc28=调整自动显示的战利品种类。
 tagGameplayDesc29=选中该项会启动恐怖黎明的经典施法模式：角色会在超出施法距离时强制移动。{^n}取消选中则启动新的施法模式以获得响应效果更佳的技能释放行为。{^n}(此项只有使用键盘+鼠标时才会生效)
 tagGameplayDesc30=允许弹出错误信息，例如按下处于冷却状态的技能，会提示信息。
-tagGameplayDesc31=勾选可使位移技能向当前目标移动。{^n}取消勾选可使位移技能忽略当前目标。
+tagGameplayDesc31=当使用游戏手柄时，勾选可使位移技能（例如：守誓者的维尔之力）向当前目标移动。{^n}取消勾选可使位移技能忽略当前目标并移动至可到达的最远距离。
 tagDownloadLanguages=下载语言
 tagDownloadConnecting=请稍候...
 tagLanguageSuccess=下载完成，请重启游戏来使新语言生效。
@@ -610,3 +610,8 @@ tagImportToSteamCloud=已激活Steam云存档S功能。是否导入现有人物�
 tagResetCloudWarning=你确定要删除云存档中的所有人物和数据吗？
 tagDownloadCloudWarning=确定下载云存档？本地存档将会被覆盖！
 tagWorking=进行中...
+
+# Onscreen Keyboard
+tagOnscreenKeyboardBackspace=删除
+tagOnscreenKeyboardCaps=大写
+tagOnscreenKeyboardReturn=回车

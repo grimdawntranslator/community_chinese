@@ -234,6 +234,7 @@ tagGDX1ItemSkillB101Desc=从你的攻击中爆发一阵火焰冲击波。
 tagGDX1ItemSkillB102Name=奇形打击
 tagGDX1ItemSkillB102Desc=伴随你的每一次攻击，血肉领主的腐化之力都会创伤你的敌人。^o当作为默认武器攻击时，奇形打击会增强你的攻击。
 
+
 tagGDX1ItemSkillC101Name=灵魂分裂
 tagGDX1ItemSkillC101Desc=如死亡瀑布般撕裂你的敌人
 
@@ -308,7 +309,7 @@ tagGDX1ItemSkillD111Name=恶魔的凝视
 tagGDX1ItemSkillD111Desc=恶魔的凝视落在敌人的身上，燃烧着他们的灵魂。
 
 tagGDX1ItemSkillD112Name=火焰碎片
-tagGDX1ItemSkillD112Desc=点燃你踏过的土地。
+tagGDX1ItemSkillD112Desc=你点燃了敌人所站的土地。
 
 tagGDX1ItemSkillD113Name=真理之光
 tagGDX1ItemSkillD113Desc=神圣的真理之光笼罩你的敌人，使意志不坚者为你服务。
@@ -536,7 +537,7 @@ tagGDX1CompSkillA103Name=闪电链
 tagGDX1CompSkillA103Desc=闪电在你的指尖劈啪作响，倾泻而下摧毁敌人的阵线。
 
 tagGDX1CompSkillA104Name=酸雾肃清
-tagGDX1CompSkillA104Desc=只要保持专注，你就能从手中释放持续性邪恶酸雾腐蚀你的敌人。
+tagGDX1CompSkillA104Desc=只要保持专注，你就能从手中释放持续性邪恶酸雾腐蚀你的敌人。^o这是一项引导技能，必须按下保持施法。^o施法速度为100%时，酸雾肃清每0.3秒造成一次伤害并吸取敌人的能量。
 
 tagGDX1CompSkillA105Name=虚化腐烂
 tagGDX1CompSkillA105Desc=用腐烂的虚化能量撕裂你的敌人，迅速在你的敌人中散播腐烂。

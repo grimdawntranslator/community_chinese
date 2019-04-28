@@ -527,7 +527,7 @@ tagClass05SkillName05B=[奥术师]转化
 tagClass05SkillDescription05B=球形护盾将吸收有害的虚弱效果,转化成为能量为你所用.
 
 tagClass05SkillName06A=[奥术师]阿尔布雷特的虚化射线
-tagClass05SkillDescription06A=一种强大奥术,能将原始的奥术能量引导为高能的毁灭射线.阿尔布雷特大师在恐怖黎明来临之前经过多年的时间使它臻至完美.^o需要装备副手法器.^o施法速度为100%时,虚化射线每0.3s造成伤害并消耗能量。
+tagClass05SkillDescription06A=一种强大奥术,能将原始的奥术能量引导为高能的毁灭射线并穿透所有敌人.阿尔布雷特大师在恐怖黎明来临之前经过多年的时间使它臻至完美.^o需要装备副手法器.^o施法速度为100%时,虚化射线每0.3s造成伤害并消耗能量。
 tagClass05SkillName06B=[奥术师]崩解
 tagClass05SkillDescription06B=倾泻你所有的能量灌注在虚化射线之中,毁灭性的力量将粉碎所有它接触到的物体.^o每次造成伤害的时间间隔之后魔法消耗都会提高.
 tagClass05SkillName06C=[奥术师]堕落之力
@@ -1488,7 +1488,7 @@ tagItemSkillD050Name=极寒光环
 tagItemSkillD050Desc=你的存在使敌人感到寒冰刺骨.^o这项技能必须保持开启以持续生效.
 
 tagItemSkillD051Name=洞悉之力
-tagItemSkillD051Desc=清理你的思绪来为繁复的法术作准备.
+tagItemSkillD051Desc=清理你的思绪来为毁灭性的法术作准备.
 
 tagItemSkillD052Name=巨像之力
 tagItemSkillD052Desc=对于盾牌的精通掌握使你在战斗中化身为致命且无法阻挡的武器.^o这是一项盾牌被动技能.
@@ -2089,7 +2089,7 @@ tagItemSkillD247Name=战争之子
 tagItemSkillD247Desc=你为战斗而生,并因之茁壮成长.
 
 tagItemSkillD248Name=血之狂怒
-tagItemSkillD248Desc=杀死一名敌人会让你进入暴怒状态,你将变得更加渴望鲜血.
+tagItemSkillD248Desc=致命一击将使你进入暴怒状态,变得更加渴望鲜血.
 
 tagItemSkillD249Name=奥术毁灭
 tagItemSkillD249Desc=撕裂一道奥术领域与现实世界间的细微裂缝并降下奥术灰烬.
@@ -2112,8 +2112,23 @@ tagItemSkillD254Desc=火焰从你周围的地面喷发而出,将一切化为灰�
 tagItemSkillD255Name=恐惧寒冰
 tagItemSkillD255Desc=释放出一股刀锋般锋利的寒冰尖刺.
 
-tagItemSkillFailName=Failchantment
-tagItemSkillFailDesc=Failalittleharder.
+tagItemSkillD256Name=伊斯坎德拉的天之裂片
+tagItemSkillD256Desc=根据特洛赞的传奇技艺改造而成，伊斯坎德拉充分地展现了她那令人惊叹的奥术才华。
+
+tagItemSkillD257Name=伊斯坎德拉的元素撕裂
+tagItemSkillD257Desc=伊斯坎德拉在奥术领域的学识能够轻易地让敌人的身体分崩离析。
+
+tagItemSkillD258Name=血腥狂怒
+tagItemSkillD258Desc=杀死敌人会使你陷入无尽的疯狂。
+
+tagItemSkillD259Name=奥祖因的怒视
+tagItemSkillD259Desc=天神怒视所及之处都将焚烧殆尽。
+
+tagItemSkillD260Name=奥祖因的复仇
+tagItemSkillD260Desc=烈火天神的愤怒，燃烧余烬从天而降，将一切焚烧殆尽。
+
+tagItemSkillFailName=失败转移
+tagItemSkillFailDesc=让失败变得更难一点。
 
 
 #Component Skills
@@ -2319,7 +2334,7 @@ tagRelicSkillC007Name=噬魂
 tagRelicSkillC007Desc=唤起受折磨的灵魂缠绕你的敌人并冰冻他们的血液.
 
 tagRelicSkillC008Name=爆炎
-tagRelicSkillC008Desc=发动一束强烈到即使最坚固的护甲也无法抵挡的纯净火焰.^o这是一项引导技能,需要持续施法.施法速度为100%时,爆炎每0.3s造成伤害并消耗能量。
+tagRelicSkillC008Desc=发动一束强烈到即使最坚固的护甲也无法抵挡的穿透性纯净火焰.^o这是一项引导技能,需要持续施法.施法速度为100%时,爆炎每0.3s造成伤害并消耗能量。
 
 tagRelicSkillC009Name=召唤风暴魔犬
 tagRelicSkillC009Desc=召唤一只忠诚的风暴魔犬 ~ 源于天堂的可怕野兽.^o同一时间只能召唤一只风暴魔犬.风暴魔犬会受到战宠加成影响.
@@ -2530,7 +2545,7 @@ tagDevotion_RequiresFocus=^o需要一件副手法器.
 tagDevotion_Requires1hRange=^o需要一把单手远程武器.
 tagDevotion_Requires2hRange=^o需要一把双手远程武器.
 tagDevotion_RequiresRange=^o需要一把远程武器.
-tagDevotion_Requires2h=^o需要一把双手近战武器或远程武器.
+tagDevotion_Requires2h=^o需要一把双手近战武器或双手远程武器.
 tagDevotion_RequiresShield=^o需要一面盾牌.
 tagDevotion_RequiresMagic=^o需要一把权杖,匕首或者法器副手.
 

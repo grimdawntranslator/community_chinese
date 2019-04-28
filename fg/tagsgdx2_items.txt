@@ -192,6 +192,8 @@ tagGDX2FocusD204_Desc="以行动赎罪。"
 tagGDX2FocusD205=伊纳什柯之首
 tagGDX2FocusD205_Desc="那科凡人民的强大守卫或许已经被击败，但它的能量却诡异地毫发无损。"
 tagGDX2FocusD206=飓风神像
+tagGDX2FocusD207=伊纳什柯腐化之首
+tagGDX2FocusD207_Desc="那科凡人民的强大守卫已堕落成冥煞入侵者，曾经的荣耀之力已被虚空永恒地腐化。"
 
 tagGDX2FocusF201=拜斯迈邪火神像
 tagGDX2FocusF202=拜斯迈污染神像
@@ -582,7 +584,7 @@ tagGDX2Blueprint_ArmorD207=设计图：凌冽轻语王冠
 tagGDX2Blueprint_ArmorD208=设计图：路德里根的檐帽
 tagGDX2Blueprint_ArmorD209=设计图：贩骨者的兜帽
 tagGDX2Blueprint_ArmorD210=设计图：美德之视
-tagGDX2Blueprint_ArmorD211=设计图：哈拉的头盔
+tagGDX2Blueprint_ArmorD211=设计图：哈拉的兜帽
 tagGDX2Blueprint_ArmorD212=设计图：飓风面具
 tagGDX2Blueprint_ArmorD213=设计图：拉辛的护甲
 tagGDX2Blueprint_ArmorD214=设计图：枯萎领主的兜帽

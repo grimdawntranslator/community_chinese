@@ -1773,6 +1773,8 @@ tagGamePadMap=地图
 tagGamePadFactions=势力
 tagGamePadAchieve=成就
 tagGamePadLootFilter=战利品过滤器
+tagGamePadDevotionSearch=搜索
+tagGamePadMinimapSize=小地图
 
 tagControllerUIWarning=你现有的屏幕分辨率不支持手柄的用户界面.
 
@@ -2202,6 +2204,7 @@ tagDamageModifierCritDamageR={%+.0f0}-{%.0f1}% {^E}暴击伤害
 tagDamageModifierDamageMult={^E}总伤害修正 {^H}{%.0f0}%
 tagRetaliationModifierTotalDamage={%+.0f0}% {^E}到所有类型反击伤害
 tagRetaliationModifierTotalDamageR={%+.0f0}-{%.0f1}% {^E}到所有类型反击伤害
+tagRetaliationModifierDamageMult={^E}总反击伤害修正 {^H}{%.0f0}%
 tagTotalSpeedResistance={%.0f0}% {^E}减速抗性
 tagTotalSpeedResistanceR={%+.0f0}-{%.0f1}% {^E}减速抗性
 tagMindcontrolledMonster=思维控制

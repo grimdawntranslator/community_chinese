@@ -60,7 +60,12 @@ tagGDX2EndlessDungeon_S202=白骨之戟
 tagGDX2EndlessDungeon_NPC_Event01=玛赞，传送门守护者
 
 tagGDX2EndlessDungeon_NPC_Merchant01=乌兰纳
-tagGDX2EndlessDungeon_ StoreTitle_Merchant01=不朽的商贩
+tagGDX2EndlessDungeon_ StoreTitle_Merchant01=碎界商贩
+tagGDX2EndlessDungeon_ StoreTitle_Merchant02=碎界侍从
+tagGDX2EndlessDungeon_ StoreTitle_Merchant03=碎界骑士
+tagGDX2EndlessDungeon_ StoreTitle_Merchant04=碎界领主
+tagGDX2EndlessDungeon_ StoreTitle_Merchant05=碎界守卫
+
 
 tagGDX2EndlessDungeon_NPC_Smith01=伊卡洛德
 tagGDX2EndlessDungeon_StoreTitle_Smith01=被诅咒的铁匠

@@ -146,7 +146,10 @@ tagGDX2ItemSkillD210Name=太阳黑子
 tagGDX2ItemSkillD210Desc=从天而降的炽热火焰灼烧你的目标。
 
 tagGDX2ItemSkillD211Name=幽灵守卫
-tagGDX2ItemSkillD211Desc=变弱会带来幽灵回魂和愤怒。
+tagGDX2ItemSkillD211Desc=在虚弱时会使你充满幽灵的韧性和愤怒。
+
+tagGDX2ItemSkillD211BName=腐化守卫
+tagGDX2ItemSkillD211BDesc=在虚弱时会使你充满腐化的韧性和愤怒。
 
 tagGDX2ItemSkillD212Name=时光回溯
 tagGDX2ItemSkillD212Desc=逆转命运的束缚，消除你之前承受的伤害。
@@ -242,6 +245,9 @@ tagGDX2ItemSkillD239Desc=点燃敌人脚下的地面。
 
 tagGDX2ItemSkillD240Name=拜斯迈之令
 tagGDX2ItemSkillD240Desc=以你对召唤物的威势，激发并增强你和你的友军。
+
+tagGDX2ItemSkillD241Name=刺骨寒风
+tagGDX2ItemSkillD241Desc=从你身上爆发出一阵刺骨寒风，使附近的敌人胆寒。
 
 
 #Component Skills
