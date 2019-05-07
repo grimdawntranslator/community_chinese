@@ -26,7 +26,7 @@ achGDX207Title=一颗给索拉尔的心
 achGDX207Desc=把奥纳瑞克斯之心献给索拉尔。
 
 achGDX208Title=主宰
-achGDX208Desc=使用冲锋式技能(例如:维尔之力)一次穿越15名敌人。
+achGDX208Desc=使用冲锋式技能(例如：维尔之力)一次穿越 15名 敌人。
 
 achGDX209Title=狮鹫君王
 achGDX209Desc=击杀位于向阳尖塔的阿泽隆，狮鹫君王。
@@ -83,7 +83,7 @@ achGDX226Title=最终献祭
 achGDX226Desc=索拉尔教团的声望达到崇敬。
 
 achGDX227Title=崇高的勇士
-achGDX227Desc=与12个势力声望达到崇敬。
+achGDX227Desc=与 12个 势力声望达到崇敬。
 
 achGDX228Title=科凡保护者
 achGDX228Desc=完成被遗忘的诸神。
@@ -98,55 +98,55 @@ achGDX231Title=不朽的天神胜利者
 achGDX231Desc=完成被遗忘的诸神，在专家模式的终极难度中。
 
 achGDX232Title=科凡杀手
-achGDX232Desc=消灭2500只精英怪物(带有星形标记)。
+achGDX232Desc=消灭 2500只 精英怪物(带有星形标记)。
 
 achGDX233Title=像沙漠中的沙子
-achGDX233Desc=清除凯恩世界的250000只怪物。
+achGDX233Desc=清除凯恩世界的 250000只 怪物。
 
 achGDX234Title=科凡虔诚
-achGDX234Desc=修复60座神龛。
+achGDX234Desc=修复 60座 神龛。
 
 achGDX235Title=科凡探险家
-achGDX235Desc=打开30个一次性宝箱。
+achGDX235Desc=打开 30个 一次性宝箱。
 
 achGDX236Title=科凡博学者
-achGDX236Desc=收集85条学识记录。
+achGDX236Desc=收集 85条 学识记录。
 
 achGDX237Title=进入碎裂之境
-achGDX237Desc=征服碎裂之境的第5碎界。
+achGDX237Desc=征服碎裂之境的第 5 碎界。
 
 achGDX238Title=直面碎裂之境
-achGDX238Desc=征服碎裂之境的第5碎界，在终极难度中。
+achGDX238Desc=征服碎裂之境的第 5 碎界，在终极难度中。
 
 achGDX239Title=碎裂探险家
-achGDX239Desc=征服碎裂之境的第15碎界。
+achGDX239Desc=征服碎裂之境的第 15 碎界。
 
 achGDX240Title=碎裂开拓者
-achGDX240Desc=征服碎裂之境的第15碎界，在终极难度中。
+achGDX240Desc=征服碎裂之境的第 15 碎界，在终极难度中。
 
 achGDX241Title=碎裂胜利者
-achGDX241Desc=征服碎裂之境的第25碎界。
+achGDX241Desc=征服碎裂之境的第 25 碎界。
 
 achGDX242Title=碎裂征服者
-achGDX242Desc=征服碎裂之境的第25碎界，在终极难度中。
+achGDX242Desc=征服碎裂之境的第 25 碎界，在终极难度中。
 
 achGDX243Title=不朽的碎裂征服者
-achGDX243Desc=征服碎裂之境的第25碎界，在专家模式终极难度中。
+achGDX243Desc=征服碎裂之境的第 25 碎界，在专家模式终极难度中。
 
 achGDX244Title=灵魂饮食
-achGDX244Desc=在碎裂之境中吸收50个碎裂之魂。
+achGDX244Desc=在碎裂之境中吸收 50个 碎裂之魂。
 
 achGDX245Title=灵魂盛宴
-achGDX245Desc=在碎裂之境中吸收300个碎裂之魂。
+achGDX245Desc=在碎裂之境中吸收 300个 碎裂之魂。
 
 achGDX246Title=灵魂至尊
-achGDX246Desc=在碎裂之境中吸收8组成堆的碎裂之境精华。
+achGDX246Desc=在碎裂之境中吸收 8组 成堆的碎裂之境精华。
 
 achGDX247Title=碎裂交易
-achGDX247Desc=获得一种碎裂之境神龛效果。
+achGDX247Desc=获得 1种 碎裂之境神龛效果。
 
 achGDX248Title=完成交易
-achGDX248Desc=获得所有五种碎裂之境神龛效果。
+achGDX248Desc=获得所有 5种 碎裂之境神龛效果。
 
 achGDX249Title=
 achGDX249Desc=

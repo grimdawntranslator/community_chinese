@@ -88,7 +88,7 @@ tagGDX2Class09SkillDescription10A=无论是以至高神之名举起盾牌，还�
 tagGDX2Class09SkillName11A=[守誓者]护卫
 tagGDX2Class09SkillDescription11A=在久经沙场的守誓者手中，盾牌不仅是坚不可摧的防具，还是令人惧怕的武器。^o这是一项盾牌加成。
 tagGDX2Class09SkillName12A=[守誓者]重击
-tagGDX2Class09SkillDescription12A=由守誓者正义之怒发动的精确打击，能震慑并重创敌人。经过充足的训练，这项技艺甚至可以由盾牌来发动。 ^o所有默认武器攻击均可激活该技能效果。当同时装备近战武器与盾牌时，也会由盾牌来触发。
+tagGDX2Class09SkillDescription12A=由守誓者正义之怒发动的精确打击，能震慑并重创敌人。经过充足的训练，这项技艺甚至可以由盾牌来发动。 ^o所有默认武器攻击均可激活该技能效果。当装备近战武器和盾牌时，盾牌将会同时发动打击。
 tagGDX2Class09SkillName13A=[守誓者]粉碎猛击
 tagGDX2Class09SkillDescription13A=这是持盾守誓者的超凡技艺，打击所产生的共鸣力量能穿透地面，并从初始目标发出附加的冲击波。^o这是一项盾牌战斗技艺，由默认武器攻击触发。需要一把近战武器与盾牌。
 

@@ -12,28 +12,28 @@ achGroupWorld=世界
 # Achievements
 
 ach001Title=怪物屠杀者
-ach001Desc=消灭 25 只精英怪物 (带有星形标记)。
+ach001Desc=消灭 25只 精英怪物 (带有星形标记)。
 
 ach002Title=史诗屠杀者
-ach002Desc=消灭 100 只精英怪物 (带有星形标记)。
+ach002Desc=消灭 100只 精英怪物 (带有星形标记)。
 
 ach003Title=传奇屠杀者
-ach003Desc=消灭 1000 只精英怪物 (带有星形标记)。
+ach003Desc=消灭 1000只 精英怪物 (带有星形标记)。
 
 ach004Title=复仇者
-ach004Desc=在精英或者终极难度击杀一名复仇级怪物。(名称为红色)。
+ach004Desc=在精英或者终极难度击杀一名复仇级怪物 (名称为红色)。
 
 ach005Title=不可阻挡
-ach005Desc=在精英或者终极难度击杀六名复仇级怪物。(名称为红色)。
+ach005Desc=在精英或者终极难度击杀六名复仇级怪物 (名称为红色)。
 
 ach006Title=净化世界
-ach006Desc=清除凯恩世界的25000只怪物。
+ach006Desc=清除凯恩世界的 25000只 怪物。
 
 ach007Title=屠戮过境
-ach007Desc=清除凯恩世界的50000只怪物。
+ach007Desc=清除凯恩世界的 50000只 怪物。
 
 ach008Title=尸山血海
-ach008Desc=清除凯恩世界的100000只怪物。
+ach008Desc=清除凯恩世界的 100000只 怪物。
 
 ach009Title=末世友谊
 ach009Desc=与一个派系关系达到崇敬。
@@ -114,16 +114,16 @@ ach034Title=神话之力
 ach034Desc=合成一个神话圣物。
 
 ach035Title=初级探索者
-ach035Desc=打开10个一次性宝箱。
+ach035Desc=打开 10个 一次性宝箱。
 
 ach036Title=探险家们，分赃吧
-ach036Desc=打开20个一次性宝箱。
+ach036Desc=打开 20个 一次性宝箱。
 
 ach037Title=寻星
-ach037Desc=修复10座神龛。
+ach037Desc=修复 10座 神龛。
 
 ach038Title=真实信仰
-ach038Desc=修复50座神龛。
+ach038Desc=修复 50 座神龛。
 
 ach039Title=幸存者
 ach039Desc=达到等级 10。
@@ -153,7 +153,7 @@ ach047Title=无法幸免
 ach047Desc=击杀安娜斯特瑞娅。
 
 ach048Title=没想到会是你，人类
-ach048Desc=老兵难度下用低于11级的角色击杀典狱长克里格。
+ach048Desc=老兵难度下用低于 11级 的角色击杀典狱长克里格。
 
 ach049Title=保卫伯尔维治
 ach049Desc=老兵难度保卫伯尔维治传送门。
@@ -174,13 +174,13 @@ ach054Title=死亡空间
 ach054Desc=在灵魂密室中存活下来。
 
 ach055Title=我来收集我的纸条
-ach055Desc=收集5条学识记录。
+ach055Desc=收集 5条 学识记录。
 
 ach056Title=笔记收集者
-ach056Desc=收集20条学识记录。
+ach056Desc=收集 20条 学识记录。
 
 ach057Title=学识管理者
-ach057Desc=收集50条学识记录。
+ach057Desc=收集 50条 学识记录。
 
 ach058Title=绝望之地
 ach058Desc=在绝望之地存活下来。
@@ -219,10 +219,10 @@ ach069Title=瓦伯利之火
 ach069Desc=在瓦伯利的虚化之火中生存。
 
 ach070Title=战胜领主
-ach070Desc=在瓦伯利击杀领主范·奥德里奇
+ach070Desc=在瓦伯利击杀领主范·奥德里奇。
 
 ach071Title=为瓦伯利复仇
-ach071Desc=在终极难度下的瓦伯利击杀领主范·奥德里奇
+ach071Desc=在终极难度下的瓦伯利击杀领主范·奥德里奇。
 
 ach072Title=瓦伯利的不朽征服者
-ach072Desc=在专家模式下的瓦伯利击杀领主范·奥德里奇
+ach072Desc=在专家模式下的瓦伯利击杀领主范·奥德里奇。

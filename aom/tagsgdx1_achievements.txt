@@ -26,10 +26,10 @@ achGDX1007Title=为了马尔茅斯
 achGDX1007Desc=在钢盖区夺回马尔茅斯反抗军基地。
 
 achGDX1008Title=百年传说
-achGDX1008Desc=达到等级 100。
+achGDX1008Desc=达到等级 100级。
 
 achGDX1009Title=一神百年
-achGDX1009Desc=在专家模式达到等级 100。
+achGDX1009Desc=在专家模式达到等级 100级。
 
 achGDX1010Title=黑暗之刺
 achGDX1010Desc=击杀虚空边缘的艾柯特祖尔，黑暗先驱。
@@ -98,28 +98,28 @@ achGDX1031Title=马尔茅斯救世主
 achGDX1031Desc=终极难度完成马尔茅斯的灰烬。
 
 achGDX1032Title=大规模灭绝
-achGDX1032Desc=清除凯恩世界的200000只怪物。
+achGDX1032Desc=清除凯恩世界的 200000只 怪物。
 
 achGDX1033Title=无双杀手
-achGDX1033Desc=消灭 2000 只精英怪物 (带有星形标记)。
+achGDX1033Desc=消灭 2000只 精英怪物(带有星形标记)。
 
 achGDX1034Title=疯狂的藏匿
 achGDX1034Desc=找到伊旺达神秘的藏匿物。
 
 achGDX1035Title=报仇？我看更像是报酬。
-achGDX1035Desc=精英或者终极难度击杀10只复仇级怪物。(名称为红色)。
+achGDX1035Desc=精英或者终极难度击杀 10名 复仇级怪 (名称为红色)。
 
 achGDX1036Title=宠物囤积者
-achGDX1036Desc=同时召唤出18只宠物。
+achGDX1036Desc=同时召唤出 18只 宠物。
 
 achGDX1037Title=灰烬虔诚
-achGDX1037Desc=修复55座神龛。
+achGDX1037Desc=修复 55座 神龛。
 
 achGDX1038Title=杰出的探险家
-achGDX1038Desc=打开25个一次性宝箱。
+achGDX1038Desc=打开 25个 一次性宝箱。
 
 achGDX1039Title=博学士
-achGDX1039Desc=收集70条学识记录。
+achGDX1039Desc=收集 70条 学识记录。
 
 achGDX1040Title=不朽的马尔茅斯救世主
 achGDX1040Desc=专家模式终极难度完成马尔茅斯的灰烬。

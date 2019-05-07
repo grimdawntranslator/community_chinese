@@ -205,7 +205,7 @@ tagGDX1Class08SkillName09A=[死灵法师]精魂收割
 tagGDX1Class08SkillDescription09A=尤若布鲁克赋予信徒的强大技术之一。通过撕裂你的敌人，不仅可以造成严重的伤害，而且可以召唤出他们灵魂的一部分来为你服务。由此产生的精魂是不稳定的且有高度的侵略性，这使得它在战斗中非常有用。^o幽灵受到宠物伤害加成的影响。
 tagGDX1Class08SkillName09A_PetSkill=幽灵之触
 tagGDX1Class08SkillName09A_PetSkill02=活力新星
-tagGDX1Class08SkillTracker09A=当然召唤的幽魂数量
+tagGDX1Class08SkillTracker09A=当前召唤的幽魂数量
 
 tagGDX1Class08SkillName10A=[死灵法师]灵魂先驱
 tagGDX1Class08SkillDescription10A=掌握了死亡，你就成为了最终命运的先驱，敌人的生命精华将成为你随意操纵的玩物。

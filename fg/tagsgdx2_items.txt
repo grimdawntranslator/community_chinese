@@ -1062,7 +1062,7 @@ tagGDX2ItemSetD211Name=枯萎领主
 tagGDX2ItemSetD211Desc="没人知道枯萎领主的真实身份，人们只知道他犯下的罪行。最终当他被抓获时，他的脸早已因疾病和腐烂而变得扭曲不堪，没人能认出他来。"
 
 tagGDX2ItemSetD212Name=高尔的恶意
-tagGDX2ItemSetD212Desc="高尔是个粗鲁但十分聪明的家伙; 这种珍贵的属性吸引了低语女士的注意，并让高尔得到了她的祝福。"
+tagGDX2ItemSetD212Desc="高尔是个粗鲁但十分聪明的家伙；这种珍贵的属性吸引了低语女士的注意，并让高尔得到了她的祝福。"
 
 tagGDX2ItemSetD213Name=拜斯迈的饰品
 tagGDX2ItemSetD213Desc="曾经她身为凡人之时，低语女士就以收集威力强大的物品来控制孱弱生物闻名于世。在她成神之后，便不再需要这些琐碎的装饰品了。"

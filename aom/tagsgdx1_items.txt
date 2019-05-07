@@ -1395,7 +1395,7 @@ tagGDX1EnchantB118A=马尔茅斯的意志
 tagGDX1EnchantB118Desc="这个强化附魔是由马尔茅斯铁匠制成用来加强锤摆的，但它同样能很好的服务于战斗。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX1EnchantB119A=强效马尔茅斯的意志
-tagGDX1EnchantB119Desc="这个强化附魔是由马尔茅斯铁匠制成用来加强锤摆的，但它同样能很好的服务于战斗。。"^w^n(用于所有双手武器)
+tagGDX1EnchantB119Desc="这个强化附魔是由马尔茅斯铁匠制成用来加强锤摆的，但它同样能很好的服务于战斗。"^w^n(用于所有双手武器)
 
 tagGDX1EnchantB120A=马尔茅斯的灵魂
 tagGDX1EnchantB120Desc="这个强化附魔充满了人民的钢铁意志。"^w^n(用于所有单手武器，盾牌和法器副手)
@@ -1650,7 +1650,7 @@ tagGDX1ItemSetD111Name=法师杀手
 tagGDX1ItemSetD111Desc="法师杀手的铠甲，一小群光明会成员经过夜刃的特训，目的是消灭帝国内的邪恶施法者。"
 
 tagGDX1ItemSetD112Name=瓦尔古尔的饥渴
-tagGDX1ItemSetD112Desc="被诅咒的瓦尔古尔对生命有着无尽的饥渴 ，但也受到了掠夺者·温迪戈灵魂的祝福。"
+tagGDX1ItemSetD112Desc="被诅咒的瓦尔古尔对生命有着无尽的饥渴，但也受到了掠夺者·温迪戈灵魂的祝福。"
 
 tagGDX1ItemSetD113Name=符文束缚者
 tagGDX1ItemSetD113Desc="符文束缚者泰利尔斯的守护铠甲，光明会宝库最初的守护者。"
@@ -1697,10 +1697,10 @@ tagItemSetD009BName=野性之血先锋
 tagItemSetD010BName=洞察者
 tagItemSetD011BName=召魔者的元素
 tagItemSetD012BName=马尔科夫的堡垒
-tagItemSetD013BName=奥祖因的化身
+tagItemSetD013BName=奥祖因的炼狱化身
 tagItemSetD014BName=德里格的罩衣
 tagItemSetD015BName=死亡印记
-tagItemSetD016BName=伊斯坎德拉的团结
+tagItemSetD016BName=伊斯坎德拉的统一
 tagItemSetD017BName=尤尔托斯的风暴
 tagItemSetD018BName=特洛赞的升华
 tagItemSetD019BName=瓦尔登的背叛
@@ -1710,7 +1710,7 @@ tagItemSetD022BName=光明卫士
 tagItemSetD023BName=炼狱骑士
 tagItemSetD024BName=阿格维克斯之怒
 tagItemSetD025BName=战争降生战甲
-tagItemSetD026BName=血怒者的狂乱
+tagItemSetD026BName=血怒者的无尽狂乱
 tagItemSetD027BName=行刑者的魔印
 
 
@@ -1868,7 +1868,7 @@ tagGDX1CarraxusDoor=卡拉克萨斯的巢穴
 
 tagGDX1DoorOneWayAncientGrove=林地出口
 tagGDX1EpicDoor_AncientGrove=古老林地大门
-tagGDX1EpicDoor_AncientGroveLocked= {^R} ~ 被莫格卓根封印着 (需要一把骸骨之钥)
+tagGDX1EpicDoor_AncientGroveLocked= {^R} ~ 被莫格卓根封印着 (需要一把骸骨钥匙)
 
 #Doors
 tagGDX1Door_Vine=藤蔓
