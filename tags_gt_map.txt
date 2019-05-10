@@ -56,7 +56,7 @@ Map_tagMapLayerLevelLimits=等级限制
 Map_tagMapLayerChallengeAreas=挑战区域
 
 # Example usage: Mutators: 1-2
-Map_tagMapChallengeAreaMutators=异化
+Map_tagMapChallengeAreaMutators=变异
 
 # Example usage: Group #123
 Map_tagObjectGroup=#{%s0}类

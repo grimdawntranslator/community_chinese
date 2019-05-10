@@ -1,7 +1,7 @@
 MonsterDB_tagMonsterDB=Grim Dawn 怪物数据库
 MonsterDB_tagMonsterDBPets=Grim Dawn 战宠数据库
 
-# buff types,e.g. "Permanent buffs: OFF"
+# buff types, e.g. "Permanent buffs: OFF"
 MonsterDB_tagBuffsPermanent=永久buffs: {%s0}
 MonsterDB_tagBuffsTemporary=临时buffs: {%s0}
 MonsterDB_tagBuffsProc=触发buffs: {%s0}
@@ -26,7 +26,7 @@ MonsterDB_tagPetSummonSkillCooldown=召唤技能冷却
 MonsterDB_tagPetSummonSkillLimit=召唤限制
 
 MonsterDB_tagPetTypeRegular=常规战宠
-MonsterDB_tagPetTypePlayerScaling=玩家加成战宠
+MonsterDB_tagPetTypePlayerScaling=类召唤物
 MonsterDB_tagPetTypeCosmetic=装饰战宠
 
 MonsterDB_tagPetSourceMastery=专精
@@ -72,7 +72,7 @@ MonsterDB_tagSkillNumberOfSpawns={^E}生成物数量:{^H} {%s0}
 # spawn locations tab
 MonsterDB_tagTabSpawnLocations=刷新点
 MonsterDB_tagShowOnTheMap=在地图上显示
-# shown if monster can't appear on its own,but instead spawned by someone else (as a pet,n-th phase etc.)
+# shown if monster can't appear on its own, but instead spawned by someone else (as a pet, n-th phase etc.)
 # Usage: "Spawned by: Avatar of Mogdrogen" 
 MonsterDB_tagSpawnedBy=生成自:
 
@@ -89,7 +89,7 @@ MonsterDB_tagListHeaderName=名称
 MonsterDB_tagListHeaderRace=种族
 MonsterDB_tagListHeaderType=类型
 MonsterDB_tagListHeaderPetType=类型
-# pet source (e.g. equipment,mastery,devotion)
+# pet source (e.g. equipment, mastery, devotion)
 MonsterDB_tagListHeaderPetSource=来源
 MonsterDB_tagMonsterTypeCommon=普通
 MonsterDB_tagMonsterTypeChampion=精锐
