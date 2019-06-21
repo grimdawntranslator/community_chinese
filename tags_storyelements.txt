@@ -1296,6 +1296,7 @@ tagNPC_GateGuardA01=守门人 - 鲁克
 #Merchants and Other Services商人等npc
 
 tagNPC_BonusItems=保管人 科利
+tagNPC_BonusItems02=蓝赛尔骑士
 
 tagNPC_MerchantA01=罗恩
 tagStoreTitle_MerchantA01=收集品商人
@@ -1397,6 +1398,8 @@ tagStoreDesc_SmithA06_1={}知己知彼
 tagStoreDesc_SmithA06_2=哈伦娜对敌人进行了研究并通过熔炉习得了对抗强敌的方法。
 tagStoreDesc_SmithA06_3=
 tagStoreDesc_SmithA06_4=已制作完成的武器，护甲和首饰拥有以下属性之一：
+
+tagNPC_PowerupsS01=泰拉利亚，不朽的大法师
 
 #Faction Quartermasters
 tagNPC_FactionQuartermaster_01=埃利斯

@@ -1046,6 +1046,7 @@ tagRelicSwarm=虫群
 
 
 tagDLCWisp=罐中精灵
+tagDLCCrate=神圣板条箱
 
 #EnemySummons 敌军召唤物
 

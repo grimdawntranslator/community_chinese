@@ -2497,6 +2497,64 @@ tagDLCConsumableA01PetSkill01Desc=精灵以温暖的光芒围绕在你的周围�
 tagDLCConsumableA02=伯尔维治啤酒
 tagDLCConsumableA02Desc="这酒可不是给软蛋喝的，它可能产生的副作用有：恶心，呕吐，忘了你昨晚在哪儿。"
 
+tagDLCConsumableA03=圣神板条箱
+tagDLCConsumableA03Desc="一种与物质世界相连的神圣生物。"
+tagDLCConsumableA03PetSkill01=板条箱精灵
+
+tagDLCIllusionA11=幻化：暗黑骑士的靴子
+tagDLCA11=暗黑骑士的靴子
+tagDLCA11Desc="邪恶暗黑骑士盔甲的部件。"
+tagDLCIllusionA12=幻化：暗黑骑士的护手
+tagDLCA12=暗黑骑士的护手
+tagDLCIllusionA13=幻化：暗黑骑士的头盔
+tagDLCA13=暗黑骑士的头盔
+tagDLCIllusionA14=幻化：暗黑骑士的护腿
+tagDLCA14=暗黑骑士的护腿
+tagDLCIllusionA15=幻化：暗黑骑士之盾
+tagDLCA15=暗黑骑士的盾牌
+tagDLCIllusionA16=幻化：暗黑骑士的护肩
+tagDLCA16=暗黑骑士的护肩
+tagDLCIllusionA17=幻化：暗黑骑士之刃
+tagDLCA17=暗黑骑士之刃
+tagDLCIllusionA18=幻化：暗黑骑士的胸甲
+tagDLCA18=暗黑骑士的胸甲
+
+tagDLCIllusionA19=幻化：白银骑士的靴子
+tagDLCA19=白银骑士的靴子
+tagDLCA19Desc="神圣白银骑士盔甲的部件"
+tagDLCIllusionA20=幻化：白银骑士的护手
+tagDLCA20=白银骑士的护手
+tagDLCIllusionA21=幻化：白银骑士的头盔
+tagDLCA21=白银骑士的头盔
+tagDLCIllusionA22=幻化：白银骑士的护腿
+tagDLCA22=白银骑士的护腿
+tagDLCIllusionA23=幻化：白银骑士之盾
+tagDLCA23=白银骑士之盾
+tagDLCIllusionA24=幻化：白银骑士的护肩
+tagDLCA24=白银骑士的护肩
+tagDLCIllusionA25=幻化：白银骑士之刃
+tagDLCA25=白银骑士之刃
+tagDLCIllusionA26=幻化：白银骑士的胸甲
+tagDLCA26=白银骑士的胸甲
+
+tagDLCIllusionA27=幻化：龙将军之矛
+tagDLCA27=龙将军之矛
+tagDLCA27Desc="尊崇龙将军收藏品的部件。"
+tagDLCIllusionA28=幻化：龙将军的头盔
+tagDLCA28=龙将军的头盔
+tagDLCIllusionA29=幻化：龙将军的护甲
+tagDLCA29=龙将军的护甲
+
+tagDLCIllusionA30=幻化：白巫师之杖
+tagDLCA30=白巫师之杖
+tagDLCA30Desc="神秘白巫师华服的部件。"
+tagDLCIllusionA31=幻化：白巫师之帽
+tagDLCA31=白巫师之帽
+tagDLCIllusionA32=幻化：白巫师之袍
+tagDLCA32=白巫师之袍
+
+
+
 #ItemNote阅读记录
 
 tagNoteHelp=[右键点击来阅读]
@@ -4229,6 +4287,7 @@ tagTrollDoor=大门
 
 tagBreakableStoneWall=破碎之墙
 tagBreakableNaturalWall=松散的土堆
+tagBreakableObsidianWall=破碎的黑曜石
 
 #DungeonDoors地下城大门
 

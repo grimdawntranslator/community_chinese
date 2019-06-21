@@ -499,13 +499,13 @@ tagClass05SkillName01E=[奥术师]震荡飞弹
 tagClass05SkillDescription01E=在实体国度中展现复制飞弹的能量，同时造成物理和精神伤害。
 
 tagClass05SkillName02A=[奥术师]伊斯坎德拉的元素转换
-tagClass05SkillDescription02A=伊斯坎德拉教导她的学生说能用敌人自身的能量来对抗敌人是最有效的致胜之道。运用这种思想，元素转换会让盟友的武器饥渴地从敌人那里汲取奥术能量，然后转换成元素伤害。^o这项技能必须保持开启以持续生效。伤害转换只适用于施法者自身。
+tagClass05SkillDescription02A=伊斯坎德拉教导她的学生说能用敌人自身的能量来对抗敌人是最有效的致胜之道。运用这种思想，元素转换会让盟友的武器饥渴地从敌人那里汲取奥术能量，然后转换成元素伤害。^o这项技能必须保持开启以持续生效。
 tagClass05SkillName02B=[奥术师]过载
 tagClass05SkillDescription02B=向元素转换魔法中注入过量的奥术力量，元素的原力在你的武器上爆裂作响。
 tagClass05SkillName02C=[奥术师]元素平衡
 tagClass05SkillDescription02C=元素转换魔法臻至一种绝妙的平衡之境，狂野的闪电元素与截然相反的冰火元素和谐共处。
 tagClass05SkillName02D=[奥术师]化身
-tagClass05SkillDescription02D=奥术能量有多种展现形式。钻研召唤术的奥术师们常常把他们对奥术的掌握转移到忠诚的追随者身上，这样就能更好地侍奉它们的主人。^o技能效果也会延伸至队友身上。
+tagClass05SkillDescription02D=奥术能量有多种展现形式。钻研召唤术的奥术师们常常把他们对奥术的掌握转移到忠诚的追随者身上，这样就能更好地侍奉它们的主人。^o技能效果也会延伸至队友身上。玩家的伤害转换只适用于施法者自身。
 
 tagClass05SkillName03A=[奥术师]特洛赞的天之裂片
 tagClass05SkillDescription03A=神话中的特洛赞是位天性自由，桀骜不驯的人物，他不愿服从帝国奥术师们的教条。当帝国最终在他山顶上的居所包围他的时候，他使用了一种从未见过的法术撕裂天空，借以羞辱他们。^o在目标区域降下3块天之裂片。
@@ -517,7 +517,7 @@ tagClass05SkillDescription03C=天之裂片在降落时变得更加不稳定，�
 tagClass05SkillName04A=[奥术师]卡里多的风暴
 tagClass05SkillDescription04A=卡里多大师在塞缪尔王的军中担任将军。当他被派往前线时，他将一种法术臻至完美：通过瞬间集中的原始虚化能量的爆发，点燃他周围的空气以制造出一场奥术风暴。
 tagClass05SkillName04B=[奥术师]炼狱
-tagClass05SkillDescription04B=奥术风暴变为烈焰地狱，灼烧血肉融化护甲。
+tagClass05SkillDescription04B=奥术风暴变为烈焰地狱，用火焰持续灼烧敌人的血肉。
 tagClass05SkillName04C=[奥术师]阿格维克斯的愤怒
 tagClass05SkillDescription04C=阿格维克斯因为将如此巨大的力量导入奥术风暴之中而闻名遐迩。任何敢于靠近风暴范围的蠢货都会因为爆炸而化为尘埃。不过，他的法术需要极高的专注力，必须休息之后才能再次施放。
 
@@ -1846,7 +1846,7 @@ tagItemSkillD167Name=神圣平衡
 tagItemSkillD167Desc=保持光明与黑暗互冲之力的平衡并在爆发之前打击敌人。
 
 tagItemSkillD168Name=虚化尖啸
-tagItemSkillD168Desc=从你身上发出虚化尖啸，使附近的敌人感到恐惧。
+tagItemSkillD168Desc=从你身上发出虚化尖啸，恐惧并迷惑附近的敌人。
 
 tagItemSkillD169Name=命运封印
 tagItemSkillD169Desc=你封印了敌人的命运，使他们对你作出的审判确信无疑。

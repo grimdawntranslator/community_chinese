@@ -62,7 +62,7 @@ tagSkillUndoClass=撤销专精
 #Transmuter
 tagTransmuterWindow=幻化师
 tagTransmuteButton=应用幻化
-tagTransmuteNew=你得到了一种新幻化 : {%t0}
+tagTransmuteNew=你得到了一种新幻化 : {%s0}
 tagTransmutePageFormat={%d0} / {%d1}
 tagTransmuteNoItems=你没有装备上任何幻化师可以施展幻化效果的装备。
 tagTransmuteTotalGold=拥有的铁币总数 :

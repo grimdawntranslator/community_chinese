@@ -269,7 +269,7 @@ tagGDX1FocusB105Desc="宝典在你手中扭动。"
 tagGDX1FocusB106=血肉扭曲法典
 tagGDX1FocusB107=血肉扭曲档案
 tagGDX1FocusB108=法术冲击宝典
-tagGDX1FocusB109=阴燃神像
+tagGDX1FocusB109=阴燃宝典
 tagGDX1FocusB110=叶鬃号角
 tagGDX1FocusB111=叶鬃战利品
 
@@ -904,7 +904,7 @@ tagGDX1Blueprint_WeaponB103=设计图：溢血切斧
 tagGDX1Blueprint_WeaponB104=设计图：碎肠者战槌
 tagGDX1Blueprint_WeaponB105=设计图：石墙防御者
 tagGDX1Blueprint_WeaponB106=设计图：法术冲击宝典
-tagGDX1Blueprint_WeaponB107=设计图：阴燃神像
+tagGDX1Blueprint_WeaponB107=设计图：阴燃宝典
 tagGDX1Blueprint_WeaponB108=设计图：霜腐魔杖
 tagGDX1Blueprint_WeaponB109=设计图：死亡使者权杖
 
@@ -1221,10 +1221,6 @@ tagGDX1ConsumableF107Desc="一种充满潜能的粘性流体。"^o可以放置�
 
 tagGDX1Consumable_AttributeReset=重塑补药
 tagGDX1Consumable_AttributeReset_Desc="怪异的温暖充满全身，进行自我重塑。"
-
-#DLC
-tagGDX1DLCA01=幻化：假发魔粉
-tagGDX1DLCA01Desc="精致和品位的定义。"
 
 
 
@@ -1874,3 +1870,29 @@ tagGDX1EpicDoor_AncientGroveLocked= {^R} ~ 被莫格卓根封印着 (需要一�
 tagGDX1Door_Vine=藤蔓
 tagGDX1Door_Flesh=活体血肉之门
 tagGDX1Door_Puppetmaster=活体血肉之门
++
+
+#DLC
+tagGDX1DLCIllusionA01=幻化：暗黑骑士盔甲
+tagGDX1DLCA01=暗黑骑士盔甲
+tagGDX1DLCA01Desc="邪恶的暗黑骑士盔甲。"
+
+
+tagGDX1DLCIllusionA02=幻化：白银骑士盔甲
+tagGDX1DLCA02=白银骑士盔甲
+tagGDX1DLCA02Desc="神圣的白银骑士盔甲。"
+
+tagGDX1DLCIllusionA03=幻化：龙将军藏品
+tagGDX1DLCA03=龙将军藏品
+tagGDX1DLCA03Desc="尊崇龙将军收藏品。"
+
+tagGDX1DLCIllusionA04=幻化：白巫师
+tagGDX1DLCA04=白巫师华服
+tagGDX1DLCA04Desc="神秘的白巫师华服。"
+
+tagGDX1DLCIllusionHelmInvisible=隐形头盔
+tagGDX1DLCIllusionHelmInvisibleDesc="100％的保护和0％的重量。 而且不含乳制品。"
+
+tagGDX1DLCIllusionShouldersInvisible=隐形护肩
+tagGDX1DLCIllusionShouldersInvisibleDesc="100％的保护和0％的重量。 而且不含乳制品。"
+

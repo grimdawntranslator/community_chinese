@@ -254,6 +254,8 @@ tagGDX2Pet_Item_Mini=科凡迷你噬龙
 tagGDX2Pet_Item_Mini_Skill=迷你咆哮
 tagGDX2Pet_Item_Maggot=天界蛆虫
 tagGDX2Pet_Item_Maggot_Skill=翻滚
+tagGDX2Pet_Item_Devourer=贪魔
+tagGDX2Pet_Item_Devourer_Skill=好饿啊！
 
 tagGDX2Pet_Devotion_BlackBlood=尤戈尔的黑血
 

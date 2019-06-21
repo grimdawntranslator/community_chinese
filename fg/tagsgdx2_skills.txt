@@ -243,11 +243,23 @@ tagGDX2ItemSkillD238Desc=在敌人脚下召唤由地面翻腾而起的血池。
 tagGDX2ItemSkillD239Name=烈焰之地
 tagGDX2ItemSkillD239Desc=点燃敌人脚下的地面。
 
-tagGDX2ItemSkillD240Name=拜斯迈之令
+tagGDX2ItemSkillD240Name=拜斯迈之权威
 tagGDX2ItemSkillD240Desc=以你对召唤物的威势，激发并增强你和你的友军。
 
 tagGDX2ItemSkillD241Name=刺骨寒风
 tagGDX2ItemSkillD241Desc=从你身上爆发出一阵刺骨寒风，使附近的敌人胆寒。
+
+tagGDX2ItemSkillD242Name=沙魔刀刃
+tagGDX2ItemSkillD242Desc=沙魔刀刃带有腐蚀性的利刺，在刀光剑影之间撕裂你的敌人。^o这是近战双持被动加成。同时开启双持近战武器的能力。
+
+tagGDX2ItemSkillD243Name=皮兰的火葬
+tagGDX2ItemSkillD243Desc=在目标点释放出猛烈的火焰。
+
+tagGDX2ItemSkillD244Name=虚魂
+tagGDX2ItemSkillD244Desc=受折磨的灵魂会侵袭你的敌人并迅速将其痛苦传播给附近的敌人。
+
+tagGDX2ItemSkillD245Name=幻影之刃
+tagGDX2ItemSkillD245Desc=一把拥有意志的刀刃飞向敌人，刺穿沿途的一切。
 
 
 #Component Skills
@@ -287,6 +299,9 @@ tagGDX2_SummonMiniLizardDesc=召唤科凡强大的迷你噬龙，一种微型的
 
 tagGDX2_SummonMaggotName=召唤天界蛆虫
 tagGDX2_SummonMaggotDesc=施法从碎裂之境召唤一条翻滚的蛆虫。^o同一时间只能召唤一条天界蛆虫。严格来讲天界蛆虫绝非暴力者。
+
+tagGDX2_SummonDevourer=召唤贪魔
+tagGDX2_SummonDevourerDesc=从虚空中召唤出饥渴贪魔。^o同一时间只能召唤一只贪魔。严格来讲贪魔绝非暴力者。
 
 
 #SkillsQuest

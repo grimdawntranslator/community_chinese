@@ -14,6 +14,8 @@ tagGDX2WeaponSwordD201_Desc="这柄剑刃淬入的毒液散发着腐烂与胆汁
 tagGDX2WeaponSwordD202=灵魂之刃
 tagGDX2WeaponSwordD205=冷冽之心
 tagGDX2WeaponSwordD205_Desc=" '困于异界，速来救援' 的字样被匆忙地刻在了剑柄上。"
+tagGDX2WeaponSwordD206=沙魔之刃
+tagGDX2WeaponSwordD207=沙魔切刀
 
 tagGDX2WeaponSwordF201=拜斯迈之刃
 tagGDX2WeaponSwordF202=索拉尔切刀
@@ -30,6 +32,10 @@ tagGDX2WeaponBluntC201=卡拉斯特法槌
 
 tagGDX2WeaponBluntD201=饥渴魂灵的法槌
 tagGDX2WeaponBluntD202=阿玛托克的先驱者
+tagGDX2WeaponBluntD203=塔戈之锤
+tagGDX2WeaponBluntD204=完全正常的圆盾
+tagGDX2WeaponBluntD205=完全正常的黎明碎片
+tagGDX2WeaponBluntD206=完全正常的壁垒
 
 tagGDX2WeaponBluntF201=拜斯迈战锤
 tagGDX2WeaponBluntF202=索拉尔战锤
@@ -163,6 +169,7 @@ tagGDX2ShieldD201=荆棘丛生
 tagGDX2ShieldD202=坟墓之触
 tagGDX2ShieldD203=美德防御者
 tagGDX2ShieldD204=三巫神防御者
+tagGDX2ShieldD205=虚魂圆盾
 
 tagGDX2ShieldF201=拜斯迈防御者
 tagGDX2ShieldF202=德里格保护者
@@ -194,6 +201,7 @@ tagGDX2FocusD205_Desc="那科凡人民的强大守卫或许已经被击败，但
 tagGDX2FocusD206=飓风神像
 tagGDX2FocusD207=伊纳什柯腐化之首
 tagGDX2FocusD207_Desc="那科凡人民的强大守卫已堕落成冥煞入侵者，曾经的荣耀之力已被虚空永恒地腐化。"
+tagGDX2FocusD208=皮兰的神像
 
 tagGDX2FocusF201=拜斯迈邪火神像
 tagGDX2FocusF202=拜斯迈污染神像
@@ -249,6 +257,11 @@ tagGDX2HeadD213=飓风面具
 tagGDX2HeadD214=枯萎领主的兜帽
 tagGDX2HeadD215=卡拉加德拉的面容
 tagGDX2HeadD215_Desc="生动地表现了科凡城的人们拼命逃亡时的恐惧。"
+tagGDX2HeadD216=沙魔的面具
+tagGDX2HeadD217=皮兰的面容
+tagGDX2HeadD218=塔戈的头盔
+tagGDX2HeadD219=虚魂面容
+tagGDX2HeadD220=腐魔面具
 
 tagGDX2HeadF201=拜斯迈夜幕华丽头盔
 tagGDX2HeadF202=拜斯迈恐怖兜帽
@@ -293,6 +306,10 @@ tagGDX2ShoulderD211=飓风斗篷
 tagGDX2ShoulderD212=拉辛的护肩
 tagGDX2ShoulderD213=枯萎领主斗篷
 tagGDX2ShoulderD214=高尔的斗篷
+tagGDX2ShoulderD215=皮兰的斗篷
+tagGDX2ShoulderD216=塔戈的护肩
+tagGDX2ShoulderD217=虚魂斗篷
+tagGDX2ShoulderD218=腐魔护肩
 
 tagGDX2ShoulderF201=拜斯迈奥术护肩
 tagGDX2ShoulderF202=拜斯迈风幕斗篷
@@ -340,6 +357,11 @@ tagGDX2TorsoD210=三巫神护甲
 tagGDX2TorsoD211=哈拉的胸甲
 tagGDX2TorsoD212=拉辛的护甲
 tagGDX2TorsoD213=高尔的华服
+tagGDX2TorsoD214=沙魔的夹克
+tagGDX2TorsoD215=皮兰的法衣
+tagGDX2TorsoD216=塔戈的胸甲
+tagGDX2TorsoD217=虚魂护甲
+tagGDX2TorsoD218=腐魔胸甲
 
 tagGDX2TorsoF201=拜斯迈夜幕胸甲
 tagGDX2TorsoF202=拜斯迈邪恶法衣
@@ -486,6 +508,7 @@ tagGDX2NecklaceD210=哈拉的护身符
 tagGDX2NecklaceD211=拉辛的宝石
 tagGDX2NecklaceD212=枯萎领主之引
 tagGDX2NecklaceD213=拜斯迈之虹膜
+tagGDX2NecklaceD214=腐魔徽章
 
 tagGDX2NecklaceF201=拜斯迈斗士坠饰
 tagGDX2NecklaceF202=拜斯迈面纱坠饰
@@ -589,6 +612,11 @@ tagGDX2Blueprint_ArmorD212=设计图：飓风面具
 tagGDX2Blueprint_ArmorD213=设计图：拉辛的护甲
 tagGDX2Blueprint_ArmorD214=设计图：枯萎领主的兜帽
 tagGDX2Blueprint_ArmorD215=设计图：高尔的华服
+tagGDX2Blueprint_ArmorD216=设计图：沙魔的面具
+tagGDX2Blueprint_ArmorD217=设计图：皮兰的面容
+tagGDX2Blueprint_ArmorD218=设计图：塔戈的头盔
+tagGDX2Blueprint_ArmorD219=设计图：虚魂面容
+tagGDX2Blueprint_ArmorD220=设计图：腐魔面具
 
 tagGDX1Blueprint_AccessoryD121I=设计图：神圣低语引导之眼
 
@@ -717,6 +745,9 @@ tagGDX2Consumable_01_Desc="这个球体被创造的目的，甚至其起源都�
 
 tagGDX2Consumable_02=天神法球
 tagGDX2Consumable_02_Desc="一件来自碎裂之境的遗留之物，它究竟是用来做什么的……"
+
+tagGDX2Consumable_03=虚空法球
+tagGDX2Consumable_03_Desc="这法球闪烁着虚空能量。拿在手里可能不太安全..."
 
 
 #ItemEnchantment
@@ -1066,6 +1097,22 @@ tagGDX2ItemSetD212Desc="高尔是个粗鲁但十分聪明的家伙；这种珍�
 
 tagGDX2ItemSetD213Name=拜斯迈的饰品
 tagGDX2ItemSetD213Desc="曾经她身为凡人之时，低语女士就以收集威力强大的物品来控制孱弱生物闻名于世。在她成神之后，便不再需要这些琐碎的装饰品了。"
+
+tagGDX2ItemSetD214Name=科凡沙魔
+tagGDX2ItemSetD214Desc=科凡沙魔渴望成为科凡沙漠的毒蛇，难以捉摸…迅速…且致命。
+
+tagGDX2ItemSetD215Name=皮兰的沉思
+tagGDX2ItemSetD215Desc=受到老师们的蔑视后，皮兰发誓要在奥术史上留下自己的印记，但同时他的实验也扭曲了自己的身形。
+
+tagGDX2ItemSetD216Name=塔戈的技艺
+tagGDX2ItemSetD216Desc=传说是由星辰的锻造大师亲手锻造而成，这盔甲展现了身体和意志的力量。
+
+tagGDX2ItemSetD217Name=虚魂
+tagGDX2ItemSetD217Desc=这个曾经被祝福的盔甲现在充满了邪恶的能量，虚空已经永远地腐蚀了它的心。
+
+tagGDX2ItemSetD218Name=腐魔
+tagGDX2ItemSetD218Desc=腐魔酷爱杀戮，甚至在猎物腐烂很久之后还穿着它的皮肉。
+
 
 
 #LootChests
