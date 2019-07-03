@@ -39,10 +39,10 @@ tagGDX2EndlessDungeon_Special11=白骨单峰驼 ~ 哨兵
 tagGDX2EndlessDungeon_Special12=饥饿的蛆虫
 tagGDX2EndlessDungeon_Special13=火爆的蛆虫
 tagGDX2EndlessDungeon_Special14=膨胀的蛆虫
-tagGDX2EndlessDungeon_Special15=吃饱的蛆
+tagGDX2EndlessDungeon_Special15=吃饱的蛆虫
 tagGDX2EndlessDungeon_Special16=不稳定的吞噬者
 tagGDX2EndlessDungeon_Special17=膨胀的吞噬者
-tagGDX2EndlessDungeon_Special18=贪魔
+tagGDX2EndlessDungeon_Special18=小饿魔
 
 tagGDX2EndlessDungeon_Lever01=红色拉杆
 tagGDX2EndlessDungeon_Lever02=绿色拉杆
