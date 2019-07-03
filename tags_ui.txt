@@ -398,6 +398,8 @@ tagPortraitRemove=从队伍中移除
 tagPortraitChat=聊天
 tagPortraitDisband=解散战宠
 
+tagHUDHealth_Head=({%t0}/{%t1})
+tagHUDPlayerHealth_Head={%t0}({%t1}/{%t2})
 tagHUDRoll_Health={%s0} {%d1} / {%d2}
 tagHUDRoll_XP={%s0} {%d1} ~ {%s2} {%d3}
 tagHUDXP_Current=经验
@@ -2283,7 +2285,7 @@ tagMove=移动到
 tagForceMove=强制移动
 tagUse=互动
 tagPickup=拾取
-
+tagPushToTalk=按键说话
 tagUC_Button=解锁内容
 tagUC_Message=请输入你的解锁码来解锁新内容.
 tagUC_OK=好
