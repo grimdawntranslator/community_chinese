@@ -1,5 +1,5 @@
 tagTitleScreenText=恐怖黎明{^n}©2019 Crate Entertainment,LLC{^n}{^n}请访问我们的官网 www.grimdawn.com 并参与到恐怖黎明的开发中来！
-tagDemoScreenText=感谢游戏！{^n}{^n}恐怖黎明现在已在Steam上发布，或者通过访问www.grimdawn.com来查看。
+tagDemoScreenText=感谢游戏！{^n}{^n}恐怖黎明现在已在 Steam 上发布，或者通过访问 www.grimdawn.com 来查看。
 tagMenu01=开始游戏
 tagMenu02=自定义游戏
 tagMenu03=信息
@@ -113,7 +113,7 @@ tagGameStateStarting=开始游戏……
 tagGameStateConnecting=正在连接至服务器……
 tagGameStateData=等待服务器……
 
-tagGogMustBeSignedIn=你必须登录GOG Galaxy才能进行多人游戏。请登录GOG Galaxy然后从GOG启动器中启动恐怖黎明!
+tagGogMustBeSignedIn=你必须登录GOG Galaxy才能进行多人游戏。请登录GOG Galaxy然后从GOG启动器中启动恐怖黎明！
 tagSteamCloudLimit=你的Steam云存档已达上限，必须先删除一个人物才能创建新的人物。
 
 #
@@ -342,7 +342,7 @@ tagVideoDesc25=各向异性过滤等级。增强纹理质量。
 tagVideoDesc26=调整天气效果等级。
 tagVideoDesc27=调整颗粒效果强度。
 tagVideoDesc28=调整光线效果强度。
-tagVideoDesc29=渲染模式 (窗口化/全屏/无边框).
+tagVideoDesc29=渲染模式 (窗口化/全屏/无边框)。
 tagVideoDesc30=图形处理器/用于着色的显示器。
 tagFullscreen=全屏
 tagFullscreenWindowed=窗口化(无边框)
@@ -368,7 +368,7 @@ tagUPnPCheckFail=UPnP服务无法设置你的路由器以搭建一个恐怖黎�
 tagUPnPNotAvailableHelp=UPnP协议不可用。恐怖黎明无法将你的路由器自动                                                                                  设置成英特网服务器请检查你的路由器设置并开启UPnP或者手动设置你的路由来为UDP协议和TCP协议打开27016端口。
 
 tagUPnPEnabledHelp=已开启UPnP，不需要手动设置。
-tagUPnPDisabledHelp=已开启UPnP。你的路由器上必须为UDP协议和TCP协议打开27016端口才能搭建一个恐怖黎明的服务器。
+tagUPnPDisabledHelp=已关闭UPnP。你的路由器上必须为UDP协议和TCP协议打开27016端口才能搭建一个恐怖黎明的服务器。
 
 tagUPnPHelp=UPnP协议将能设置你的路由器并使其与恐怖黎明游戏进行通信。要建立一个互联网上的服务器，你的路由器必须打开相应的端口。UPnP可以让恐怖黎明游戏打开这些端口，并且退出的时候再关闭它们，无需手动设置。
 

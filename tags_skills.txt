@@ -2521,7 +2521,7 @@ DevotionPointsAvailable=可用点数: {%d0}
 DevotionPointsAvailableSingular=可用点数: {%d0}
 NoDevotionPointsAvailable=可用点数:0
 DevotionPointsTotal=已解锁点数: {%d0} / {%d1}
-tagConfirmSkillChanges=确认变更?
+tagConfirmSkillChanges=确认变更？
 
 #SkillDevotion
 tagDevotionInfo=在最黑暗的时期，人类向天上的众星求助。献身于天体符记和古老的神灵。获得他们的远古力量。
