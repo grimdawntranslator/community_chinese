@@ -4,7 +4,7 @@ tagLoadingTip02={^g}小贴士：{^w}如果你找到了一座暂时无法修复�
 tagLoadingTip03={^g}小贴士：{^w}你可以在任何时候打开书典窗口来重新查阅指引教程，默认热键：H。
 tagLoadingTip04={^g}小贴士：{^w}显著低于你等级的敌人将不会提供经验值以及势力声望。
 tagLoadingTip05={^g}小贴士：{^w}记得往专精条中投入点数。它会提供帮助你生存与增强的核心属性。
-tagLoadingTip06={^g}小贴士：{^w}访问 www。GrimDawn。com 来查阅游戏指引，其中有对游戏架构描述相当丰富的资料信息。
+tagLoadingTip06={^g}小贴士：{^w}访问 www.GrimDawn.com 来查阅游戏指引，其中有对游戏架构描述相当丰富的资料信息。
 tagLoadingTip07={^g}小贴士：{^w}英雄怪物(以星号标识)是拥有特殊能力的敌人，但也提供更好的战利品。
 tagLoadingTip08={^g}小贴士：{^w}显著低于你等级的敌人将不会掉落类似远古之心的稀有锻造材料。
 tagLoadingTip09={^g}小贴士：{^w}在精英难度，你的核心抗性将会降低25%。到终极难度则会提升至50%的惩罚。
@@ -28,7 +28,7 @@ tagTutorialTip06TextA=在凯恩世界找到的被丢弃的食物。估计是个�
 
 tagTutorialTip08Title=欢迎来到恐怖黎明
 tagTutorialTip08TextA=感谢你对我们和我们工作的支持。恐怖黎明在慷慨的赞助者们的帮助下才能得以发布，不论是通过我们的网站，Kickstarter或者是Steam上的早期先行版进行支持。
-tagTutorialTip08TextB=如果你发现BUG，请在我们的论坛www。grimdawn。com上进行反馈。
+tagTutorialTip08TextB=如果你发现BUG，请在我们的论坛www.grimdawn.com上进行反馈。
 tagTutorialTip08SubtitleA=游戏教程
 tagTutorialTip08TextC=你可以随时在选项菜单中开关游戏教程。选项按钮可以在游戏中按下{^x}[ESC]{^-}来进入。
 
