@@ -631,15 +631,15 @@ tagCharAttributeName03=精神
 tagCharAttributeName04=生命
 tagCharAttributeName05=能量
 
-tagCharAttributeDescription01=敏捷的思维能改进你的战斗技巧，提高物理，穿刺，流血和创伤伤害。灵巧也会提高你的承受能力，近战和远程攻击的命中几率以及暴击几率。
+tagCharAttributeDescription01=敏捷的思维能改进你的战斗技巧，提高物理，穿刺，流血和创伤伤害。 灵巧也会提高你的承受能力，近战和远程攻击的命中几率以及暴击几率。
 
-tagCharAttributeDescription02=锻炼体格可以穿上更重的装备， 并能灵敏地躲开敌人的攻击。体格也能大副提升你承受和回复创伤的能力以及降低被暴击的机率。
+tagCharAttributeDescription02=锻炼体格可以穿上更重的装备，并能灵敏地躲开敌人的攻击。 体格也能大副提升你承受和回复创伤的能力以及降低被暴击的机率。
 
-tagCharAttributeDescription03=强大的精神力会提升你体内的能量流动， 让你能承受更强的魔法装备所带来的精神负担。精神也会提高你的承受能力，增强你的魔法伤害。
+tagCharAttributeDescription03=强大的精神力会提升你体内的能量流动， 让你能承受更强的魔法装备所带来的精神负担。 精神也会提高你的承受能力，增强你的魔法伤害。
 
 tagCharAttributeDescription04=生命值衡量在死之前你能承受多少的痛楚和伤害。
 
-tagCharAttributeDescription05=能量值衡量你承受魔法能量的精神力。精神力越强， 就会有越多的能量在等待回复之前供你取用。
+tagCharAttributeDescription05=能量值衡量你承受魔法能量的精神力。 精神力越强， 就会有越多的能量在等待回复之前供你取用。
 
 tagCharBonusHealth=生命值加成：
 tagCharBonusHealthRegen=生命回复加成：
@@ -662,14 +662,14 @@ tagCharStatsOA=攻击能力
 tagCharStatsOALast=最后攻击：
 tagCharStatsOAHit=命中几率：
 tagCharStatsOACrit=暴击几率：
-tagCharStatsOADescription=更高的攻击能力(OA)提升你攻击和法术的命中几率， 暴击几率和暴击伤害。攻击能力低于敌人的防御能力会极大地增加你的未命中几率(最低不会低于60%)。攻击能力受技能， 物品和灵巧影响。
+tagCharStatsOADescription=更高的攻击能力(OA)提升你攻击和法术的命中几率，暴击几率和暴击伤害。 攻击能力低于敌人的防御能力会极大地增加你的未命中几率(最低不会低于60%)。攻击能力受技能，物品和灵巧影响。
 
 tagCharStatsDAAlert=防御能力{^b}(?)
 tagCharStatsDA=防御能力
 tagCharStatsDALast=最后受到的攻击来自：
 tagCharStatsDAHit=被击中几率：
 tagCharStatsDACrit=被暴击几率：
-tagCharStatsDADescription=更高的防御能力(DA)提升你闪避敌人攻击的几率(被命中率不会低于60%)， 降低受到暴击的机率以及受到暴击时的伤害。防御能力受技能， 物品和体格影响。
+tagCharStatsDADescription=更高的防御能力(DA)提升你闪避敌人攻击的几率(被命中率不会低于60%)， 降低受到暴击的机率以及受到暴击时的伤害。防御能力受技能，物品和体格影响。
 
 tagOverCapResist={%s0} {^b}{%.0f1}% {^s}(+{%.0f2}% 溢出上限)
 
@@ -730,9 +730,9 @@ tagCharHeaderMisc=杂项
 tagCharStatsDPSTitle=每秒伤害
 tagCharStatsDPS=每秒伤害{^b}(?)
 tagCharStatsDPSWeapon=武器攻击
-tagCharStatsDPSDescription=你的左键技能和右键技能每秒对单一目标造成的平均伤害，受到所有来自装备及其技能冷却时间和加成的影响。敌人的防御未计算在内。
-tagCharStatsDPSRightDescription=右键技能对单体目标的伤害明细，受到所有来自装备及其技能冷却时间和加成的影响。敌人的防御未计算在内。
-tagCharStatsDPSLeftDescription=左键技能对单体目标的伤害明细，受到所有来自装备及其技能冷却时间和加成的影响。敌人的防御未计算在内。
+tagCharStatsDPSDescription=你的左键技能和右键技能每秒对单一目标造成的平均伤害， 受到所有来自装备及其技能冷却时间和加成的影响。敌人的防御未计算在内。
+tagCharStatsDPSRightDescription=右键技能对单体目标的伤害明细，受到所有来自装备及其技能冷却时间和加成的影响。 敌人的防御未计算在内。
+tagCharStatsDPSLeftDescription=左键技能对单体目标的伤害明细，受到所有来自装备及其技能冷却时间和加成的影响。 敌人的防御未计算在内。
 
 tagCharStatsArmorTotalAlert=护甲等级{^b}(?)
 tagCharStatsAbsorption=护甲吸收
@@ -2287,7 +2287,6 @@ tagUse=互动
 tagPickup=拾取
 tagPushToTalk=按键说话
 
-tagPushToTalk=按键说话
 tagUC_Button=解锁内容
 tagUC_Message=请输入你的解锁码来解锁新内容。
 tagUC_OK=好
