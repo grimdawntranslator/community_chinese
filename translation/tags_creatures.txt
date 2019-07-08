@@ -1072,7 +1072,7 @@ tagQuestEnemyReanimator=死尸复生者 ~ 凯奥格
 tagQuestEnemyMiltonHart=米尔顿·哈特
 tagQuestEnemyBanditForge=非法熔炉
 tagQuestChthonianMonstrosity=拆解者 塔尔·诺什
-tagQuestBloodWagon=血腥战车
+tagQuestBloodWagon=运血车
 
 tagBossTheWarden01=典狱长
 tagBossLoghorrean01=罗格霍瑞恩，冥神的代言人
