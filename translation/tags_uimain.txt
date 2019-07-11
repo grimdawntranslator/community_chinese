@@ -24,11 +24,11 @@ tagMenuButton11=下载
 tagMenuChar={%d0} ~ {%d1}
 tagCharLevelClass= {%d0} 级{%t1}
 
-#Temporarypopupmessageforalphamultiplayerbuildwarning
+# Temporary popup message for alpha multi-player build warning
 tagMenuMPWarning=欢迎加入多人游戏测试！警告：测试期间，你会遇到bug，游戏崩溃和性能问题。请到恐怖黎明论坛反馈这些问题。
 
 #
-#PlayMenu
+# Play Menu 游戏菜单
 #
 
 tagMenuGame01=单人游戏
@@ -117,7 +117,7 @@ tagGogMustBeSignedIn=你必须登录GOG Galaxy才能进行多人游戏。请登�
 tagSteamCloudLimit=你的Steam云存档已达上限，必须先删除一个人物才能创建新的人物。
 
 #
-#Options
+# Options
 #
 
 tagGameplayTitle=基本设置
