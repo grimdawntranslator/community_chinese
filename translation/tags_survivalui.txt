@@ -96,7 +96,7 @@ tagTutorialTip64SubtitleA=重置试炼
 tagTutorialTip64TextC=如果你想再次挑战同样的试炼，你可以与罗卡对话并重置它。
 tagTutorialTip64TextD=注意，这将摧毁所有藏宝室内的宝箱以及你的防御工事。
 tagTutorialTip64SubtitleB=在一处检查点重新开始
-tagTutorialTip64TextE=如果你通过了50关，你可以选择花费贡品来获得在最近检查点重新开始的机会，这个检查点为你所止步的关卡的20关之前，四舍五入。（例：在55关停止，那么你将在第30关开始）。
+tagTutorialTip64TextE=如果你通过了50关，你可以选择花费贡品来获得在最近检查点重新开始的机会，这个检查点为你所止步的关卡的20关之前，四舍五入（例：在55关停止，那么你将在第30关开始）。
 tagTutorialTip64TextF=每次重新开始，都会花费更多的贡品。你可以重开三次。
 tagTutorialTip64TextG=注意，这将摧毁所有藏宝室内的宝箱以及你的防御工事。
 
