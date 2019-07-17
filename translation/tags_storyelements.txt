@@ -459,7 +459,7 @@ tagNotification_AreaD_FortIkonRiftgate=传送门周围充斥着虚灵生物。
 tagNotification_AreaD_FinalCryptLocked=这处墓穴被附近的运血车所灌注的邪教魔印封印了。
 tagNotification_AreaD_FinalBossUlgrim=这里周围都布满了撕开的虚空裂缝，吞噬了艾格瑞姆！
 
-tagNotification_WitchGods_Shrine02=前方的道路已经开启....
+tagNotification_WitchGods_Shrine02=前方的道路已经开启...
 tagNotification_WitchGods_Shrine03=隐秘之路已经为你敞开了...
 tagNotification_WitchGods_3Markers=你与巫神的联结使你变得更加强大。
 tagNotification_WitchGods_Secret=附近的石墙移动了。
@@ -677,12 +677,12 @@ tagNPC_Flavor_AreaD_06=
 #Quest Items
 
 tagQuestItemHartsAmulet_Name=哈特的项链
-tagQuestItemHartsAmulet_Text=“致我亲爱的哥哥:希望这条项链能在战场上保佑你。-西比尔”
+tagQuestItemHartsAmulet_Text=“致我亲爱的哥哥：希望这条项链能在战场上保佑你。-西比尔”
 
 tagQuestItemCultistKey_Name=奇特的钥匙
 tagQuestItemCultistKey_Text=“这把钥匙标注着冥神麾下邪教徒所使用的诸多奇异符文和堕落符号。”
 tagQuestItemDirections_Name=狄瑞尼的指引
-tagQuestItemDirections_Text=遵照约定:邪教徒们很舒服地待在山中，远离经常有旅行者的地方。前往伯尔维治郊外的断桥那里。到了之后，沿着悬崖边走，直到你找到一条进入山中的路。{^n}{^n}当你发现穿着浴血长袍在召唤黑暗力量的人时，你就到地方了。进入他们圣殿的入口就在营地的后面，深嵌在山腹之中。
+tagQuestItemDirections_Text=遵照约定：邪教徒们很舒服地待在山中，远离经常有旅行者的地方。前往伯尔维治郊外的断桥那里。到了之后，沿着悬崖边走，直到你找到一条进入山中的路。{^n}{^n}当你发现穿着浴血长袍在召唤黑暗力量的人时，你就到地方了。进入他们圣殿的入口就在营地的后面，深嵌在山腹之中。
 
 tagQuestChestLostJournal=积灰的诵经台
 tagQuestItemLostJournal_Name=邪教徒的命令
@@ -894,7 +894,7 @@ TagLoreObj_VillagerNoteK01Name=伯尔维治侦察报告
 TagLoreObj_VillagerNoteK01codexTitle=伯尔维治侦察报告
 TagLoreObj_VillagerNoteK01Text=我祈祷我们中的一员能够熬过这场噩梦将报告送达。保护恶魔十字人们的生命可能就要靠它了。{^n}{^n}依照指示，我的小队穿过了尸妖泥沼的原野来到了伯尔维治的郊外。这里的情况比我们担心的还要糟糕。我们没有遇到幸存者。虚灵已经完全占据了这里。{^n}{^n}让我们的感到困惑的是，敌人的活动高度集中在伯尔维治之中。之前我们碰到过的虚灵似乎并未聚集一处，他们散布在原野各处，并没有可预见的特征。但这次看起来却是有意为之，就好像他们受人支配在看守着什么重要的东西。{^n}{^n}我很遗憾地报告，如果没有更多的人手，即使是围墙出现裂痕也会导致严重后果并加重我们苦苦挣扎求生的境遇。虽然我明白我们危如累卵，急需找到一个新的食物和补给来源。但是我不建议直接在伯尔维治和敌人交战。那简直就是在自杀。{^n}{^n}我们需要准备好聚集在伯尔维治的敌人攻向恶魔十字的时刻。如果真到了那一步，我们必须准备好再次逃命。{^n}{^n}-侦察兵 塔娜
 
-TagLoreObj_Kymon01Name=凯蒙的圣经:第1部分
+TagLoreObj_Kymon01Name=凯蒙的圣经：第1部分
 TagLoreObj_Kymon01codexTitle=凯蒙-第1部分
 TagLoreObj_Kymon01Text=他们嘲笑我们并把我们赶了出来，还要称呼我们为异教徒和疯子，并觉得我们的伟大预言和宗旨是荒谬可笑的。{^n}{^n}他们将会遭受灾难！神圣愤怒将会在世界重塑时降临在这些凡人身上！我们的预言将会实现，我再也不会听到嘲笑声，取而代之的是死一般的沉寂！{^n}{^n}末日将会降临到那些恶劣、无知又懒惰的凡人身上。只有我们这样少数被选中的人，在身体和灵魂都经受过训练和准备后才能承受住世界的清洗，在死亡和衰退中存活并成长起来。{^n}{^n}环顾你的前后左右，能看到兄弟姐妹们神圣的面容，神圣的使命将你们联结在一起。我们被赋予的神圣职责是消灭所有腐化的残骸，然后在新生的纯净土地上繁衍子孙。只有这样，新的黎明才能升起！让我们互相给予力量，并从知识中获得力量来坚定地完成我们神圣的使命吧。{^n}{^n}我们已经为这一刻准备了很久，现在我们躲躲藏藏的日子是时候结束了。我们将会向前冲锋，大胆地向北行进以完成我们的使命。我们要让那些非信徒、腐尸、恶魔们在神圣愤怒的打击下颤抖不已！现在，召集我的孩子们，集合所有对我们的圣战有帮助的物资，从这个简陋的避难所向着我们的神圣使命开始进军！
 
@@ -984,8 +984,8 @@ tagLoreObj_BookD07Name=哈格特的日志 - 第4页
 tagLoreObj_BookD07codexTitle=哈格特的日志 - 第4页
 tagLoreObj_BookD07Text=海伦和艾莱娜提前回来了。当艾莱娜在角落里玩她的玩偶时，海伦下到实验室并在一堆最近的实验成果中找到了我。那在她脸上浮现的惊容是我永远无法忘记的。我试着找些理由。我解释说她所看见的只是一块垫脚石，那些男女的死可以让我们不必再在蛇和格罗布身上浪费力气。但她并没有动摇。{^n}{^n}我的妻子，我的搭档，在这重要的时刻背叛了我。我的工作太重要了，不允许有任何的情绪化因素阻挡。我做了最明智的事情。让历史来评判我的行为...{^n}{^n}处理完让我分神的不幸事件后，我回去看了看我的成果。人类和蛇的杂交显得不稳定，而且很暴力。在我研究他们的身体机能时曾经好几次被突然袭击，但那些攻击像是垂死挣扎。所有的实验样本都在那之后死了。解剖显示了内部不完全的杂交内脏。伴有功能性障碍的消化系统，必然会死亡。但我想知道是不是因为我年纪大了而无法成功。如果我能重新来过，在更加年轻的时候，或许我最终能找到一直追寻的答案...
 
-tagLoreObj_VillagerNoteE01Name=警告:格罗布的进攻日益猖獗
-tagLoreObj_VillagerNoteE01codexTitle=警告:格罗布的进攻
+tagLoreObj_VillagerNoteE01Name=警告：格罗布的进攻日益猖獗
+tagLoreObj_VillagerNoteE01codexTitle=警告：格罗布的进攻
 tagLoreObj_VillagerNoteE01Text=伯尔维治地方政府近期收到了日渐增多的关于格罗布在此区域活动的报告。建议市民们做好房屋的安全措施，格罗布以偷窃松动的金属以及值钱的东西著称。当遭遇单个格罗布时很少会受伤，市民们避开这种大量集结的堕落族群将是非常明智的。{^n}{^n}格罗布的营地极具特征，矗立着异教图腾并堆着大量偷来的财宝。如果你在附近区域发现了格罗布图腾，不要靠近它们。立刻返回营地并向有关当局报告。
 
 tagLoreObj_AreaAEastMarsh_NoteA01Name=淤泥覆盖的笔记
@@ -1089,7 +1089,7 @@ tagLoreObj_AreaCCultist_NoteA04Text=我试着安慰他们。我告诉他们一�
 tagLoreObj_AreaCCultist_NoteA05Name=血之召唤
 tagLoreObj_AreaCCultist_NoteA05Text=我整个生命都痴迷于溅出的鲜血。我在数年中都被派遣在阴影中猎杀。潜伏与孤独。但现在我不再孤单了。最终我发现了是什么在召唤着我。{^n}{^n}冥神向我低语，恐怖黎明解放了我的桎梏。现在我很乐意的为主人收集鲜血。注视着最后一滴鲜血落下，它填补了我的心灵并温暖了我的灵魂。{^n}{^n}原来的世界不明白我需要的是什么。但现在有了新的力量，冥神也向我发出召唤。那些回应召唤的人都会是我的猎物。
 
-tagLoreObj_AreaCCultistSummoner_NoteName=最后的布道: 末日
+tagLoreObj_AreaCCultistSummoner_NoteName=最后的布道：末日
 tagLoreObj_AreaCCultistSummoner_CodexTitle=末日
 tagLoreObj_AreaCCultistSummoner_NoteText=冥神的血誓祈愿者们，今日我们在此聚集有着重要的目的，我将给予你们最后的训诫。你们已经完全的献身给了冥神，抛弃过往的一切关系，财富以及自由的意志。你们已经证明了自己，都做好成为更加伟大整体的一部分的准备了，准备接受重新统一的光荣赠礼。{^n}{^n}我必须和其他人一起在后方完成伟大的事业，即便你们失去了生命，也将会使这个世界向末日迈进一步。黑暗之时来临，这个被痛苦折磨着的世界将会在冥神手中重整，纠正那些伪神在几千年前犯下的过错！这些自以为是的神操控着我们，把他们自己尊为必须受到崇敬的角色，并在很长时间内都依赖着我们的血汗。{^n}{^n}末日同时也会将死亡审判带给不羁的虚灵们。他们阻碍了我们。屠杀我们的同胞并在这个世界占据了优势。然而，我们还得感谢他们，虚灵不知不觉地让我们摧毁帝国及其教廷的目标变为可能。教廷不再猎杀我们，镇压我们或是阻碍我们与神圣之地的连接。卸去了帝国的枷锁，人们从虚假的梦境中醒悟并使我们的队伍不断壮大。{^n}{^n}虚灵对我们世界的历史无知，也不了解我们要唤醒怎样的末日。他们无法猜测我们的末日游戏，一旦他们意识到些什么，就会采取行动，但那已经太迟了！我们最虔诚的同胞们正在和大墓地虚空处的帝国军队交锋。他们需要做的只是阻止敌人越过最后的防线，即便对我们发起进攻，他们洒出的鲜血也会喂食我们的召唤仪式。在以往遭受最大挫败的地方，我们将重新获得最后的凯旋。并且，罗格霍瑞恩，末日的先驱者，将会带着成千上万冥神信徒的尖啸着进入这个世界并带领我们进入一个新的时代！
 
@@ -1362,14 +1362,14 @@ tagStoreTitle_SmithA01=锻造大师
 tagStoreDesc_SmithA01_1={}精湛技艺
 tagStoreDesc_SmithA01_2=安格瑞姆运用他多年的经验打造出致命的武器和坚不可摧的护甲。
 tagStoreDesc_SmithA01_3=
-tagStoreDesc_SmithA01_4=锻造的武器、护甲和饰品会被注入以下属性之一:
+tagStoreDesc_SmithA01_4=锻造的武器、护甲和饰品会被注入以下属性之一：
 
 tagNPC_SmithA02=邓肯
 tagStoreTitle_SmithA02=玄秘铁匠
 tagStoreDesc_SmithA02_1={}玄秘锻造
 tagStoreDesc_SmithA02_2=邓肯运用实验性的技术为武器和护甲注入魔力
 tagStoreDesc_SmithA02_3=
-tagStoreDesc_SmithA02_4=锻造的武器、护甲和饰品会被注入以下属性之一:
+tagStoreDesc_SmithA02_4=锻造的武器、护甲和饰品会被注入以下属性之一：
 
 tagNPC_SmithA03=沃德里克
 tagStoreTitle_SmithA03=军团铁匠
