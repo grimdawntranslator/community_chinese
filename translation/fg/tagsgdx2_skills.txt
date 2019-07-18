@@ -261,6 +261,12 @@ tagGDX2ItemSkillD244Desc=受折磨的灵魂会侵袭你的敌人并迅速将其�
 tagGDX2ItemSkillD245Name=幻影之刃
 tagGDX2ItemSkillD245Desc=一把拥有意志的刀刃飞向敌人，刺穿沿途的一切。
 
+tagGDX2ItemSkillD246Name=致命的手段
+tagGDX2ItemSkillD246Desc=都给我死！^o这是近战双持与远程双持的被动加成。同时开启双持武器的能力。
+
+tagGDX2ItemSkillD247Name=塔戈之锤
+tagGDX2ItemSkillD247Desc=塔戈的天神锤会飞向你的敌人，再飞回你手中。
+
 
 #Component Skills
 tagGDX2CompSkillA033Name=虚空弹药

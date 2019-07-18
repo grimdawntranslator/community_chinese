@@ -2923,6 +2923,8 @@ tagEnemySkillA19_Desc=你的力量被一种诅咒抽走了，伤害和速度被�
 tagEnemySkillA20=瘟疫
 tagEnemySkillA20_Desc=你得了瘟疫，在一定时间内受到毒性伤害并且攻击和防御均被削弱。
 
+tagEnemySkillA21=刀阵
+tagEnemySkillA21_Desc=一阵附魔刀刃切割你的肉体并粉碎你的防御。
 
 tagEnemySkillD01=熵能虚空
 tagEnemySkillD01_Desc=虚空将你与混乱能量缓缓分离。
