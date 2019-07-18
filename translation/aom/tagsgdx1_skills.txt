@@ -360,7 +360,7 @@ tagGDX1ItemSkillD128Name=角斗士的毅力
 tagGDX1ItemSkillD128Desc=坚持光荣的战斗。^o这是一项双手近战武器和双手远程武器被动加成。
 
 tagGDX1ItemSkillD129Name=奸诈的手段
-tagGDX1ItemSkillD129Desc=为了胜利不择手段。 ^o这是一个远程武器被动加成。
+tagGDX1ItemSkillD129Desc=为了胜利不择手段。^o这是一个远程武器被动加成。
 
 tagGDX1ItemSkillD130Name=岩浆球
 tagGDX1ItemSkillD130Desc=投掷纯火飞弹，只要轻轻一碰就会爆裂。
@@ -378,7 +378,7 @@ tagGDX1ItemSkillD134Name=释放奥术
 tagGDX1ItemSkillD134Desc=从你身上散发出奥术能量，魔法的纯粹力量强烈到可以对附近的敌人造成伤害。
 
 tagGDX1ItemSkillD135Name=幸运射击
-tagGDX1ItemSkillD135Desc=向敌人发射弹幕。只要多次尝试，这可能和运气毫无关系。 ^o这是一项远程技能，由默认武器攻击触发。
+tagGDX1ItemSkillD135Desc=向敌人发射弹幕。只要多次尝试，这可能和运气毫无关系。^o这是一项远程技能，由默认武器攻击触发。
 
 tagGDX1ItemSkillD136Name=血池
 tagGDX1ItemSkillD136Desc=一池肮脏的血液包围你的敌人。
@@ -521,6 +521,9 @@ tagGDX1ItemSkillD181Desc=召唤纳扎染受折磨的灵魂来猛击敌人，将�
 
 tagGDX1ItemSkillD182Name=寒舌标记
 tagGDX1ItemSkillD182Desc=寒舌的标记以在政治精英中间散播冲突和混乱而闻名。将它对敌人施放时，敌人会充满不安，感到受困。
+
+tagGDX1ItemSkillD183Name=苦痛灵魂之井
+tagGDX1ItemSkillD183Desc=撕开通往彼岸的裂隙，释放出苦痛灵魂之井，并撕碎任何胆敢接近的敌人。
 
 tagGDX1w=GrimDawn/images/evil
 

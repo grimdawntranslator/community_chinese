@@ -443,6 +443,8 @@ tagGDX2WaistD204_Desc="上面有着白莲花的徽记，照料着科凡大地上
 tagGDX2WaistD205=诺斯费拉提斯
 tagGDX2WaistD206=拉辛的护腰
 tagGDX2WaistD207=穆谟之吻
+tagGDX2WaistD208=致命的手段
+tagGDX2WaistD208_Desc="传言曾经属于夜刃尼达拉，每个小瓶都充满着一种独特的毒素。有些甚至可以组合产生完全不同的结果。"
 
 tagGDX2WaistF201A=拜斯迈致命护腰
 tagGDX2WaistF201B=拜斯迈致命束腰

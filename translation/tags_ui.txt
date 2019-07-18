@@ -1240,6 +1240,8 @@ tagCraftingProductBoxCompletion=从工作台上取走你刚刚锻造的物品。
 
 tagCraftingInsterComponent=把设计图特定的部件放入到这些空位中。
 
+tagCraftingSearchBoxInfo=根据物品名称或所需数据，输入搜索参数来筛选配方。
+
 #Subheadings
 
 tagCraftingAxes=斧
