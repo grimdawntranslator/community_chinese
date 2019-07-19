@@ -452,7 +452,7 @@ tagHUDQuickslotLM=左键分配
 tagHUDQuickslotLMRoll=主要攻击。点击右键分配技能
 tagHUDQuickslotRM=右键分配
 tagHUDQuickslotRMRoll=次要攻击。点击右键分配技能
-tagHUDQuickslotBarSwap=切换备用快捷槽。
+tagHUDQuickslotBarSwap=切换备用快捷栏。
 
 tagHUDButtonCharacter=人物窗口
 tagHUDButtonSkills=技能窗口
@@ -1321,8 +1321,8 @@ tagCaravanTitle=走私者
 tagCaravanCost=花费:{%d0}
 tagCaravanRefund=退还:{%d0}
 tagCaravanExpand=扩展仓库
-tagCaravanItemStorage=仓库
-tagStorageInfo01=仓库是你的物品栏的延伸。右键或者拖放来在仓库和物品栏之间存取物品。存储的物品在游戏中每个走私者那里都能取用。
+tagCaravanItemStorage=个人仓库
+tagStorageInfo01=个人仓库是你的物品栏的延伸。右键或者拖放来在仓库和物品栏之间存取物品。存储的物品在游戏中每个走私者那里都能取用。
 tagTransferCost=转移花费:{%d0}
 tagTransferAdd=你确定要将该物品放入共享存储中？
 tagTransferInfo01=使用走私者来给其他人物转移物品。只需要把物品丢进去，你的所有角色就都能取用了。
@@ -2297,7 +2297,7 @@ tagUC_Error=你已经为这个角色解锁过该内容。
 
 tagHotSlotSwap=主副快捷栏切换。
 tagHotSlotTitle=备用快捷栏
-tagEmptyHotSlot=清空此快捷栏按钮。
+tagEmptyHotSlot=清空此快捷栏。
 
 tagDevotionUnassigned=无技能
 

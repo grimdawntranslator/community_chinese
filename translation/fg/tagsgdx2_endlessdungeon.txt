@@ -156,7 +156,7 @@ tagGDX2EndlessDungeon_Key_05=上神引路石
 tagGDX2EndlessDungeon_Key_05_Desc=上神引路石完全恢复了它的神圣力量。它能使玛赞打开通往第65碎界至第75碎界的道路。
 tagGDX2EndlessDungeon_Key_05_Blueprint=设计图：上神引路石
 
-tagGDX2ItemTest=人形凝视者小姐♀
+tagGDX2ItemTest=人形凝视者♀
 tagGDX2ItemTestDesc="一个成就不凡的家伙把凝视者套在了身上。"
 tagGDX2ItemTest2=温和有趣的盒子
 tagGDX2ItemTest2Desc="受现实生活的启发"
