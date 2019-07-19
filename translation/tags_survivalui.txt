@@ -9,40 +9,40 @@ tagSurvivalLastDeath=你的团队失败了。
 achGroupSurvival=残酷试炼
 
 achS001Title=试炼王者
-achS001Desc=完成150波残酷试炼。
+achS001Desc=完成 150波 残酷试炼。
 
 achS002Title=试炼征服者
-achS002Desc=在挑战者难度下完成150波残酷试炼。
+achS002Desc=在挑战者难度下完成 150波 残酷试炼。
 
 achS003Title=试炼霸主
-achS003Desc=在角斗者难度下完成150波残酷试炼。
+achS003Desc=在角斗者难度下完成 150波 残酷试炼。
 
 achS004Title=超越900000！
-achS004Desc=在一场试炼中获得至少900000分。
+achS004Desc=在一场试炼中获得至少 900000分。
 
 achS005Title=爬梯
-achS005Desc=在一场试炼中获得至少5000000分。
+achS005Desc=在一场试炼中获得至少 5000000分。
 
 achS006Title=顶峰
-achS006Desc=在一场试炼中获得至少10000000分。
+achS006Desc=在一场试炼中获得至少 10000000分。
 
 achS007Title=势不可挡的试炼霸主
-achS007Desc=角斗者难度下在第六批怪物出生点激活时完成150波残酷试炼。
+achS007Desc=角斗者难度下在 第6批 怪物出生点激活时完成 150波 残酷试炼。
 
 achS008Title=防御状态
-achS008Desc=建造一个防御建筑。
+achS008Desc=建造 1个 防御建筑。
 
 achS009Title=防御过载
-achS009Desc=建造50个防御建筑。
+achS009Desc=建造 50个 防御建筑。
 
 achS010Title=神之触
-achS010Desc=激活一次神之祝福。
+achS010Desc=激活 1次 神之祝福。
 
 achS011Title=上神守护
-achS011Desc=激活25次神之祝福。
+achS011Desc=激活 25次 神之祝福。
 
 achS012Title=神圣介入
-achS012Desc=在一场试炼中触发四次神之祝福。
+achS012Desc=在一场试炼中触发 4次 神之祝福。
 
 
 #Mutators
@@ -96,7 +96,7 @@ tagTutorialTip64SubtitleA=重置试炼
 tagTutorialTip64TextC=如果你想再次挑战同样的试炼，你可以与罗卡对话并重置它。
 tagTutorialTip64TextD=注意，这将摧毁所有藏宝室内的宝箱以及你的防御工事。
 tagTutorialTip64SubtitleB=在一处检查点重新开始
-tagTutorialTip64TextE=如果你通过了50关，你可以选择花费贡品来获得在最近检查点重新开始的机会，这个检查点为你所止步的关卡的20关之前，四舍五入（例：在55关停止，那么你将在第30关开始）。
+tagTutorialTip64TextE=如果你通过了50关，你可以选择花费贡品来获得在最近检查点重新开始的机会，这个检查点为你所止步的关卡的20关之前，四舍五入。（例：在55关停止，那么你将在第30关开始）。
 tagTutorialTip64TextF=每次重新开始，都会花费更多的贡品。你可以重开三次。
 tagTutorialTip64TextG=注意，这将摧毁所有藏宝室内的宝箱以及你的防御工事。
 

@@ -12,19 +12,19 @@ achGroupWorld=世界
 # Achievements
 
 ach001Title=怪物屠杀者
-ach001Desc=消灭 25只 精英怪物 (带有星形标记)。
+ach001Desc=消灭 25只 精英怪物(带有星形标记)。
 
 ach002Title=史诗屠杀者
-ach002Desc=消灭 100只 精英怪物 (带有星形标记)。
+ach002Desc=消灭 100只 精英怪物(带有星形标记)。
 
 ach003Title=传奇屠杀者
-ach003Desc=消灭 1000只 精英怪物 (带有星形标记)。
+ach003Desc=消灭 1000只 精英怪物(带有星形标记)。
 
 ach004Title=复仇者
-ach004Desc=在精英或者终极难度击杀一名复仇级怪物 (名称为红色)。
+ach004Desc=在精英或者终极难度击杀 1名 复仇级怪物(名称为红色)。
 
 ach005Title=不可阻挡
-ach005Desc=在精英或者终极难度击杀六名复仇级怪物 (名称为红色)。
+ach005Desc=在精英或者终极难度击杀 6名 复仇级怪物(名称为红色)。
 
 ach006Title=净化世界
 ach006Desc=清除凯恩世界的 25000只 怪物。
@@ -36,10 +36,10 @@ ach008Title=尸山血海
 ach008Desc=清除凯恩世界的 100000只 怪物。
 
 ach009Title=末世友谊
-ach009Desc=与一个派系关系达到崇敬。
+ach009Desc=与 1个 派系关系达到崇敬。
 
 ach010Title=凯恩世界的典范
-ach010Desc=与6个派系关系达到崇敬。
+ach010Desc=与 6个 派系关系达到崇敬。
 
 ach011Title=至高之神的仆从
 ach011Desc=在凯蒙的神选者的声望达到崇敬。
@@ -105,13 +105,13 @@ ach031Title=大师级工匠
 ach031Desc=制作 1000件 物品。
 
 ach032Title=古代圣物
-ach032Desc=合成一个圣物。
+ach032Desc=合成 1个 圣物。
 
 ach033Title=卓越之力
-ach033Desc=合成一个卓越圣物。
+ach033Desc=合成 1个 卓越圣物。
 
 ach034Title=神话之力
-ach034Desc=合成一个神话圣物。
+ach034Desc=合成 1个 神话圣物。
 
 ach035Title=初级探索者
 ach035Desc=打开 10个 一次性宝箱。
@@ -123,22 +123,22 @@ ach037Title=寻星
 ach037Desc=修复 10座 神龛。
 
 ach038Title=真实信仰
-ach038Desc=修复 50 座神龛。
+ach038Desc=修复 50座 神龛。
 
 ach039Title=幸存者
-ach039Desc=达到等级 10。
+ach039Desc=达到等级 10级。
 
 ach040Title=冠军
-ach040Desc=达到等级 35。
+ach040Desc=达到等级 35级。
 
 ach041Title=英雄
-ach041Desc=达到等级 50。
+ach041Desc=达到等级 50级。
 
 ach042Title=传奇
-ach042Desc=达到等级 85。
+ach042Desc=达到等级 85级。
 
 ach043Title=不朽传说
-ach043Desc=专家模式达到等级 85。
+ach043Desc=专家模式达到等级 85级。
 
 ach044Title=凯恩的救世主
 ach044Desc=终极难度通关游戏。
