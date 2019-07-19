@@ -1997,7 +1997,7 @@ tagBlueprint_WeaponC008=设计图：艾达·贾克斯
 tagBlueprint_WeaponC009=设计图：强化的咒火魔杖
 tagBlueprint_WeaponC010=设计图：强化的天之裂片咒刃
 tagBlueprint_WeaponC011=设计图：强化的畸形傀儡
-tagBlueprint_WeaponC012=设计图：强化的奥格纳佩什的黑魔法书
+tagBlueprint_WeaponC012=设计图：强化的奥格·纳佩什的黑魔法书
 
 tagBlueprint_WeaponD001=设计图：奥秘魔印
 tagBlueprint_WeaponD002=设计图：拉卡·贾克斯
