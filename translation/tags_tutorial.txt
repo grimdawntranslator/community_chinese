@@ -38,7 +38,7 @@ tagTutorialTip09TextB=在这绝望的时期，好的装备可不便宜。商人�
 
 tagTutorialTip10Title=传送裂缝
 tagTutorialTip10TextA=安全的传送裂缝允许你在各个地点间快速移动。左键点击传送裂缝以打开世界地图并选择目的地。
-tagTutorialTip10SubtitleA=个人传送裂缝:
+tagTutorialTip10SubtitleA=个人传送裂缝：
 tagTutorialTip10TextB=作为一个接触过虚化之力的人类，你拥有打开个人传送裂缝的能力。要激活你的个人传送裂缝，点击在你技能条右边的传送旅行按钮，或者按下{^x}[%t0]{^-}。
 tagTutorialTip10TextC=个人传送裂缝可以在世界的任何地点开启，并与主要的传送裂缝网络相连。你的传送裂缝将一直持续开启直到你返回。当它开启的时候，你的队伍成员也可以传送到它的位置。在任何时间段内你只能同时开启一处个人传送裂缝。
 
