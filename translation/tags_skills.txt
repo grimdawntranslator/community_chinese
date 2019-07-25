@@ -1088,8 +1088,8 @@ tagItemSkillC049Desc=使用一道炽烈的天堂火光轰击你的敌人。
 tagItemSkillC050Name=巫妖守卫
 tagItemSkillC050Desc=在危难之时，巫妖守卫会保护它的持有者免遭致命的伤害。
 
-tagItemSkillC051Name=召唤奥格纳佩什的亡魂
-tagItemSkillC051Desc=施放奥格纳佩什的黑魔法，将他那无比邪恶的亡魂召唤到尘世之中。^o同一时间只能召唤一只亡魂。亡魂会受到战宠加成影响。
+tagItemSkillC051Name=召唤奥格·纳佩什的亡魂
+tagItemSkillC051Desc=施放奥格·纳佩什的黑魔法，将他那无比邪恶的亡魂召唤到尘世之中。^o同一时间只能召唤一只亡魂。亡魂会受到战宠加成影响。
 tagItemSkillC051Pet01=盾牌守护
 tagItemSkillC051Pet01Desc=亡魂帮助周围的友军抵抗群体控制效果，并且强化他们的护甲与反击能力。
 

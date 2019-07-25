@@ -68,7 +68,7 @@ tagEnemyAetherialAbominationC01=熔岩恐兽
 tagAetherialAbominationBoss01=混元体
 tagAetherialCommanderBoss01=指挥官卢修斯
 
-#CreatureBoar
+#CreatureBoar 野猪
 
 tagEnemyBoarA01=石牙野猪
 tagEnemyBoarA02=巨型石牙野猪
@@ -158,7 +158,7 @@ tagChthonianBoss05=加拉尔’巴古克 ~ 黑暗魔王
 tagChthonianBoss06=哈拉克·巴格斯，要塞守卫者
 tagChthonianBoss07=萨尔’那若斯，要塞守卫者
 
-#CreatureChthonianFiend
+#CreatureChthonianFiend 冥煞恶魔
 
 tagEnemyVoidFiendA01=虚空恶魔
 tagEnemyVoidFiendA02=虚空焚烧者
@@ -173,7 +173,7 @@ tagVoidFiendHeroH05=戈苟斯·西恩 ~ 燃烧
 tagVoidFiendBoss01=地狱之火 ~ 巴洛格·纳斯
 
 
-#CreatureChthonianDevourer
+#CreatureChthonianDevourer 冥煞吞噬者
 
 tagEnemyChthonianDevourerA00=冥煞游荡者
 tagEnemyChthonianDevourerA01=冥煞贪食者
@@ -218,7 +218,7 @@ tagFleshHulkHeroH04=菲斯特利斯 ~ 碾压者
 
 tagEnemyFleshHulkBoss01=脊背粉碎者 ~ 维纳瑞斯
 
-#CreatureGazer
+#CreatureGazer 凝视者
 
 tagEnemyGazerA01=腐化者
 tagEnemyGazerB01=监察者
@@ -232,7 +232,7 @@ tagGazerHeroH04=观察者 ~ 伤害反弹
 tagGazerHeroH05=加米尼斯 ~ 回复者
 tagGazerHeroH06=亮光 ~ 带电的
 
-#CreatureGhost
+#CreatureGhost 幽灵
 
 tagEnemyGhostA01=幽灵
 tagEnemyGhostB01=幽灵贵族
@@ -286,7 +286,7 @@ tagGolemRockHeroH04=石磨 ~ 冲锋
 tagGolemRockHeroH05=霜石 ~ 冰冻
 tagGolemRockHeroH06=虚空之石 ~ 虚空之触
 
-#CreatureGrobles
+#CreatureGrobles 格罗布
 
 tagEnemySnakeClanScavengerA01=格罗布 ~ 蛇之部落 拾荒者
 tagEnemySnakeClanRangedA01=格罗布 ~ 蛇之部落 追踪者
@@ -356,7 +356,7 @@ tagHarpyHeroH06=愤怒之翼 ~ 腐化
 
 tagHarpyBossB01=被遗忘的卢特拉
 
-#CreatureHarvestman
+#CreatureHarvestman 稻草人
 
 tagEnemyHarvestmanA01=鬼怪稻草人
 tagEnemyHarvestmanB01=幽魂收割者
@@ -367,7 +367,7 @@ tagHarvestmanHeroH03=阿斯珀 ~ 迅捷
 tagHarvestmanHeroH04=乌鸦邪灵 ~ 碾碎者
 
 
-#Hellhound地狱犬
+#Hellhound 地狱犬
 
 tagEnemyHellhoundA01=地狱犬
 
@@ -376,7 +376,7 @@ tagEnemyHellHoundWitchGodA02=邪能风暴驱逐者
 
 
 
-#CreatureHuman
+#CreatureHuman 人类
 
 tagEnemyBloodswornA01=血誓 ~ 崇拜者
 tagEnemyBloodswornB01=血誓 ~ 狂热者
@@ -569,7 +569,7 @@ tagObsidianDefilerHeroH05=卓格·尤考格 ~ 冲锋
 
 tagObsidianDefilerBoss01=贝恩'加戈斯
 
-#CreaturePrawns 虾
+#CreaturePrawns 爬虫
 
 tagEnemyPrawnA01=食腐者 ~ 裂隙之灾
 tagEnemyPrawnA02=酸液之怒 ~ 裂隙之灾
@@ -866,7 +866,7 @@ tagTrollCorruptedHeroH05=法尔德拉克 ~ 伤害反弹
 
 tagTrollCorruptedBoss01=屠杀者 ~ 哈拉斯
 
-#CreatureUnderdwellers
+#CreatureUnderdwellers 穴居生物
 
 tagEnemyCaveTrollHalfA01=穴居人 ~ 饮血者
 tagEnemyCaveTrollHalfB01=穴居人 ~ 血肉撕裂者
@@ -932,7 +932,7 @@ tagYetiHeroH04=马鲁斯 ~ 堕落者
 tagYetiBoss01=拉格拉萨 ~ 狂怒之血
 
 
-#CreatureZombie
+#CreatureZombie 行尸
 
 tagEnemyZombieA01=行尸
 tagEnemyZombieB01=恶尸
@@ -971,7 +971,7 @@ tagZombieMiniBoss04=巴若丝，畸形的
 tagZombieMiniBoss05=哈格拉，折磨者
 
 
-#CreatureZombieHound
+#CreatureZombieHound 僵尸犬
 
 tagEnemyZombieHoundA01=污秽猎犬
 tagEnemyZombieHoundB01=污秽猎犬领袖
@@ -1037,7 +1037,7 @@ tagItemFleshHulkA01=血肉巨人
 tagItemGuardianA01=坚毅守卫
 tagItemGuardianA02=鲁莽守卫
 tagItemAncestorA01=先祖之魂
-tagItemRevenantA01=奥格纳佩什的亡魂
+tagItemRevenantA01=奥格·纳佩什的亡魂
 tagItemPrawnA01=枯萎者 ~ 裂隙之灾
 tagItemYetiA01=寒鬃 ~ 裂石者
 tagRelicStormhound=风暴猎犬
@@ -1066,7 +1066,7 @@ tagEnemyMogdrogenBoar=莫格卓根的寒霜尖牙
 tagEnemyMogdrogenRat=莫格卓根的骸骨脊背
 tagEnemyMogdrogenHorror=莫格卓根的荆棘石南
 
-#Boss&Quest
+#Boss&Quest 首领&任务
 
 tagQuestEnemyReanimator=死尸复生者 ~ 凯奥格
 tagQuestEnemyMiltonHart=米尔顿·哈特

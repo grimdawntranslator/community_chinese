@@ -25,7 +25,7 @@ tagGDX2MapSecretBaseShrine=霍兰神龛
 
 
 
-#Riftgate Names
+#Riftgate Names 传送门名称
 tagGDX2RiftWitchGodBase=三巫神秘会传送门
 tagGDX2RiftKorvanPlateau=科凡高原传送门
 tagGDX2RiftTempleOfOsyr=奥西尔神庙传送门
@@ -39,7 +39,7 @@ tagGDX2RiftKorvanCity=科凡城传送门
 tagGDX2RiftTemple=邪阳之墓传送门
 tagGDX2RiftEldritch=邪术之门传送门
 
-#World Map Labels
+#World Map Labels 世界地图标签
 tagGDX2WorldMapWitchGodBase=三巫神{^n}秘会
 tagGDX2WorldMapArea01=科凡{^n}高原
 tagGDX2WorldMapRuinedTempleCity01=奥西尔{^n}神庙城
@@ -62,7 +62,7 @@ tagGDX2WorldMapRoadToKorvaakTemple=晋升{^n}之路
 tagGDX2WorldMapKorvaakTomb=邪阳{^n}之墓
 tagGDX2WorldMapVanguard=三巫神{^n}先锋营
 
-#Underground Names
+#Underground Names 地牢名称
 tagGDX2RuinedTemple01=奥西尔神庙
 tagGDX2CairanRuins01=风沙废墟
 
@@ -105,7 +105,7 @@ tagGDX2VOTC04=伊拉之墓
 #Signs
 
 
-#Points of Interest
+#Points of Interest 重要地点
 tagGDX2POI_AREAG_CovenBase=三巫神秘会
 tagGDX2POI_AREAG_CovenBaseBysmiel=拜斯迈营地
 tagGDX2POI_AREAG_CovenBaseDreeg=D德里格营地
@@ -168,7 +168,7 @@ tagGDX2POI_AREAG_MessengerA=赎罪洞穴入口
 tagGDX2POI_AREAG_MessengerB=赎罪洞穴出口
 
 
-#Notifications
+#Notifications 通知
 tagNotification_AreaG_WitchGodTestWaveEvent=邪术试练已经开始！
 tagNotification_AreaG_WitchGodTestWaveEventFinished=你已经通过了邪术试练...
 tagNotification_AreaG_DailaPendant=这吊坠是尤若布鲁克唯一的遗物...
@@ -186,7 +186,7 @@ tagNotification_AreaG_MawOfEnahtA=这是个重大发现。三巫会的某个人�
 tagNotification_AreaG_MawOfEnahtB=这一定是卡马克提到的在三巫神秘会后的生物...
 
 
-#NPC Names
+#NPC Names NPC名称
 tagGDX2NPC_AreaG_01=特使
 tagGDX2NPC_AreaG_02=伊纳拉，受难者
 tagGDX2NPC_AreaG_03=拜希拉，裂隙女守护
@@ -513,7 +513,7 @@ tagGDX2LoreObj_AreaG_BonebleachNoteA03Text=我爬上一座巨大沙丘的顶部�
 
 
 
-#Merchants and Other Services
+#Merchants and Other Services 商人和其他人员
 tagGDX2NPC_MerchantA01=阿斯格拉
 tagGDX2NPC_MerchantA02=穆丁
 tagGDX2StoreTitle_MerchantA01=教团供应商

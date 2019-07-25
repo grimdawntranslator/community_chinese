@@ -1665,7 +1665,7 @@ tagRingF011=神选火焰印戒
 tagRingF012=神选风暴印戒
 
 
-#Necklaces项链
+#Necklaces 项链
 
 tagNecklaceA00=盐袋
 tagNecklaceA00Desc="装满盐的袋子，似乎能够击退恶灵。"
@@ -1997,7 +1997,7 @@ tagBlueprint_WeaponC008=设计图：艾达·贾克斯
 tagBlueprint_WeaponC009=设计图：强化的咒火魔杖
 tagBlueprint_WeaponC010=设计图：强化的天之裂片咒刃
 tagBlueprint_WeaponC011=设计图：强化的畸形傀儡
-tagBlueprint_WeaponC012=设计图：强化的奥格纳佩什的黑魔法书
+tagBlueprint_WeaponC012=设计图：强化的奥格·纳佩什的黑魔法书
 
 tagBlueprint_WeaponD001=设计图：奥秘魔印
 tagBlueprint_WeaponD002=设计图：拉卡·贾克斯
@@ -2133,7 +2133,7 @@ tagBlueprint_MiscA01Desc=只有少数被选召的人才知晓打造这把钥匙�
 
 tagBlueprint_MaterialA01=^f设计图：虚化集簇
 
-#Relics圣物
+#Relics 圣物
 
 tagDeviceBonus=完整部件奖励
 tagDeviceTier01=注魔圣物
@@ -2253,7 +2253,7 @@ tagRelicD022Desc="能够同时持握两把近战武器的象征。"
 tagRelicD023=掠夺者护符
 tagRelicD023Desc="能够同时手持两把手枪进行精准射击的象征。"
 
-#Crafting锻造
+#Crafting 锻造
 tagCraftTabArtifactA=圣物
 tagCraftTabArtifactB=护身符，圣物与强大的手工艺品。
 tagCraftTabMeleeA=近战武器
@@ -2348,7 +2348,7 @@ tagSuppliesHelp=[锻造材料用于设计图的打造]
 tagSuppliesError=
 
 
-#Consumables消耗品
+#Consumables 消耗品
 
 tagScrollDirections=[右击以使用]
 tagUseDirections=[右击以使用]
@@ -2561,7 +2561,7 @@ tagNoteHelp=[右键点击来阅读]
 tagNoteKnown=[已读过]
 tagNoteExcerpt="{%t}……"
 
-#ItemEnchantment附魔
+#ItemEnchantment 附魔
 
 tagEnchanted=已附魔
 tagEnchantmentName=增幅
@@ -3440,13 +3440,13 @@ tagCompAmmoBoxDesc="反抗组织总会有更多的枪弹来击退侵袭凯恩世
 tagCompAScrap=废铁
 tagCompAScrapDesc="可以用于固定和连接的废旧材料，例如子弹，皮绳和劣质的金属。"
 
-#ItemDifficultyUnlock
+#ItemDifficultyUnlock 物品难度解锁
 tagDifficultyUnlock={^E}解锁 {%s0} 难度
 tagDifficultyAlreadyUnlocked=你已经解锁了该难度。
 tagDifficultyUnlockDLC=你未拥有与该物品关联的DLC。
 tagDifficultyIncorrectMode=你必须处于正确的游戏模式下才能使用此物品。
 
-#ItemFactionBoosters
+#ItemFactionBoosters 声望增幅
 
 tagFactionBooster={^E}获得{%s1}的声望提升{^H}{%d0}%
 tagFactionAlreadyBoosted={^r}[你已经对这股势力使用过了委任状]
@@ -3519,7 +3519,7 @@ tagBoosterEXILE_C02=高级放逐者委任状
 tagBoosterEXILE_C03=神话级放逐者委任状
 
 
-#Misc杂项
+#Misc 杂项
 
 tagMoney01=铁币
 tagMoneyFormat={^s}{%d0}{%s1}
@@ -3544,7 +3544,7 @@ tagPotionDirections=[右键点击以使用]
 tagCombineStacks=[Ctrl+左键来拆分堆叠物品]
 tagHideTooltip=[按住Ctrl 来隐藏装备信息窗口]
 
-#Bonuses奖励
+#Bonuses 奖励
 tagBonusLifePercentAbsPercent={^E}恢复 {^H}{%.0f0}%+{%.0f1} {^E}生命 {^H}+{%.0f2}% {^E}持续恢复量
 tagBonusLifePercentPercent={^w}恢复 {^H}{%.0f0}% {^w}生命 {^H}+{%.0f1}% {^w}持续恢复量
 tagBonusLifePercentAbs={^w}恢复{^H}{%.0f0}%+{%.0f1}{^w}生命
@@ -3559,14 +3559,14 @@ tagBonusSkillPoint={%+d0}技能点数
 tagBonusAttribPoint={%+d0}属性点数
 
 
-#Devotion
+#Devotion 虔诚
 tagDevotionReset={^E}使用来重置你的虔诚点数
 tagDevotionNoPointsUsed={^r}[没有虔诚点数可以重置]
 tagDevotionResetConfirmation=重置所有虔诚点数？
 
 
 
-#ItemSets套装
+#ItemSets 套装
 
 
 tagItemSetC001Name=帝国卫兵的戎装
@@ -4162,7 +4162,7 @@ tagSuffixB042_Sh_A=爆炎之
 tagSuffixB043_Sh_A=飓风之
 tagSuffixB044_Sh_A=冰河之
 
-#ItemSkills物品技能
+#ItemSkills 物品技能
 
 tagAutoSkillCondition01= (当生命值低于{%.0f1}%时有 {%d0}% 的几率施放该技能)
 tagAutoSkillCondition02= (当能量值低于{%.0f1}%时有 {%d0}% 的几率施放该技能)
@@ -4177,7 +4177,7 @@ tagAutoSkillCondition10=(造成暴击时有 {%d0}% 的几率施放该技能)
 tagAutoSkillCondition11=(格挡时有 {%d0}% 的几率施放该技能)
 tagAutoSkillCondition12= (杀死怪物时有 {%d0}% 的几率施放该技能)
 
-#LootChests宝箱
+#LootChests 宝箱
 
 tagChestWoodA01=风化的箱子
 tagChestRationA01={^Y}旅行者的包
@@ -4278,7 +4278,7 @@ tagShrineConstitutionA01=未动过的食物
 tagShrineBossLocked= {^R} ~ 由强大的存在封印着
 tagShrineMogdrogenLocked= {^R} ~ 由冥煞能量封印着
 
-#Breakables可破坏
+#Breakables 可破坏
 
 tagWoodenDoor=木门
 tagBarnDoor=谷仓门
@@ -4289,7 +4289,7 @@ tagBreakableStoneWall=破碎之墙
 tagBreakableNaturalWall=松散的土堆
 tagBreakableObsidianWall=破碎的黑曜石
 
-#DungeonDoors地下城大门
+#DungeonDoors 地下城大门
 
 tagUGDoorCave01=洞穴入口
 tagUGDoorTrapdoor01=陷阱门
@@ -4316,7 +4316,7 @@ tagDoorLever01=吊门控制器
 tagTorchLever01=松动的火把
 tagStoneLever01=松动的石块
 
-#Doors门
+#Doors 门
 
 tagCellDoor=牢门
 tagPrisonEntranceDoor=伯尔维治监狱大门
@@ -4343,7 +4343,7 @@ tagLocked_Outcast= {^R} ~ 由安娜斯特瑞娅封印着
 tagLocked_BoCGauntlet= {^R} ~ 由守卫者封印着
 tagLocked_WitchGods= {^R} ~ 被邪能封印着
 
-#QuestRewards任务奖励
+#QuestRewards 任务奖励
 
 tagQuestItemBrothersAmulet=妹妹的护身符
 tagQuestItemBrothersAmuletDesc="致亲爱的哥哥：愿这枚护身符护佑你在战斗中勇不可当-西比尔"

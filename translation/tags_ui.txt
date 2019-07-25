@@ -64,7 +64,7 @@ tagRiftgateError03=你无法从此处传送到所选传送门。
 tagRiftgateDialog01=打开一个新传送裂缝将会关闭你现有的。你要继续吗？
 tagRiftGateMapA01=凯恩世界
 
-#Quest
+#Quest 任务
 
 tagQuests=激活的任务
 tagQuestLogNameNumber={%t0} ({%d1})
@@ -126,7 +126,7 @@ tagQuestBlockedDescription=基于游戏建立者的进度，任务在此次游�
 
 tagObjectives=目标
 
-#Faction
+#Faction 势力
 
 tagFaction={%s0}
 tagFactionStanding=立场:{^s}{%t0}
@@ -452,7 +452,7 @@ tagHUDQuickslotLM=左键分配
 tagHUDQuickslotLMRoll=主要攻击。点击右键分配技能
 tagHUDQuickslotRM=右键分配
 tagHUDQuickslotRMRoll=次要攻击。点击右键分配技能
-tagHUDQuickslotBarSwap=切换备用快捷槽。
+tagHUDQuickslotBarSwap=切换备用快捷栏。
 
 tagHUDButtonCharacter=人物窗口
 tagHUDButtonSkills=技能窗口
@@ -763,11 +763,11 @@ tagItemCompareGround=地上的物品
 tagItemInsufficientStatus={^r}声望不足
 
 
-#CharStatsTab2人物属性栏2
+#CharStatsTab2 人物属性栏2
 
 tagCharStatsMaximumSpeed=最大速度
 
-#Character人物
+#Character 人物
 tagCharStatsAttacksPerSecond=每秒攻击次数
 tagCharStatsAttacksPerSecondInfoo=每秒使用武器的攻击次数，包含加成。
 tagCharStatsRunSpeed=奔跑速度
@@ -801,7 +801,7 @@ tagCharStatsArcanistSkillsBonusInfo=所有奥术师专精中已习得技能的�
 tagCharStatsShamanSkillsBonus=萨满技能加成
 tagCharStatsShamanSkillsBonusInfo=所有萨满专精中已习得技能的额外加成。
 
-#Physical物理
+#Physical 物理
 tagCharStatsAttackSpeed=攻击速度
 tagCharStatsAttackSpeedDescription=相对于基本攻速的武器攻击速度(整体攻速)。慢速武器从攻速加成中的收益会减少。
 tagCharStatsAvgDmg=武器伤害
@@ -834,7 +834,7 @@ tagCharStatsInternalTraumaDurationInfo=你的内部创伤攻击持续时间的�
 tagCharStatsDamageToHealth=生命窃取
 tagCharStatsDamageToHealthInfo=武器伤害用来回复生命的百分数。
 
-#Magical魔法
+#Magical 魔法
 tagCharStatsCastSpeed=施法速度
 tagCharStatsCastSpeedInfo=人物相对于基础值的施法速度(包含整体速度)。
 
@@ -938,7 +938,7 @@ tagCharStatsDurBleeding=流血
 tagCharStatsDurLifeLeech=生命吸取
 tagCharStatsDurManaLeech=法力吸取
 
-#Pets
+#Pets 宠物
 tagCharStatsPetHealth=战宠生命加成
 tagCharStatsPetHealthInfo=你的战宠和召唤物的生命加成的百分数。
 
@@ -990,9 +990,9 @@ tagCharStatsPetAetherResistInfo=你的战宠和召唤物虚化抗性加成的百
 tagCharStatsPetChaosResist=战宠混乱抗性
 tagCharStatsPetChaosResistInfo=你的战宠和召唤物混乱抗性加成的百分数。
 
-#CharStatsTab3人物属性栏3
+#CharStatsTab3 人物属性栏3
 
-#Defense防御
+#Defense 防御
 tagCharStatsBlockChance=格挡几率
 tagCharStatsBlockChanceDescription=格挡一次攻击的几率。
 
@@ -1122,7 +1122,7 @@ tagCharStatsVitalityDecayRetInfo=当你被攻击时对攻击者造成3秒内每�
 tagCharStatsVitalityDecayPercentRet=活力衰减反击加成
 tagCharStatsVitalityDecayPercentRetInfo=所有活力衰减伤害反击效果的加成比率。全伤害类型的加成不会影响反击伤害。
 
-#Stats
+#Stats 统计
 tagCharStatsItemLevel=平均物品等级
 tagCharStatsItemLevelInfo=你所有装备的平均物品等级。
 
@@ -1321,8 +1321,8 @@ tagCaravanTitle=走私者
 tagCaravanCost=花费:{%d0}
 tagCaravanRefund=退还:{%d0}
 tagCaravanExpand=扩展仓库
-tagCaravanItemStorage=仓库
-tagStorageInfo01=仓库是你的物品栏的延伸。右键或者拖放来在仓库和物品栏之间存取物品。存储的物品在游戏中每个走私者那里都能取用。
+tagCaravanItemStorage=个人仓库
+tagStorageInfo01=个人仓库是你的物品栏的延伸。右键或者拖放来在仓库和物品栏之间存取物品。存储的物品在游戏中每个走私者那里都能取用。
 tagTransferCost=转移花费:{%d0}
 tagTransferAdd=你确定要将该物品放入共享存储中？
 tagTransferInfo01=使用走私者来给其他人物转移物品。只需要把物品丢进去，你的所有角色就都能取用了。
@@ -2297,7 +2297,7 @@ tagUC_Error=你已经为这个角色解锁过该内容。
 
 tagHotSlotSwap=主副快捷栏切换。
 tagHotSlotTitle=备用快捷栏
-tagEmptyHotSlot=清空此快捷栏按钮。
+tagEmptyHotSlot=清空此快捷栏。
 
 tagDevotionUnassigned=无技能
 

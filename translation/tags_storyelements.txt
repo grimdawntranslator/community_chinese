@@ -350,10 +350,10 @@ tagPOI010A=死亡守夜人教团领地入口
 tagPOI011A=凯蒙的神选者领地入口
 tagPOI012A=黑谷门
 tagPOI013A=哈伦堡
-tagPOI014A=地下墓室入口
-tagPOI014B=地下墓室出口
-tagPOI015A=深入虚空
-tagPOI015B=从虚空返回
+tagPOI014A=墓穴入口
+tagPOI014B=墓穴出口
+tagPOI015A=虚空入口
+tagPOI015B=虚空出口
 
 tagPOIFloodedPassageA=浸没通道入口
 tagPOIFloodedPassageB=浸没通道出口
@@ -686,7 +686,7 @@ tagQuestItemDirections_Text=遵照约定：邪教徒们很舒服地待在山中�
 
 tagQuestChestLostJournal=积灰的诵经台
 tagQuestItemLostJournal_Name=邪教徒的命令
-tagQuestItemLostJournal_Text="血之兄弟们，{^n}{^n}伯尔维治的虚灵势力每天都在增强。原先不受干扰即可完成计划的地方已经超出了它所能承受的极限，因此我们要更改行动目标。现在轮到恶魔十字了，我们的特工狄瑞尼成功地破坏了他们的水泵。那个令人生厌的群体不久后就会被迫逃离他们的庇护所，之后他们的命运就要由我们来掌控了。准备好，我的兄弟们。我们很快就要饮用他们的鲜血了！{^n}{^n}萨拉查，冥神之刃"
+tagQuestItemLostJournal_Text="血之兄弟们，{^n}{^n}伯尔维治的虚灵势力每天都在增强。原先不受干扰即可完成计划的地方已经超出了它所能承受的极限，因此我们要更改行动目标。现在轮到恶魔十字了，我们的特工狄瑞尼成功地破坏了他们的水泵。那个令人生厌的群体不久后就会被迫逃离他们的庇护所，之后他们的命运就要由我们来掌控了。准备好，我的兄弟们。我们很快就要饮用他们的鲜血了！{^n}{^n}冥神之刃 ~ 萨拉查"
 
 tagQuestItemDynamite=炸药
 tagQuestItemDynamiteDesc=“猛烈的爆炸物，爆破者们曾使用它来对抗法师们毁灭性的力量。”
@@ -754,7 +754,7 @@ tagQuestItemAetherialEssence_Desc="虚灵的不断徘徊的灵魂，被腐坏的
 tagQuestMogdrogenShrine=莫格卓根的神龛
 tagQuestItemMogdrogenShrine01=莫格卓根的神龛碎片
 tagQuestItemMogdrogenShrine02=莫格卓根之灵
-tagQuestItemMogdrogenShrine_Desc="莫格卓根神龛的一部分"
+tagQuestItemMogdrogenShrine_Desc="莫格卓根神龛的一部分。"
 
 tagQuestItemSacredAshes=至高之神的神圣灰烬
 tagQuestItemSacredAshes_Desc="执政官巴索勒姆的灰烬，光明使者的虔诚信徒。"
