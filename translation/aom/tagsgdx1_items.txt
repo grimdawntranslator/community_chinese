@@ -1,5 +1,5 @@
 
-#Weapons
+#Weapons 武器
 
 
 tagGDX1WeaponSwordB101=温迪戈之爪
@@ -221,7 +221,7 @@ tagGDX1WeaponCaster1hF110=巫火之刃
 tagGDX1WeaponCaster1hF111=哈加拉兹之爪
 
 
-#Shields
+#Shields 盾牌
 tagGDX1ShieldB101=巨型堡垒
 tagGDX1ShieldB101Desc="举起这块巨型盾牌需要相当强大的力量。"
 tagGDX1ShieldB102=巨型壁垒
@@ -252,7 +252,7 @@ tagGDX1ShieldF103=温迪戈灵魂守卫
 tagGDX1ShieldF104=愤怒守卫
 
 
-#Focus
+#Focus 副手
 tagGDX1FocusA101=崇高宝典
 tagGDX1FocusA102=崇高神像
 tagGDX1FocusA103=保护者档案
@@ -314,13 +314,13 @@ tagGDX1FocusF109=温迪戈腐蚀神像
 tagGDX1FocusF110=马尔茅斯风暴使者
 
 
-#ItemStyles
+#ItemStyles 物品品质
 tagGDX1ArmorStyle001=保护者
 tagGDX1ArmorStyle002=救世主
 tagGDX1WeaponQuality001=崇高的
 tagGDX1WeaponQuality002=保护者
 
-#ArmorHead
+#ArmorHead 头盔
 tagGDX1HeadB101=升灵面罩
 tagGDX1HeadB102=升灵兜帽
 tagGDX1HeadB103=帕克拉的皮肤
@@ -398,7 +398,7 @@ tagGDX1HeadF117=温迪戈邪恶头盔
 tagGDX1HeadF118=温迪戈暴躁头盔
 
 
-#ArmorShoulders
+#ArmorShoulders 护肩
 tagGDX1ShoulderB101=升灵肩铠
 tagGDX1ShoulderB102=升灵肩胄
 tagGDX1ShoulderB103=克拉瓦尔肩胄
@@ -460,7 +460,7 @@ tagGDX1ShoulderF117=温迪戈邪恶肩铠
 tagGDX1ShoulderF118=温迪戈守护者肩铠
 
 
-#ArmorTorso
+#ArmorTorso 胸甲
 tagGDX1TorsoB101=加拉克洛斯燃烧铠甲
 tagGDX1TorsoB102=加拉克洛斯恐惧铠甲
 tagGDX1TorsoB103=瓦拉克斯特瑞亚的奥术法袍
@@ -524,7 +524,7 @@ tagGDX1TorsoF117=温迪戈邪恶铁甲
 tagGDX1TorsoF118=温迪戈守护者铁甲
 
 
-#ArmorHands
+#ArmorHands 护手
 tagGDX1HandsC101=哈鲁德的极寒之握
 tagGDX1HandsC101_Desc="哈鲁德之握据说带着死亡的寒冷。"
 tagGDX1HandsC102=命令之触
@@ -547,7 +547,7 @@ tagGDX1HandsD113=克里格的护手
 tagGDX1HandsD114=黑暗之王的护手
 
 
-#ArmorLegs
+#ArmorLegs 护腿
 tagGDX1LegsB101=亚历山大的皮护腿
 tagGDX1LegsB102=亚历山大的马裤
 tagGDX1LegsB103=格拉瓦苏尔的护腿
@@ -577,7 +577,7 @@ tagGDX1LegsD110=野性鬃毛腿铠
 tagGDX1LegsD110_Desc="用来制作铠甲的野兽毛皮，似乎不是伊露兰本地的。"
 
 
-#ArmorFeet
+#ArmorFeet 靴子
 tagGDX1FeetB101=无畏战靴
 tagGDX1FeetB102=石板胫甲
 
@@ -591,7 +591,7 @@ tagGDX1FeetC111=风暴步伐护足
 tagGDX1FeetD101=恶魔之躯胫甲
 tagGDX1FeetD102=恶兆胫甲
 tagGDX1FeetD103=时光扭曲行者
-tagGDX1FeetD103_Desc="传说这靴子可以超越无限的时间线，但还没有人知道如何利用这力量"
+tagGDX1FeetD103_Desc="传说这靴子可以超越无限的时间线，但还没有人知道如何利用这力量。"
 tagGDX1FeetD104=符文守卫胫甲
 tagGDX1FeetD109=飓风之踏
 tagGDX1FeetD110=风暴承载者
@@ -599,7 +599,7 @@ tagGDX1FeetD110_Desc="这双靴子装满了闪电风暴的冲击之力，而且�
 tagGDX1FeetD111=克里格的靴子
 
 
-#ArmorWaist
+#ArmorWaist 腰带
 tagGDX1WaistA101=保护者腰带
 tagGDX1WaistA102=救世主护腰
 
@@ -654,7 +654,7 @@ tagGDX1WaistF106A=温迪戈守卫护腰
 tagGDX1WaistF106B=温迪戈守卫束腰
 
 
-#Rings
+#Rings 戒指
 tagGDX1RingA101=尊贵的指环
 tagGDX1RingA102=尊贵的戒指
 tagGDX1RingA103=保护者指环
@@ -673,7 +673,7 @@ tagGDX1RingC103=腐烂修理工的指环
 tagGDX1RingC104=符文先祖之印
 tagGDX1RingC104_Desc="符文先祖的标志，原始符文语言的创造者，现在光明会仍在使用。"
 tagGDX1RingC105=星光沉思之印
-tagGDX1RingC105_Desc="从这枚指环中会传出星星的秘语，未受训练的人是无法理解的"
+tagGDX1RingC105_Desc="从这枚指环中会传出星星的秘语，未受训练的人是无法理解的。"
 tagGDX1RingC106=寡妇之刺
 tagGDX1RingC115=暗夜蔑视
 tagGDX1RingC116=癔症指环
@@ -705,7 +705,7 @@ tagGDX1RingF108=温迪戈施魔印戒
 
 
 
-#Necklaces
+#Necklaces 项链
 tagGDX1NecklaceA101=尊贵的护符
 tagGDX1NecklaceA102=尊贵的吊坠
 tagGDX1NecklaceA103=保护者护符
@@ -773,7 +773,7 @@ tagGDX1NecklaceF110=马尔茅斯之心
 tagGDX1NecklaceF111=掠夺者的饥渴
 
 
-#Medals
+#Medals 勋章
 tagGDX1MedalA101=尊贵星章
 tagGDX1MedalA102=保护者徽章
 
@@ -831,7 +831,7 @@ tagGDX1MedalF108=监工徽记
 tagGDX1MedalF109=贪婪之王徽记
 
 
-#Blueprints
+#Blueprints 设计图
 tagGDX1Blueprint_RelicB101=设计图：圣物-饕餮
 tagGDX1Blueprint_RelicB102=设计图：圣物-幽灵
 tagGDX1Blueprint_RelicB103=设计图：圣物-激情
@@ -1110,7 +1110,7 @@ tagGDX1Blueprint_AccessoryF104=设计图：致命意图徽记
 tagGDX1Blueprint_AccessoryF105=设计图：监工徽记
 tagGDX1Blueprint_AccessoryF106=设计图：贪婪之王徽记
 
-#Relics
+#Relics 圣物
 tagGDX1RelicB101=饕餮
 tagGDX1RelicB101Desc="无尽饥渴。"
 tagGDX1RelicB102=幽灵
@@ -1157,7 +1157,7 @@ tagGDX1RelicD114=死亡追猎者
 tagGDX1RelicD114Desc="恶灵寻求着解脱"
 
 
-#Crafting
+#Crafting 锻造
 tagGDX1CraftRandomLegendaryDesc2=铁匠把原始奥术能量注入这些物体来创造传奇装备，物品等级上限为94级。58级以下的人物可能会锻造出一件史诗级装备。
 tagGDX1CraftRandomLegendaryAccessoryDesc2=铁匠把原始奥术能量注入这些物体来创造传奇装备，物品等级上限为94级。58级以下的人物会锻造出一件史诗级装备。
 tagGDX1CraftRandomLegendaryItemDesc2=铁匠能打造一件符合你的等级的传奇装备，物品等级上限为94级。
@@ -1225,7 +1225,7 @@ tagGDX1Consumable_AttributeReset_Desc="怪异的温暖充满全身，进行自�
 
 
 
-#ItemEnchantment
+#ItemEnchantment 附魔
 
 tagGDX1EnchantA101A=星尘
 tagGDX1EnchantA101Desc="精心收集的来自流星的尘埃，它的奥术性能不会减弱。"^w^n(用于所有单手武器，盾牌和法器副手)
@@ -1473,7 +1473,7 @@ tagGDX1EnchantC109Desc="来自掠夺者的礼物，强化凡体。"^w^n(用于�
 
 
 
-#ItemComponents
+#ItemComponents 镶嵌物
 
 tagGDX1CompA101Name=力量之印
 tagGDX1CompA101Desc="伟大尤尔加德佩戴的印章，聚集了大量造物主的奥术能量转为无与伦比的物理力量。"^w^n(用于所有类型的武器，盾牌和副手法器)
@@ -1550,7 +1550,7 @@ tagGDX1CompB106Desc="奥能印章能唤起你的先祖记忆，甚至是那些�
 
 
 
-#ItemFactionBoosters
+#ItemFactionBoosters 声望增幅
 tagGDX1BoosterCU_A01=巫登沼泽女巫团的敕令
 tagGDX1BoosterCU_B01=巫登沼泽女巫团的委任状
 tagGDX1BoosterCW_A01=巴罗霍尔姆的敕令
@@ -1575,7 +1575,7 @@ tagAttributeReset={^E}使用来重置你的属性
 tagAttributeNoPointsUsed={^r}[没有属性点可以重置]
 tagAttributeResetConfirmation=重置你所有的属性？
 
-#ItemSets
+#ItemSets 套装
 tagGDX1ItemSetC018CName=阿卡莫斯的痛苦
 
 tagGDX1ItemSetC101Name=精神腐蚀者
@@ -1710,7 +1710,7 @@ tagItemSetD026BName=血怒者的无尽狂乱
 tagItemSetD027BName=行刑者的魔印
 
 
-#Prefixes
+#Prefixes 前缀
 tagGDX1PrefixAA101=启发的
 
 tagGDX1PrefixAA022=审判官的
@@ -1756,7 +1756,7 @@ tagGDX1PrefixB106_Sh_A=幽灵守护的
 tagGDX1PrefixB107_Sh_A=石面的
 
 
-#Suffixes
+#Suffixes 后缀
 tagGDX1SuffixA101=之
 
 tagGDX1SuffixB101_Wpn_A=受折磨灵魂之
