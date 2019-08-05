@@ -1224,7 +1224,6 @@ tagGDX1Consumable_AttributeReset_Desc="怪异的温暖充满全身，进行自�
 
 
 
-
 #ItemEnchantment
 
 tagGDX1EnchantA101A=星尘
@@ -1681,6 +1680,7 @@ tagGDX1ItemSetD122Desc="寒舌的盔甲。此人乃渗透和玩弄政治阴谋�
 tagGDX1ItemSetD123Name=血骑士
 tagGDX1ItemSetD123Desc="纳扎染染血的盔甲，猩红之王。从前以血骑士的名号闻名于世。"
 
+
 tagItemSetD001BName=审判者装甲
 tagItemSetD002BName=神圣平衡
 tagItemSetD003BName=野兽召唤者的华服
@@ -1691,7 +1691,7 @@ tagItemSetD007BName=屠魔者的装束
 tagItemSetD008BName=枪械师的双枪
 tagItemSetD009BName=野性之血先锋
 tagItemSetD010BName=洞察者
-tagItemSetD011BName=召魔者的元素
+tagItemSetD011BName=召魔者的意志
 tagItemSetD012BName=马尔科夫的堡垒
 tagItemSetD013BName=奥祖因的炼狱化身
 tagItemSetD014BName=德里格的罩衣

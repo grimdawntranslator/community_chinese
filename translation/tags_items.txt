@@ -484,7 +484,7 @@ tagWeaponCaster1hB010=裂隙之灾利爪
 tagWeaponCaster1hB011=^l裂隙之灾切刀
 tagWeaponCaster1hB012=血誓魔杖
 tagWeaponCaster1hB013=^l血誓权杖
-tagWeaponCaster1hB014=^l洛克西莫的霜冻之刃
+tagWeaponCaster1hB014=^l洛克斯莫里的霜冻之刃
 tagWeaponCaster1hB015=蛇人之喙
 
 tagWeaponCaster1hC001=怒火焚身
