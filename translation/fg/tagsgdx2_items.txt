@@ -1,3 +1,4 @@
+
 #Weapons 武器
 tagGDX2WeaponSwordB201=寇瓦克的烈焰剑
 tagGDX2WeaponSwordB201_Desc="由寇瓦克授予其忠实信徒的武器，用于号令其爪牙。"

@@ -81,7 +81,7 @@ tagGDX2EndlessDungeon_NPC_Smith01=伊卡洛德
 tagGDX2EndlessDungeon_StoreTitle_Smith01=被诅咒的铁匠
 tagGDX2EndlessDungeon_StoreDesc_Smith01_1={}亡者之礼
 tagGDX2EndlessDungeon_StoreDesc_Smith01_2=伊卡洛德数个世纪以来都在锻造学识上颇有天赋，被他那特别的...存在形态所支持着。
-tagGDX2EndlessDungeon_StoreDesc_Smith01_3=
+tagGDX2EndlessDungeon_StoreDesc_Smith01_3= 
 tagGDX2EndlessDungeon_StoreDesc_Smith01_4=制作武器，护甲或饰品，并向其中灌注下列特性之一：
 
 tagGDX2EndlessDungeon_NPC_Smuggler01=阿格纳斯
