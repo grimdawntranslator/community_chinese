@@ -3,7 +3,7 @@
 tagItemNameOrder={%_s4}{%_s0}{%_s1}{%_s2}{%_s3}
 tagItemNameAndStack={%s0} ({%d1})
 
-#武器
+#Weapons 武器
 
 tagWeaponSwordA000=刺刀
 tagWeaponSwordA001=罗马短剑
@@ -438,7 +438,7 @@ tagWeaponMelee2hD005Desc="当圣骑士阿里斯特·熔炉受祝福的长矛刺�
 tagWeaponMelee2hD006=风暴撕裂者
 tagWeaponMelee2hD006Desc="经过无数次闪电风暴的充能，这把武器上的自然之怒已蓄势待发。"
 tagWeaponMelee2hD007=凛冬之王的灾祸
-tagWeaponMelee2hD007Desc="北方边境的统治者，白狼之子 ~ 霍思纳尔王的圣剑，"
+tagWeaponMelee2hD007Desc="北方边境的统治者，白狼之子 ~ 霍思纳尔王的圣剑。"
 tagWeaponMelee2hD008=弧光之刃
 tagWeaponMelee2hD009=野性之血粉碎者
 tagWeaponMelee2hD010=尤尔托斯的风暴探寻者
@@ -569,7 +569,7 @@ tagWeaponCrossbow1hA003=滑轮弩
 tagWeaponCrossbow1hA004=连弩
 
 
-#Shields盾牌
+#Shields 盾牌
 
 tagShieldA000=木盾
 tagShieldA001=小圆盾
@@ -656,7 +656,7 @@ tagQualityShieldA10=帝国
 tagQualityShieldA11=尊崇
 
 
-#Focus聚能法器
+#Focus 聚能法器
 
 tagFocusA001=发霉的宝典
 tagFocusA002=鲜血魔典
@@ -763,7 +763,7 @@ tagFocusF009=亡者预言
 tagFocusF010=罗瓦里织法者秘典
 tagFocusF011=亡者的凝视
 
-#WEAPON_QUALITY
+#WEAPON_QUALITY 武器品质
 
 TagQualityBrokenWeapon01=破损
 TagQualityBrokenWeapon02=破碎
@@ -794,7 +794,7 @@ tagQualityWeaponWood10=帝国
 tagQualityWeaponWood11=尊崇
 
 
-#ARMOR_STYLES
+#ARMOR_STYLES 护甲风格
 
 tagStyle001=陈旧
 tagStyle002=布制
@@ -844,12 +844,12 @@ tagStyle040=学徒
 tagStyle041=镀金
 tagStyle042=丰饶
 
-#ArmorClass
+#ArmorClass 护甲种类
 tagArmorClass01=施法型
 tagArmorClass02=
 tagArmorClass03=重型
 
-#WeaponClass
+#WeaponClass 武器种类
 tagOffHand=副手
 tagShield=盾牌
 
@@ -870,7 +870,7 @@ tagStaff=法杖
 
 tagWeaponUnknown=未知武器
 
-#ArmorSlots
+#ArmorSlots 装备槽
 tagRing=戒指
 tagAmulet=项链
 tagMedal=勋章
@@ -882,7 +882,7 @@ tagChest=胸甲
 tagFeet=靴子
 tagGloves=护手
 
-#QualityClass
+#QualityClass 物品质量等级
 tagMagic=魔法
 tagRare=稀有
 tagEpic=史诗级
@@ -910,7 +910,7 @@ tagTransmuteSoulboundOverwrite=你确定要覆盖已经存在的幻化效果吗�
 tagTransmuteDestroy=你确定要灌注幻化效果吗？这将会摧毁这件装备。
 tagTransmuteRemove=你确定要移除幻化效果吗？
 
-#ArmorHead头盔
+#ArmorHead 头盔
 
 tagHeadA001=头盔
 tagHeadA002=无边帽
@@ -1159,7 +1159,7 @@ tagShoulderF020=神选披肩
 tagShoulderF021=神选肩铠
 
 
-#ArmorTorso护甲
+#ArmorTorso 胸甲
 
 tagTorsoA000=成衣
 tagTorsoA001L=外衣
@@ -1291,7 +1291,7 @@ tagTorsoM002=染血外套
 tagTorsoM003=染血长袍
 
 
-#ArmorWaist腰带
+#ArmorWaist 腰带
 
 tagWaistA001=布制腰带
 tagWaistA002=编织束带
@@ -1382,7 +1382,7 @@ tagWaistF016=神选束带
 tagWaistF017=神选护腰
 tagWaistF018=神选束腰
 
-#ArmorHands手套
+#ArmorHands 护手
 
 tagHandsA001=手套
 tagHandsA002=护腕
@@ -1442,7 +1442,7 @@ tagHandsF003=收割者抓握护手
 tagHandsF004=收割者护手
 
 
-#ArmorLegs护腿
+#ArmorLegs 护腿
 
 tagLegsA001=束裤
 tagLegsA002=长裤
@@ -1494,7 +1494,7 @@ tagLegsD013Desc="实际上，这裤子穿上去只是稀松平常。"
 tagLegsD014=野性掠夺护腿
 
 
-#ArmorFeet鞋子
+#ArmorFeet 靴子
 
 tagFeetA001=裹足
 tagFeetA002=靴子
@@ -1549,7 +1549,7 @@ tagFeetF004=收割者裹足
 tagFeetF005=收割者护胫
 
 
-#Rings戒指
+#Rings 戒指
 
 tagRingA001=铜指环
 tagRingA002=银指环
@@ -1668,7 +1668,7 @@ tagRingF012=神选风暴印戒
 #Necklaces 项链
 
 tagNecklaceA00=盐袋
-tagNecklaceA00Desc="装满盐的袋子，似乎能够击退恶灵。"
+tagNecklaceA00Desc="装满盐的袋子，似乎能够抵御恶灵。"
 
 tagNecklaceA001=利爪神像
 tagNecklaceA002=银制护符
@@ -1786,7 +1786,7 @@ tagNecklaceF008=无尽愤怒坠饰
 tagNecklaceF009=虚空召唤者吊坠
 
 
-#Medals勋章
+#Medals 勋章
 
 tagMedalA001=绶带
 tagMedalA002=徽章
@@ -1861,7 +1861,7 @@ tagMedalF009=渎神的神选星章
 tagMedalF009Desc="尽管受到了敌人力量的污染，这枚勋章仍可用作正途。"
 
 
-#Blueprints设计图
+#Blueprints 设计图
 tagTestBlueprint=Blueprint:ItemNameoftheAwesomesauce
 tagTestBlueprintDescription="FlavortextoftheAwesomesauceitemthatisawesomeatthings."
 
@@ -2458,8 +2458,8 @@ tagConsumable_DevotionReset=明晰药剂
 tagConsumable_DevotionReset_Desc="净化思绪并准备进行一场新的精神之旅。"
 
 #DLC
-tagDLCIllusionRemoval=幻化去无踪
-tagDLCIllusionRemovalDesc="100%纯度的正牌幻化清除药粉。"
+tagDLCIllusionRemoval=除幻粉
+tagDLCIllusionRemovalDesc="100% 纯度的正牌幻化清除粉。"
 tagDLCIllusionA01=幻化：假发魔粉
 tagDLCA01=假发魔粉
 tagDLCA01Desc="高雅和风尚的定义。"
@@ -2489,7 +2489,7 @@ tagDLCA09=掠夺者的恐惧头盔
 tagDLCA09Desc="这顶头盔见证着数不清的流血冲突。"
 tagDLCIllusionA10=幻化：可敬战士之盔
 tagDLCA10=可敬战士之盔
-tagDLCA10Desc="万物荣耀。"
+tagDLCA10Desc="一切皆为荣耀。"
 tagDLCConsumableA01=罐中精灵
 tagDLCConsumableA01Desc="一个人畜无害的精灵，困在了一个罐子里。"
 tagDLCConsumableA01PetSkill01=精灵光环
@@ -3164,7 +3164,7 @@ tagEnchantC017Desc="放逐者制作的特殊粉末，帮助使用者抵抗天空
 
 
 
-#ItemComponents部件
+#ItemComponents 镶嵌物
 
 tagComponentIncomplete=镶嵌物碎片
 tagComponentComplete=镶嵌物
@@ -3178,7 +3178,7 @@ tagComponentCombine=[右键点击以组合]
 tagComponentConfirmation=你确定要组合成完整镶嵌物吗？
 
 tagCompA001Name=尖刺外壳
-tagCompA001Desc="一种长着锯齿状尖刺的厚重甲壳" ^w^n(用于所有护甲)
+tagCompA001Desc="一种长着锯齿状尖刺的厚重甲壳。" ^w^n(用于所有护甲)
 
 tagCompA002Name=冲击铠甲片
 tagCompA002Desc="一种用来抵御箭头和子弹的古老盔甲的碎片。" ^w^n(用于胸甲)
@@ -3749,7 +3749,7 @@ tagItemSetD026Desc="北方冰封荒原的野人部落，血怒者所穿的护甲
 tagItemSetD027Name=行刑者的魔印
 tagItemSetD027Desc="安克维亚的行刑者阿卡莫斯散布着恐惧，他所到之处便凶兆已然临近。"
 
-#Prefixes前缀
+#Prefixes 前缀
 
 tagPrefixAA002=启悟的
 tagPrefixAA003=光耀的
@@ -4301,12 +4301,12 @@ tagUGDoorRuin01=废墟入口
 tagUGDoorIronDoorSecret01=铁门
 tagUGDoorIronGate=铁制大门
 tagUGDoorPortcullisFloor01=吊门
-tagUGDoorBoat=划艇
+tagUGDoorBoat=渡船
 tagUGDoorObsidian=黑曜石尖刺
 tagUGDoorFort=城堡入口
 tagUGDoorCrypt=地下墓室入口
 tagUGDoorWitchGods=标记之石
-tagUGDoorAetherFire=虚化壁障
+tagUGDoorAetherFire=虚化屏障
 tagDoorLocked= {^R} ~ 锁着的
 tagUGCellarOneWay=地窖入口
 
@@ -4321,10 +4321,10 @@ tagStoneLever01=松动的石块
 tagCellDoor=牢门
 tagPrisonEntranceDoor=伯尔维治监狱大门
 tagMineDoor=矿井门
-tagEpicDoor_StepsOfTorment=痛苦之门（需要一把骸骨钥匙)
+tagEpicDoor_StepsOfTorment=痛苦之门（需要一把骸骨钥匙）
 tagEpicDoor_BastionOfChais=要塞之门
 tagEpicDoor_PortValbury=瓦伯利港之门
-tagEpicDoor_StepsOfTormentLocked= {^R} ~ 被古老的力量封印着（需要一把骸骨钥匙)
+tagEpicDoor_StepsOfTormentLocked= {^R} ~ 被古老的力量封印着（需要一把骸骨钥匙）
 tagLocked= {^R} ~ 锁着的
 tagBlocked= {^R} ~ 塌方阻挡了道路
 tagLocked_BlackLegion= {^R} ~ 由黑色军团封印着

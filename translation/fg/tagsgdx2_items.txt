@@ -1,4 +1,4 @@
-#Weapons
+#Weapons 武器
 tagGDX2WeaponSwordB201=寇瓦克的烈焰剑
 tagGDX2WeaponSwordB201_Desc="由寇瓦克授予其忠实信徒的武器，用于号令其爪牙。"
 tagGDX2WeaponSwordB202=寇瓦克的风暴剑
@@ -153,7 +153,7 @@ tagGDX2WeaponCaster1hF208=吸血魔
 
 
 
-#Shields
+#Shields 盾牌
 tagGDX2ShieldB201=圣甲虫鞘壳
 tagGDX2ShieldB202=圣甲虫甲壳
 tagGDX2ShieldB203=巨像防御者
@@ -177,7 +177,7 @@ tagGDX2ShieldF203=秘术守御
 
 
 
-#Focus
+#Focus 副手
 tagGDX2FocusB201=格罗布沙之神像
 tagGDX2FocusB202=格罗布邪恶神像
 tagGDX2FocusB203=受压迫的灵魂
@@ -197,7 +197,7 @@ tagGDX2FocusD203=狂暴裂隙法典
 tagGDX2FocusD204=赎罪书册
 tagGDX2FocusD204_Desc="以行动赎罪。"
 tagGDX2FocusD205=伊纳什柯之首
-tagGDX2FocusD205_Desc="那科凡人民的强大守卫或许已经被击败，但它的能量却诡异地毫发无损。"
+tagGDX2FocusD205_Desc="科凡人民的强大守卫或许已经被击败，但它的能量却诡异地毫发无损。"
 tagGDX2FocusD206=飓风神像
 tagGDX2FocusD207=伊纳什柯腐化之首
 tagGDX2FocusD207_Desc="那科凡人民的强大守卫已堕落成冥煞入侵者，曾经的荣耀之力已被虚空永恒地腐化。"
@@ -214,7 +214,7 @@ tagGDX2FocusF207_Desc="索拉尔的残酷言语，原样传递给了他的祭司
 
 
 
-#ArmorHead
+#ArmorHead 头盔
 tagGDX2HeadB201=神选者之容
 tagGDX2HeadB202=神选者面具
 tagGDX2HeadB203=科凡兜盔
@@ -278,7 +278,7 @@ tagGDX2HeadF212=索拉尔邪恶护头
 
 
 
-#ArmorShoulders
+#ArmorShoulders 护肩
 tagGDX2ShoulderB201=神选者肩甲
 tagGDX2ShoulderB202=神选者肩饰
 tagGDX2ShoulderB203=科凡肩铠
@@ -326,7 +326,7 @@ tagGDX2ShoulderF212=索拉尔邪恶肩铠
 
 
 
-#ArmorTorso
+#ArmorTorso 胸甲
 tagGDX2TorsoB201=神选者长袍
 tagGDX2TorsoB201_Desc="这件长袍中织着从寇瓦克的诸多敌人处窃取的力量。"
 tagGDX2TorsoB202=神选者服饰
@@ -378,7 +378,7 @@ tagGDX2TorsoF212=索拉尔邪恶护胸甲
 
 
 
-#ArmorHands
+#ArmorHands 护手
 tagGDX2HandsB201=瘟疫守卫之握
 tagGDX2HandsB202=灰烬守卫护手
 
@@ -399,7 +399,7 @@ tagGDX2HandsD204=高尔之手
 
 
 
-#ArmorLegs
+#ArmorLegs 护腿
 tagGDX2LegsB201=风暴守卫紧身裤
 tagGDX2LegsB202=寒霜守卫腿铠
 
@@ -412,7 +412,7 @@ tagGDX2LegsD203=奥术涌动紧身裤
 
 
 
-#ArmorFeet
+#ArmorFeet 靴子
 tagGDX2FeetC201=图林的步伐
 tagGDX2FeetC201_Desc="圣像堡破盾者图林的手甲，这名战士陨落于侍奉至高神之路上。"
 tagGDX2FeetC202=裂隙护腿
@@ -426,7 +426,7 @@ tagGDX2FeetD204=死亡行者之恩典
 
 
 
-#ArmorWaist
+#ArmorWaist 腰带
 tagGDX2WaistB201=石像鬼束腰
 tagGDX2WaistB202=石像鬼护腰
 
@@ -455,7 +455,7 @@ tagGDX2WaistF203B=索拉尔邪恶束腰
 
 
 
-#Rings
+#Rings 戒指
 tagGDX2RingB201=爬藤指环
 
 tagGDX2RingC201=血红荆棘指环
@@ -481,7 +481,7 @@ tagGDX2RingF206=索拉尔扭曲印章
 
 
 
-#Necklaces
+#Necklaces 项链
 tagGDX2NecklaceB200=威廉的神奇战争宝石
 tagGDX2NecklaceB200_Desc="啊——————。"
 tagGDX2NecklaceB201=凯桑的燃烧之眼
@@ -524,7 +524,7 @@ tagGDX2NecklaceF209=血潮
 
 
 
-#Medals
+#Medals 勋章
 tagGDX2MedalA200=毅力绶带
 
 tagGDX2MedalB201=蛇怪长牙
@@ -560,7 +560,7 @@ tagGDX2MedalF209=燃影印记
 
 
 
-#Blueprints
+#Blueprints 设计图
 tagGDX2Blueprint_RelicC201=设计图：圣物-坚忍
 
 tagGDX2Blueprint_RelicD201=设计图：圣物-沉思
@@ -687,7 +687,7 @@ tagGDX2Blueprint_RuneD220=设计图：风暴泰坦符文
 tagGDX2Blueprint_RuneD221=设计图：闪耀终曲符文
 
 
-#Relics
+#Relics 圣物
 tagGDX2RelicC201=坚忍
 tagGDX2RelicC201Desc="在一切困境中坚持下去的意志。"
 
@@ -711,7 +711,7 @@ tagGDX2RelicD206Desc="践行真正正义的强大意志。"
 
 
 
-#Crafting
+#Crafting 锻造
 tagCraftTabArtifactA=圣物和符文
 tagCraftTabArtifactB=拥有强大力量的护身符，圣物和神器。符文会授予你新的能力。
 
@@ -741,18 +741,18 @@ tagGDX2CraftMaterial_IronExchange_01_Desc=在一个被死亡蹂躏的世界中�
 tagGDX2CraftMaterial_IronExchange_02=高级铁锭堆
 tagGDX2CraftMaterial_IronExchange_02_Desc=在一个被死亡蹂躏的世界中珍贵的资源。^w^n^n三巫神密会处的钢铁保管者盖拉斯会很乐意用500000铁币来交换它。
 
-#Consumables
+#Consumables 消耗品
 tagGDX2Consumable_01=神秘球体
 tagGDX2Consumable_01_Desc="这个球体被创造的目的，甚至其起源都是个谜团。使用这样一个东西是否明智..."
 
 tagGDX2Consumable_02=天神法球
-tagGDX2Consumable_02_Desc="一件来自碎裂之境的遗留之物，它究竟是用来做什么的……"
+tagGDX2Consumable_02_Desc="一件来自碎裂之境的遗留之物，它究竟是用来做什么的..."
 
 tagGDX2Consumable_03=虚空法球
 tagGDX2Consumable_03_Desc="这法球闪烁着虚空能量。拿在手里可能不太安全..."
 
 
-#ItemEnchantment
+#ItemEnchantment 附魔
 tagGDX2EnchantA201A=科凡太阳尘
 tagGDX2EnchantA201Desc="注入了科凡高原那灼人阳光的水晶。"^w^n（用于全部单手武器，盾牌，以及副手法器）
 
@@ -961,7 +961,7 @@ tagGDX2EnchantC208Desc="一件来自巫神索拉尔的馈赠，用于抵御虚�
 tagGDX2EnchantC209A=索拉尔的缚魂尘
 tagGDX2EnchantC209Desc="一件来自巫神索拉尔的馈赠，这种邪恶的粉末用于灵魂绑定仪式，为邪术之火提供食粮。"^w^n（用于全部护甲）
 
-#Mobility Runes
+#Mobility Runes 位移符文
 tagGDX2RuneBDesc="由巫神秘教使用的普通魔法符文。"^w^n(用于勋章)
 tagGDX2RuneCDesc="一个在凯恩世界最难以到达的边境找到的可怕符记。"^w^n(用于勋章)
 tagGDX2RuneDDesc="一个遗失在碎境中的远古魔法符印。"^w^n(用于勋章)
@@ -1027,7 +1027,7 @@ tagGDX2RuneD221=闪耀终曲符文
 #ItemComponents
 
 
-#ItemFactionBoosters
+#ItemFactionBoosters 声望增幅
 tagGDX2BoosterWGB_A01=拜斯迈的敕令
 tagGDX2BoosterWGB_B01=拜斯迈的委任状
 tagGDX2BoosterWGD_A01=德里格的敕令
@@ -1042,7 +1042,7 @@ tagGDX2BoosterEldritch_C01=寇瓦克的委任状
 
 
 
-#ItemSets
+#ItemSets 套装
 tagItemSetC008CName=特赦
 
 tagGDX2ItemSetC201Name=巴尔迪尔的板甲
