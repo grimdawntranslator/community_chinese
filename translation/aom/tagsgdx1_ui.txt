@@ -10,7 +10,7 @@ tagFactionBeastsRewards6=N/A
 tagFactionBeastsRewards7=N/A
 tagFactionBeastsRewards8=N/A
 tagFactionUser9=巫登沼泽女巫团
-tagFactionUser9Info=营地:巫登沼泽{^n}{^n}人们对神秘的巫登沼泽女巫团所知甚少。教团由女巫和术士组成，世俗社会无法理解他们掌握的力量因此畏惧着这些力量。而教团则力图保护他们的兄弟姐妹们不受到社会的迫害。{^n}{^n}他们成功地逃脱了光明会几十年来的追捕，女巫们在危险的巫登沼泽深处建造了一处让他们躲藏中得以喘息的地方。巫登沼泽是个让光明会坚定的追捕者都不敢踏入的地方，但这样一个地方对女巫团也同样不太安全。{^n}{^n}藏身在女巫团的庇护所的人们必须时刻保持警觉，因为威胁可能来自那些失足踏足他们藏身之处的旅行者或者来自沼泽中致命的野生生物。{^n}{^n}更加危险的是，沼泽里还隐藏着女巫团也不敢染指的秘密，他们唯恐重复犯下过去的错误而再度招致光明会的追捕。
+tagFactionUser9Info=营地：巫登沼泽{^n}{^n}人们对神秘的巫登沼泽女巫团所知甚少。教团由女巫和术士组成，世俗社会无法理解他们掌握的力量因此畏惧着这些力量。而教团则力图保护他们的兄弟姐妹们不受到社会的迫害。{^n}{^n}他们成功地逃脱了光明会几十年来的追捕，女巫们在危险的巫登沼泽深处建造了一处让他们躲藏中得以喘息的地方。巫登沼泽是个让光明会坚定的追捕者都不敢踏入的地方，但这样一个地方对女巫团也同样不太安全。{^n}{^n}藏身在女巫团的庇护所的人们必须时刻保持警觉，因为威胁可能来自那些失足踏足他们藏身之处的旅行者或者来自沼泽中致命的野生生物。{^n}{^n}更加危险的是，沼泽里还隐藏着女巫团也不敢染指的秘密，他们唯恐重复犯下过去的错误而再度招致光明会的追捕。
 tagFactionUser9Rewards1=N/A
 tagFactionUser9Rewards2=N/A
 tagFactionUser9Rewards3=N/A
@@ -36,7 +36,7 @@ tagFactionUser11Rewards2=N/A
 tagFactionUser11Rewards3=N/A
 tagFactionUser11Rewards4=空
 tagFactionUser11Rewards5=可进入势力特有商店
-tagFactionUser11Rewards6=新任务 {^n}领取赏金任务 {^n}势力特有武器   {^n}F势力特有护甲 {^n}势力特有装备设计图
+tagFactionUser11Rewards6=新任务 {^n}领取赏金任务 {^n}势力特有武器 {^n}势力特有护甲 {^n}势力特有装备设计图
 tagFactionUser11Rewards7=新任务 {^n}势力特有增幅 {^n}势力特有武器 {^n}势力特有饰品 {^n}该势力赦令 {^n}势力特有装备设计图
 tagFactionUser11Rewards8=稀有增幅 {^n}该势力委任状 {^n}精英级势力护甲 {^n}势力传奇装备设计图
 tagFactionUser12=虚灵先锋
@@ -62,11 +62,11 @@ tagSkillUndoClass=撤销专精
 #Transmuter
 tagTransmuterWindow=幻化师
 tagTransmuteButton=应用幻化
-tagTransmuteNew=你得到了一种新幻化 : {%s0}
+tagTransmuteNew=你得到了一种新幻化：{%s0}
 tagTransmutePageFormat={%d0} / {%d1}
 tagTransmuteNoItems=你没有装备上任何幻化师可以施展幻化效果的装备。
-tagTransmuteTotalGold=拥有的铁币总数 :
-tagTransmuteCost=幻化费用 :
+tagTransmuteTotalGold=拥有的铁币总数：
+tagTransmuteCost=幻化费用：
 
 SkillDamageAbsorptionReflectPercent={%.0f0}% {^E}伤害吸收反弹
 

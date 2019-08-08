@@ -43,8 +43,8 @@ tagGDX2EnemyBeetle_C01=科凡圣甲虫 ~ 巨虫
 
 tagGDX2HeroBeetle_H01=瑞克尼克斯
 tagGDX2HeroBeetle_H02=巴高克斯
-tagGDX2HeroBeetle_H03=萨格拉克斯 ~ 防御者
-tagGDX2HeroBeetle_H04=摩格 ~ 伤害反弹
+tagGDX2HeroBeetle_H03=萨格拉克斯 ~ [保护者]
+tagGDX2HeroBeetle_H04=摩格 ~ [伤害反弹]
 
 
 #CreatureEldritchArmor
@@ -54,8 +54,8 @@ tagGDX2EnemyArmor_C01=远古盔甲
 
 tagGDX2HeroArmor_H01=阿尔基努斯
 tagGDX2HeroArmor_H02=弗拉基努斯
-tagGDX2HeroArmor_H03=哈尔加努斯 ~ 支援者
-tagGDX2HeroArmor_H04=提尔基努斯 ~ 时光扭曲
+tagGDX2HeroArmor_H03=哈尔加努斯 ~ [拥护者]
+tagGDX2HeroArmor_H04=提尔基努斯 ~ [时光扭曲]
 
 
 #CreatureEldritchHound
@@ -66,8 +66,8 @@ tagGDX2EnemyEldritchHound_C01=邪能混种犬 ~ 首领
 
 tagGDX2HeroEldritchHound_H01=梵卓格
 tagGDX2HeroEldritchHound_H02=钢颚
-tagGDX2HeroEldritchHound_H03=弗尔瓦 ~ 迅捷
-tagGDX2HeroEldritchHound_H04=诺斯弗兰提斯 ~ 吸血
+tagGDX2HeroEldritchHound_H03=弗尔瓦 ~ [迅捷]
+tagGDX2HeroEldritchHound_H04=诺斯弗兰提斯 ~ [吸血]
 
 
 #CreatureEldritchSpore
@@ -82,8 +82,8 @@ tagGDX2EnemyEldritchWraith_C01=邪能灵魂 ~ 远古
 
 tagGDX2HeroEldritchWraith_H01=奥甘迪尔
 tagGDX2HeroEldritchWraith_H02=尤扎尔
-tagGDX2HeroEldritchWraith_H03=瑞甘迪尔 ~ 伤害反弹
-tagGDX2HeroEldritchWraith_H04=帕兹加达尔 ~ 回复者
+tagGDX2HeroEldritchWraith_H03=瑞甘迪尔 ~ [伤害反弹]
+tagGDX2HeroEldritchWraith_H04=帕兹加达尔 ~ [再生者]
 
 
 #CreatureGargoyle
@@ -91,44 +91,44 @@ tagGDX2EnemyGargoyle_A01=邪能石像鬼
 tagGDX2EnemyGargoyle_B01=被遗忘的石像鬼
 tagGDX2EnemyGargoyle_C01=远古石像鬼
 
-tagGDX2HeroGargoyle_H01=哈德萨 ~ 冰冻
-tagGDX2HeroGargoyle_H02=布罗格梵 ~ 疫病
-tagGDX2HeroGargoyle_H03=格力安特 ~ 燃烧
-tagGDX2HeroGargoyle_H04=沙纳坦 ~ 带电
+tagGDX2HeroGargoyle_H01=哈德萨 ~ [冰冻]
+tagGDX2HeroGargoyle_H02=布罗格梵 ~ [疫病]
+tagGDX2HeroGargoyle_H03=格力安特 ~ [燃烧]
+tagGDX2HeroGargoyle_H04=沙纳坦 ~ [电击]
 
 
 #CreatureGroble
-tagGDX2EnemyGroble_A01=格罗布 ~ 科凡部落 拾荒者
-tagGDX2EnemyGroble_A02=格罗布 ~ 科凡部落 追踪者
-tagGDX2EnemyGroble_B01=格罗布 ~ 科凡部落 战士
-tagGDX2EnemyGroble_B02=格罗布 ~ 科凡部落 萨满
-tagGDX2EnemyGroble_C01=格罗布 ~ 科凡部落 勇士
-tagGDX2EnemyGroble_C02=格罗布 ~ 科凡部落 长者
+tagGDX2EnemyGroble_A01=格罗布 ~ 科凡部落 ~ 拾荒者
+tagGDX2EnemyGroble_A02=格罗布 ~ 科凡部落 ~ 追踪者
+tagGDX2EnemyGroble_B01=格罗布 ~ 科凡部落 ~ 战士
+tagGDX2EnemyGroble_B02=格罗布 ~ 科凡部落 ~ 萨满
+tagGDX2EnemyGroble_C01=格罗布 ~ 科凡部落 ~ 勇士
+tagGDX2EnemyGroble_C02=格罗布 ~ 科凡部落 ~ 长者
 
 tagGDX2HeroGroble_H01=盖尔加
 tagGDX2HeroGroble_H02=纳兹巴克
-tagGDX2HeroGroble_H03=卓尔里格 ~ 吸血
-tagGDX2HeroGroble_H04=诺尔 ~ 迅捷
+tagGDX2HeroGroble_H03=卓尔里格 ~ [吸血]
+tagGDX2HeroGroble_H04=诺尔 ~ [迅捷]
 
 
 #CreatureGryphon
 tagGDX2EnemyGryphon_A01=狮鹫
 tagGDX2EnemyGryphon_B01=狮鹫 潜行者
-tagGDX2EnemyGryphon_C01=狮鹫女王
+tagGDX2EnemyGryphon_C01=狮鹫 女王
 
 tagGDX2HeroGryphon_H01=恐爪
 tagGDX2HeroGryphon_H02=裂爪
-tagGDX2HeroGryphon_H03=尖啸 ~ 无人能挡
-tagGDX2HeroGryphon_H04=坚毅的朱拉兹 ~ 回复者
+tagGDX2HeroGryphon_H03=尖啸 ~ [免疫控制]
+tagGDX2HeroGryphon_H04=坚毅的朱拉兹 ~ [再生者]
 
 tagGDX2EnemyGryphonStone_A01=石狮鹫
 tagGDX2EnemyGryphonStone_B01=石狮鹫 ~ 守卫
 tagGDX2EnemyGryphonStone_C01=石狮鹫 ~ 警觉的
 
-tagGDX2HeroGryphonStone_H01=阿斯卡佐 ~ 燃烧
-tagGDX2HeroGryphonStone_H02=伊桑佐 ~ 冰冻
-tagGDX2HeroGryphonStone_H03=萨普莱佐 ~ 带电
-tagGDX2HeroGryphonStone_H04=巴尔甘佐 ~ 疫病
+tagGDX2HeroGryphonStone_H01=阿斯卡佐 ~ [燃烧]
+tagGDX2HeroGryphonStone_H02=伊桑佐 ~ [冰冻]
+tagGDX2HeroGryphonStone_H03=萨普莱佐 ~ [电击]
+tagGDX2HeroGryphonStone_H04=巴尔甘佐 ~ [疫病]
 
 
 #CreatureHumanKorvaak
@@ -136,10 +136,10 @@ tagGDX2EnemyHumanKorvaak_A01=寇瓦克的神选者 ~ 狂战士
 tagGDX2EnemyHumanKorvaak_B01=寇瓦克的神选者 ~ 狂热者
 tagGDX2EnemyHumanKorvaak_C01=寇瓦克的神选者 ~ 持火者
 
-tagGDX2HeroHumanKorvaak_H01=埃弗林 烈焰之舌
-tagGDX2HeroHumanKorvaak_H02=哈沃斯 余烬火花
-tagGDX2HeroHumanKorvaak_H03=光明的尼梵德 ~ 支援者
-tagGDX2HeroHumanKorvaak_H04=永恒束缚的乌尔加 ~ 时光扭曲
+tagGDX2HeroHumanKorvaak_H01=烈焰之舌 ~ 埃弗林
+tagGDX2HeroHumanKorvaak_H02=余烬火花 ~ 哈沃斯
+tagGDX2HeroHumanKorvaak_H03=光明的 ~ 尼梵德 ~ [拥护者]
+tagGDX2HeroHumanKorvaak_H04=永恒束缚的 ~ 乌尔加 ~ [时光扭曲]
 
 
 #CreatureKorvaakAscended
@@ -147,10 +147,10 @@ tagGDX2EnemyKorvaakAscended_A01=寇瓦克的超凡战士
 tagGDX2EnemyKorvaakAscended_B01=寇瓦克的怒火战士
 tagGDX2EnemyKorvaakAscended_C01=寇瓦克的勇士
 
-tagGDX2HeroKorvaakAscended_H01=普拉古瑞斯 ~ 疫病
-tagGDX2HeroKorvaakAscended_H02=蔑视者瓦尔德 ~ 冰冻
-tagGDX2HeroKorvaakAscended_H03=不灭的潘德里斯 ~ 无人能挡
-tagGDX2HeroKorvaakAscended_H04=梵吉索尔 ~ 伤害反弹
+tagGDX2HeroKorvaakAscended_H01=普拉古瑞斯 ~ [疫病]
+tagGDX2HeroKorvaakAscended_H02=蔑视者 ~ 瓦尔德 ~ [冰冻]
+tagGDX2HeroKorvaakAscended_H03=不灭的 ~ 潘德里斯 ~ [免疫控制]
+tagGDX2HeroKorvaakAscended_H04=梵吉索尔 ~ [伤害反弹]
 
 
 #CreatureKorvaakServant
@@ -160,8 +160,8 @@ tagGDX2EnemyKorvaakServant_C01=寇瓦克的子嗣
 
 tagGDX2HeroKorvaakServant_H01=纳戈洛克
 tagGDX2HeroKorvaakServant_H02=加拉洛克
-tagGDX2HeroKorvaakServant_H03=奥登洛克 ~ 吸血
-tagGDX2HeroKorvaakServant_H04=帕根洛克 ~ 奥术
+tagGDX2HeroKorvaakServant_H03=奥登洛克 ~ [吸血]
+tagGDX2HeroKorvaakServant_H04=帕根洛克 ~ [奥术]
 
 
 #CreatureMummy
@@ -172,8 +172,8 @@ tagGDX2EnemyMummy_C02=木乃伊 ~ 烧焦的
 
 tagGDX2HeroMummy_H01=安诺萨
 tagGDX2HeroMummy_H02=托顿森
-tagGDX2HeroMummy_H03=因霍纳尔 ~ 燃烧
-tagGDX2HeroMummy_H04=卡西亚纳 ~ 时光扭曲
+tagGDX2HeroMummy_H03=因霍纳尔 ~ [燃烧]
+tagGDX2HeroMummy_H04=卡西亚纳 ~ [时光扭曲]
 
 
 #CreatureSandLizard
@@ -185,10 +185,10 @@ tagGDX2EnemySandLizard_C01=沙爪 ~ 女王
 
 tagGDX2HeroSandLizard_H01=焰爪
 tagGDX2HeroSandLizard_H02=桑吉雷克斯
-tagGDX2HeroSandLizard_H03=普拉格尼斯 ~ 疫病
-tagGDX2HeroSandLizard_H04=玛崔欧纳 ~ 支援者
-tagGDX2HeroSandLizard_H05=弗洛希尔 ~ 迅捷
-tagGDX2HeroSandLizard_H06=雷鳞 ~ 带电
+tagGDX2HeroSandLizard_H03=普拉格尼斯 ~ [疫病]
+tagGDX2HeroSandLizard_H04=玛崔欧纳 ~ [拥护者]
+tagGDX2HeroSandLizard_H05=弗洛希尔 ~ [迅捷]
+tagGDX2HeroSandLizard_H06=雷鳞 ~ [电击]
 
 tagGDX2EnemySandLizardB_A01=熔爪
 tagGDX2EnemySandLizardB_B01=熔爪 ~ 剥皮者
@@ -202,8 +202,8 @@ tagGDX2EnemySandLizardC_C01=裂爪 ~ 女王
 
 tagGDX2HeroSandLizardC_H01=比扎瑞斯
 tagGDX2HeroSandLizardC_H02=梵尼利尔斯
-tagGDX2HeroSandLizardC_H03=威尔甘 ~ 无人能挡
-tagGDX2HeroSandLizardC_H04=阿肯奈克斯 ~ 护盾
+tagGDX2HeroSandLizardC_H03=威尔甘 ~ [免疫控制]
+tagGDX2HeroSandLizardC_H04=阿肯奈克斯 ~ [护盾]
 
 
 #CreatureScorpion
@@ -211,10 +211,10 @@ tagGDX2EnemyScorpion_A01=科凡天蝎
 tagGDX2EnemyScorpion_B01=科凡天蝎 ~ 沙行者
 tagGDX2EnemyScorpion_C01=科凡天蝎 ~ 死亡钉刺
 
-tagGDX2HeroScorpion_H01=噬日者·斯卡普林克斯
-tagGDX2HeroScorpion_H02=噬月者·加尔普林克斯
-tagGDX2HeroScorpion_H03=拉格普林克斯 ~ 迅捷
-tagGDX2HeroScorpion_H04=伊莱普林克斯 ~ 带电
+tagGDX2HeroScorpion_H01=噬日者 ~ 斯卡普林克斯
+tagGDX2HeroScorpion_H02=噬月者 ~ 加尔普林克斯
+tagGDX2HeroScorpion_H03=拉格普林克斯 ~ [迅捷]
+tagGDX2HeroScorpion_H04=伊莱普林克斯 ~ [电击]
 
 
 #CreatureStatue
@@ -223,21 +223,21 @@ tagGDX2EnemyStatue_B01=活动雕像守望者
 tagGDX2EnemyStatue_B01B=灌魔活动守望者
 tagGDX2EnemyStatue_C01=活动雕像保护者
 
-tagGDX2HeroStatue_H01=泰若克斯 ~ 时光扭曲
-tagGDX2HeroStatue_H02=阿肯尼斯 ~ 奥术
-tagGDX2HeroStatue_H03=摩尔特斯 ~ 燃烧
-tagGDX2HeroStatue_H04=艾泽罗格 ~ 冰冻
+tagGDX2HeroStatue_H01=泰若克斯 ~ [时光扭曲]
+tagGDX2HeroStatue_H02=阿肯尼斯 ~ [奥术]
+tagGDX2HeroStatue_H03=摩尔特斯 ~ [燃烧]
+tagGDX2HeroStatue_H04=艾泽罗格 ~ [冰冻]
 
 
-#CreatureViper毒蛇
+#CreatureViper 毒蛇
 tagGDX2EnemyViper_A01=科凡毒蛇
 tagGDX2EnemyViper_B01=科凡毒蛇 ~ 潜行者
 tagGDX2EnemyViper_C01=科凡毒蛇 ~ 死亡毒液
 
 tagGDX2HeroViper_H01=扎托克斯
 tagGDX2HeroViper_H02=阿拉什
-tagGDX2HeroViper_H03=瑟潘提尔 ~ 回复者
-tagGDX2HeroViper_H04=塞斯帕尔 ~ 奥术
+tagGDX2HeroViper_H03=瑟潘提尔 ~ [再生者]
+tagGDX2HeroViper_H04=塞斯帕尔 ~ [奥术]
 
 
 
@@ -278,111 +278,111 @@ tagGDX2EnemySummon_LightningOrb=风暴电球
 tagGDX2Quest_BysmielSummon_01=阿特弗召唤物
 tagGDX2Quest_WitchGodAlly=束缚野兽
 
-tagGDX2Boss_Dravis_01=德拉维斯，尤若布鲁克之子
+tagGDX2Boss_Dravis_01=尤若布鲁克之子 ~ 德拉维斯
 tagGDX2Boss_TombGuardian_01=管家
-tagGDX2Boss_Final01=寇瓦克，邪阳的表象
-tagGDX2Boss_FatherKymon=神父凯蒙，寇瓦克的化身
+tagGDX2Boss_Final01=邪术之阳 ~ 寇瓦克的表象
+tagGDX2Boss_FatherKymon=寇瓦克的化身 ~ 神父凯蒙
 
-tagGDX2Boss_Special=卡拉加德拉，沙漠之嗣
-tagGDX2Boss_Messenger=奥卡洛斯 ~ "信使"
+tagGDX2Boss_Special=沙漠之嗣 ~ 卡拉加德拉
+tagGDX2Boss_Messenger="信使" ~ 奥卡洛斯
 
-tagGDX2Miniboss_Kymon_01=塞格留斯修士，凯蒙的复仇
-tagGDX2Miniboss_Kymon_02=绯红修女，凯蒙的复仇
-tagGDX2Miniboss_Kymon_03=雷姆祖尔，奥西尔的高阶祭司
+tagGDX2Miniboss_Kymon_01=凯蒙的复仇 ~ 塞格留斯修士
+tagGDX2Miniboss_Kymon_02=凯蒙的复仇 ~ 绯红修女
+tagGDX2Miniboss_Kymon_03=奥西尔的高阶祭司 ~ 雷姆祖尔
 
-tagGDX2Miniboss_Beast_01=甘纳'瓦卡，沙王
-tagGDX2Miniboss_Beast_02=科凡泰坦诺沃尔
-tagGDX2Miniboss_Beast_03=格雷莫尔，猎犬首领
-tagGDX2Miniboss_Beast_04=阿泽隆，狮鹫君王
+tagGDX2Miniboss_Beast_01=沙王 ~ 甘纳·瓦卡
+tagGDX2Miniboss_Beast_02=科凡 ~ 泰坦诺沃尔
+tagGDX2Miniboss_Beast_03=猎犬首领 ~ 格雷莫尔
+tagGDX2Miniboss_Beast_04=狮鹫君王 ~ 阿泽隆
 tagGDX2Miniboss_Beast_05=杜尔格·风暴降生
 tagGDX2Miniboss_Beast_06=玛古尔·腐坏者
 
-tagGDX2Quest_EldritchHound_01=加尔芬，恐怖之夜
+tagGDX2Quest_EldritchHound_01=恐怖之夜 ~ 加尔芬
 tagGDX2Quest_EldritchHound_02=加尔芬的猎犬
 tagGDX2Quest_EldritchWraith_01=奥卡洛斯释放的邪灵
-tagGDX2Quest_EldritchLizard_01=奥纳瑞克斯，隐匿利刃
-tagGDX2Quest_EldritchArmor_01=伊什塔尔，心灵收割者
+tagGDX2Quest_EldritchLizard_01=隐匿利刃 ~ 奥纳瑞克斯
+tagGDX2Quest_EldritchArmor_01=心灵收割者 ~ 伊什塔尔
 tagGDX2Quest_EldritchArmor_02=伊什塔尔的守卫者
 tagGDX2Quest_EldritchScorpion=暮色收割者
-tagGDX2Quest_Human_BoundSpirts_01=提尔甘，癫狂祭司
+tagGDX2Quest_Human_BoundSpirts_01=癫狂祭司 ~ 提尔甘
 tagGDX2Quest_Human_BoundSpirts_02=解脱束缚的提尔甘
-tagGDX2Quest_Human_DreegUsurper_01=纳梵，霸占者
-tagGDX2Quest_Human_MadWitch_01=伊纳拉，受难者
-tagGDX2Quest_Statue_TempleGuard_01=复生石像，神庙守卫
-tagGDX2Quest_StoneGryphon_TempleGuard_02=伊纳什柯，神庙守卫
+tagGDX2Quest_Human_DreegUsurper_01=霸占者 ~ 纳梵
+tagGDX2Quest_Human_MadWitch_01=受难者 ~ 伊纳拉
+tagGDX2Quest_Statue_TempleGuard_01=神庙守卫 ~ 复生石像
+tagGDX2Quest_StoneGryphon_TempleGuard_02=神庙守卫 ~ 伊纳什柯
 tagGDX2Quest_ChthonianRylock_01=柯坦森
-tagGDX2Quest_SolaelFaction=贝尔洛克，拉恩的守卫
+tagGDX2Quest_SolaelFaction=拉恩的守卫 ~ 贝尔洛克
 tagGDX2Quest_SolaelFactionGuardian=地图室保护者
 
 #Nemesis
-tagGDX2Nemesis_Eldritch01=凯桑，邪术后裔
+tagGDX2Nemesis_Eldritch01=邪术后裔 ~ 凯桑
 
 #Devotion
 tagGDX2DevotionBeetle_H01=瑞柯尼森
 tagGDX2DevotionBeetle_H02=巴罗甘克斯
-tagGDX2DevotionBeetle_H03=萨加兰克斯 ~ 防御者
-tagGDX2DevotionBeetle_H04=莫拉格 ~ 伤害反弹
+tagGDX2DevotionBeetle_H03=萨加兰克斯 ~ [保护者]
+tagGDX2DevotionBeetle_H04=莫拉格 ~ [伤害反弹]
 
 tagGDX2DevotionEldritchArmor_H01=阿卡纳克斯
 tagGDX2DevotionEldritchArmor_H02=沃卡纳克斯
-tagGDX2DevotionEldritchArmor_H03=哈拉纳克斯 ~ 支援者
-tagGDX2DevotionEldritchArmor_H04=提卡纳克斯 ~ 时光扭曲
+tagGDX2DevotionEldritchArmor_H03=哈拉纳克斯 ~ [拥护者]
+tagGDX2DevotionEldritchArmor_H04=提卡纳克斯 ~ [时光扭曲]
 
 tagGDX2DevotionEldritchHound_H01=梵格尔
 tagGDX2DevotionEldritchHound_H02=巨颚
-tagGDX2DevotionEldritchHound_H03=弗兰提斯 ~ 迅捷
-tagGDX2DevotionEldritchHound_H04=诺斯弗兰 ~ 吸血
+tagGDX2DevotionEldritchHound_H03=弗兰提斯 ~ [迅捷]
+tagGDX2DevotionEldritchHound_H04=诺斯弗兰 ~ [吸血]
 
 tagGDX2DevotionEldritchWraith_H01=阿拉甘德里斯
 tagGDX2DevotionEldritchWraith_H02=奥兹马尔
-tagGDX2DevotionEldritchWraith_H03=瑞贡诺特 ~ 伤害反弹
-tagGDX2DevotionEldritchWraith_H04=帕萨贡 ~ 回复者
+tagGDX2DevotionEldritchWraith_H03=瑞贡诺特 ~ [伤害反弹]
+tagGDX2DevotionEldritchWraith_H04=帕萨贡 ~ [再生者]
 
-tagGDX2DevotionGargoyle_H01=哈德萨林 ~ 冰冻
-tagGDX2DevotionGargoyle_H02=布拉格沃 ~ 疫病
-tagGDX2DevotionGargoyle_H03=戈贡特 ~ 燃烧
-tagGDX2DevotionGargoyle_H04=赞尼克斯 ~ 带电
+tagGDX2DevotionGargoyle_H01=哈德萨林 ~ [冰冻]
+tagGDX2DevotionGargoyle_H02=布拉格沃 ~ [疫病]
+tagGDX2DevotionGargoyle_H03=戈贡特 ~ [燃烧]
+tagGDX2DevotionGargoyle_H04=赞尼克斯 ~ [电击]
 
-tagGDX2DevotionGryphonStone_H01=阿斯特兰佐 ~ 燃烧
-tagGDX2DevotionGryphonStone_H02=伊斯凡佐 ~ 冰冻
-tagGDX2DevotionGryphonStone_H03=萨尔潘佐 ~ 带电
-tagGDX2DevotionGryphonStone_H04=波尔梵佐 ~ 疫病
+tagGDX2DevotionGryphonStone_H01=阿斯特兰佐 ~ [燃烧]
+tagGDX2DevotionGryphonStone_H02=伊斯凡佐 ~ [冰冻]
+tagGDX2DevotionGryphonStone_H03=萨尔潘佐 ~ [电击]
+tagGDX2DevotionGryphonStone_H04=波尔梵佐 ~ [疫病]
 
-tagGDX2DevotionKorvaakAscended_H01=布鲁古斯 ~ 疫病
-tagGDX2DevotionKorvaakAscended_H02=斯克伦 ~ 冰冻
-tagGDX2DevotionKorvaakAscended_H03=帕隆德林 ~ 无人能挡
-tagGDX2DevotionKorvaakAscended_H04=瑞普内戈 ~ 伤害反弹
+tagGDX2DevotionKorvaakAscended_H01=布鲁古斯 ~ [疫病]
+tagGDX2DevotionKorvaakAscended_H02=斯克伦 ~ [冰冻]
+tagGDX2DevotionKorvaakAscended_H03=帕隆德林 ~ [免疫控制]
+tagGDX2DevotionKorvaakAscended_H04=瑞普内戈 ~ [伤害反弹]
 
 tagGDX2DevotionKorvaakServant_H01=纳戈诺洛克
 tagGDX2DevotionKorvaakServant_H02=加仑洛克
-tagGDX2DevotionKorvaakServant_H03=欧戈洛克 ~ 吸血
-tagGDX2DevotionKorvaakServant_H04=普利加洛克 ~ 奥术
+tagGDX2DevotionKorvaakServant_H03=欧戈洛克 ~ [吸血]
+tagGDX2DevotionKorvaakServant_H04=普利加洛克 ~ [奥术]
 
 tagGDX2DevotionScorpion_H01=斯科宾斯
 tagGDX2DevotionScorpion_H02=凯拉林克斯
-tagGDX2DevotionScorpion_H03=拉兹加林克斯 ~ 迅捷
-tagGDX2DevotionScorpion_H04=埃尔甘丁克斯 ~ 带电
+tagGDX2DevotionScorpion_H03=拉兹加林克斯 ~ [迅捷]
+tagGDX2DevotionScorpion_H04=埃尔甘丁克斯 ~ [电击]
 
-tagGDX2DevotionStatue_H01=泰尔甘多 ~ 时光扭曲
-tagGDX2DevotionStatue_H02=阿克罗瑟斯 ~ 奥术
-tagGDX2DevotionStatue_H03=摩尔崔克斯 ~ 燃烧
-tagGDX2DevotionStatue_H04=伊兹甘纳尔 ~ 冰冻
+tagGDX2DevotionStatue_H01=泰尔甘多 ~ [时光扭曲]
+tagGDX2DevotionStatue_H02=阿克罗瑟斯 ~ [奥术]
+tagGDX2DevotionStatue_H03=摩尔崔克斯 ~ [燃烧]
+tagGDX2DevotionStatue_H04=伊兹甘纳尔 ~ [冰冻]
 
 tagGDX2DevotionViper_H01=扎拉努克斯
 tagGDX2DevotionViper_H02=阿尔瑞沙
-tagGDX2DevotionViper_H03=瑟瑞品 ~ 回复者
-tagGDX2DevotionViper_H04=赛萨普林 ~ 奥术
+tagGDX2DevotionViper_H03=瑟瑞品 ~ [再生者]
+tagGDX2DevotionViper_H04=赛萨普林 ~ [奥术]
 
 
 #Bounties
-tagGDX2BountyWG04=利刃之翎，狮鹫女王
-tagGDX2BountyWG05=沃诺克斯，熔火之铸
+tagGDX2BountyWG04=狮鹫女王 ~ 利刃之翎
+tagGDX2BountyWG05=熔火之铸 ~ 沃诺克斯
 tagGDX2BountyWG06=加尔兰诺
 tagGDX2BountyWG07=阿弗罗纳斯
-tagGDX2BountyWG08=雷纳，憎恶者
-tagGDX2BountyWG09=凯南，燃心
-tagGDX2BountyWG10=守卫者 亚哈鲁姆
-tagGDX2BountyWG11=守卫者 乌拉佐
+tagGDX2BountyWG08=憎恶者 ~ 雷纳
+tagGDX2BountyWG09=燃心 ~ 凯南
+tagGDX2BountyWG10=守卫者 ~ 亚哈鲁姆
+tagGDX2BountyWG11=守卫者 ~ 乌拉佐
 
 
 #Races

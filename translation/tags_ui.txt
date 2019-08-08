@@ -1020,8 +1020,8 @@ tagCharStatsLifeLeechResistInfo=对生命吸取攻击的抗性。
 tagCharStatsEnergyLeechResist=能量吸取抗性
 tagCharStatsEnergyLeechResistInfo=对法力吸取的抗性。
 
-tagCharStatsTrapResist=限制移动效果抗性
-tagCharStatsTrapResistInfo=对陷阱限制你移动效果的的抗性。
+tagCharStatsTrapResist=禁锢效果抗性
+tagCharStatsTrapResistInfo=对陷阱禁锢效果的的抗性。
 
 tagCharStatsPetrifyResist=石化效果抗性
 tagCharStatsPetrifyResistInfo=对使你失去反抗能力的石化法术的抗性。
@@ -1275,7 +1275,7 @@ tagCraftingRelicsTier02=卓越圣物
 tagCraftingRelicsTier03=神话圣物
 
 tagDividerTab01=拆分
-tagDividerRoll01=拆分装置用来从物品上分离镶嵌物和增幅。 不过，拆分工序的不完善会摧毁物品或镶嵌物中的一个，但你可以做出选择。 如果你拆分了该物品，物品上的增幅就会被移除。 如果一个灵魂绑定的增幅用这种方法移除，而且物品的初始状态不是灵魂绑定的话，那么灵魂绑定状态也将会解除。 
+tagDividerRoll01=拆分装置用来从物品上分离镶嵌物和增幅。 不过， 拆分工序的不完善会摧毁物品或镶嵌物中的一个， 但你可以做出选择。 {^n}{^n}如果你拆分了该物品， 物品上的增幅就会被移除。 如果一个灵魂绑定的增幅用这种方法移除， 而且物品的初始状态不是灵魂绑定的话， 那么灵魂绑定状态也将会解除。
 
 tagDividerTab02=销毁
 tagDividerRoll02=销毁装置被用来拆解强力的物品以得到其基本的部分。
@@ -1631,8 +1631,8 @@ SkillPointFormat={%d0} 点技能点数
 AttributePointFormat={%d0} 点属性点数
 MenuName=名字：
 MenuLevel=等级:{%d0}
-ItemSkillIncrement={^L}{%s1} {^E}技能等级{^H}{+%d0}
-ItemMasteryIncrement={^L}{%s1} {^E}的所有技能{^H}{+%d0}
+ItemSkillIncrement={^L}{%s1} {^E}技能等级 {^H}{+%d0}
+ItemMasteryIncrement={^L}{%s1} {^E}所有技能{^H}{+%d0}
 ItemAllSkillIncrement={^E}所有技能 {^H}{+%d0}
 ItemBasicAttributeBanner={^w}
 ItemBonusAttributeBanner={^b}

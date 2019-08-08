@@ -32,10 +32,10 @@ achGDX1009Title=一神百年
 achGDX1009Desc=在专家模式达到等级 100级。
 
 achGDX1010Title=黑暗之刺
-achGDX1010Desc=击杀虚空边缘的艾柯特祖尔，黑暗先驱。
+achGDX1010Desc=击杀虚空边缘的黑暗先驱 ~ 艾柯特·祖尔。
 
 achGDX1011Title=黑暗的尽头
-achGDX1011Desc=在终极难度的虚空边缘击杀艾柯特祖尔，黑暗先驱。
+achGDX1011Desc=在终极难度的虚空边缘击杀黑暗先驱 ~ 艾柯特·祖尔。
 
 achGDX1012Title=敲门 敲门
 achGDX1012Desc=在马尔茅斯桥击杀博拉格，守门人。

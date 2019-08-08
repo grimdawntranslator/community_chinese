@@ -407,6 +407,7 @@ tagGDX1LoreObj_AreaE_AncientGrove_NoteA01Text=最近的事件让我心忧。{^n}
 tagGDX1LoreObj_AreaE_Kraken_NoteA01Name=巫登之谜
 tagGDX1LoreObj_AreaE_Kraken_NoteA01Text=遵循着伊露兰皇帝本人的法令，我和我尊敬的同事将进入更广阔的帝国，并为那广阔领域的动植物编写目录。当时我认为这不过是一个闲差，但不是所有的任务都是平等的，在我从伯尔维治村外的潮湿并有着不详黑暗的巫登沼泽写下这一点时。{^n}{^n}在我抵达的三周内，我的两个侍卫的生命被，这里我非常认真，植物夺走了。被至高神所遗弃的植物夺走了。我要补充一点，我的专长一直都是神秘能量对植物的严重影响，而不是特殊的葡萄藤肢解了两个人的其中一个而一朵巨大的花朵消化了我整个队伍的另一个人！{^n}{^n}如果我没有离开伊露兰几周，我一定会要求重新分配任务。然而旅途并非一无所获。因为我确实沿途观察到了一些奇特的现象：那些看似自然的生物，没有表现在这个区域的生物应该表现的表现型的基本范围内。就好象它们是从另一个地方被连根拔起然后被瞬间重定位在这个位置一样。{^n}{^n}在营地的这些天讨论的东西中最令人着迷的，就是被当地人称为克拉瓦尔，水域古魔的生物。到目前为止，我们只瞥见了它众多触角中的一个。我只能想象这个生物的全部尺寸，但是它是巨大的，而且完全不像在巫登沼泽水域里发现的其他任何生物。{^n}{^n}我们的旅途将我们带到了我怀疑是其水下巢穴的地方，并且我的调查员同伴立即开始抱怨起头疼，就像在接触到高浓度的邪术魔法一样。结合它那不寻常的外观，我得出的结论是，这个生物，和其他类似的生物一样，都是邪术生物。但是那是巫神的无情玩物的体现，还是有可能是别的什么事情？{^n}{^n}-加拉德·尼科，帝国档案保管员。
 
+
 #AreaF Notes
 #CultOfChthon_01
 tagGDX1LoreObj_AreaF_NoteA01Name=忠诚的血液
@@ -419,7 +420,7 @@ tagGDX1LoreObj_AreaF_NoteA02Text=血之兄弟姐妹们，{^n}{^n}谣言已经传
 
 #CultOfChthon_03
 tagGDX1LoreObj_AreaF_NoteA03Name=阴影的呼唤
-tagGDX1LoreObj_AreaF_NoteA03Text=我们是迷路的孩子，独自一人，漫无目的，凝视着只有信念为指导的黑暗。我们鞭挞自己的血肉将鲜血涂满世界因为我们不顾一切地想要寻求虚空深处的真理；但是那里没有答案。{^n}{^n}我们恳求你，虚空的恶魔。听见我们的呼声，让世界笼罩在暗影中。来吧，黑暗的先驱，引导血的孩子走向新的辉煌，我们都将成为冥神。引导我们，艾柯特祖尔，这样我们就可以净化这个世界的不忠。{^n}{^n}秘术师古尔勒
+tagGDX1LoreObj_AreaF_NoteA03Text=我们是迷路的孩子，独自一人，漫无目的，凝视着只有信念为指导的黑暗。我们鞭挞自己的血肉将鲜血涂满世界因为我们不顾一切地想要寻求虚空深处的真理；但是那里没有答案。{^n}{^n}我们恳求你，虚空的恶魔。听见我们的呼声，让世界笼罩在暗影中。来吧，黑暗的先驱，引导血的孩子走向新的辉煌，我们都将成为冥神。引导我们，艾柯特·祖尔，这样我们就可以净化这个世界的不忠。{^n}{^n}秘术师古尔勒
 
 #MalmouthOutskirts_01
 tagGDX1LoreObj_AreaF_NoteA04Name=艾米·布兰诺克的日记-第1章
@@ -552,28 +553,28 @@ tagGDX1NPC_SmithA01=凯隆
 tagGDX1StoreTitle_SmithA01=锻造大师
 tagGDX1StoreDesc_SmithA01_1={}马尔茅斯锻造
 tagGDX1StoreDesc_SmithA01_2=凯隆是一个锻造大师，能熟练运用马尔茅斯锻造技术。他锻造的武器和护甲在那个区域是无与伦比的。
-tagGDX1StoreDesc_SmithA01_3=
+tagGDX1StoreDesc_SmithA01_3= 
 tagGDX1StoreDesc_SmithA01_4=锻造的武器，护甲和饰品会被灌注以下属性之一:
 
 tagGDX1NPC_SmithA02=盖乌斯·余烬
 tagGDX1StoreTitle_SmithA02=燃烧铁匠
 tagGDX1StoreDesc_SmithA02_1={}受折磨的烈焰
 tagGDX1StoreDesc_SmithA02_2=盖乌斯被永恒的痛苦诅咒，他将折磨注入他的作品之中。
-tagGDX1StoreDesc_SmithA02_3=
+tagGDX1StoreDesc_SmithA02_3= 
 tagGDX1StoreDesc_SmithA02_4=锻造的武器，护甲和饰品会被灌注以下属性之一:
 
 tagGDX1NPC_SmithA03=贝拉·法尔德
 tagGDX1StoreTitle_SmithA03=天神铁匠
 tagGDX1StoreDesc_SmithA03_1={}天神锻造
 tagGDX1StoreDesc_SmithA03_2=贝拉·法尔德的锻锤是由星辰本身熔炼而成，可锻造最高至94级的传奇装备。
-tagGDX1StoreDesc_SmithA03_3=
+tagGDX1StoreDesc_SmithA03_3= 
 tagGDX1StoreDesc_SmithA03_4=锻造的武器，护甲和饰品会被灌注以下属性之一:
 
 tagGDX1NPC_SmithA04=阿克特洛斯
 tagGDX1StoreTitle_SmithA04=被诅咒的铁匠
 tagGDX1StoreDesc_SmithA04_1={}黑暗锻造
 tagGDX1StoreDesc_SmithA04_2=阿克特洛斯的锻锤已经被黑魔法堕落，几乎没有用，但是仍然能满足主人的意志。
-tagGDX1StoreDesc_SmithA04_3=
+tagGDX1StoreDesc_SmithA04_3= 
 tagGDX1StoreDesc_SmithA04_4=锻造的武器，护甲和饰品会被灌注以下属性之一:
 
 tagGDX1NPC_IllusionistA01=维瓦拉
