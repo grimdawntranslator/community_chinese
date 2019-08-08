@@ -88,3 +88,7 @@ tagCharStatsNecroSkillsBonusInfo=死灵法师专精中已习得的所有技能�
 
 #Caravan
 tagCaravanSearchBoxInfo=根据物品名称或所需数据，输入搜索参数来筛选物品。
+tagMoveComponents=将镶嵌物从背包放入当前已打开的仓库里。
+
+tagStorageInfo01=切换到个人仓库。个人仓库是你物品栏的延伸。右键或者拖放来在仓库和物品栏之间存取物品。存储的物品在游戏中每个走私者那里都能取用。
+tagTransferInfo02=切换到共享仓库。将物品放置到共享区域，让走私者将它们提供给你所有的角色。

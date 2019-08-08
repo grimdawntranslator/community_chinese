@@ -1168,6 +1168,7 @@ tagVendorTab04A=饰品与消耗品
 tagVendorTab04B=古老的饰物和自制药水都在这里了。
 tagVendorTab05A=买回
 tagVendorTab05B=改变主意了？在商人这儿可以原价买回卖出的物品。不过一旦你离开商人，出售就成交了。
+tagVendorSearchBoxInfo=输入搜索参数，根据物品名称或信息来筛选物品。
 
 tagFactionVendorTab01A=友善
 tagFactionVendorTab01B=声望为友善时解锁的奖励
@@ -1336,6 +1337,7 @@ tagTransferTab01=第一栏
 tagTransferTab02=第二栏
 tagTransferTab03=第三栏
 tagTransferTab04=第四栏
+tagCaravanSort=您确定自动排序您的物品吗？
 
 #Chat
 

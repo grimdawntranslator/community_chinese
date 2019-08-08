@@ -2553,6 +2553,13 @@ tagDLCA31=白巫师之帽
 tagDLCIllusionA32=幻化：白巫师之袍
 tagDLCA32=白巫师之袍
 
+tagDLCIllusionA33=幻化：黑巫师之杖
+tagDLCA33=黑巫师之杖
+tagDLCA33Desc="邪恶黑巫师华服的部件。"
+tagDLCIllusionA34=幻化：黑巫师之帽
+tagDLCA34=黑巫师之帽
+tagDLCIllusionA35=幻化：黑巫师之袍
+tagDLCA35=黑巫师之袍
 
 
 #ItemNote阅读记录
@@ -3262,7 +3269,7 @@ tagCompA028Name=强酸结石
 tagCompA028Desc="邪恶野兽的胆囊中生成的酸性结石。" ^w^n(用于近战武器，盾牌和法器副手)
 
 tagCompA029Name=赐福磨石
-tagCompA029Desc="能够打磨哪怕是最为锋利的刀刃，提高穿透敌人护甲的穿刺伤害。" ^w^n(用于斧和剑)
+tagCompA029Desc="能够打磨哪怕是最为锋利的刀刃，提高穿透敌人护甲的穿刺伤害。" ^w^n(用于斧，剑，火枪和十字弩)
 
 tagCompA030Name=丝绸
 tagCompA030Desc="西方的游牧民族很早就知道多层的丝绸能够抵御破甲的投射物。" ^w^n(用于护肩，胸甲和护腿)
@@ -3407,7 +3414,7 @@ tagCompB014Name=^k贝若纳斯的碎片
 tagCompB014Desc="虽然只是传说中杀死贝若纳斯的神圣之矛的一块碎片，但仍残留着强大的力量。" ^w^n(用于所有类型的武器，盾牌和副手法器)
 
 tagCompB015Name=^k血腥磨石
-tagCompB015Desc="浸透在堕落之血中，这块被诅咒的磨刀石将引发兵刃对鲜血无比的饥渴。" ^w^n(用于斧和剑)
+tagCompB015Desc="浸透在堕落之血中，这块被诅咒的磨刀石将引发利刃对鲜血无比的饥渴。" ^w^n(用于斧，剑，火枪和十字弩)
 
 tagCompB016Name=^k共鸣磁石
 tagCompB016Desc="蕴生于风暴雷电之中，这些稀有且威力强大的石头上仍然回响着孕育它们的雷电之力。" ^w^n(用于项链和勋章)
