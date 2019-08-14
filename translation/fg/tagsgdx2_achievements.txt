@@ -71,7 +71,7 @@ achGDX222Title=永远被遗忘
 achGDX222Desc=击杀位于三巫神王座的寇瓦克，邪阳，在终极难度中。
 
 achGDX223Title=扼杀后裔
-achGDX223Desc=召唤并击败卡拉加德拉，沙漠之嗣。
+achGDX223Desc=召唤并击败沙漠之嗣 ~ 卡拉加德拉。
 
 achGDX224Title=噢，那是我们编织的魔网
 achGDX224Desc=拜斯迈教团的声望达到崇敬。
