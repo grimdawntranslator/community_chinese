@@ -4,20 +4,20 @@ tagGDX2MapEndlessBoss=碎界守卫的领地
 tagGDX2MapEndlessTreasure=碎裂之境的辉煌
 
 #Shattered Bosses
-tagGDX2EndlessDungeon_Boss01=典狱长克里夫，碎界守卫
-tagGDX2EndlessDungeon_Boss02=德莱厄斯·克隆莱，碎裂之魂
+tagGDX2EndlessDungeon_Boss01=碎界守卫 ~ 典狱长克里夫
+tagGDX2EndlessDungeon_Boss02=碎裂之魂 ~ 德莱厄斯·克隆利
 tagGDX2EndlessDungeon_Boss03=破碎的卡里夫
 tagGDX2EndlessDungeon_Boss03B=卡里夫之魂
-tagGDX2EndlessDungeon_Boss04=艾克特扎尔，尤戈尔的先驱
-tagGDX2EndlessDungeon_Boss05=西奥丁·莫林，碎界塑造者
+tagGDX2EndlessDungeon_Boss04=尤戈尔的先驱 ~ 艾克特扎尔
+tagGDX2EndlessDungeon_Boss05=碎界塑造者 ~ 西奥丁·莫林
 tagGDX2EndlessDungeon_Boss06=碎界管家
-tagGDX2EndlessDungeon_Boss07=卢西恩，碎界指挥官
-tagGDX2EndlessDungeon_Boss08=阿卡米尔，碎界行刑者
-tagGDX2EndlessDungeon_Boss09=沙扎尔，尤戈尔之嗣
-tagGDX2EndlessDungeon_Boss10=加尔加班，碎界之心
+tagGDX2EndlessDungeon_Boss07=碎界指挥官 ~ 卢西恩
+tagGDX2EndlessDungeon_Boss08=碎界行刑者 ~ 阿卡米尔
+tagGDX2EndlessDungeon_Boss09=尤戈尔之嗣 ~ 沙扎尔
+tagGDX2EndlessDungeon_Boss10=碎界之心 ~ 加尔加班
 tagGDX2EndlessDungeon_Boss11=碎界哨卫
 tagGDX2EndlessDungeon_Boss12=碎界放逐者
-tagGDX2EndlessDungeon_Boss13=萨拉辛，碎界之刃
+tagGDX2EndlessDungeon_Boss13=碎界之刃 ~ 萨拉辛
 tagGDX2EndlessDungeon_Boss14=碎界塑造者·辛纳斯
 tagGDX2EndlessDungeon_Boss15=碎界守门人
 tagGDX2EndlessDungeon_Boss16=饥渴表象
@@ -67,7 +67,7 @@ tagGDX2EndlessDungeon_S201_Desc="左撇子会懂的。"
 tagGDX2EndlessDungeon_S202=白骨之戟
 
 #NPCs
-tagGDX2EndlessDungeon_NPC_Event01=玛赞，传送门守护者
+tagGDX2EndlessDungeon_NPC_Event01=传送门守护者 ~ 玛赞
 
 tagGDX2EndlessDungeon_NPC_Merchant01=乌兰纳
 tagGDX2EndlessDungeon_ StoreTitle_Merchant01=碎界商贩
@@ -93,7 +93,7 @@ tagGDX2EndlessDungeon_StoreTitle_Reallocator01=灵魂向导
 tagGDX2EndlessDungeon_NPC_Inventor01=拉杜纳
 tagGDX2EndlessDungeon_StoreTitle_Inventor01=碎界发明家
 
-tagGDX2EndlessDungeon_NPC_PowerUps01=卡拉加德拉，沙漠之嗣
+tagGDX2EndlessDungeon_NPC_PowerUps01=沙漠之嗣 ~ 卡拉加德拉
 
 #Shrines
 tagGDX2EndlessDungeon_Shrine01=阿兹拉卡的神龛
