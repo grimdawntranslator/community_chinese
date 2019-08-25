@@ -65,6 +65,9 @@ tagGDX2EndlessDungeon_Boss_Summon02_Skill_Desc=无尽黑暗产生的刺骨的饥
 tagGDX2EndlessDungeon_S201=完全正常的盾牌
 tagGDX2EndlessDungeon_S201_Desc="左撇子会懂的。"
 tagGDX2EndlessDungeon_S202=白骨之戟
+tagGDX2EndlessDungeon_S203=莱奥维纳斯的戒指
+tagGDX2EndlessDungeon_S203_Desc="一枚保存完好的戒指，由一种奇怪的可塑性非常高的材料铸造，看起来相当愚蠢。"
+
 
 #NPCs
 tagGDX2EndlessDungeon_NPC_Event01=传送门守护者 ~ 玛赞
@@ -215,3 +218,4 @@ tagGDX2Item_ChestQ01=永恒珍藏
 
 tagGDX2Item_SpecialChestA01=碎裂之境的秘密
 tagGDX2Item_SpecialChestA02=碎裂之境的礼物
+
