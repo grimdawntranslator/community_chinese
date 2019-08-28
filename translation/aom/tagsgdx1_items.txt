@@ -134,7 +134,7 @@ tagGDX1WeaponGun2hF101=马尔茅斯卡宾枪
 tagGDX1WeaponGun2hF102=马尔茅斯步枪
 tagGDX1WeaponGun2hF103=温迪戈投桩机
 tagGDX1WeaponGun2hF104=黯灭
-tagGDX1WeaponGun2hF104_Desc="每个敌人仅会推迟随后凄凉的到来。"
+tagGDX1WeaponGun2hF104_Desc="敌人无畏的抵抗也只能延缓其末日的降临。"
 
 
 tagGDX1WeaponMelee2hB101=血肉扭曲之核

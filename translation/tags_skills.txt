@@ -2167,7 +2167,7 @@ tagCompSkillA011Name=断头
 tagCompSkillA011Desc=尝试用能导致严重流血的致命一击斩杀敌人。
 
 tagCompSkillA012Name=斩杀
-tagCompSkillA012Desc=尝试用能导致严重流血的致命打击斩杀敌人。
+tagCompSkillA012Desc=尝试用能导致严重流血的致命打击斩杀敌人。^o当使用近战武器发动时，会击中附近多个目标。
 
 tagCompSkillA013Name=燃火利刃
 tagCompSkillA013Desc=以燃烧的烈焰强化你的攻击。^o这项技能必须保持开启以持续生效。
