@@ -134,14 +134,14 @@ tagGDX1WeaponGun2hF101=马尔茅斯卡宾枪
 tagGDX1WeaponGun2hF102=马尔茅斯步枪
 tagGDX1WeaponGun2hF103=温迪戈投桩机
 tagGDX1WeaponGun2hF104=黯灭
-tagGDX1WeaponGun2hF104_Desc="敌人无畏的抵抗也只能延缓其末日的降临。"
+tagGDX1WeaponGun2hF104_Desc="敌人无谓的抵抗只能延缓末日的降临。"
 
 
 tagGDX1WeaponMelee2hB101=血肉扭曲之核
 tagGDX1WeaponMelee2hB102=血肉扭曲碎片
 tagGDX1WeaponMelee2hB103=碎肠者战槌
 
-tagGDX1WeaponMelee2hC101=裂魂
+tagGDX1WeaponMelee2hC101=魂裂
 tagGDX1WeaponMelee2hC101_Desc="传说这把镰刀的刀刃切割的不仅仅是血肉。"
 tagGDX1WeaponMelee2hC102=塞萨兰的信念
 tagGDX1WeaponMelee2hC107=尤尔托斯之拳
@@ -1819,7 +1819,7 @@ tagGDX1Chest_MadRamblingsReward=伊旺达的礼物
 tagGDX1Chest_MadRamblingsLoot=伊旺达的藏匿物
 tagGDX1Chest_MadRamblingsNote=伊旺达的宝箱
 
-tagGDX1Chest_KatrineCorpse=卡崔因的遗骸
+tagGDX1Chest_KatrineCorpse=卡特琳的遗骸
 tagGDX1Chest_RenochCorpse=瑞诺什的遗骸
 tagGDX1Chest_UnknownCorpse=腐尸
 
@@ -1895,10 +1895,17 @@ tagGDX1DLCIllusionA05=幻化：黑巫师
 tagGDX1DLCA05=黑巫师华服
 tagGDX1DLCA05Desc="邪恶黑巫师的华服。"
 
+tagGDX1DLCIllusionA06=幻化：巨狼盔甲
+tagGDX1DLCA06=巨狼盔甲
+tagGDX1DLCA06Desc="狂怒巨狼盔甲"
+
 tagGDX1DLCIllusionHelmInvisible=隐形头盔
 tagGDX1DLCIllusionHelmInvisibleDesc="100％的保护和0％的重量。 而且不含乳制品。"
 
 tagGDX1DLCIllusionShouldersInvisible=隐形护肩
 tagGDX1DLCIllusionShouldersInvisibleDesc="100％的保护和0％的重量。 而且不含乳制品。"
+
+tagGDX1DLCIllusionMedalInvisible=隐形勋章
+tagGDX1DLCIllusionMedalInvisibleDesc="100%的表彰却没有别针。而且不含乳制品。"
 
 

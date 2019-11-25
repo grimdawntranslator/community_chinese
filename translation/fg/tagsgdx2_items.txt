@@ -103,9 +103,13 @@ tagGDX2WeaponMelee2hB203_Desc="包含着群星那不可思议的力量。"
 tagGDX2WeaponMelee2hB204=巴索勒姆的法槌
 tagGDX2WeaponMelee2hB205=科凡邪术戟
 tagGDX2WeaponMelee2hB206=科凡收割戟
+tagGDX2WeaponMelee2hB207=科凡天界戟
+tagGDX2WeaponMelee2hB207_Desc="锋利的刀锋渴望杀戮。"
 
 tagGDX2WeaponMelee2hC201=游魂之锋
 tagGDX2WeaponMelee2hC202=怒刃
+tagGDX2WeaponMelee2hC203=摩根尼斯之怒
+tagGDX2WeaponMelee2hC203_Desc="摩根尼斯在堕入黑暗之前挥舞的强大战锤。"
 
 tagGDX2WeaponMelee2hD201=德里格拉'阿诺尔
 tagGDX2WeaponMelee2hD201_Desc="宏伟守护者的次席斗士，瘟疫亚瑟的宝贵武器。"
@@ -113,12 +117,15 @@ tagGDX2WeaponMelee2hD202=纳丹之触
 tagGDX2WeaponMelee2hD202_Desc="用于纪念盗贼与刺客的守护神的传奇兵刃，在遗失在漫长的岁月中之前曾被无数的夜刃持有过。"
 tagGDX2WeaponMelee2hD203=泰内布里斯之怒
 tagGDX2WeaponMelee2hD203_Desc="饮血者泰内布里斯的生命窃取者，受过虚空之心的洗礼。"
+tagGDX2WeaponMelee2hD204=夜拥
+tagGDX2WeaponMelee2hD204_Desc="摩根尼斯用一颗消亡的恒星所锻造的伟大武器。"
 
 tagGDX2WeaponMelee2hF201=德里格巨剑
 tagGDX2WeaponMelee2hF202=索拉尔行刑斧
 tagGDX2WeaponMelee2hF203=怨恨
 tagGDX2WeaponMelee2hF203_Desc="据说德里格还是凡人时曾经用过这把剑。"
-
+tagGDX2WeaponMelee2hF204=恶意
+tagGDX2WeaponMelee2hF204_Desc="德里格教团的尖刺。"
 
 tagGDX2WeaponCaster1hB201=塞格留斯的污染之刃
 tagGDX2WeaponCaster1hB201_Desc="曾经是一把神圣之刃，被虚空之触所污染。"
@@ -203,6 +210,10 @@ tagGDX2FocusD206=飓风神像
 tagGDX2FocusD207=伊纳什柯腐化之首
 tagGDX2FocusD207_Desc="那科凡人民的强大守卫已堕落成冥煞入侵者，曾经的荣耀之力已被虚空永恒地腐化。"
 tagGDX2FocusD208=皮兰的神像
+tagGDX2FocusD209=加林索尔的头颅
+tagGDX2FocusD209_Desc="科凡历史守护者的头颅，最好把它忘记。"
+tagGDX2FocusD210=哈兰克斯的头颅
+tagGDX2FocusD210_Desc="守护者的头虽然是用石头做的，却散发着腐朽的气味。"
 
 tagGDX2FocusF201=拜斯迈邪火神像
 tagGDX2FocusF202=拜斯迈污染神像
@@ -224,6 +235,7 @@ tagGDX2HeadB205=神选者凝视
 tagGDX2HeadB206=科凡凝视
 tagGDX2HeadB207=石像鬼面容
 tagGDX2HeadB208=石像鬼凝视
+tagGDX2HeadB209=法师面容
 
 tagGDX2HeadC201=天裂之帽
 tagGDX2HeadC202=地狱珍宝之冠
@@ -263,6 +275,7 @@ tagGDX2HeadD217=皮兰的面容
 tagGDX2HeadD218=塔戈的头盔
 tagGDX2HeadD219=虚魂面容
 tagGDX2HeadD220=腐魔面具
+tagGDX2HeadD221=摩根尼斯的面容
 
 tagGDX2HeadF201=拜斯迈夜幕华丽头盔
 tagGDX2HeadF202=拜斯迈恐怖兜帽
@@ -285,6 +298,7 @@ tagGDX2ShoulderB202=神选者肩饰
 tagGDX2ShoulderB203=科凡肩铠
 tagGDX2ShoulderB204=科凡肩甲
 tagGDX2ShoulderB205=石像鬼肩刺
+tagGDX2ShoulderB206=法师斗篷
 
 tagGDX2ShoulderC201=灰烬之脉斗篷
 tagGDX2ShoulderC202=灰尘格斗者护肩
@@ -311,6 +325,7 @@ tagGDX2ShoulderD215=皮兰的斗篷
 tagGDX2ShoulderD216=塔戈的护肩
 tagGDX2ShoulderD217=虚魂斗篷
 tagGDX2ShoulderD218=腐魔护肩
+tagGDX2ShoulderD219=摩根尼斯的黑暗斗篷
 
 tagGDX2ShoulderF201=拜斯迈奥术护肩
 tagGDX2ShoulderF202=拜斯迈风幕斗篷
@@ -333,6 +348,7 @@ tagGDX2TorsoB201_Desc="这件长袍中织着从寇瓦克的诸多敌人处窃取
 tagGDX2TorsoB202=神选者服饰
 tagGDX2TorsoB203=科凡板甲
 tagGDX2TorsoB204=科凡护甲
+tagGDX2TorsoB205=法师护甲
 
 tagGDX2TorsoC201=科托锡安胸甲
 tagGDX2TorsoC202=符文铸造胸甲
@@ -363,6 +379,7 @@ tagGDX2TorsoD215=皮兰的法衣
 tagGDX2TorsoD216=塔戈的胸甲
 tagGDX2TorsoD217=虚魂护甲
 tagGDX2TorsoD218=腐魔胸甲
+tagGDX2TorsoD219=摩根尼斯的黑暗之心
 
 tagGDX2TorsoF201=拜斯迈夜幕胸甲
 tagGDX2TorsoF202=拜斯迈邪恶法衣
@@ -397,6 +414,7 @@ tagGDX2HandsD202_Desc="由最纯净的索拉丁水晶碎片铸造而成。"
 tagGDX2HandsD203=沙漠抢匪手甲
 tagGDX2HandsD203_Desc="这双手套的前主人已经将不知多少人的血洒入了无尽的沙粒中。"
 tagGDX2HandsD204=高尔之手
+tagGDX2HandsD205=摩根尼斯之握
 
 
 
@@ -410,6 +428,7 @@ tagGDX2LegsC202=天星绑腿
 tagGDX2LegsD201=霜岩护腿
 tagGDX2LegsD202=符文绑腿
 tagGDX2LegsD203=奥术涌动紧身裤
+tagGDX2LegsD204=摩根尼斯的腿甲
 
 
 
@@ -424,6 +443,7 @@ tagGDX2FeetD202=读石者
 tagGDX2FeetD203=阿玛托克之踏
 tagGDX2FeetD203_Desc="当阿玛托克之星在寒夜中显现时，这双靴子在寒冷的高峰上受到了祝福。"
 tagGDX2FeetD204=死亡行者之恩典
+tagGDX2FeetD205=摩根尼斯之步
 
 
 
@@ -446,6 +466,8 @@ tagGDX2WaistD206=拉辛的护腰
 tagGDX2WaistD207=穆谟之吻
 tagGDX2WaistD208=致命的手段
 tagGDX2WaistD208_Desc="传言曾经属于夜刃尼达拉，每个小瓶都充满着一种独特的毒素。有些甚至可以组合产生完全不同的结果。"
+tagGDX2WaistD209=蛆串
+tagGDX2WaistD209_Desc="征服者的骄傲战利品。"
 
 tagGDX2WaistF201A=拜斯迈致命护腰
 tagGDX2WaistF201B=拜斯迈致命束腰
@@ -461,6 +483,14 @@ tagGDX2RingB201=爬藤指环
 
 tagGDX2RingC201=血红荆棘指环
 tagGDX2RingC202=纱幕守望指环
+tagGDX2RingC203=赛瑟瑞斯的印戒
+tagGDX2RingC203_Desc="科凡法师七印戒之一。用来纪念他们在科凡人民中地位的小饰品。"
+tagGDX2RingC204=奥利西亚的印戒
+tagGDX2RingC205=阿努巴的印戒
+tagGDX2RingC206=塔罗特的印戒
+tagGDX2RingC207=巴斯蒂的印戒
+tagGDX2RingC208=舒罗斯的印戒
+tagGDX2RingC209=孔萨尔的印戒
 
 tagGDX2RingD201=曼海尔的印记
 tagGDX2RingD201_Desc="曼海尔神殿的印记，授予其最忠诚狂热的追随者。"
@@ -471,7 +501,16 @@ tagGDX2RingD204=永恒圣火指环
 tagGDX2RingD205=风暴女巫铭文
 tagGDX2RingD206=拜斯迈之权威
 tagGDX2RingD207=拜斯迈之权势
-
+tagGDX2RingD208=赛瑟瑞斯的指环
+tagGDX2RingD208_Desc="科凡法师七指环之一。由于它的力量，法师们被束缚在黑暗中。"
+tagGDX2RingD209=奥利西亚的指环
+tagGDX2RingD210=阿努巴的指环
+tagGDX2RingD211=塔罗特的指环
+tagGDX2RingD212=巴斯蒂的指环
+tagGDX2RingD213=舒罗斯的指环
+tagGDX2RingD214=孔萨尔的指环
+tagGDX2RingD215=摩根尼斯的主戒
+tagGDX2RingD215_Desc="大法师摩根尼斯的戒指向你传来诅咒的低语。通过这枚戒指，被摩根尼斯控制的法师将听命于你的号令。"
 
 tagGDX2RingF201=拜斯迈邪恶印章
 tagGDX2RingF202=拜斯迈冰冷印章
@@ -591,6 +630,7 @@ tagGDX2Blueprint_WeaponF207=设计图：放血者
 tagGDX2Blueprint_WeaponF208=设计图：索拉尔的吞噬者
 tagGDX2Blueprint_WeaponF209=设计图：索拉尔之语
 tagGDX2Blueprint_WeaponF210=设计图：吸血魔
+tagGDX2Blueprint_WeaponF211=设计图：恶意
 
 tagGDX2Blueprint_ArmorB201=设计图：瘟疫守卫之握
 tagGDX2Blueprint_ArmorB202=设计图：灰烬守卫护手
@@ -1116,6 +1156,9 @@ tagGDX2ItemSetD217Desc=这个曾经被祝福的盔甲现在充满了邪恶的能
 tagGDX2ItemSetD218Name=腐魔
 tagGDX2ItemSetD218Desc=腐魔酷爱杀戮，甚至在猎物腐烂很久之后还穿着它的皮肉。
 
+tagGDX2ItemSetD219Name=永恒之夜的盔甲
+tagGDX2ItemSetD219Desc="摩根尼斯凝视着黑暗，直到黑暗的回眸。"
+
 
 
 #LootChests
@@ -1141,6 +1184,7 @@ tagGDX2Breakable_Beetle=圣甲虫巢穴
 tagGDX2Breakable_Eggs=爬虫卵
 
 tagGDX2ChestKorvaak=寇瓦克的藏品
+tagGDX2ChestTombOfHeretic=摩根尼斯的藏品
 
 tagGDX2ChestOneShot_=科凡秘宝
 tagGDX2ChestBossOneShot_Korvaak=寇瓦克的精华
@@ -1149,10 +1193,15 @@ tagGDX2InventorsApprenticeCorpse=加恩的尸体
 
 tagGDX2UroboruukRemains=尤若布鲁克的财宝
 
+tagGDX2ChestGauntletChestD01=被遗忘的圣物箱
+
+tagGDX2ChestMawOfEnaht_01=卡马克的遗骸
+
 
 #Interactive Objects
 
 tagGDX2DoorLocked_Korvaak= {^R} ~ 被强大的守卫封印着
+tagGDX2DoorLocked_Roguelike= {^R} ~ 被强大的符文封印着
 
 
 
@@ -1161,8 +1210,9 @@ tagGDX2Quest_BindingConduit_01=束缚管道
 tagGDX2Crate=不起眼的板条箱
 
 #Dungeon Doors
-tagGDX2UGDoorBeetle=甲虫巢穴入口
 tagGDX2UGDoorEntrance= 入口
+
+tagGDX2UGDoorBeetle=甲虫巢穴入口
 tagGDX2UGDoorSolaelFaction=拉恩的地图室
 tagGDX2UGDoorBlocked= {^R} ~ 锁住的
 tagGDX2UGDoorTombEntrance=墓室入口
@@ -1172,10 +1222,38 @@ tagGDX2UGDoorMessenger=赎罪之坑
 tagGDX2UGDoorKymonExit=邪术大门之径
 tagGDX2UGDoorKorvaakFinal=邪术王座入口
 
+tagGDX2UGDoorFort=堡垒入口
+tagGDX2UGDoorMaw=深渊入口
+
+
+tagGDX2POI_AREAG_MeatTunnelA=伊纳特深渊入口
+tagGDX2POI_AREAG_MeatTunnelB=伊纳特深渊出口
+tagGDX2POI_AREAG_MeatTunnelC=深渊通道
+tagGDX2UGDoorLostOasisPassage=迷失绿洲通道
+tagGDX2UGDoorLostOasisGardenEntrance=法师宫廷入口
+tagGDX2UGDoorLostOasisGardenExit=法师宫廷出口
+tagGDX2UGDoorLostOasisPathEntrance=诅咒通路的入口
+tagGDX2UGDoorLostOasisPathExit=诅咒通路的出口
+tagGDX2UGDoorSandFort_Entrance=绝望堡垒的入口
+tagGDX2UGDoorSandFort_Exit=绝望堡垒的出口
+tagGDX2UGDoorSandFort_StairsUp=堡垒向上的阶梯
+tagGDX2UGDoorSandFort_StairsDown=堡垒向下的阶梯
+tagGDX2UGDoor_HowlingDepthsA=呼啸深渊的入口
+tagGDX2UGDoor_HowlingDepthsB=呼啸深渊的出口
+tagGDX2UGDoor_HowlingDepthsC=呼啸深渊的通路
+
+
+
 #Doors
 tagGDX2Door_PortcullisGold=黄金闸门
 tagGDX2Door_Lava=熔岩路障
 tagGDX2EldritchRift=邪术裂隙
+tagGDX2TombOfHereticDoor=浮现的黑暗
+tagGDX2TombOfHereticSeal=异教徒的封印
+
+tagGDX2DoorOneWayTombOfHeretic=黑夜逃脱口
+tagGDX2EpicDoor_TombOfHeretic=摩根尼斯之愚的封印
+tagGDX2EpicDoor_TombOfHereticLocked= {^R} ~ 被黑暗封印着 (需要一个骷髅钥匙)
 
 
 tagPrefixB037_Class_A=战争领主的
@@ -1200,3 +1278,6 @@ tagGDX2DifficultyUnlock02_Desc=碾碎了凯恩恐怖之物的证明，允许你�
 tagGDX2DifficultyUnlockStats={^E}解锁低难度任务中获取的所有技能点及属性点
 tagGDX2DifficultyUnlockTeleporters={^E}解锁低一级难度的裂隙门
 tagGDX2DifficultyUnlockBags={^E}解锁所有额外物品栏
+
+
+

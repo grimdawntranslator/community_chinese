@@ -496,7 +496,7 @@ tagGDX1LoreObj_AreaF_MadRamblingsName=伊旺达的记忆剪辑
 tagGDX1LoreObj_AreaF_MadRamblingsCodexTitle=伊旺达的记忆
 tagGDX1LoreObj_AreaF_MadRamblingsText=在尖塔，地板下，在先驱的安息处。楼梯下，一个隐藏的门，一把钥匙在燃烧的煤炭中...
 
-tagLoreObj_AreaF_KatrineNote_Name=卡崔因给爱丽丝的笔记
+tagLoreObj_AreaF_KatrineNote_Name=卡特琳给爱丽丝的笔记
 tagLoreObj_AreaF_KatrineNote_Text=我亲爱的爱丽丝，我辜负了你。{^n}{^n}我已经用尽我的微薄之力去寻找你，现在我快死了。{^n}{^n}当我的路走到尽头时，我发现我的内心充满了恐惧。我只想再拥抱你一次，倾听你心跳的节奏，看到你温暖的微笑，但我知道这是不可能的。{^n}{^n}这绝望的世界已经容不下什么期许了。可我还要不切实际的奢求，你能从这片土地上的恐惧中幸存下来。{^n}{^n}无论我走到哪里，无论我变成什么，我都会找到你，我可爱的宝贝爱丽丝。
 
 tagGDX1LoreObj_AreaF_Puppetmaster01Name=阿洛斯崔亚的命令

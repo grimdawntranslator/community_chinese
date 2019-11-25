@@ -770,6 +770,7 @@ TagQualityBrokenWeapon02=破碎
 TagQualityBrokenWeapon03=弯曲
 TagQualityBrokenArmor01=废弃
 TagQualityBrokenAll01=毁坏
+TagQualityOld=老式
 
 tagQualityWeaponMetal01=废铁
 tagQualityWeaponMetal02=生锈
@@ -2560,6 +2561,24 @@ tagDLCIllusionA34=幻化：黑巫师之帽
 tagDLCA34=黑巫师之帽
 tagDLCIllusionA35=幻化：黑巫师之袍
 tagDLCA35=黑巫师之袍
+
+tagDLCIllusionA36=幻化：巨狼之靴
+tagDLCA36=巨狼之靴
+tagDLCA36Desc="狂怒巨狼盔甲的组件。"
+tagDLCIllusionA37=幻化：巨狼护手
+tagDLCA37=巨狼护手
+tagDLCIllusionA38=幻化：巨狼头盔
+tagDLCA38=巨狼头盔
+tagDLCIllusionA39=幻化：巨狼护腿
+tagDLCA39=巨狼护腿
+tagDLCIllusionA40=幻化：巨狼护盾
+tagDLCA40=巨狼护盾
+tagDLCIllusionA41=幻化：巨狼护肩
+tagDLCA41=巨狼护肩
+tagDLCIllusionA42=幻化：巨狼之咬
+tagDLCA42=巨狼之咬
+tagDLCIllusionA43=幻化：巨狼护胸
+tagDLCA43=巨狼护胸
 
 
 #ItemNote阅读记录

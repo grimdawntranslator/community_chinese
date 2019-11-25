@@ -571,14 +571,14 @@ tagNPC_AreaC_23=灵魂守卫坎德瑞斯
 tagNPC_AreaC_24=
 tagNPC_AreaC_25=
 
-tagNPC_AldritchCaptive_01=卡崔因
+tagNPC_AldritchCaptive_01=卡特琳
 tagNPC_AreaD_01=破法者莫伊拉
 tagNPC_AreaD_02=瑞弗队长
 tagNPC_AreaD_03=武器大师艾德里克
 tagNPC_AreaD_04=安娜斯特瑞娅
 tagNPC_AreaD_04B=北部先驱 安娜斯特瑞娅
 tagNPC_AreaD_04C=虚化之怒 安娜斯特瑞娅
-tagNPC_AreaD_AldritchCaptive=卡崔因
+tagNPC_AreaD_AldritchCaptive=卡特琳
 
 tagNPC_DetonationSite=爆破点
 tagNPC_AetherCluster=虚化集簇

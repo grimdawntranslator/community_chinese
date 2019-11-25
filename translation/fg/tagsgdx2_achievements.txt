@@ -148,8 +148,27 @@ achGDX247Desc=获得 1种 碎裂之境神龛效果。
 achGDX248Title=完成交易
 achGDX248Desc=获得所有 5种 碎裂之境神龛效果。
 
-achGDX249Title=
-achGDX249Desc=
+achGDX249Title=暗夜吞噬
+achGDX249Desc=在异教徒墓地的暗夜吞噬中活下来。
 
-achGDX250Title=
-achGDX250Desc=
+achGDX250Title=驱逐暗夜
+achGDX250Desc=在异教徒墓地解决大法师摩根尼斯。
+
+achGDX251Title=暗夜烛光
+achGDX251Desc=在终极模式下的异教徒墓地解决大法师摩根尼斯。
+
+achGDX252Title=不灭暗夜烛光
+achGDX252Desc=在专精模式中的异教徒墓地解决大法师摩根尼斯。
+
+achGDX253Title=债务追讨
+achGDX253Desc=解决5个里格斯的同伴在单局游戏中。
+
+achGDX254Title=偿还债务
+achGDX254Desc=偿还在里格斯那里的债务。
+
+achGDX255Title=七法师
+achGDX255Desc=在异教徒墓地解决七位科凡法师。
+
+
+
+

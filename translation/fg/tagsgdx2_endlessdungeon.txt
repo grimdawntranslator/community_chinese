@@ -66,7 +66,7 @@ tagGDX2EndlessDungeon_S201=完全正常的盾牌
 tagGDX2EndlessDungeon_S201_Desc="左撇子会懂的。"
 tagGDX2EndlessDungeon_S202=白骨之戟
 tagGDX2EndlessDungeon_S203=莱奥维纳斯的戒指
-tagGDX2EndlessDungeon_S203_Desc="一枚保存完好的戒指，由一种奇怪的可塑性非常高的材料铸造，看起来相当愚蠢。"
+tagGDX2EndlessDungeon_S203_Desc="一枚保存完好的戒指，由一种陌生但可塑性很强的材料制成，看起来相当愚蠢。"
 
 
 #NPCs
@@ -129,8 +129,8 @@ tagGDX2EndlessDungeon_Shrine05Skill_Desc=你已经与死神做了笔交易，以
 tagGDX2EndlessDungeon_Powerup01=碎裂之境的本质
 tagGDX2EndlessDungeon_Powerup01_Desc=你已经吸收了一个碎裂之境的灵魂，它将短时间内内大幅提升你的的力量和抗性。^o这个效果最多可以叠加5次，越高层数的碎界可以叠加越多的效果。
 tagGDX2EndlessDungeon_Powerup02_Desc=你已经吸收了一个碎裂之境的灵魂，它将短时间内内大幅提升你的的力量和抗性。^o这个效果最多可以叠加8次，越高层数的碎界可以叠加越多的效果。
-tagGDX2EndlessDungeon_Powerup03_Desc=你已经吸收了一个碎裂之境的灵魂，它将短时间内内大幅提升你的的力量和抗性。^o这个效果最多可以叠加10次，越高层数的碎界可以叠加越多的效果。
-tagGDX2EndlessDungeon_Powerup04_Desc=你已经吸收了一个碎裂之境的灵魂，它将短时间内内大幅提升你的的力量和抗性。^o这个效果最多可以叠加12次，越高层数的碎界可以叠加越多的效果。
+tagGDX2EndlessDungeon_Powerup03_Desc=你已经吸收了一个碎裂之境的灵魂，它将短时间内内大幅提升你的的力量和抗性。^o这个效果最多可以叠加9次，越高层数的碎界可以叠加越多的效果。
+tagGDX2EndlessDungeon_Powerup04_Desc=你已经吸收了一个碎裂之境的灵魂，它将短时间内内大幅提升你的的力量和抗性。^o这个效果最多可以叠加10次，越高层数的碎界可以叠加越多的效果。
 
 
 #Items
@@ -155,9 +155,13 @@ tagGDX2EndlessDungeon_Key_04=亵渎引路石
 tagGDX2EndlessDungeon_Key_04_Desc=亵渎引路石上涂满了被污染的鲜血。它能使玛赞打开通往第50碎界至第60碎界的道路。
 tagGDX2EndlessDungeon_Key_04_Blueprint=设计图：亵渎引路石
 
-tagGDX2EndlessDungeon_Key_05=上神引路石
-tagGDX2EndlessDungeon_Key_05_Desc=上神引路石完全恢复了它的神圣力量。它能使玛赞打开通往第65碎界至第75碎界的道路。
-tagGDX2EndlessDungeon_Key_05_Blueprint=设计图：上神引路石
+tagGDX2EndlessDungeon_Key_05=天神引路石
+tagGDX2EndlessDungeon_Key_05_Desc=天神引路石完全恢复了它的神圣力量。它能使玛赞打开通往第65碎界至第75碎界的道路。^n^n胆小的人不应该使用这种引路石。
+tagGDX2EndlessDungeon_Key_05_Blueprint=设计图：天神引路石
+
+tagGDX2EndlessDungeon_Key_06=死亡引路石
+tagGDX2EndlessDungeon_Key_06_Desc=被死亡力量污染了的引路石，现在打开一条危险莫测的道路，在那里等待你的只有征服的荣耀。^n^n它能使玛赞打开通往第80碎界及之后的道路。^n^n胆小的人不应该使用这种引路石。
+tagGDX2EndlessDungeon_Key_06_Blueprint=设计图：死亡引路石
 
 tagGDX2ItemTest=人形凝视者♀
 tagGDX2ItemTestDesc="一个成就不凡的家伙把凝视者套在了身上。"

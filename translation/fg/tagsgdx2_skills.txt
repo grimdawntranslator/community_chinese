@@ -115,6 +115,9 @@ tagGDX2ItemSkillC204Desc=通过巫术的蔓延来使你敌人自身溃烂。
 tagGDX2ItemSkillC205Name=放血
 tagGDX2ItemSkillC205Desc=让那些胆敢阻拦你脚步的异教徒血溅当场。
 
+tagGDX2ItemSkillC206Name=夜幕
+tagGDX2ItemSkillC206Desc=向你的敌人释放一股强烈的饥渴能量。
+
 tagGDX2ItemSkillD201Name=血泉
 tagGDX2ItemSkillD201Desc=血红的喷泉从敌人脚下爆发，让他们被血雨所笼罩。
 
@@ -266,6 +269,33 @@ tagGDX2ItemSkillD246Desc=都给我死！^o这是近战双持与远程双持的�
 
 tagGDX2ItemSkillD247Name=塔戈之锤
 tagGDX2ItemSkillD247Desc=塔戈的天神锤会飞向你的敌人，再飞回你手中。
+
+tagGDX2ItemSkillD248Name=夜拥
+tagGDX2ItemSkillD248Desc=从现实中撕开一道裂隙，爆发出强烈的饥渴之力。
+tagGDX2ItemSkillD248PetSkillName=饥渴之力
+tagGDX2ItemSkillD248PetSkillDesc=强烈的饥渴之力爆发而出，消耗敌人的生命。
+
+tagGDX2ItemSkillD249Name=赛瑟瑞斯之眼
+tagGDX2ItemSkillD249Desc=受诅之眼围绕着你，穿透敌人的身体，直击灵魂。
+tagGDX2ItemSkillD250Name=奥利西亚之眼
+tagGDX2ItemSkillD251Name=阿努巴之眼
+tagGDX2ItemSkillD252Name=塔罗特之眼
+tagGDX2ItemSkillD253Name=巴斯蒂之眼
+tagGDX2ItemSkillD254Name=舒罗斯之眼
+
+tagGDX2ItemSkillD255Name=孔萨尔的凝视
+tagGDX2ItemSkillD255Desc=孔萨尔的凝视落在你的仆从身上，使他们充满愤恨。
+
+tagGDX2ItemSkillD256Name=尤戈尔的祈祷
+tagGDX2ItemSkillD256Desc=祈求诅咒星辰的仪式，召唤出巨大的天界饥渴的表象。
+tagGDX2ItemSkillD256PetSkill_Name=挥打
+tagGDX2ItemSkillD256PetSkill2_Name=黑暗降临
+
+tagGDX2ItemSkillD257Name=剧毒爆发
+tagGDX2ItemSkillD257Desc=在你身边爆发一股腐蚀性的毒素。
+
+tagGDX2ItemSkillD258Name=幻影新星
+tagGDX2ItemSkillD258Desc=在你身边爆发一阵幻影刀刃。
 
 
 #Component Skills
@@ -654,3 +684,12 @@ tagGDX2EnemySkillD15_Desc=一座附近的雕像增强了寇瓦克并对凡人造
 
 tagGDX2EnemySkillD16=嚎风
 tagGDX2EnemySkillD16_Desc=一股强大的刺骨寒风将导致你使用的投射物无法命中目标。
+
+tagGDX2EnemySkillD17=恐怖幻象
+tagGDX2EnemySkillD17_Desc=目睹了无尽饥渴吞噬着黑暗，使你耗尽了所有的力量。
+
+tagGDX2EnemySkillD18=饥渴黑夜
+tagGDX2EnemySkillD18_Desc=黑暗巫师削弱了你的身髓，吞噬了你的生命，破坏了你的抗性。
+
+tagGDX2EnemySkillD19=瓦解意志
+tagGDX2EnemySkillD19_Desc=你的意识无法处理目睹的恐怖景象，破坏了你瞄准和施法的能力。

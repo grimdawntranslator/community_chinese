@@ -1,6 +1,6 @@
-language=Simplified Chinese
-version=v1.1.4.2
-fonts=ZH
-author=EsclaveDuReve gpqkevin USunOfBeach kaiserchin sweet-lolin
-separators=。
-wordmode=false
+Language=Simplified Chinese
+Author=EsclaveDuReve gpqkevin USunOfBeach kaiserchin sweet-lolin
+Version=v1.1.5.0
+Fonts=ZH
+Separators=。
+Wordmode=false

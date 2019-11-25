@@ -441,6 +441,7 @@ tagHumanHeroH07=血咒 埃弗雷特 ~ [燃烧]
 tagHumanHeroH08=德雷德·独眼
 tagHumanHeroH09=梅力克·虚化之触 ~ [冲锋]
 tagHumanHeroH10=“蛇皮” ~ 埃尔登 ~ [再生者]
+tagHumanHeroH11=剑舞者 罗曼
 
 tagHumanBoss01=“守财奴” ~ 马丁
 tagHumanBoss02=“耗子” ~ 海里昂

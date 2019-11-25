@@ -1193,7 +1193,7 @@ tagItemSkillC084Name=瘴气
 tagItemSkillC084Desc=释放一片毒气之云窒息并使敌人混乱。
 
 tagItemSkillC085Name=召唤枯萎者 ~ 裂隙之灾
-tagItemSkillC085Desc=从深渊中召唤裂隙之灾，它将听命于你。^o同时只能召唤一只裂隙之灾。裂隙之灾会受到战宠加成影响。
+tagItemSkillC085Desc=从深渊中召唤裂隙之灾，它将听命于你。^o裂隙之灾会受到战宠加成影响。
 tagItemSkillC085PetSkillName01=酸液喷吐
 tagItemSkillC085PetSkillName02=剧毒新星
 
@@ -1325,8 +1325,8 @@ tagItemSkillC127Desc=从你身上放射出灌注了纯净虚化能量的闪电�
 tagItemSkillC128Name=萨迪厄斯之眼
 tagItemSkillC128Desc=萨迪厄斯之眼为你揭示脆弱敌人的弱点。
 
-tagItemSkillC129Name=灼烧弹药
-tagItemSkillC129Desc=用枪械发射一枚可以点燃任何物体并有极大概率穿透敌人的的灼烧弹药。^o使用默认武器攻击时激活。
+tagItemSkillC129Name=榴弹
+tagItemSkillC129Desc=用枪械发射一枚榴弹穿透敌人。^o使用默认武器攻击时激活。
 
 tagItemSkillC130Name=邪恶契约
 tagItemSkillC130Desc=与你的仆从订立一份邪恶契约，增强你与虚空黑暗之力的联系。^o这项技能必须保持开启以持续生效。

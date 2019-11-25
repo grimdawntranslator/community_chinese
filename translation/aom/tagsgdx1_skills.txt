@@ -312,7 +312,7 @@ tagGDX1ItemSkillD112Name=火焰碎片
 tagGDX1ItemSkillD112Desc=你点燃了敌人所站的土地。
 
 tagGDX1ItemSkillD113Name=真理之光
-tagGDX1ItemSkillD113Desc=神圣的真理之光笼罩你的敌人，使意志不坚者为你服务。
+tagGDX1ItemSkillD113Desc=神圣的真理之光笼罩你的敌人。
 
 tagGDX1ItemSkillD114Name=哈加拉德之刺
 tagGDX1ItemSkillD114Desc=从哈加拉德光明符文中释放冰刺魔法攻击敌人。

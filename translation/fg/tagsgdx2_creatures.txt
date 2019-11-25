@@ -46,6 +46,41 @@ tagGDX2HeroBeetle_H02=巴高克斯
 tagGDX2HeroBeetle_H03=萨格拉克斯 ~ [保护者]
 tagGDX2HeroBeetle_H04=摩格 ~ [伤害反弹]
 
+tagGDX2EnemyMaggot_A01=蛆虫
+tagGDX2EnemyMaggot_B01=膨胀的蛆虫
+
+
+#CreatureCelestial
+tagGDX2EnemyCelestial_Armor_A01=科凡咒魔
+tagGDX2EnemyCelestial_Armor_B01=科凡咒魔 ~ 被放逐的
+tagGDX2EnemyCelestial_Armor_C01=科凡咒魔 ~ 古代的
+
+tagGDX2EnemyCelestial_Gryphon_A01=天界狮鹫
+tagGDX2EnemyCelestial_Gryphon_B01=天界狮鹫 天爪
+tagGDX2EnemyCelestial_Gryphon_C01=天界狮鹫 女皇
+
+tagGDX2EnemyCelestial_Hound_A01=天界混种犬 ~ 幼崽
+tagGDX2EnemyCelestial_Hound_B01=天界混种犬 ~ 追踪者
+tagGDX2EnemyCelestial_Hound_C01=天界混种犬 ~ 首领
+
+tagGDX2EnemyCelestial_Leech_A01=饥渴化身
+tagGDX2EnemyCelestial_Leech_B01=饥荒化身
+
+tagGDX2EnemyCelestial_Lizard_A01=夜爪
+tagGDX2EnemyCelestial_Lizard_B01=夜爪 ~ 剥皮者
+tagGDX2EnemyCelestial_Lizard_C01=夜爪 ~ 女皇
+
+tagGDX2EnemyCelestial_Monstrosity_C01=饥渴之嗣
+tagGDX2EnemyCelestial_Monstrosity_D01=饥荒之嗣
+
+tagGDX2EnemyCelestial_Mummy_A01=科凡咒灵 ~ 枯竭的
+tagGDX2EnemyCelestial_Mummy_B01=科凡咒灵 ~ 溃烂的
+tagGDX2EnemyCelestial_Mummy_C01=科凡咒灵 ~ 收割者
+
+tagGDX2EnemyCelestial_Statue_A01=咒灵守护者魔像
+tagGDX2EnemyCelestial_Statue_B01=咒灵守望者魔像
+tagGDX2EnemyCelestial_Statue_C01=咒灵保卫者魔像
+
 
 #CreatureEldritchArmor
 tagGDX2EnemyArmor_A01=被占据的盔甲
@@ -239,6 +274,10 @@ tagGDX2HeroViper_H02=阿拉什
 tagGDX2HeroViper_H03=瑟潘提尔 ~ [再生者]
 tagGDX2HeroViper_H04=塞斯帕尔 ~ [奥术]
 
+#CreatureWorm
+tagGDX2EnemyWormA01=筛食肠虫
+tagGDX2EnemyWormB01=愤怒肠虫
+
 
 
 
@@ -250,6 +289,8 @@ tagGDX2Pet_Item_SandDevil01=沙魔
 tagGDX2Pet_Item_EldritchSpider=邪能织网者
 tagGDX2Pet_Item_EldritchLizard=邪能利爪
 tagGDX2Pet_Item_EldritchShard=邪能碎片
+tagGDX2Pet_Item_NightRift=夜行者
+tagGDX2Pet_Item_YugolTentacle=尤戈尔的触手
 tagGDX2Pet_Item_Mini=科凡迷你噬龙
 tagGDX2Pet_Item_Mini_Skill=迷你咆哮
 tagGDX2Pet_Item_Maggot=天界蛆虫
@@ -272,6 +313,9 @@ tagGDX2EnemySummon_Dravis=德拉维斯的奴隶
 tagGDX2EnemySummon_FlameJet=岩浆爆
 tagGDX2EnemySummon_Volcano=火山
 tagGDX2EnemySummon_LightningOrb=风暴电球
+tagGDX2EnemySummon_NightRift=天界裂隙
+tagGDX2EnemySummon_NightCrystal=天界导管
+tagGDX2EnemySummon_FireHound=烈火猎犬
 
 
 #Boss&Quest
@@ -285,6 +329,30 @@ tagGDX2Boss_FatherKymon=寇瓦克的化身 ~ 神父凯蒙
 
 tagGDX2Boss_Special=沙漠之嗣 ~ 卡拉加德拉
 tagGDX2Boss_Messenger="信使" ~ 奥卡洛斯
+
+tagGDX2Boss_Roguelike_MiniBoss_01=法师 赛瑟瑞斯
+tagGDX2Boss_Roguelike_MiniBoss_01B=赛瑟瑞斯之影
+tagGDX2Boss_Roguelike_MiniBoss_02=法师 奥利西亚
+tagGDX2Boss_Roguelike_MiniBoss_02B=奥利西亚之影
+tagGDX2Boss_Roguelike_MiniBoss_03=法师 阿努巴
+tagGDX2Boss_Roguelike_MiniBoss_03B=阿努巴之影
+tagGDX2Boss_Roguelike_MiniBoss_04=法师 塔罗特
+tagGDX2Boss_Roguelike_MiniBoss_04B=塔罗特之影
+tagGDX2Boss_Roguelike_MiniBoss_05=法师 巴斯蒂
+tagGDX2Boss_Roguelike_MiniBoss_05B=巴斯蒂之影
+tagGDX2Boss_Roguelike_MiniBoss_06=法师 舒罗斯
+tagGDX2Boss_Roguelike_MiniBoss_06B=舒罗斯之影
+tagGDX2Boss_Roguelike_MiniBoss_07=法师 孔萨尔
+tagGDX2Boss_Roguelike_MiniBoss_07B=孔萨尔之影
+tagGDX2Boss_Roguelike_Boss_01=符印守护者
+tagGDX2Boss_Roguelike_Boss_02=大法师 摩根尼斯
+
+tagGDX2Boss_RoguelikePath_Boss_01=沙尘暴 加林索尔
+tagGDX2Boss_RoguelikePath_Boss_02=遗忘者 哈兰克斯
+tagGDX2Boss_RoguelikePath_Boss_03=消化者 戈布利克斯
+
+tagGDX2Boss_RiggsCollector_01=里格斯的“同伙”
+
 
 tagGDX2Miniboss_Kymon_01=凯蒙的复仇 ~ 塞格留斯修士
 tagGDX2Miniboss_Kymon_02=凯蒙的复仇 ~ 绯红修女
@@ -389,3 +457,4 @@ tagGDX2BountyWG11=守卫者 ~ 乌拉佐
 
 tagRace017=增强的
 tagRace017P=增强的
+
