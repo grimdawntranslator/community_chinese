@@ -65,10 +65,10 @@ achGDX220Title=沉默先知
 achGDX220Desc=击杀位于邪阳之墓的神父凯蒙，在终极难度中。
 
 achGDX221Title=弑神者
-achGDX221Desc=击杀位于三巫神王座的寇瓦克，邪阳。
+achGDX221Desc=击杀位于三巫神王座的邪术之阳 ~ 寇瓦克。
 
 achGDX222Title=永远被遗忘
-achGDX222Desc=击杀位于三巫神王座的寇瓦克，邪阳，在终极难度中。
+achGDX222Desc=击杀位于三巫神王座的邪术之阳 ~ 寇瓦克，在终极难度中。
 
 achGDX223Title=扼杀后裔
 achGDX223Desc=召唤并击败沙漠之嗣 ~ 卡拉加德拉。
