@@ -353,16 +353,16 @@ tagGDX2Devotion_A203Desc=圣甲虫匆匆掠过夜空，寻觅着可供其钻洞�
 tagGDX2Devotion_A204=莲花
 tagGDX2Devotion_A204Desc=幸运的天兆。据说在光明中出生的人将会有幸福与和平的一生。
 
-tagGDX2Devotion_B201=奥扎德，寇瓦克的使者
+tagGDX2Devotion_B201=寇瓦克的使者 ~ 奥扎德
 tagGDX2Devotion_B201Desc=一个只忠于寇瓦克的巨人，奥扎德向所有臣民宣布他的主人即将降临。在失去主人的号令后，奥扎德变得幻灭且迷茫，最终陷入疯狂和绝望之中。
-tagGDX2Devotion_B202=海瑞恩，天国之门的守护者
-tagGDX2Devotion_B202Desc=海瑞恩是创建者塔戈的不朽造物，数千年前是为了守护原始神灵所居住的*神之壁毯*而创造。
+tagGDX2Devotion_B202=天国之门的守护者 ~ 海瑞恩
+tagGDX2Devotion_B202Desc=海瑞恩是创建者塔戈的不朽造物，数千年前是为了守护原始神灵所居住的神之壁毯而创造。
 
-tagGDX2Devotion_C201=寇瓦克，邪阳
-tagGDX2Devotion_C201Desc=邪恶的太阳再次升起，自宣天神之王。
-tagGDX2Devotion_C202=阿兹拉卡，永恒之沙
+tagGDX2Devotion_C201=邪术之阳 ~ 寇瓦克
+tagGDX2Devotion_C201Desc=邪术之阳再次升起，自宣天神之王。
+tagGDX2Devotion_C202=永恒之沙 ~ 阿兹拉卡
 tagGDX2Devotion_C202Desc=阿兹拉卡，伊恩的永恒伴星，是她创造了，决定凡人命运的时光守护者手中的时之沙。她是他的配偶，也是最值得信赖的顾问，她能缓和伊恩的严苛审判，并为她所怜爱的凡人提供慰藉。
-tagGDX2Devotion_C203=尤戈尔，无尽贪夜
+tagGDX2Devotion_C203=无尽贪夜 ~ 尤戈尔
 tagGDX2Devotion_C203Desc=当至高神的光辉第一次照耀到众生之外时，众神发现一个巨大的黑暗在虚无中膨胀。只有一个名字：尤戈尔。尤戈尔那无尽的饥渴威胁着要吞噬原神精心创造的一切，只有千万颗星星的怜悯之光才能阻止它的前进。
 
 tagGDX2DevotionEffectB201=奥扎德的法令

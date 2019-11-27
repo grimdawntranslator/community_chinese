@@ -703,26 +703,26 @@ tagGDX1Devotion_A103Desc=据说羽毛笔被神用来向人类传送法令。它�
 tagGDX1Devotion_A104=蟾蜍
 tagGDX1Devotion_A104Desc=蟾蜍代表混乱，是巫师和术士喜爱的象征。
 
-tagGDX1Devotion_B101=穆谟，谣言夫人
+tagGDX1Devotion_B101=谣言夫人 ~ 穆谟
 tagGDX1Devotion_B101Desc=很少有人真正尊重语言的力量。更没有人了解像穆谟这样可以造成毁灭性的影响的谣言。据说她邪恶的舌头已经引发了无数的血腥冲突。有些人甚至说，众神因为她的阴谋而在布满星星的天空中战斗。
 tagGDX1Devotion_B102=莱托什的权杖
 tagGDX1Devotion_B102Desc=飞行的莱托什权杖据说是揭开物质与精神境界面纱的关键。当它在天空中显现之时，人们相信此时生者和亡者之间的屏障是最薄的。
 tagGDX1Devotion_B103=阿拉德拉的凤凰
 tagGDX1Devotion_B103Desc=神忠实的宠物，阿拉德拉的凤凰在星空中划过一条燃烧的火光。
-tagGDX1Devotion_B104=堤丰，灵魂狱卒
+tagGDX1Devotion_B104=堤丰 ~ 灵魂狱卒
 tagGDX1Devotion_B104Desc=堤丰是莱托什忠实的仆人，一个警觉的猎人，狩猎那些拒绝登上死亡战车的恶灵。
 tagGDX1Devotion_B105=吟游诗人的竖琴
 tagGDX1Devotion_B105Desc=佳丽亚吟游诗人的音乐是如此迷人，以至于众神将她升入天空，这样她就能款待他们直至永恒。
 
-tagGDX1Devotion_C101=尤尔托斯，风暴牧羊人
+tagGDX1Devotion_C101=尤尔托斯 ~ 风暴牧羊人
 tagGDX1Devotion_C101Desc=在安克维亚传说中尤尔托斯的地位较低于其他天神兄弟，但他仍然是一个强大的象征，他撒下的雨水让作物丰收，他降下闪电能造成可怕的毁灭。不过具有讽刺意味的是，尤尔托斯却是安克维亚神中唯一一个受到的信奉超越了帝国兴衰。
-tagGDX1Devotion_C102=伊师塔克，春之少女
+tagGDX1Devotion_C102=春之少女 ~ 伊师塔克
 tagGDX1Devotion_C102Desc=在安克维亚时期很多人经常找伊诗塔克疗伤。万物皆是春之少女的孩子，所有人都会在她温柔的拥抱中找到安慰。
-tagGDX1Devotion_C103=维尔，石夫人
+tagGDX1Devotion_C103=石夫人 ~ 维尔
 tagGDX1Devotion_C103Desc=安克维亚传说中的众神之母，最强大的石夫人代表了凯恩本身，她拥有来自石头的刚毅和力量，巍然不动地对抗最大的困境。
-tagGDX1Devotion_C104=阿塔克瑟如，幻影
+tagGDX1Devotion_C104=幻影 ~ 阿塔克瑟如
 tagGDX1Devotion_C104Desc=阿塔克瑟如曾是织法守护女神，是那些敢于使用魔法之人的保护神。所有安克维亚仪式都把阿塔克瑟如的象征刻进符文圈当作预防措施；但即使是她的守护也不足矣避开死灵法师诅咒的影响。
-tagGDX1Devotion_C105=莱托什，暗影守望者
+tagGDX1Devotion_C105=暗影守望者 ~ 莱托什
 tagGDX1Devotion_C105Desc=隐藏在阴影中，安克维亚伟大的守护者注视着现实世界的边界，确保没有恶魔逃脱精神境界肆虐生者。当安克维亚的诅咒蔓延开来，人民乞求莱托什的恩赐解脱，但他从未出现。
 
 tagGDX1DevotionEffectB101=谣言
