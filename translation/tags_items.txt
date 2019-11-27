@@ -3356,7 +3356,7 @@ tagCompA050Desc="奥术师在特殊的关键仪式中使用它来引导能量。
 tagCompA051Name=黑色油脂
 tagCompA051Desc="冥煞仪式中蜡烛燃烧的油脂。" ^w^n(用于项链和勋章)
 
-tagCompA052Name=^k复仇之魂
+tagCompA052Name=复仇之魂
 tagCompA052Desc="复仇的灵魂。" ^w^n(用于戒指，项链和勋章)
 
 tagCompA053Name=幻象印记
