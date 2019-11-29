@@ -124,7 +124,7 @@ tagClass01SkillName05C=[士兵]风卷残云
 tagClass01SkillDescription05C=刀锋横扫更为强力的一种形式，士兵在攻击中施展猛击，将敌人击倒在地。
 
 tagClass01SkillName06A=[士兵]马尔科夫优势
-tagClass01SkillDescription06A=著名战术家马尔科夫总是谋划从高处进攻。这个经典的攻击灵感正是来自马尔科夫的战术，招牌是强力的向下攻击，摔绊敌人让他们失去平衡，削弱他们的防御。^o所有武器均可激活该技能效果。
+tagClass01SkillDescription06A=著名战术家马尔科夫总是谋划从高处进攻。这个经典的攻击灵感正是来自马尔科夫的战术，招牌是强力的向下攻击，摔绊敌人让他们失去平衡，削弱他们的防御。^o所有默认武器攻击均可激活该技能效果。
 tagClass01SkillName06B=[士兵]佐尔汉的技艺
 tagClass01SkillDescription06B=以一个著名的格斗大师命名，攻击时放低重心，猛推敌人来使他们失去平衡。^o当使用一把近战武器发动时，会击中附近多个目标。^o所有默认武器攻击均可激活该技能效果。
 
@@ -1124,7 +1124,7 @@ tagItemSkillC061Name=毒蛇猛击
 tagItemSkillC061Desc=像毒蛇一样猛地袭击敌人，向目标注入致命的毒液。^o需要一把近战武器。
 
 tagItemSkillC062Name=击倒
-tagItemSkillC062Desc=用快速精确的一击将你的对手击倒。^o需要一把近战武器。这项特效会由近战武器攻击触发。
+tagItemSkillC062Desc=用快速精确的一击将你的对手击倒。^o需要一把近战武器。这项特效会由近战默认武器攻击触发。
 
 tagItemSkillC063Name=棱光护盾
 tagItemSkillC063Desc=发动护甲之上的符文刻印，在周围制造一面保护盾。
@@ -1858,7 +1858,7 @@ tagItemSkillD171Name=暗影冲击
 tagItemSkillD171Desc=向你的敌人释放出一阵纯净的黑暗闪电。
 
 tagItemSkillD172Name=暗影烈焰
-tagItemSkillD172Desc=向你的武器灌注暗影烈焰来释放致命的弹幕。^o需要一把双手远程武器，这项效果会由普通攻击触发。
+tagItemSkillD172Desc=向你的武器灌注暗影烈焰来释放致命的弹幕。^o需要一把双手远程武器，这项效果会由默认武器攻击触发。
 
 tagItemSkillD173Name=异彩闪耀
 tagItemSkillD173Desc=这些裤子的光彩真是亮瞎了。

@@ -507,7 +507,7 @@ tagGDX1ItemSkillD177Name=虚化火焰
 tagGDX1ItemSkillD177Desc=在敌人脚下爆发出纯粹的奥术烈焰。
 
 tagGDX1ItemSkillD178Name=虚空齐射
-tagGDX1ItemSkillD178Desc=灌注的虚空能量的一次齐射可以穿过你的敌人并将他们消灭。^o这是一项远程武器技能。同时开启双持远程武器的能力。
+tagGDX1ItemSkillD178Desc=灌注的虚空能量的一次齐射可以穿过你的敌人并将他们消灭。^o这是一项由默认武器攻击激活的远程武器技能。同时开启双持远程武器的能力。
 
 tagGDX1ItemSkillD179Name=饮魔者
 tagGDX1ItemSkillD179Desc=加强你的武器与奥术之间的共鸣，吸收部分敌人的法术并将其中一部分灌注于你的法术之中。^o此技能必须开启才能持续生效。

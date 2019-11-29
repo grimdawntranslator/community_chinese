@@ -248,7 +248,7 @@ tagGDX1EnemyWraith_C01=古代幽灵
 
 tagGDX1HeroWraith_H01=窃魂者 ~ 阿坎诺姆
 tagGDX1HeroWraith_H02=奥布利特瑞尔斯
-tagGDX1HeroWraith_H03=时光扭曲 ~ 提尔杜姆
+tagGDX1HeroWraith_H03=提尔杜姆 ~ [时光扭曲]
 tagGDX1HeroWraith_H04=无尽饥渴 ~ 苏瓦尔 ~ [吸血]
 
 
