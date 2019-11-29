@@ -1543,8 +1543,8 @@ tagAttackSpeedAverage=速度:中等
 tagAttackSpeedFast=速度:快速
 tagAttackSpeedVeryFast=速度:非常快
 
-tagAttackSpeed={^S}每秒攻击{^W}{%.2f0}{^S}次
-tagAttackSpeedR={^S}每秒攻击{^W}{%.2f0}-{%.2f1}{^S}次
+tagAttackSpeed={^S}每秒攻击 {^W}{%.2f0}{^S} 次
+tagAttackSpeedR={^S}每秒攻击 {^W}{%.2f0}-{%.2f1}{^S} 次
 
 tagCharOffensiveAbility={^E}攻击能力 {^H}{%+.0f0}
 tagCharDefensiveAbility={^E}防御能力 {^H}{%+.0f0}
@@ -1867,7 +1867,7 @@ tagDotPetrify=被石化
 tagSetItems=({%d0}) 套装
 tagSecond={^E}秒
 tagSeconds={^E}秒
-DamagePerSecond={%.0f0}{^S} 点每秒伤害(装备后)
+DamagePerSecond={%.0f0} {^S}点每秒伤害(装备后)
 DamagePerSecondOffHand={%.0f0} {^S}每秒伤害(副手)
 DamagePhysicalChance={%t0} {^E} 点物理伤害
 DamageBasePhysical={%t0} {^S} 点物理伤害
