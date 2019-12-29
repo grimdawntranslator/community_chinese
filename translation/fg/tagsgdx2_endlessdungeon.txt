@@ -66,7 +66,7 @@ tagGDX2EndlessDungeon_S201=完全正常的盾牌
 tagGDX2EndlessDungeon_S201_Desc="左撇子会懂的。"
 tagGDX2EndlessDungeon_S202=白骨之戟
 tagGDX2EndlessDungeon_S203=莱奥维纳斯的戒指
-tagGDX2EndlessDungeon_S203_Desc="一枚保存完好的戒指，由一种陌生但可塑性很强的材料制成，看起来相当愚蠢。"
+tagGDX2EndlessDungeon_S203_Desc="一枚保存完好的戒指，用一种可塑性很强的陌生材料制成，看起来相当愚蠢。"
 
 
 #NPCs
