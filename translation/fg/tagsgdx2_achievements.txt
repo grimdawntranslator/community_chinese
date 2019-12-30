@@ -158,7 +158,7 @@ achGDX251Title=暗夜烛光
 achGDX251Desc=在终极模式下的异教徒墓地解决大法师摩根尼斯。
 
 achGDX252Title=不灭暗夜烛光
-achGDX252Desc=在专精模式中的异教徒墓地解决大法师摩根尼斯。
+achGDX252Desc=在专家模式中的异教徒墓地解决大法师摩根尼斯。
 
 achGDX253Title=债务追讨
 achGDX253Desc=解决5个里格斯的同伴在单局游戏中。
