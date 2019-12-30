@@ -634,8 +634,7 @@ tagGDX2LoreObj_AreaG_RoguelikeNoteC05Text=大祭司图哈为了科凡信仰的�
 
 
 tagGDX2LoreObj_AreaG_RoguelikeNoteD01Name=魔力的汇集
-tagGDX2LoreObj_AreaG_RoguelikeNoteD01Text=我们的世界是一个谎言，被牧师们的邪恶所构成的谎言我们独自地站在这破碎的现实中，我们是真理的先驱亦是永恒长夜的子嗣。摩根尼斯可能让我们看到了真相，但低语让我们看到了解决方案。{^n}{^n}永恒长夜的触须内外翻腾，孕育着万物的毁灭。绝望的长笛鸣奏着，我们随着喜悦的旋律独自起舞。背叛者来找我们了，但他们还
-没有看到深渊的美丽。他们迟早会看到的，所有人都会看到。{^n}{^n}即使我们的肉体迅速破败着，摩根尼斯的低语仍在我们的脑海中散发。我们被欺骗了，在打造戒指的时候，摩根尼斯说了七个谎。他的戒指才是最重要的。他是我们的主人他会带领我们坠入深渊，也会救我们回来的。{^n}{^n}他们来了，他们来了。让虚幻的合唱开始吧。让他们也听到低语，在一切都终结后，唯虚无留存。
+tagGDX2LoreObj_AreaG_RoguelikeNoteD01Text=我们的世界是一个谎言，被牧师们的邪恶所构成的谎言我们独自地站在这破碎的现实中，我们是真理的先驱亦是永恒长夜的子嗣。摩根尼斯可能让我们看到了真相，但低语让我们看到了解决方案。{^n}{^n}永恒长夜的触须内外翻腾，孕育着万物的毁灭。绝望的长笛鸣奏着，我们随着喜悦的旋律独自起舞。背叛者来找我们了，但他们还没有看到深渊的美丽。他们迟早会看到的，所有人都会看到。{^n}{^n}即使我们的肉体迅速破败着，摩根尼斯的低语仍在我们的脑海中散发。我们被欺骗了，在打造戒指的时候，摩根尼斯说了七个谎。他的戒指才是最重要的。他是我们的主人他会带领我们坠入深渊，也会救我们回来的。{^n}{^n}他们来了，他们来了。让虚幻的合唱开始吧。让他们也听到低语，在一切都终结后，唯虚无留存。
 
 tagGDX2LoreObj_AreaG_RoguelikeNoteD02Name=摩根尼斯的训示 - 第三页
 tagGDX2LoreObj_AreaG_RoguelikeNoteD02Text=正如我说的一样，黑暗中的兄弟姐妹们。背叛者不可避免的知道了我们的行为并且他们正在来的路上，哦他们来了。他们带着符文和不死不休的想法，但是很快他们就会明白一个必须面对的残酷现实。我们可以反抗它，抵制它，但是最终我们终将被它吞噬。众神远久前就知道这个事实，即使是他们最终一样也要屈服。星星也不可能永远反抗这既定的命运。{^n}{^n}永恒黑夜已经完全展开。星星也将笼罩于阴影，并走向毁灭。此时我们之身所发生之事已无关紧要，神庙里的叛徒们已经太晚了。障碍已不存。伟大的吞噬者已经接收我们的献祭，并不再受到妨碍。{^n}{^n}他们或许可以粉碎我们的肉体，他们或许可以战胜我有限的生命，但他们并没有如我们一般凝视深渊。他们无法知晓前路什么在等待，和即将到来的未知命运。{^n}{^n}成为永恒吧，我的法师。
@@ -685,21 +684,21 @@ tagGDX2NPC_SmithA01=伊格纳尔
 tagGDX2StoreTitle_SmithA01=蛊惑铁匠
 tagGDX2StoreDesc_SmithA01_1={}带有巫神的标记
 tagGDX2StoreDesc_SmithA01_2=伊格纳尔的工艺被巫神所标记。他的作品带有巫神祝福所赐的超凡特性。
-tagGDX2StoreDesc_SmithA01_3= 
+tagGDX2StoreDesc_SmithA01_3=
 tagGDX2StoreDesc_SmithA01_4=锻造的武器，护甲和饰品会被灌注以下属性之一:
 
 tagGDX2NPC_SmithA02=艾格希亚·法尔德
 tagGDX2StoreTitle_SmithA02=天神铁匠
 tagGDX2StoreDesc_SmithA02_1={}天神锻造
 tagGDX2StoreDesc_SmithA02_2=据说艾格希亚·法尔德的锻锤是由星辰本身熔炼而成，可锻造94级的传奇装备，甚至包括被遗忘之神锻造的装备。
-tagGDX2StoreDesc_SmithA02_3= 
+tagGDX2StoreDesc_SmithA02_3=
 tagGDX2StoreDesc_SmithA02_4=锻造的武器，护甲和饰品会被灌注以下属性之一:
 
 tagGDX2NPC_SmithA03=艾格隆
 tagGDX2StoreTitle_SmithA03=被遗忘的铁匠
 tagGDX2StoreDesc_SmithA03_1={}沙漠锻造
 tagGDX2StoreDesc_SmithA03_2=虽然艾格隆的身子骨饱经风沙的洗礼，但他的锻锤技艺可谓是宝刀不老。
-tagGDX2StoreDesc_SmithA03_3= 
+tagGDX2StoreDesc_SmithA03_3=
 tagGDX2StoreDesc_SmithA03_4=锻造的武器，护甲和饰品会被灌注以下属性之一:
 
 #Faction Quartermasters
