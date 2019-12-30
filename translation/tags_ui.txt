@@ -832,7 +832,7 @@ tagCharStatsInternalTraumaDuration=创伤效果持续时间
 tagCharStatsInternalTraumaDurationInfo=你的内部创伤攻击持续时间的额外加成的百分数，每秒造成的伤害不会提高。
 
 tagCharStatsDamageToHealth=生命窃取
-tagCharStatsDamageToHealthInfo=武器伤害用来回复生命的百分数。
+tagCharStatsDamageToHealthInfo=武器攻击回复生命的百分比。
 
 #Magical 魔法
 tagCharStatsCastSpeed=施法速度
