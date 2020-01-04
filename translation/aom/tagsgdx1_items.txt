@@ -806,7 +806,7 @@ tagGDX1MedalC105_Desc="这枚标记属于宝库守护者，光明会宝库的神
 tagGDX1MedalC106=至圣徽章
 tagGDX1MedalC115=地狱苦难徽记
 tagGDX1MedalC116=岩石意志徽章
-tagGDX1MedalC117=烈火先知 徽章
+tagGDX1MedalC117=烈火先知徽章
 tagGDX1MedalC118=光明奖章
 
 tagGDX1MedalD101=恐怖利刃徽章
