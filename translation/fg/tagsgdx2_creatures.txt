@@ -52,8 +52,8 @@ tagGDX2EnemyMaggot_B01=膨胀的蛆虫
 
 #CreatureCelestial
 tagGDX2EnemyCelestial_Armor_A01=科凡咒魔
-tagGDX2EnemyCelestial_Armor_B01=科凡咒魔 ~ 被放逐的
-tagGDX2EnemyCelestial_Armor_C01=科凡咒魔 ~ 古代的
+tagGDX2EnemyCelestial_Armor_B01=科凡咒魔 ~ 遗忘
+tagGDX2EnemyCelestial_Armor_C01=科凡咒魔 ~ 远古
 
 tagGDX2EnemyCelestial_Gryphon_A01=天界狮鹫
 tagGDX2EnemyCelestial_Gryphon_B01=天界狮鹫 天爪
@@ -73,8 +73,8 @@ tagGDX2EnemyCelestial_Lizard_C01=夜爪 ~ 女皇
 tagGDX2EnemyCelestial_Monstrosity_C01=饥渴之嗣
 tagGDX2EnemyCelestial_Monstrosity_D01=饥荒之嗣
 
-tagGDX2EnemyCelestial_Mummy_A01=科凡咒灵 ~ 枯竭的
-tagGDX2EnemyCelestial_Mummy_B01=科凡咒灵 ~ 溃烂的
+tagGDX2EnemyCelestial_Mummy_A01=科凡咒灵 ~ 枯竭
+tagGDX2EnemyCelestial_Mummy_B01=科凡咒灵 ~ 溃烂
 tagGDX2EnemyCelestial_Mummy_C01=科凡咒灵 ~ 收割者
 
 tagGDX2EnemyCelestial_Statue_A01=咒灵守护者魔像
@@ -133,12 +133,12 @@ tagGDX2HeroGargoyle_H04=沙纳坦 ~ [电击]
 
 
 #CreatureGroble
-tagGDX2EnemyGroble_A01=格罗布 ~ 科凡部落 ~ 拾荒者
-tagGDX2EnemyGroble_A02=格罗布 ~ 科凡部落 ~ 追踪者
-tagGDX2EnemyGroble_B01=格罗布 ~ 科凡部落 ~ 战士
-tagGDX2EnemyGroble_B02=格罗布 ~ 科凡部落 ~ 萨满
-tagGDX2EnemyGroble_C01=格罗布 ~ 科凡部落 ~ 勇士
-tagGDX2EnemyGroble_C02=格罗布 ~ 科凡部落 ~ 长者
+tagGDX2EnemyGroble_A01=格罗布 ~ 科凡部落 拾荒者
+tagGDX2EnemyGroble_A02=格罗布 ~ 科凡部落 追踪者
+tagGDX2EnemyGroble_B01=格罗布 ~ 科凡部落 战士
+tagGDX2EnemyGroble_B02=格罗布 ~ 科凡部落 萨满
+tagGDX2EnemyGroble_C01=格罗布 ~ 科凡部落 勇士
+tagGDX2EnemyGroble_C02=格罗布 ~ 科凡部落 长者
 
 tagGDX2HeroGroble_H01=盖尔加
 tagGDX2HeroGroble_H02=纳兹巴克
@@ -200,10 +200,10 @@ tagGDX2HeroKorvaakServant_H04=帕根洛克 ~ [奥术]
 
 
 #CreatureMummy
-tagGDX2EnemyMummy_A01=木乃伊 ~ 干枯的
-tagGDX2EnemyMummy_B01=木乃伊 ~ 溃烂的
-tagGDX2EnemyMummy_C01=木乃伊 ~ 腐烂的
-tagGDX2EnemyMummy_C02=木乃伊 ~ 烧焦的
+tagGDX2EnemyMummy_A01=木乃伊 ~ 干枯
+tagGDX2EnemyMummy_B01=木乃伊 ~ 溃烂
+tagGDX2EnemyMummy_C01=木乃伊 ~ 腐烂
+tagGDX2EnemyMummy_C02=木乃伊 ~ 烧焦
 
 tagGDX2HeroMummy_H01=安诺萨
 tagGDX2HeroMummy_H02=托顿森
