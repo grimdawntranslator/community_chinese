@@ -1075,7 +1075,7 @@ tagQuestEnemyBanditForge=非法熔炉
 tagQuestChthonianMonstrosity=拆解者 ~ 塔尔·诺什
 tagQuestBloodWagon=运血车
 
-tagBossTheWarden01=典狱长
+tagBossTheWarden01=典狱长 ~ 克里格
 tagBossLoghorrean01=冥神代言人 ~ 罗格霍瑞恩
 tagBossLoghorreanTentacle01=罗格霍瑞恩的触手
 tagBossLoghorreanTentacle02=罗格霍瑞恩的触手
@@ -1090,12 +1090,12 @@ tagAetherialRoguelikeBoss06=监察者 ~ 奥达斯
 tagAetherialRoguelikeBoss07=监察者 ~ 布兰迪斯
 
 tagMiscTargetDummy=训练假人
+
 tagQuestWitchGod01=德里格的守卫者
 tagQuestWitchGod01_Summon=德里格之眼
 tagQuestWitchGod02=索拉尔的守卫者
 tagQuestWitchGod03=拜斯迈的守卫者
 tagQuestWitchGod04=哨卫
-
 
 #Nemesis 复仇者
 tagNemesis_Aetherial01=风暴之灾 ~ 沃达兰
@@ -1296,3 +1296,5 @@ tagRace013P=魔法生物
 tagRace014P=天神
 tagRace015P=蜘蛛族
 tagRace016P=植物
+
+

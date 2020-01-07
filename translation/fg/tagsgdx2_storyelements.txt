@@ -644,6 +644,7 @@ tagGDX2LoreObj_AreaG_RoguelikeNoteD03Text=仁慈的阿特弗，告诉我我该�
 
 
 
+
 tagGDX2Roguelike_Area01=伊纳特深渊
 tagGDX2Roguelike_Area02=绝望堡垒
 tagGDX2Roguelike_Area03=呼啸深渊

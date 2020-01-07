@@ -32,43 +32,43 @@ achGDX209Title=狮鹫君王
 achGDX209Desc=击杀位于向阳尖塔的狮鹫君王 ~ 阿泽隆。
 
 achGDX210Title=天空君王
-achGDX210Desc=击杀位于向阳尖塔的狮鹫君王 ~ 阿泽隆，在终极难度中。
+achGDX210Desc=在终极难度中击杀位于向阳尖塔的狮鹫君王 ~ 阿泽隆。
 
 achGDX211Title=峭壁猎人
-achGDX211Desc=击杀位于玄武岩崖的格雷莫尔，猎犬首领。
+achGDX211Desc=击杀位于玄武岩崖的猎犬首领 ~ 格雷莫尔。
 
 achGDX212Title=猎犬追猎者
-achGDX212Desc=击杀位于玄武岩崖的格雷莫尔，猎犬首领，在终极难度中。
+achGDX212Desc=在终极难度中击杀位于玄武岩崖的猎犬首领 ~ 格雷莫尔。
 
 achGDX213Title=科凡暴龙
 achGDX213Desc=击杀位于科凡沙漠的科凡 ~ 泰坦诺沃尔。
 
 achGDX214Title=侏罗纪狩猎
-achGDX214Desc=击杀位于科凡沙漠的科凡 ~ 泰坦诺沃尔，在终极难度中。
+achGDX214Desc=在终极难度中击杀位于科凡沙漠的科凡 ~ 泰坦诺沃尔。
 
 achGDX215Title=断子绝孙
-achGDX215Desc=击杀凯桑，邪术后裔。
+achGDX215Desc=击杀邪术后裔 ~ 凯桑。
 
 achGDX216Title=后裔复仇者
-achGDX216Desc=击杀凯桑，邪术后裔，在终极难度中。
+achGDX216Desc=在终极难度中击杀邪术后裔 ~ 凯桑。
 
 achGDX217Title=击杀信使
-achGDX217Desc=让奥卡洛斯，信使永远闭嘴。
+achGDX217Desc=让"信使" ~ 奥卡洛斯永远闭嘴。
 
 achGDX218Title=信件终结
-achGDX218Desc=让奥卡洛斯，信使永远闭嘴，在终极难度中。
+achGDX218Desc=在终极难度中让"信使" ~ 奥卡洛斯永远闭嘴。
 
 achGDX219Title=人类叛徒
 achGDX219Desc=击杀位于邪阳之墓的神父凯蒙。
 
 achGDX220Title=沉默先知
-achGDX220Desc=击杀位于邪阳之墓的神父凯蒙，在终极难度中。
+achGDX220Desc=在终极难度中击杀位于邪阳之墓的神父凯蒙。
 
 achGDX221Title=弑神者
 achGDX221Desc=击杀位于三巫神王座的邪术之阳 ~ 寇瓦克。
 
 achGDX222Title=永远被遗忘
-achGDX222Desc=击杀位于三巫神王座的邪术之阳 ~ 寇瓦克，在终极难度中。
+achGDX222Desc=在终极难度中击杀位于三巫神王座的邪术之阳 ~ 寇瓦克。
 
 achGDX223Title=扼杀后裔
 achGDX223Desc=召唤并击败沙漠之嗣 ~ 卡拉加德拉。
@@ -89,13 +89,13 @@ achGDX228Title=科凡保护者
 achGDX228Desc=完成被遗忘的诸神。
 
 achGDX229Title=科凡勇士
-achGDX229Desc=完成被遗忘的诸神，在精英难度中。
+achGDX229Desc=在精英难度中完成被遗忘的诸神。
 
 achGDX230Title=天神胜利者
-achGDX230Desc=完成被遗忘的诸神，在终极难度中。
+achGDX230Desc=在终极难度中完成被遗忘的诸神。
 
 achGDX231Title=不朽的天神胜利者
-achGDX231Desc=完成被遗忘的诸神，在专家模式的终极难度中。
+achGDX231Desc=在专家模式的终极难度中完成被遗忘的诸神。
 
 achGDX232Title=科凡杀手
 achGDX232Desc=消灭 2500只 精英怪物(带有星形标记)。
@@ -116,22 +116,22 @@ achGDX237Title=进入碎裂之境
 achGDX237Desc=征服碎裂之境的第 5 碎界。
 
 achGDX238Title=直面碎裂之境
-achGDX238Desc=征服碎裂之境的第 5 碎界，在终极难度中。
+achGDX238Desc=在终极难度中征服碎裂之境的第 5 碎界。
 
 achGDX239Title=碎裂探险家
 achGDX239Desc=征服碎裂之境的第 15 碎界。
 
 achGDX240Title=碎裂开拓者
-achGDX240Desc=征服碎裂之境的第 15 碎界，在终极难度中。
+achGDX240Desc=在终极难度中征服碎裂之境的第 15 碎界。
 
 achGDX241Title=碎裂胜利者
 achGDX241Desc=征服碎裂之境的第 25 碎界。
 
 achGDX242Title=碎裂征服者
-achGDX242Desc=征服碎裂之境的第 25 碎界，在终极难度中。
+achGDX242Desc=在终极难度中征服碎裂之境的第 25 碎界。
 
 achGDX243Title=不朽的碎裂征服者
-achGDX243Desc=征服碎裂之境的第 25 碎界，在专家模式终极难度中。
+achGDX243Desc=在专家模式的终极难度中征服碎裂之境的第 25 碎界。
 
 achGDX244Title=灵魂饮食
 achGDX244Desc=在碎裂之境中吸收 50个 碎裂之魂。
@@ -155,16 +155,16 @@ achGDX250Title=驱逐暗夜
 achGDX250Desc=在异教徒墓地解决大法师摩根尼斯。
 
 achGDX251Title=暗夜烛光
-achGDX251Desc=在终极模式下的异教徒墓地解决大法师摩根尼斯。
+achGDX251Desc=在终极难度中击杀位于异教徒墓地的大法师摩根尼斯。
 
 achGDX252Title=不灭暗夜烛光
-achGDX252Desc=在专家模式中的异教徒墓地解决大法师摩根尼斯。
+achGDX252Desc=在专家模式中击杀位于异教徒墓地的大法师摩根尼斯。
 
 achGDX253Title=债务追讨
-achGDX253Desc=解决5个里格斯的同伴在单局游戏中。
+achGDX253Desc=在单局游戏中解决 5个 里格斯的同伴。
 
 achGDX254Title=偿还债务
-achGDX254Desc=偿还在里格斯那里的债务。
+achGDX254Desc=偿还你在里格斯那里的债务。
 
 achGDX255Title=七法师
 achGDX255Desc=在异教徒墓地解决七位科凡法师。

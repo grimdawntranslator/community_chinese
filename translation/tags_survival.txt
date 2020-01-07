@@ -69,7 +69,7 @@ tagItem_ChestN01={^M}神之珍藏
 tagItem_ChestStart=堕落战士
 
 #NPCs
-tagNPC_Event_01=罗卡，试炼场主宰
+tagNPC_Event_01=试炼场主宰 ~ 罗卡
 tagNPC_DefenseSite_01=防御工事
 
 tagNPC_MerchantS01=坎德拉
@@ -84,7 +84,7 @@ tagStoreTitle_ReallocatorS01=灵魂向导
 tagNPC_InventorS01=娅弗拉
 tagStoreTitle_InventorS01=远古发明家
 
-tagNPC_PowerupsS01=泰拉利亚，不朽的大法师
+tagNPC_PowerupsS01=不朽的大法师 ~ 泰拉利亚
 
 tagNPC_SmithS01=伽里尤斯
 tagStoreTitle_SmithS01=被诅咒的铁匠

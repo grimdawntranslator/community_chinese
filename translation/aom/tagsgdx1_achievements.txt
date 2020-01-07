@@ -38,10 +38,10 @@ achGDX1011Title=黑暗的尽头
 achGDX1011Desc=在终极难度的虚空边缘击杀黑暗先驱 ~ 艾柯特·祖尔。
 
 achGDX1012Title=敲门 敲门
-achGDX1012Desc=在马尔茅斯桥击杀博拉格，守门人。
+achGDX1012Desc=在马尔茅斯桥击杀守门人 ~ 博拉格。
 
 achGDX1013Title=不速之客
-achGDX1013Desc=在终极难度的马尔茅斯桥击杀博拉格，守门人。
+achGDX1013Desc=在终极难度的马尔茅斯桥击杀守门人 ~ 博拉格。
 
 achGDX1014Title=这样别人才能成长
 achGDX1014Desc=在丛林击杀希尔瓦莉亚。
@@ -50,10 +50,10 @@ achGDX1015Title=杂草杀手
 achGDX1015Desc=在终极难度的丛林击杀希尔瓦莉亚。
 
 achGDX1016Title=又是你
-achGDX1016Desc=在血肉工厂击杀血肉塑造者克里格。
+achGDX1016Desc=在血肉工厂击杀血肉编织者 ~ 克里格。
 
 achGDX1017Title=还记得我吗？
-achGDX1017Desc=在终极难度的血肉工厂击杀血肉塑造者克里格。
+achGDX1017Desc=在终极难度的血肉工厂击杀血肉编织者 ~ 克里格。
 
 achGDX1018Title=与我无关
 achGDX1018Desc=与缠住你的虚灵算账。
@@ -62,19 +62,19 @@ achGDX1019Title=我是自己命运的主宰
 achGDX1019Desc=在终极难度与缠住你的虚灵算账。
 
 achGDX1020Title=粉碎大山
-achGDX1020Desc=在马尔茅斯下水道击杀加拉克洛斯，大山。
+achGDX1020Desc=在马尔茅斯下水道击杀大山 ~ 加拉克洛斯。
 
 achGDX1021Title=大山杀手
-achGDX1021Desc=在终极难度的马尔茅斯下水道击杀加拉克洛斯，大山。
+achGDX1021Desc=在终极难度的马尔茅斯下水道击杀大山 ~ 加拉克洛斯。
 
 achGDX1022Title=马尔茅斯的苦难
-achGDX1022Desc=在血肉密室击杀西奥丁·马塞尔，血肉塑造者。
+achGDX1022Desc=在血肉密室击杀血肉领主 ~ 西奥丁·马塞尔。
 
 achGDX1023Title=为倒下的人复仇
-achGDX1023Desc=在终极难度的血肉密室击杀西奥丁·马塞尔，血肉塑造者。
+achGDX1023Desc=在终极难度的血肉密室击杀血肉领主 ~ 西奥丁·马塞尔。
 
 achGDX1024Title=掠夺
-achGDX1024Desc=击败一次掠夺者，温迪戈之魂的化身。
+achGDX1024Desc=击败一次掠夺者 ~ 温迪戈之魂的化身。
 
 achGDX1025Title=泥中的宝石
 achGDX1025Desc=巴罗霍尔姆的声望达到崇敬。
@@ -128,19 +128,19 @@ achGDX1041Title=腐化试练
 achGDX1041Desc=在远古树林的腐化试练中活下来。
 
 achGDX1042Title=野性驯化
-achGDX1042Desc=在远古树林击杀加尔加伯·野性之心。
+achGDX1042Desc=在远古树林击杀野性之心 ~ 加尔加伯。
 
 achGDX1043Title=驯服未驯服的
-achGDX1043Desc=在终极难度的远古树林击杀加尔加伯·野性之心。
+achGDX1043Desc=在终极难度的远古树林击杀野性之心 ~ 加尔加伯。
 
 achGDX1044Title=不朽的野性驯化
-achGDX1044Desc=在专家模式终极难度的远古树林击杀加尔加伯·野性之心。
+achGDX1044Desc=在专家模式终极难度的远古树林击杀野性之心 ~ 加尔加伯。
 
 achGDX1045Title=巫登古魔
-achGDX1045Desc=击杀克拉瓦尔·水域古魔。
+achGDX1045Desc=击杀水域古魔 ~ 克拉·瓦尔。
 
 achGDX1046Title=神话杀手
-achGDX1046Desc=在终极难度击杀克拉瓦尔·水域古魔。
+achGDX1046Desc=在终极难度击杀水域古魔 ~ 克拉·瓦尔。
 
 achGDX1047Title=
 achGDX1047Desc=

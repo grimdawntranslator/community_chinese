@@ -75,7 +75,7 @@ tagHUDWaveTier01Info=你正在战斗的怪物波数。
 #Tutorials
 tagTutorialTip62Title=试炼在呼唤...
 tagTutorialTip62TextA=你已经进入试练场，罗卡的一处神秘而偏僻的诡异场所。在这里，恐怖黎明中最邪恶的生物将会对你的战斗天赋进行考验。
-tagTutorialTip62TextB=当你准备好的时候，与试炼场主宰罗卡对话。
+tagTutorialTip62TextB=当你准备好的时候，与试炼场主宰 ~ 罗卡对话。
 tagTutorialTip62SubtitleA=罗卡的奴仆
 tagTutorialTip62TextC=在怪物波数空隙期间的任何时候，你都可以与罗卡的奴仆对话来获得基础服务，比如商人，铁匠和灵魂向导。
 tagTutorialTip62SubtitleB=试炼贡品
