@@ -1271,9 +1271,9 @@ tagPrefixB045_Class_A=救世者的
 tagGDX2PrefixAA024=守誓者的
 
 #Difficulty Unlocks
-tagGDX2DifficultyUnlock01=斗士之功绩
+tagGDX2DifficultyUnlock01=斗士之功勋
 tagGDX2DifficultyUnlock01_Desc=征服了凯恩的恐怖之物的证明，允许你进入精英难度。请小心：过早进入精英难度将给你带来严峻的考验！ ^o可以放入共享储物箱来交给其他人物。
-tagGDX2DifficultyUnlock02=救世主之功绩
+tagGDX2DifficultyUnlock02=救世主之功勋
 tagGDX2DifficultyUnlock02_Desc=碾碎了凯恩恐怖之物的证明，允许你进入终极难度。请小心：过早进入终极难度将给你带来严峻的考验！ ^o可以放入共享储物箱来交给其他人物。
 tagGDX2DifficultyUnlockStats={^E}解锁低难度任务中获取的所有技能点及属性点
 tagGDX2DifficultyUnlockTeleporters={^E}解锁低一级难度的裂隙门
