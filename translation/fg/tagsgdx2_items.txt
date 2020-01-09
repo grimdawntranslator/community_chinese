@@ -1003,9 +1003,9 @@ tagGDX2EnchantC209A=索拉尔的缚魂尘
 tagGDX2EnchantC209Desc="一件来自巫神索拉尔的馈赠，这种邪恶的粉末用于灵魂绑定仪式，为邪术之火提供食粮。"^w^n（用于全部护甲）
 
 #Mobility Runes 位移符文
-tagGDX2RuneBDesc="由巫神秘教使用的普通魔法符文。"^w^n(用于勋章)
-tagGDX2RuneCDesc="一个在凯恩世界最难以到达的边境找到的可怕符记。"^w^n(用于勋章)
-tagGDX2RuneDDesc="一个遗失在碎境中的远古魔法符印。"^w^n(用于勋章)
+tagGDX2RuneBDesc="由巫神秘教使用的一种普通的能力符文。"^w^n(用于勋章)
+tagGDX2RuneCDesc="在凯恩世界遥远的另一端发现的一种强大的能力符文。"^w^n(用于勋章)
+tagGDX2RuneDDesc="遗失在碎境中的一种远古的能力符文。"^w^n(用于勋章)
 
 tagGDX2RuneB201=鬼影刺客纹章
 tagGDX2RuneB202=跳跃螳螂纹章
@@ -1253,7 +1253,7 @@ tagGDX2TombOfHereticSeal=异教徒的封印
 
 tagGDX2DoorOneWayTombOfHeretic=黑夜逃脱口
 tagGDX2EpicDoor_TombOfHeretic=摩根尼斯之愚的封印
-tagGDX2EpicDoor_TombOfHereticLocked= {^R} ~ 被黑暗封印着 (需要一个骷髅钥匙)
+tagGDX2EpicDoor_TombOfHereticLocked= {^R} ~ 被黑暗封印着 (需要一把骸骨钥匙)
 
 
 tagPrefixB037_Class_A=战争领主的
