@@ -344,7 +344,7 @@ tagGDX2Boss_Roguelike_MiniBoss_06=法师 舒罗斯
 tagGDX2Boss_Roguelike_MiniBoss_06B=舒罗斯之影
 tagGDX2Boss_Roguelike_MiniBoss_07=法师 孔萨尔
 tagGDX2Boss_Roguelike_MiniBoss_07B=孔萨尔之影
-tagGDX2Boss_Roguelike_Boss_01=符印守护者
+tagGDX2Boss_Roguelike_Boss_01=封印守护者
 tagGDX2Boss_Roguelike_Boss_02=大法师 摩根尼斯
 
 tagGDX2Boss_RoguelikePath_Boss_01=沙尘暴 加林索尔
