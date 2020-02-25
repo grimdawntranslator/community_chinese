@@ -567,8 +567,8 @@ tagLootFilter37Info=显示装备包含 反击伤害。
 
 tagLootFilter38=镶嵌物
 tagLootFilter38Info=显示/隐藏 镶嵌物。
-tagLootFilter39=只显示双词缀掉落
-tagLootFilter39Info=勾选此项只显示拥有稀有前缀和稀有后缀的物品。{^N}{^N}在你只希望寻找最强力的稀有装备或者特殊装备时再将此选项和稀有装备和/或特殊装备过滤选项搭配使用。
+tagLootFilter39=总是显示双稀有词缀掉落
+tagLootFilter39Info=勾选此项将忽略你的过滤器设置，总是显示拥双稀有词缀的物品（稀有和怪物专属掉落）。{^N}{^N}在你只希望寻找最强力的稀有或者专属掉落物品时使用。
 
 
 

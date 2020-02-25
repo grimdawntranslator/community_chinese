@@ -17,6 +17,7 @@ tagGDX2WeaponSwordD205=冷冽之心
 tagGDX2WeaponSwordD205_Desc=" '困于异界，速来救援' 的字样被匆忙地刻在了剑柄上。"
 tagGDX2WeaponSwordD206=沙魔之刃
 tagGDX2WeaponSwordD207=沙魔切刀
+tagGDX2WeaponSwordD208=Noctirn
 
 tagGDX2WeaponSwordF201=拜斯迈之刃
 tagGDX2WeaponSwordF202=索拉尔切刀
@@ -37,6 +38,7 @@ tagGDX2WeaponBluntD203=塔戈之锤
 tagGDX2WeaponBluntD204=完全正常的圆盾
 tagGDX2WeaponBluntD205=完全正常的黎明碎片
 tagGDX2WeaponBluntD206=完全正常的壁垒
+tagGDX2WeaponBluntD207=地穴追猎者
 
 tagGDX2WeaponBluntF201=拜斯迈战锤
 tagGDX2WeaponBluntF202=索拉尔战锤
@@ -54,6 +56,8 @@ tagGDX2WeaponAxeC201=帷幕之锋
 tagGDX2WeaponAxeD201=灰烬之蔑视
 tagGDX2WeaponAxeD202=赤红尾迹之裔
 tagGDX2WeaponAxeD202_Desc="这柄武器的炽热的锋刃让空气泛起了涟漪。"
+tagGDX2WeaponAxeD203=风暴撕裂者
+tagGDX2WeaponAxeD203_Desc="边缘以风暴的原始力量撕裂空气。"
 
 tagGDX2WeaponAxeF201=拜斯迈切斧
 tagGDX2WeaponAxeF202=德里格切斧
@@ -73,6 +77,8 @@ tagGDX2WeaponGun1hD202=缚誓者
 tagGDX2WeaponGun1hD202_Desc="铭记誓言，至死不渝。"
 tagGDX2WeaponGun1hD203=奥术玄冰
 tagGDX2WeaponGun1hD204=路德里根的佩枪
+tagGDX2WeaponGun1hD205=裂相者
+tagGDX2WeaponGun1hD205_Desc="这只枪开火时，如空气般的穿透现实。"
 
 tagGDX2WeaponGun1hF201=拜斯迈手炮
 tagGDX2WeaponGun1hF202=德里格手炮
@@ -119,6 +125,8 @@ tagGDX2WeaponMelee2hD203=泰内布里斯之怒
 tagGDX2WeaponMelee2hD203_Desc="饮血者泰内布里斯的生命窃取者，受过虚空之心的洗礼。"
 tagGDX2WeaponMelee2hD204=夜拥
 tagGDX2WeaponMelee2hD204_Desc="摩根尼斯用一颗消亡的恒星所锻造的伟大武器。"
+tagGDX2WeaponMelee2hD205=奥术能量之裔
+tagGDX2WeaponMelee2hD206=尖叫帷幕之裔
 
 tagGDX2WeaponMelee2hF201=德里格巨剑
 tagGDX2WeaponMelee2hF202=索拉尔行刑斧
@@ -149,6 +157,7 @@ tagGDX2WeaponCaster1hD204=天之仁慈
 tagGDX2WeaponCaster1hD205=凌冽轻语之剑
 tagGDX2WeaponCaster1hD206=三巫神之裁决
 tagGDX2WeaponCaster1hD207=枯萎领主的切刀
+tagGDX2WeaponCaster1hD208=虚空尖塔
 
 tagGDX2WeaponCaster1hF201=拜斯迈风暴破坏者
 tagGDX2WeaponCaster1hF202=拜斯迈灵魂破坏者
@@ -177,7 +186,8 @@ tagGDX2ShieldD201=荆棘丛生
 tagGDX2ShieldD202=坟墓之触
 tagGDX2ShieldD203=美德防御者
 tagGDX2ShieldD204=三巫神防御者
-tagGDX2ShieldD205=虚魂圆盾
+tagGDX2ShieldD205=虚魂壁垒
+tagGDX2ShieldD206=海瑞恩的壁垒
 
 tagGDX2ShieldF201=拜斯迈防御者
 tagGDX2ShieldF202=德里格保护者
@@ -214,6 +224,9 @@ tagGDX2FocusD209=加林索尔的头颅
 tagGDX2FocusD209_Desc="科凡历史守护者的头颅，最好把它忘记。"
 tagGDX2FocusD210=哈兰克斯的头颅
 tagGDX2FocusD210_Desc="守护者的头虽然是用石头做的，却散发着腐朽的气味。"
+tagGDX2FocusD211=天界征兆之裔
+tagGDX2FocusD212=通往多个世界的大门
+tagGDX2FocusD212_Desc="现实的交织本身就在扭曲，并有被拆解的危险。"
 
 tagGDX2FocusF201=拜斯迈邪火神像
 tagGDX2FocusF202=拜斯迈污染神像

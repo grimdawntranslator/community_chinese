@@ -134,7 +134,7 @@ tagWeaponBluntC012=碎骨之槌
 tagWeaponBluntC013=萨娜·辛的黑手
 tagWeaponBluntC014=起源
 tagWeaponBluntC015=战争之斥责
-tagWeaponBluntC016=巴索勒姆之槌
+tagWeaponBluntC016=巴索勒姆的裁决
 tagWeaponBluntC016Desc="执政官巴索勒姆的圣槌，曾用来向恶徒身上施加神罚。"
 tagWeaponBluntC017=寒铁救世者
 
@@ -662,7 +662,7 @@ tagFocusA001=发霉的宝典
 tagFocusA002=鲜血魔典
 tagFocusA003=符文封印档案
 tagFocusA004=封皮魔法书
-tagFocusA005=魔力宝典
+tagFocusA005=奇怪的宝典
 tagFocusA006=奥秘手抄本
 tagFocusA013=高阶手抄本
 
@@ -1802,6 +1802,12 @@ tagMedalB002=游骑兵徽章
 tagMedalB003=^l伊克里克斯的鳞片
 tagMedalB004=^l凯蒙的徽章
 tagMedalB005=^l血誓魔印
+tagMedalB006=伊尔戈的永恒警戒
+tagMedalB006_Desc="苦痛阶梯的看守者们永恒的进行着无情的看守。"
+tagMedalB007=伊尔戈的永恒诅咒
+tagMedalB008=拉苟斯·阿克的虚空束缚
+tagMedalB008_Desc="只是虚空及其主人庞大力量的回响"
+tagMedalB009=拉苟斯·阿克的缚血尘
 
 tagMedalC001=野兽屠杀者徽记
 tagMedalC002=坚韧徽章

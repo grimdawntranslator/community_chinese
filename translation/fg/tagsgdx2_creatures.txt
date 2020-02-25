@@ -291,6 +291,7 @@ tagGDX2Pet_Item_EldritchLizard=邪能利爪
 tagGDX2Pet_Item_EldritchShard=邪能碎片
 tagGDX2Pet_Item_NightRift=夜行者
 tagGDX2Pet_Item_YugolTentacle=尤戈尔的触手
+tagGDX2Pet_Item_WorldGate=世界之门
 tagGDX2Pet_Item_Mini=科凡迷你噬龙
 tagGDX2Pet_Item_Mini_Skill=迷你咆哮
 tagGDX2Pet_Item_Maggot=天界蛆虫
