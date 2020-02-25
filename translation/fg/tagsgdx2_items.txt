@@ -17,7 +17,7 @@ tagGDX2WeaponSwordD205=冷冽之心
 tagGDX2WeaponSwordD205_Desc=" '困于异界，速来救援' 的字样被匆忙地刻在了剑柄上。"
 tagGDX2WeaponSwordD206=沙魔之刃
 tagGDX2WeaponSwordD207=沙魔切刀
-tagGDX2WeaponSwordD208=Noctirn
+tagGDX2WeaponSwordD208=夜曲
 
 tagGDX2WeaponSwordF201=拜斯迈之刃
 tagGDX2WeaponSwordF202=索拉尔切刀
