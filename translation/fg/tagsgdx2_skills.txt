@@ -307,7 +307,7 @@ tagGDX2ItemSkillD261Name=海瑞恩之爪
 tagGDX2ItemSkillD261Desc=用你盾牌里已注入的海瑞恩之力猛击你的敌人。
 
 tagGDX2ItemSkillD262Name=世界之门
-tagGDX2ItemSkillD262Desc=在现实中撕开一道裂隙，将站在其中的敌人分割开来。^o世界之门受到战宠加成影响。
+tagGDX2ItemSkillD262Desc=在现实中撕开一道裂隙，将站在其中的敌人分割开来。^o世界之门受战宠加成影响。
 tagGDX2ItemSkillD262PetSkill_Name=分割
 
 
