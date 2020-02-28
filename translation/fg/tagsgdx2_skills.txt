@@ -71,7 +71,7 @@ tagGDX2Class09SkillDescription07B=正义之火在守誓者的灵魂中燃烧，�
 
 tagGDX2Class09SkillName08A=[守誓者]召唤至高神守护者
 tagGDX1Class09SkillTracker08A=已召唤守护者数量
-tagGDX2Class09SkillDescription08A=召唤至高之神的忠诚仆从，执行天神审判，劈斩敌人。
+tagGDX2Class09SkillDescription08A=召唤至高之神的忠诚仆从，执行天神审判，劈斩敌人。^o天界守护者受到玩家伤害加成的影响。
 tagGDX2Class09SkillName08B=[守誓者]天神化身
 tagGDX2Class09SkillDescription08B=守护者的出现会灼烧异教徒们的灵魂。
 tagGDX2Class09SkillName08C=[守誓者]德里格之嗣
@@ -287,7 +287,7 @@ tagGDX2ItemSkillD255Name=孔萨尔的凝视
 tagGDX2ItemSkillD255Desc=孔萨尔的凝视落在你的仆从身上，使他们充满愤恨。
 
 tagGDX2ItemSkillD256Name=尤戈尔的祈祷
-tagGDX2ItemSkillD256Desc=祈求诅咒星辰的仪式，召唤出巨大的天界饥渴的表象。
+tagGDX2ItemSkillD256Desc=祈求诅咒星辰的仪式，召唤出巨大的天界饥渴的表象。^o表象受玩家加成影响。
 tagGDX2ItemSkillD256PetSkill_Name=挥打
 tagGDX2ItemSkillD256PetSkill2_Name=黑暗降临
 
@@ -296,6 +296,19 @@ tagGDX2ItemSkillD257Desc=在你身边爆发一股腐蚀性的毒素。
 
 tagGDX2ItemSkillD258Name=幻影新星
 tagGDX2ItemSkillD258Desc=在你身边爆发一阵幻影刀刃。
+
+tagGDX2ItemSkillD259Name=地穴追猎者
+tagGDX2ItemSkillD259Desc=你的存在让附近的敌人充满了对地穴的恐惧。
+
+tagGDX2ItemSkillD260Name=帷幕波纹
+tagGDX2ItemSkillD260Desc=一股强大的虚化能量从你身上荡漾而出。
+
+tagGDX2ItemSkillD261Name=海瑞恩之爪
+tagGDX2ItemSkillD261Desc=用你盾牌里已注入的海瑞恩之力猛击你的敌人。
+
+tagGDX2ItemSkillD262Name=世界之门
+tagGDX2ItemSkillD262Desc=在现实中撕开一道裂隙，将站在其中的敌人分割开来。^o世界之门受到战宠加成影响。
+tagGDX2ItemSkillD262PetSkill_Name=分割
 
 
 #Component Skills

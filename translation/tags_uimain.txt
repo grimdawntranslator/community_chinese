@@ -1,4 +1,4 @@
-tagTitleScreenText=恐怖黎明{^n}©2019 Crate Entertainment,LLC{^n}{^n}请访问我们的官网 www.grimdawn.com 并参与到恐怖黎明的开发中来！
+tagTitleScreenText=恐怖黎明{^n}©2020 Crate Entertainment,LLC{^n}{^n}请访问我们的官网 www.grimdawn.com 并参与到恐怖黎明的开发中来！
 tagDemoScreenText=感谢游戏！{^n}{^n}恐怖黎明现在已在 Steam 上发布，或者通过访问 www.grimdawn.com 来查看。
 tagMenu01=开始游戏
 tagMenu02=自定义游戏

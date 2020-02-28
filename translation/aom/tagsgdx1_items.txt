@@ -1878,7 +1878,6 @@ tagGDX1DLCIllusionA01=幻化：暗黑骑士盔甲
 tagGDX1DLCA01=暗黑骑士盔甲
 tagGDX1DLCA01Desc="邪恶的暗黑骑士盔甲。"
 
-
 tagGDX1DLCIllusionA02=幻化：白银骑士盔甲
 tagGDX1DLCA02=白银骑士盔甲
 tagGDX1DLCA02Desc="神圣的白银骑士盔甲。"

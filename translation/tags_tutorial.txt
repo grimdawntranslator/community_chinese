@@ -75,9 +75,6 @@ tagTutorialTip20Title=镶嵌物
 tagTutorialTip20TextA=镶嵌物可以用来增强装备。他们通常呈碎片形式，可以通过合成来获得更强力的加成。稀有镶嵌物用淡黄色边框来显示。
 tagTutorialTip20SubtitleA=附着镶嵌物
 tagTutorialTip20TextB=右击部件选择它，然后左键单击你想要附加的装备。注意每个镶嵌物只能用于镶嵌特定的类型的物品。
-tagTutorialTip20SubtitleB=合成镶嵌物
-tagTutorialTip20TextC=你可以合成相同名字的镶嵌物碎片来获得更强力的加成效果。
-tagTutorialTip20TextD=同种镶嵌物碎片可以在第一次附着后继续叠加。
 
 tagTutorialTip22Title=技能窗口
 tagTutorialTip22TextA=每次你升级的时候都将获得技能点。将你的技能点投资到专精等级上或解锁技能。

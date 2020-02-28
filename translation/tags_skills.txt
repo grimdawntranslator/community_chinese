@@ -351,6 +351,7 @@ tagClass03SkillDescription13D=血瘟疫的变异对敌人与神秘学者本身�
 tagClass03SkillName14A=[神秘学者]末日闪电
 tagClass03SkillDescription14A=施放一束能够撕裂现实世界的熵能闪电，任何被它击中的敌人都将遭受重创。^o当闪电直接击中目标将造成双倍伤害。
 
+
 tagClass03SkillName07A=[神秘学者]妖术净化
 tagClass03SkillDescription07A=使敌人的法术失效，并且基于敌人剩余的能量值造成法力燃烧伤害。
 tagClass03SkillName08A=[神秘学者]混沌之箭
@@ -442,7 +443,6 @@ tagClass04SkillDescription10B=一项精湛的技艺，让刀阵能使敌人的�
 
 tagClass04SkillName13A=[夜刃]幻影甲
 tagClass04SkillDescription13A=在你周围凝聚由思想和精神的集中力量所形成的超自然屏障。这层屏障抵御物理伤害并将魔法攻击的能量转为自身能量。
-
 tagClass04SkillName13B=[夜刃]解剖
 tagClass04SkillDescription13B=这是受到一流刺客极度赞赏的学识，对解剖的广泛研究使你熟悉刀剑所经之处的所有人体易受创与致命部位。
 tagClass04SkillName13C=[夜刃]无情终章
@@ -616,9 +616,9 @@ tagClass06SkillName05B=[萨满]橡树皮
 tagClass06SkillDescription05B=形成远古之树的表皮，比人类文明存在更久远的永恒泰坦之神，向那些在莫格卓根祝福下的人们施加额外的保护。
 tagClass06SkillName05C=[萨满]野性之心
 tagClass06SkillDescription05C=自然的野性灵魂流淌在你的静脉中，快速的愈合创伤并清除毒素。
-
 tagClass06SkillName05D=[萨满]岩石之心
 tagClass06SkillDescription05D=拥抱你所站立的大地，你不再于战斗中恢复生命，但你的皮肤会变得像岩石般坚硬。^o这个效果会延伸到你的同伴身上。
+
 tagClass06SkillName06A=[萨满]召唤荆棘兽
 tagClass06SkillDescription06A=荆棘兽是一种顽强的野兽，来自于刺木以及野性魔法。精练的萨满可以召唤这些生物来帮助战斗。^o同一时间只能召唤一只荆棘兽。荆棘兽会受到战宠加成的影响。
 tagClass06SkillName06B=[萨满]岩石皮肤
@@ -1494,7 +1494,7 @@ tagItemSkillD052Name=巨像之力
 tagItemSkillD052Desc=对于盾牌的精通掌握使你在战斗中化身为致命且无法阻挡的武器。^o这是一项盾牌被动技能。
 
 tagItemSkillD053Name=召唤黑暗之灾
-tagItemSkillD053Desc=你的肆意屠杀向虚空发出了呼唤。
+tagItemSkillD053Desc=你的肆意屠杀向虚空发出了呼唤。每当你亲手杀死一个敌人，就会召唤出一个饥肠辘辘的贪食者。^o黑暗之灾受战宠加成影响。
 tagItemSkillD053_Pet01=熵能终结
 
 tagItemSkillD054Name=守护者之眼
@@ -1515,7 +1515,7 @@ tagItemSkillD057Desc=向虚空呼唤并召唤虚空恶魔来为你战斗，直�
 tagItemSkillD057_Pet01=混乱烈焰
 
 tagItemSkillD058Name=幽灵复生
-tagItemSkillD058Desc=利用刚刚制造的杀戮能量来唤出一个痛苦的灵魂来协助你。^o灵魂会受到战宠加成影响。
+tagItemSkillD058Desc=利用刚刚你亲手制造的杀戮能量来唤出一个痛苦的灵魂来协助你。^o灵魂会受到战宠加成影响。
 tagItemSkillD058_Pet01=幽灵触摸
 
 tagItemSkillD059Name=阿格里维克斯的噬命
@@ -1597,7 +1597,7 @@ tagItemSkillD084Name=清除
 tagItemSkillD084Desc=用精准一击结束敌人的性命。
 
 tagItemSkillD085Name=流逝现实
-tagItemSkillD085Desc=当敌人对你造成致命伤害时，这种保护性的自然屏障会使你淡出物理形态领域并得以恢复。^o需要一把法器副手。
+tagItemSkillD085Desc=当危险来袭时，这种屏障会使你淡出物质世界，给你一个短暂的庇护。
 
 tagItemSkillD086Name=天域坠落
 tagItemSkillD086Desc=苍穹被毁灭之力撕裂，一阵流星火雨向你的敌人坠压而去。
@@ -2831,7 +2831,6 @@ tagDevotionEffectC14Desc=将一名无名英雄复生来与你并肩作战。每�
 tagDevotionEffectC14_Pet01=暗影突袭
 tagDevotionEffectC14_Pet02=暗影刀锋
 
-
 #SkillsReallocator
 
 tagReallocateError01=在完全撤销该技能加点之前你必须先撤销其所有延伸技能的加点。
@@ -2854,8 +2853,8 @@ tagReallocateTitle=技能重置
 tagReallocationDescription=点击技能图标会移除一个技能点，每移除一个加点费用都会随之增加。
 tagReclaimTotalAether=虚化水晶总数:
 
-tagTemplateName=RenameMe
-tagTemplateDescription=DescribeMe
+tagTemplateName=Rename Me
+tagTemplateDescription=Describe Me
 
 
 
@@ -2974,3 +2973,6 @@ tagEnemySkillD15_Desc=一只幽魂正在吸取你的魂魄，它吸收着你的�
 
 tagEnemySkillD16=
 tagEnemySkillD16_Desc=
+
+
+
