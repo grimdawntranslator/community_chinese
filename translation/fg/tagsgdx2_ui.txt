@@ -68,7 +68,7 @@ tagEndlessDungeonCounterInfo=碎裂之境的当前碎界
 tagEndlessFloorCounterName=区块
 tagEndlessFloorCounterInfo=当前碎界内的区块
 tagEndlessTimerName=计时器
-tagEndlessTimerNameInfo=碎裂之境变得不稳定之前的剩余时间。^n^n击杀强大的敌人或者迅速消除大量的敌人可以获得奖励时间。^n^n在时间耗尽前击杀碎界的Boss可以在碎裂之境的辉煌中领取额外的奖励。
+tagEndlessTimerNameInfo=碎裂之境变得不稳定之前的剩余时间。 ^n^n击杀强大的敌人或者迅速消除大量的敌人可以获得奖励时间。 ^n^n在时间耗尽前击杀碎界的Boss可以在碎裂之境的辉煌中领取额外的奖励。
 tagEndlessDungeonBonusTime=屠杀: {%d0} 怪物被击杀！^n^n+{%.0f1} 秒到计时器！
 tagEndlessDungeonHeroBonusTime=击杀强力敌人！^n^n+{%.0f0} 秒到计时器！
 
