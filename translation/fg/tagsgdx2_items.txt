@@ -1089,7 +1089,7 @@ tagGDX2BoosterWGD_B01=德里格的委任状
 tagGDX2BoosterWGS_A01=索拉尔的敕令
 tagGDX2BoosterWGS_B01=索拉尔的委任状
 
-tagGDX2BoosterEldritch_C01=寇瓦克的委任状
+tagGDX2BoosterEldritch_C01=寇瓦克的通缉令
 
 
 #Misc
