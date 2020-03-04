@@ -57,7 +57,7 @@ tagGDX2WeaponAxeD201=灰烬之蔑视
 tagGDX2WeaponAxeD202=赤红尾迹之裔
 tagGDX2WeaponAxeD202_Desc="这柄武器的炽热的锋刃让空气泛起了涟漪。"
 tagGDX2WeaponAxeD203=风暴撕裂者
-tagGDX2WeaponAxeD203_Desc="边缘以风暴的原始力量撕裂空气。"
+tagGDX2WeaponAxeD203_Desc="斧刃用风暴的原始力量撕裂空气。"
 
 tagGDX2WeaponAxeF201=拜斯迈切斧
 tagGDX2WeaponAxeF202=德里格切斧
