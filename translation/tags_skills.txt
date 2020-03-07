@@ -1518,8 +1518,8 @@ tagItemSkillD058Name=幽灵复生
 tagItemSkillD058Desc=利用刚刚你亲手制造的杀戮能量来唤出一个痛苦的灵魂来协助你。^o灵魂会受到战宠加成影响。
 tagItemSkillD058_Pet01=幽灵触摸
 
-tagItemSkillD059Name=阿格里维克斯的噬命
-tagItemSkillD059Desc=阿格里维克斯由于使虚化之术不断突破极限而臭名昭著，最终他对虚空之力进行了干预。其中一项禁术是用熵能点燃你周围的空气。
+tagItemSkillD059Name=阿格维克斯的噬命
+tagItemSkillD059Desc=阿格维克斯由于使虚化之术不断突破极限而臭名昭著，最终他对虚空之力进行了干预。其中一项禁术是用熵能点燃你周围的空气。
 
 tagItemSkillD060Name=疫病传播
 tagItemSkillD060Desc=攻击你的敌人会染上致命的病毒并传播开来。
@@ -2081,7 +2081,7 @@ tagItemSkillD244Desc=在目标地点召唤一枚充满风暴之力的水晶来�
 tagItemSkillD245Name=地狱火
 tagItemSkillD245Desc=从敌人脚下召唤出地狱烈焰。
 
-tagItemSkillD246Name=阿格里维斯的契约
+tagItemSkillD246Name=阿格维克斯的契约
 tagItemSkillD246Desc=向敌人释放一只充满奥术能量的精灵。^o奥术精灵会随着玩家伤害增强。
 tagItemSkillD246NamePetSkill=奥术震荡
 
@@ -2385,8 +2385,8 @@ tagRelicSkillD008Desc=从你身上爆发出一道形成毁灭之径的狂野烈�
 tagRelicSkillD009Name=骨疽
 tagRelicSkillD009Desc=对你的敌人发动虚弱诅咒，使他们肉体腐坏意识缓慢。
 
-tagRelicSkillD010Name=阿格里维斯的怨恨
-tagRelicSkillD010Desc=利用阿格里维斯的愤怒，在你周围制造一阵虚化和混乱能量的漩涡。
+tagRelicSkillD010Name=阿格维克斯的怨恨
+tagRelicSkillD010Desc=利用阿格维克斯的愤怒，在你周围制造一阵虚化和混乱能量的漩涡。
 
 tagRelicSkillD011Name=湮灭
 tagRelicSkillD011Desc=对你的敌人发动混沌的纯粹毁灭之力。
