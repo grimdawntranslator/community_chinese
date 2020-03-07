@@ -8,6 +8,6 @@ set ZipFile=%CurDir%\%DirName%.zip
 
 if exist "%ZipFile%" del "%ZipFile%"
 
-cd "%CurDir%\translation"
+pushd "%CurDir%\translation" > nul
 call "%Zip%" a -tzip "%ZipFile%" *
-cd "%CurDir%"
+popd > nul
