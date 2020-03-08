@@ -77,7 +77,7 @@ tagGDX1Class07SkillName04E=[审判官]污染之焰
 tagGDX1Class07SkillDescription04E=罕见的是，一些审判官已经堕落并信奉他们曾经对抗的力量。将虚无之力注入伊格纳法之石，使其释放出一道污染之焰。
 
 tagGDX1Class07SkillName05A=[审判官]哈加拉德符文
-tagGDX1Class07SkillDescription05A=哈格拉符文最初只是收藏于光明会宝库的藏品之一，但在消灭了给帝国首都带来巨大压力的神秘活动之后，它成为了第一个被批准研究的圣物，并被光明会复制用以切断敌人的逃生路线。^o哈加拉德符文需要1.5秒部署时间并受到玩家伤害加成的影响。冰锥最初的伤害会降低25%，向外扩散之后会造成全额伤害。
+tagGDX1Class07SkillDescription05A=哈格拉符文最初只是收藏于光明会宝库的藏品之一，但在消灭了给帝国首都带来巨大压力的神秘活动之后，它成为了第一个被批准研究的圣物，并被光明会复制用以切断敌人的逃生路线。^o哈加拉德符文需要1.5秒部署时间并会受到玩家伤害加成的影响。冰锥最初的伤害会降低25%，向外扩散之后会造成全额伤害。
 tagGDX1Class07SkillName05A_PetSkill=寒冷冲击
 tagGDX1Class07SkillName05B=[审判官]凛冽
 tagGDX1Class07SkillDescription05B=哈加拉德符文散发的寒冷能量能使敌人思维迟缓更利于猎杀。
@@ -141,7 +141,7 @@ xxtagGDX1Class08SkillName01D=[死灵法师]无尽渴望
 xxtagGDX1Class08SkillDescription01D=生命精华的转移通常是一种只为极端情况而保留的做法，但有些信徒难以抵御鲜活生命力的诱惑，并屈服于自己的力量，以牺牲周围的人为代价来满足自己。
 
 tagGDX1Class08SkillName02A=[死灵法师]骷髅复生
-tagGDX1Class08SkillDescription02A=使骷髅残骸复生的艺术是死灵法师追求的首要仪式，但也是最基础的。凭借纯粹的意志，死灵法师能召唤冥界的灵魂并注入死者的骸骨。如果仪式成功，会使只忠于召唤者的骷髅仆从复生。^o骷髅受到宠物伤害加成的影响。仆从的战力随着技能等级而提升。
+tagGDX1Class08SkillDescription02A=使骷髅残骸复生的艺术是死灵法师追求的首要仪式，但也是最基础的。凭借纯粹的意志，死灵法师能召唤冥界的灵魂并注入死者的骸骨。如果仪式成功，会使只忠于召唤者的骷髅仆从复生。^o骷髅会受到战宠加成的影响。仆从的战力随着技能等级而提升。
 tagGDX1Class08SkillTracker02A=当前召唤骷髅数量
 tagGDX1Class08SkillName02A_PetSkill=古代兵器
 tagGDX1Class08SkillName02A_PetSkill02=火焰碎片
@@ -176,7 +176,7 @@ tagGDX1Class08SkillName04C=[死灵法师]腐臭喷发
 tagGDX1Class08SkillDescription04C=邪恶的死灵能量充满肉体，使被杀的敌人会猛烈的喷发，把疾病和脓水泼向附近的敌人。
 
 tagGDX1Class08SkillName05A=[死灵法师]召唤疫病恶魔
-tagGDX1Class08SkillDescription05A=面对腐烂的有毒烟雾不为所动，从大地中召唤出由尸体和腐烂的污秽组成的憎恶并压制你的敌人。^o同一时间只能召唤一只疫病恶魔。疫病恶魔受到宠物伤害加成的影响。
+tagGDX1Class08SkillDescription05A=面对腐烂的有毒烟雾不为所动，从大地中召唤出由尸体和腐烂的污秽组成的憎恶并压制你的敌人。^o同一时间只能召唤一只疫病恶魔。疫病恶魔会受到战宠加成的影响。
 tagGDX1Class08SkillName05A_PetSkill=毁灭之爪
 tagGDX1Class08SkillName05A_PetSkill02=致命死亡
 tagGDX1Class08SkillName05B=[死灵法师]腐烂气息
@@ -202,7 +202,7 @@ tagGDX1Class08SkillName08A=[死灵法师]恶兆
 tagGDX1Class08SkillDescription08A=死灵法师的存在足矣惊恐敌人，鬼魂的哀嚎将粉碎敌人的信心并使混乱和恐惧在敌人中迅速蔓延。
 
 tagGDX1Class08SkillName09A=[死灵法师]精魂收割
-tagGDX1Class08SkillDescription09A=尤若布鲁克赋予信徒的强大技术之一。通过撕裂你的敌人，不仅可以造成严重的伤害，而且可以召唤出他们灵魂的一部分来为你服务。由此产生的精魂是不稳定的且有高度的侵略性，这使得它在战斗中非常有用。^o幽灵受到宠物伤害加成的影响。
+tagGDX1Class08SkillDescription09A=尤若布鲁克赋予信徒的强大技术之一。通过撕裂你的敌人，不仅可以造成严重的伤害，而且可以召唤出他们灵魂的一部分来为你服务。由此产生的精魂是不稳定的且有高度的侵略性，这使得它在战斗中非常有用。^o幽灵会受到战宠加成的影响。
 tagGDX1Class08SkillName09A_PetSkill=幽灵之触
 tagGDX1Class08SkillName09A_PetSkill02=活力新星
 tagGDX1Class08SkillTracker09A=当前召唤的幽魂数量
@@ -408,7 +408,7 @@ tagGDX1ItemSkillD144Name=符文守卫
 tagGDX1ItemSkillD144Desc=符文被刻在护甲上，保护你免受奥术伤害。
 
 tagGDX1ItemSkillD145Name=余烬之风
-tagGDX1ItemSkillD145Desc=召唤火焰生命体焚烧你的敌人。 ^o余烬之风受到玩家伤害加成的影响。
+tagGDX1ItemSkillD145Desc=召唤火焰生命体焚烧你的敌人。 ^o余烬之风会受到玩家伤害加成的影响。
 
 tagGDX1ItemSkillD146Name=掠夺者的死亡凝视
 tagGDX1ItemSkillD146Desc=掠夺者的凝视落在附近敌人身上，削弱他们的防御能力。
@@ -513,11 +513,11 @@ tagGDX1ItemSkillD179Name=饮魔者
 tagGDX1ItemSkillD179Desc=加强你的武器与奥术之间的共鸣，吸收部分敌人的法术并将其中一部分灌注于你的法术之中。^o此技能必须开启才能持续生效。
 
 tagGDX1ItemSkillD180Name=召唤血浴奴仆
-tagGDX1ItemSkillD180Desc=在坟墓的折磨降临在血浴奴仆们的身上之前，召唤出他们向敌人施放活力吸取法术。^o血浴奴仆受到玩家伤害加成影响。
+tagGDX1ItemSkillD180Desc=在坟墓的折磨降临在血浴奴仆们的身上之前，召唤出他们向敌人施放活力吸取法术。^o血浴奴仆会受到玩家伤害加成的影响。
 tagGDX1ItemSkillD180SkillTracker=已召唤血浴奴仆数
 
 tagGDX1ItemSkillD181Name=纳扎染之魂
-tagGDX1ItemSkillD181Desc=召唤纳扎染受折磨的灵魂来猛击敌人，将敌人遭受的痛苦转化为生命力传导给你。^o同一时间只能召唤一个纳扎染的灵魂。领主纳扎染的伤害受到玩家的伤害加成。
+tagGDX1ItemSkillD181Desc=召唤纳扎染受折磨的灵魂来猛击敌人，将敌人遭受的痛苦转化为生命力传导给你。^o同一时间只能召唤一个纳扎染的灵魂。领主纳扎染会受到玩家伤害加成的影响。
 
 tagGDX1ItemSkillD182Name=寒舌标记
 tagGDX1ItemSkillD182Desc=寒舌的标记以在政治精英中间散播冲突和混乱而闻名。将它对敌人施放时，敌人会充满不安，感到受困。
@@ -586,7 +586,7 @@ tagGDX1RelicSkillB104Name=盾牌猛击
 tagGDX1RelicSkillB104Desc=用盾牌猛击你的敌人，使他们进入懵逼状态。^o需要一个近战武器和盾牌。
 
 tagGDX1RelicSkillB105Name=召唤灵魂蟹
-tagGDX1RelicSkillB105Desc=束缚一个沼泽生物的灵魂为你服务。灵魂的冰冷攻击使敌人不寒而栗。^o同一时间只能召唤一只灵魂蟹。灵魂蟹受到宠物伤害加成的影响。
+tagGDX1RelicSkillB105Desc=束缚一个沼泽生物的灵魂为你服务。灵魂的冰冷攻击使敌人不寒而栗。^o同一时间只能召唤一只灵魂蟹。灵魂蟹会受到战宠加成的影响。
 tagGDX1RelicSkillB105Name_PetSkill=蟹爪
 
 tagGDX1RelicSkillC101Name=死亡命运
@@ -602,7 +602,7 @@ tagGDX1RelicSkillD102Name=寒冷复仇
 tagGDX1RelicSkillD102Desc=对胆敢攻击你的敌人释放一股寒冷力量的冲击。
 
 tagGDX1RelicSkillD103Name=召唤骸骨仆从
-tagGDX1RelicSkillD103Desc=结合了上百个受折磨灵魂的骸骨将为你效劳，这只可怕的生物劈砍着敌人并用骸骨牢笼困住他们。^o同一时间只能召唤一只骸骨仆从。骸骨仆从受到宠物伤害加成的影响。
+tagGDX1RelicSkillD103Desc=结合了上百个受折磨灵魂的骸骨将为你效劳，这只可怕的生物劈砍着敌人并用骸骨牢笼困住他们。^o同一时间只能召唤一只骸骨仆从。骸骨仆从会受到战宠加成的影响。
 tagGDX1RelicSkillD103Name_PetSkill=骸骨之爪
 
 tagGDX1RelicSkillD104Name=元素诅咒
@@ -637,7 +637,7 @@ tagGDX1RelicSkillD113Desc=野兽之神的祝福围绕着你和你的仆从，保
 
 
 tagGDX1RelicSkillD114Name=召唤死亡追猎者
-tagGDX1RelicSkillD114Desc=召唤出死亡追猎者，它便是象征着莫格卓根怒火的可怕化身。它能够粉碎附近敌人对物理，毒素和流血效果的抗性。^o同一时间只能召唤一头死亡追猎者。死亡追猎者受到玩家的伤害加成影响。
+tagGDX1RelicSkillD114Desc=召唤出死亡追猎者，它便是象征着莫格卓根怒火的可怕化身。它能够粉碎附近敌人对物理，毒素和流血效果的抗性。^o同一时间只能召唤一头死亡追猎者。死亡追猎者会受到玩家伤害加成的影响。
 tagGDX1RelicSkillD114_Skill=黑暗光环
 tagGDX1RelicSkillD114_Desc=一头来自黑暗的生物追捕着你的敌人，粉碎他们的物理，毒素和流血抗性。
 
@@ -739,7 +739,7 @@ tagGDX1DevotionEffectC102Desc=春天的抚慰之风将你包裹在一个保护�
 tagGDX1DevotionEffectC103=维尔之拳
 tagGDX1DevotionEffectC103Desc=维尔的碎裂之拳拔地而起，以大地之力征服敌人。
 tagGDX1DevotionEffectC104=奥术电流
-tagGDX1DevotionEffectC104Desc=在地上刻下怪异的符号，迅速对附近敌人释放奥术能量电流。^o奥术电流受到玩家伤害加成的影响。
+tagGDX1DevotionEffectC104Desc=在地上刻下怪异的符号，迅速对附近敌人释放奥术能量电流。^o奥术电流会受到玩家伤害加成的影响。
 tagGDX1DevotionEffectC104PetSkill=汹涌
 tagGDX1DevotionEffectC105=莱托什的意志
 tagGDX1DevotionEffectC105Desc=用莱托什的符号标记敌人的灵魂。他们的生命和命运已被封印，任由莱托什的仆从堤丰摆布。
