@@ -2142,7 +2142,7 @@ tagBlueprint_MaterialA01=^f设计图：虚化集簇
 
 #Relics 圣物
 
-tagDeviceBonus=完整部件奖励
+tagDeviceBonus=完成奖励
 tagDeviceTier01=注魔圣物
 tagDeviceTier02=卓越圣物
 tagDeviceTier03=神话圣物
