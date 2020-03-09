@@ -71,7 +71,7 @@ tagGDX2Class09SkillDescription07B=正义之火在守誓者的灵魂中燃烧，�
 
 tagGDX2Class09SkillName08A=[守誓者]召唤至高神守护者
 tagGDX1Class09SkillTracker08A=已召唤守护者数量
-tagGDX2Class09SkillDescription08A=召唤至高之神的忠诚仆从，执行天神审判，劈斩敌人。^o天界守护者受到玩家伤害加成的影响。
+tagGDX2Class09SkillDescription08A=召唤至高之神的忠诚仆从，执行天神审判，劈斩敌人。^o天界守护者会受到玩家伤害加成的影响。
 tagGDX2Class09SkillName08B=[守誓者]天神化身
 tagGDX2Class09SkillDescription08B=守护者的出现会灼烧异教徒们的灵魂。
 tagGDX2Class09SkillName08C=[守誓者]德里格之嗣
@@ -206,7 +206,7 @@ tagGDX2ItemSkillD228Name=枯萎感染
 tagGDX2ItemSkillD228Desc=一种可以在你的敌人之间传播使他们虚弱、意志消沉的传染病。
 
 tagGDX2ItemSkillD229Name=召唤恐惧织网者
-tagGDX2ItemSkillD229Desc=在扭曲环境中凭借可怕的能量从邪术领域中召唤织网者。这个召唤物的存在是不稳定，因此它们只会存在很短的时间就返回它们的巢穴。^o织网者受到宠物伤害加成影响。
+tagGDX2ItemSkillD229Desc=在扭曲环境中凭借可怕的能量从邪术领域中召唤织网者。这个召唤物的存在是不稳定，因此它们只会存在很短的时间就返回它们的巢穴。^o织网者会受到战宠加成的影响。
 tagGDX2ItemSkillD229_Pet01=蜘蛛獠牙
 
 tagGDX2ItemSkillD230Name=邪术碎片
@@ -223,7 +223,7 @@ tagGDX2ItemSkillD232Name=枯萎领主的馈赠
 tagGDX2ItemSkillD232Desc=枯萎领主的馈赠会标记你的敌人，给予你的敌人虚弱诅咒从而更容易传播与感染。
 
 tagGDX2ItemSkillD233Name=召唤邪能利爪
-tagGDX2ItemSkillD233Desc=召唤一个恶魔与你并肩作战。邪能利爪将会撕裂附近敌人的存在。^o同一时间只能召唤一只邪能利爪。邪能利爪会受到战宠加成影响。
+tagGDX2ItemSkillD233Desc=召唤一个恶魔与你并肩作战。邪能利爪将会撕裂附近敌人的存在。^o同一时间只能召唤一只邪能利爪。邪能利爪会受到战宠加成的影响。
 tagGDX2ItemSkillD233_Pet01=邪能之爪
 tagGDX2ItemSkillD233_Pet02=邪能动荡
 tagGDX2ItemSkillD233_Pet02Desc=邪能利爪将会撕裂附近的敌人，削弱他们的抗性和攻击。
@@ -287,7 +287,7 @@ tagGDX2ItemSkillD255Name=孔萨尔的凝视
 tagGDX2ItemSkillD255Desc=孔萨尔的凝视落在你的仆从身上，使他们充满愤恨。
 
 tagGDX2ItemSkillD256Name=尤戈尔的祈祷
-tagGDX2ItemSkillD256Desc=祈求诅咒星辰的仪式，召唤出巨大的天界饥渴的表象。^o表象受玩家加成影响。
+tagGDX2ItemSkillD256Desc=祈求诅咒星辰的仪式，召唤出巨大的天界饥渴的表象。^o表象会受到玩家伤害加成的影响。
 tagGDX2ItemSkillD256PetSkill_Name=挥打
 tagGDX2ItemSkillD256PetSkill2_Name=黑暗降临
 
@@ -307,7 +307,7 @@ tagGDX2ItemSkillD261Name=海瑞恩之爪
 tagGDX2ItemSkillD261Desc=用你盾牌里已注入的海瑞恩之力猛击你的敌人。
 
 tagGDX2ItemSkillD262Name=世界之门
-tagGDX2ItemSkillD262Desc=在现实中撕开一道裂隙，将站在其中的敌人分割开来。^o世界之门受战宠加成影响。
+tagGDX2ItemSkillD262Desc=在现实中撕开一道裂隙，将站在其中的敌人分割开来。^o世界之门会受到战宠加成的影响。
 tagGDX2ItemSkillD262PetSkill_Name=分割
 
 
@@ -330,7 +330,7 @@ tagGDX2RelicSkillD202Name=维尔爆发
 tagGDX2RelicSkillD202Desc=猛击地面，并且使你面前的地面呈现扇形的破碎区域。
 
 tagGDX2RelicSkillD203Name=沙暴
-tagGDX2RelicSkillD203Desc=像你的敌人释放沙暴。^o沙暴受到人物伤害的加成。
+tagGDX2RelicSkillD203Desc=像你的敌人释放沙暴。^o沙暴会受到玩家伤害加成的影响。
 
 tagGDX2RelicSkillD204Name=饥渴之触
 tagGDX2RelicSkillD204Desc=把你的愤怒集中在代表你饥渴的旋风中，只要你持续施法就会消耗你周围人的鲜血。 ^o需要一把近战武器。攻速为100%时，饥渴之触每0.16秒造成伤害并消耗能量。
