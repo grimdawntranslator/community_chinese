@@ -429,10 +429,10 @@ tagGDX1ItemSkillD151Name=剧毒术士光环
 tagGDX1ItemSkillD151Desc=用恐怖毒液强化你和附近盟友的武器。 ^o这项技能必须保持开启以持续生效。
 
 tagGDX1ItemSkillD152Name=死灵领主光环
-tagGDX1ItemSkillD152Desc=用不死力量强化你和附近盟友的武器。 ^o这项技能必须保持开启以持续生效。
+tagGDX1ItemSkillD152Desc=用不死力量充满你和附近盟友的武器。 ^o这项技能必须保持开启以持续生效。
 
 tagGDX1ItemSkillD153Name=伊格纳法降临
-tagGDX1ItemSkillD153Desc=用伊格纳法火焰强化你和附近盟友的武器。 ^o这项技能必须保持开启以持续生效。
+tagGDX1ItemSkillD153Desc=用伊格纳法的火焰充满你的护甲，灼烧附近的敌人。 ^o这项技能必须保持开启以持续生效。
 
 tagGDX1ItemSkillD154Name=吉尔多守卫
 tagGDX1ItemSkillD154Desc=预判举起你的盾牌，反击任何近战攻击。
