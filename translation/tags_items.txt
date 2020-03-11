@@ -1041,7 +1041,7 @@ tagHeadF011=神选风帽
 tagHeadF012=神选头盔
 
 
-#ArmorShoulders肩甲
+#ArmorShoulders 护肩
 
 tagShoulderA001=肩甲
 tagShoulderA002=披肩
@@ -2260,7 +2260,7 @@ tagRelicD022Desc="能够同时持握两把近战武器的象征。"
 tagRelicD023=掠夺者护符
 tagRelicD023Desc="能够同时手持两把手枪进行精准射击的象征。"
 
-#Crafting 锻造
+#Crafting 制作
 tagCraftTabArtifactA=圣物
 tagCraftTabArtifactB=护身符，圣物与强大的手工艺品。
 tagCraftTabMeleeA=近战武器
@@ -2587,7 +2587,7 @@ tagDLCIllusionA43=幻化：巨狼护胸
 tagDLCA43=巨狼护胸
 
 
-#ItemNote阅读记录
+#ItemNote 阅读记录
 
 tagNoteHelp=[右键点击来阅读]
 tagNoteKnown=[已读过]
@@ -2611,7 +2611,7 @@ tagEnchantTestDesc="A test description."^w^n(Used in rings)
 tagEnchantA001A=蝎尾狮毒液
 tagEnchantA001B=蝎尾狮毒液 II
 tagEnchantA001C=蝎尾狮毒液 III
-tagEnchantA001Desc="从蝎尾狮身上提取的剧毒，接触即会灼烧皮肤。" ^w^n(用于所有单手武器，盾牌和法器副手)
+tagEnchantA001Desc="从蝎尾狮身上提取的剧毒，接触即会灼烧皮肤。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantA002A=烈性蝎尾狮毒液
 tagEnchantA002B=烈性蝎尾狮毒液 II
@@ -2621,7 +2621,7 @@ tagEnchantA002Desc="从蝎尾狮身上提取的剧毒，接触即会灼烧皮肤
 tagEnchantA003A=虚空野兽粉末
 tagEnchantA003B=虚空野兽粉末 II
 tagEnchantA003C=虚空野兽粉末 III
-tagEnchantA003Desc="从冥煞野兽的干燥残骸上提取的粉末。" ^w^n(用于所有单手武器，盾牌和法器副手)
+tagEnchantA003Desc="从冥煞野兽的干燥残骸上提取的粉末。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantA004A=强效虚空野兽粉末
 tagEnchantA004B=强效虚空野兽粉末 II
@@ -3210,257 +3210,257 @@ tagComponentCombine=[右键点击以组合]
 tagComponentConfirmation=你确定要组合成完整镶嵌物吗？
 
 tagCompA001Name=尖刺外壳
-tagCompA001Desc="一种长着锯齿状尖刺的厚重甲壳。" ^w^n(用于所有护甲)
+tagCompA001Desc="一种长着锯齿状尖刺的厚重甲壳。"^w^n(用于所有护甲)
 
 tagCompA002Name=冲击铠甲片
-tagCompA002Desc="一种用来抵御箭头和子弹的古老盔甲的碎片。" ^w^n(用于胸甲)
+tagCompA002Desc="一种用来抵御箭头和子弹的古老盔甲的碎片。"^w^n(用于胸甲)
 
 tagCompA003Name=圣骨
-tagCompA003Desc="一名牺牲在圣战中的骑士身上经过净化的骨头。" ^w^n(用于胸甲和头盔)
+tagCompA003Desc="一名牺牲在圣战中的骑士身上经过净化的骨头。"^w^n(用于胸甲和头盔)
 
 tagCompA004Name=坚韧兽皮
-tagCompA004Desc="一块厚厚的兽皮，粗糙的表面非常适合用来吸收突如其来的冲击。" ^w^n(用于头盔)
+tagCompA004Desc="一块厚厚的兽皮，粗糙的表面非常适合用来吸收突如其来的冲击。"^w^n(用于头盔)
 
 tagCompA005Name=符文之石
-tagCompA005Desc="一种神秘的符文灌注在这块石头之中。" ^w^n(用于头盔)
+tagCompA005Desc="一种神秘的符文灌注在这块石头之中。"^w^n(用于头盔)
 
 tagCompA006Name=突变脓水
-tagCompA006Desc="从感染了异世界能量的生物身上取得。" ^w^n(用于所有武器，盾牌和法器副手)
+tagCompA006Desc="从感染了异世界能量的生物身上取得。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompA007Name=腐坏之心
-tagCompA007Desc="受死灵法术影响而不再搏动的枯萎心脏。" ^w^n(用于胸甲)
+tagCompA007Desc="受死灵法术影响而不再搏动的枯萎心脏。"^w^n(用于胸甲)
 
 tagCompA008Name=突变鳞片
-tagCompA008Desc="因暴露在虚灵能量下产生了突变，这种鳞片变得异常厚重和坚硬。" ^w^n(用于胸甲，护肩，腿甲以及手套)
+tagCompA008Desc="因暴露在虚灵能量下产生了突变，这种鳞片变得异常厚重和坚硬。"^w^n(用于胸甲，护肩，腿甲以及手套)
 
 tagCompA009Name=尸尘
-tagCompA009Desc="从死尸身上提炼来的尘埃，经常用于施放魔法和妖术。" ^w^n(用于戒指，项链以及勋章)
+tagCompA009Desc="从死尸身上提炼来的尘埃，经常用于施放魔法和妖术。"^w^n(用于戒指，项链以及勋章)
 
 tagCompA010Name=灵魂碎片
-tagCompA010Desc="传闻说这是猎魔人用来困住邪魔的一种魔法宝石。" ^w^n(用于戒指，项链和勋章)
+tagCompA010Desc="传闻说这是猎魔人用来困住邪魔的一种魔法宝石。"^w^n(用于戒指，项链和勋章)
 
 tagCompA011Name=灵质
-tagCompA011Desc="有时会从无形生物身上留下的胶状残留物。" ^w^n(用于头盔、戒指，项链和勋章)
+tagCompA011Desc="有时会从无形生物身上留下的胶状残留物。"^w^n(用于头盔、戒指，项链和勋章)
 
 tagCompA012Name=赐福钢铁
-tagCompA012Desc="受到曼海尔麾下的牧师赐福的钢铁，用来驱逐不断侵袭的黑暗。" ^w^n(用于所有武器，盾牌和法器副手)
+tagCompA012Desc="受到曼海尔麾下的牧师赐福的钢铁，用来驱逐不断侵袭的黑暗。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompA013Name=毒牙
-tagCompA013Desc="一枚滴着毒液的尖牙。" ^w^n(用于近战武器)
+tagCompA013Desc="一枚滴着毒液的尖牙。"^w^n(用于近战武器)
 
 tagCompA014Name=纯净之盐
-tagCompA014Desc="被提炼用来驱除和威慑异世恶魔的石盐。" ^w^n(用于所有武器，盾牌和法器副手)
+tagCompA014Desc="被提炼用来驱除和威慑异世恶魔的石盐。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompA015Name=中空之牙
-tagCompA015Desc="一枚弯曲的牙齿，用来汲取生命力。" ^w^n(用于所有武器，盾牌和法器副手)
+tagCompA015Desc="一枚弯曲的牙齿，用来汲取生命力。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompA016Name=断裂之爪
-tagCompA016Desc="从一种猛兽的肢体上扯下来的利爪。" ^w^n(用于所有武器，盾牌和法器副手)
+tagCompA016Desc="从一种猛兽的肢体上扯下来的利爪。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompA017Name=灌魔银粉
-tagCompA017Desc="灌注了强大魔力的银粉。" ^w^n(用于所有武器，盾牌和法器副手)
+tagCompA017Desc="灌注了强大魔力的银粉。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompA018Name=恶毒尖刺
-tagCompA018Desc="从一只非自然生物身上得来的尖刺。" ^w^n(用于所有武器，盾牌和法器副手)
+tagCompA018Desc="从一只非自然生物身上得来的尖刺。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompA019Name=辐光宝石
-tagCompA019Desc="一块发光的宝石，随着不同的元素而闪烁着。" ^w^n(用于盾牌和法器副手)
+tagCompA019Desc="一块发光的宝石，随着不同的元素而闪烁着。"^w^n(用于盾牌和法器副手)
 
 tagCompA020Name=诛魔弹药
-tagCompA020Desc="神力加持的子弹，带给渎神者以极大的痛苦。" ^w^n(用于枪械，双手弩和法器副手)
+tagCompA020Desc="神力加持的子弹，带给渎神者以极大的痛苦。"^w^n(用于枪械，双手弩和法器副手)
 
 tagCompA021Name=死寒箭矢
-tagCompA021Desc="给敌人带去死亡般的寒冷。" ^w^n(用于枪械，双手弩和法器副手)
+tagCompA021Desc="给敌人带去死亡般的寒冷。"^w^n(用于枪械，双手弩和法器副手)
 
 tagCompA022Name=虚化之魂
-tagCompA022Desc="一块含有能量并震颤着的石头。在现实位面被杀死的虚灵经常会留下这种石头。" ^w^n(用于项链和勋章)
+tagCompA022Desc="一块含有能量并震颤着的石头。在现实位面被杀死的虚灵经常会留下这种石头。"^w^n(用于项链和勋章)
 
 tagCompA023Name=坚硬外壳
-tagCompA023Desc="一块坚硬的外壳，似乎对冲击免疫。" ^w^n(用于所有护甲)
+tagCompA023Desc="一块坚硬的外壳，似乎对冲击免疫。"^w^n(用于所有护甲)
 
 tagCompA024Name=熔岩皮肤
-tagCompA024Desc="一块厚厚的皮层，来源于一种浑身冒火的生物。" ^w^n(用于所有护甲)
+tagCompA024Desc="一块厚厚的皮层，来源于一种浑身冒火的生物。"^w^n(用于所有护甲)
 
 tagCompA025Name=魔法火石
-tagCompA025Desc="通过和武器的摩擦，这种被施加了魔法的火石能够将火之精魂附在武器上。" ^w^n(用于近战武器，盾牌和法器副手)
+tagCompA025Desc="通过和武器的摩擦，这种被施加了魔法的火石能够将火之精魂附在武器上。"^w^n(用于近战武器，盾牌和法器副手)
 
 tagCompA026Name=寒石
-tagCompA026Desc="民间传说中，这种既神秘又散发着寒冷的石头是游魂的心脏。" ^w^n(用于近战武器，盾牌和法器副手)
+tagCompA026Desc="民间传说中，这种既神秘又散发着寒冷的石头是游魂的心脏。"^w^n(用于近战武器，盾牌和法器副手)
 
 tagCompA027Name=琥珀
-tagCompA027Desc="据说有时候，当树木遭到雷击时，风暴之灵会被困在树木结晶的汁液之中。" ^w^n(用于近战武器，盾牌和法器副手)
+tagCompA027Desc="据说有时候，当树木遭到雷击时，风暴之灵会被困在树木结晶的汁液之中。"^w^n(用于近战武器，盾牌和法器副手)
 
 tagCompA028Name=强酸结石
-tagCompA028Desc="邪恶野兽的胆囊中生成的酸性结石。" ^w^n(用于近战武器，盾牌和法器副手)
+tagCompA028Desc="邪恶野兽的胆囊中生成的酸性结石。"^w^n(用于近战武器，盾牌和法器副手)
 
 tagCompA029Name=赐福磨石
-tagCompA029Desc="能够打磨哪怕是最为锋利的刀刃，提高穿透敌人护甲的穿刺伤害。" ^w^n(用于斧，剑，火枪和十字弩)
+tagCompA029Desc="能够打磨哪怕是最为锋利的刀刃，提高穿透敌人护甲的穿刺伤害。"^w^n(用于斧，剑，火枪和十字弩)
 
 tagCompA030Name=丝绸
-tagCompA030Desc="西方的游牧民族很早就知道多层的丝绸能够抵御破甲的投射物。" ^w^n(用于护肩，胸甲和护腿)
+tagCompA030Desc="西方的游牧民族很早就知道多层的丝绸能够抵御破甲的投射物。"^w^n(用于护肩，胸甲和护腿)
 
 tagCompA031Name=鳞状兽皮
-tagCompA031Desc="这种致密却轻便的鳞片能被附加在盔甲上以提供额外的防护。" ^w^n(用于护肩，胸甲和护腿)
+tagCompA031Desc="这种致密却轻便的鳞片能被附加在盔甲上以提供额外的防护。"^w^n(用于护肩，胸甲和护腿)
 
 tagCompA032Name=燧石弹药
-tagCompA032Desc="被施了魔法的燧石，表面迸发着火焰。" ^w^n(用于枪械，双手弩和法器副手)
+tagCompA032Desc="被施了魔法的燧石，表面迸发着火焰。"^w^n(用于枪械，双手弩和法器副手)
 
 tagCompA033Name=浸毒弹药
-tagCompA033Desc="子弹的尖端涂抹着来自一种动物毒囊的毒液。" ^w^n(用于枪械，双手弩和法器副手)
+tagCompA033Desc="子弹的尖端涂抹着来自一种动物毒囊的毒液。"^w^n(用于枪械，双手弩和法器副手)
 
 tagCompA034Name=旅者标记
-tagCompA034Desc="旅行者在穿越荒野的时候使用这种标记，这样就不会被野兽之神莫格卓根错认成猎人。" ^w^n(用于足具)
+tagCompA034Desc="旅行者在穿越荒野的时候使用这种标记，这样就不会被野兽之神莫格卓根错认成猎人。"^w^n(用于足具)
 
 tagCompA035Name=神圣裹布
-tagCompA035Desc="冥煞邪教徒所使用的血迹斑斑的裹布。" ^w^n(用于手套)
+tagCompA035Desc="冥煞邪教徒所使用的血迹斑斑的裹布。"^w^n(用于手套)
 
 tagCompA036Name=躁动遗骸
-tagCompA036Desc="生前倍受折磨，死后不愿安息。" ^w^n(用于手套)
+tagCompA036Desc="生前倍受折磨，死后不愿安息。"^w^n(用于手套)
 
 tagCompA037Name=茂密毛皮
-tagCompA037Desc="一块厚实的毛皮，用来应对冬季的严寒再合适不过了。" ^w^n(用于所有护甲)
+tagCompA037Desc="一块厚实的毛皮，用来应对冬季的严寒再合适不过了。"^w^n(用于所有护甲)
 
 tagCompA038Name=锯齿尖刺
-tagCompA038Desc="一种野兽身上的尖刺，脆弱却异常的锋利。"  ^w^n(用于所有武器，盾牌和法器副手)
+tagCompA038Desc="一种野兽身上的尖刺，脆弱却异常的锋利。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompA039Name=灼热余烬
-tagCompA039Desc="不灭的余烬，来自被烧毁殆尽的家园。" ^w^n(用于所有武器，盾牌和法器副手)
+tagCompA039Desc="不灭的余烬，来自被烧毁殆尽的家园。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompA040Name=淬火钢铁
-tagCompA040Desc="这块钢铁被灌注了寒冬之风。" ^w^n(用于所有武器，盾牌和法器副手)
+tagCompA040Desc="这块钢铁被灌注了寒冬之风。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompA041Name=破裂磁石
-tagCompA041Desc="表面闪烁着能量的火花。" ^w^n(用于所有武器，盾牌和法器副手)
+tagCompA041Desc="表面闪烁着能量的火花。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompA042Name=破碎之爪
-tagCompA042Desc="一种残忍的掠食者身上的爪子。当然这次，它终于遇上了旗鼓相当的对手。" ^w^n(用于所有武器，盾牌和法器副手)
+tagCompA042Desc="一种残忍的掠食者身上的爪子。当然这次，它终于遇上了旗鼓相当的对手。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompA043Name=回收铠甲片
-tagCompA043Desc="从废旧的铠甲上取下来的盔甲片。" ^w^n(用于所有护甲)
+tagCompA043Desc="从废旧的铠甲上取下来的盔甲片。"^w^n(用于所有护甲)
 
 tagCompA044Name=粗硬毛皮
-tagCompA044Desc="一片来自一种非自然魔兽的厚厚的毛皮" ^w^n(用于所有护甲)
+tagCompA044Desc="一片来自一种非自然魔兽的厚厚的毛皮"^w^n(用于所有护甲)
 
 tagCompA045Name=弹性铠甲片
-tagCompA045Desc="从一件经历了无数战斗的盔甲上取下的凯甲片，看起来让它退役还早得很。" ^w^n(用于盾牌，副手，胸甲和护肩)
+tagCompA045Desc="从一件经历了无数战斗的盔甲上取下的凯甲片，看起来让它退役还早得很。"^w^n(用于盾牌，副手，胸甲和护肩)
 
 tagCompA046Name=抛光翡翠
-tagCompA046Desc="纯净的宝石，抛光后已臻完美。" ^w^n(用于盾牌，法器副手，戒指，头盔和胸甲)
+tagCompA046Desc="纯净的宝石，抛光后已臻完美。"^w^n(用于盾牌，法器副手，戒指，头盔和胸甲)
 
 tagCompA047Name=冰封之心
-tagCompA047Desc="永远地被包裹在黑冰之中。" ^w^n(用于戒指)
+tagCompA047Desc="永远地被包裹在黑冰之中。"^w^n(用于戒指)
 
 tagCompA048Name=翻腾鲜血
-tagCompA048Desc="沸腾着曾经激发过它的怒火。" ^w^n(用于戒指，项链和勋章)
+tagCompA048Desc="沸腾着曾经激发过它的怒火。"^w^n(用于戒指，项链和勋章)
 
 tagCompA049Name=守护之石
-tagCompA049Desc="一块蚀刻有古老守护符印的石头。" ^w^n(用于项链和勋章)
+tagCompA049Desc="一块蚀刻有古老守护符印的石头。"^w^n(用于项链和勋章)
 
 tagCompA050Name=聚焦棱镜
-tagCompA050Desc="奥术师在特殊的关键仪式中使用它来引导能量。" ^w^n(用于项链)
+tagCompA050Desc="奥术师在特殊的关键仪式中使用它来引导能量。"^w^n(用于项链)
 
 tagCompA051Name=黑色油脂
-tagCompA051Desc="冥煞仪式中蜡烛燃烧的油脂。" ^w^n(用于项链和勋章)
+tagCompA051Desc="冥煞仪式中蜡烛燃烧的油脂。"^w^n(用于项链和勋章)
 
 tagCompA052Name=复仇之魂
-tagCompA052Desc="复仇的灵魂。" ^w^n(用于戒指，项链和勋章)
+tagCompA052Desc="复仇的灵魂。"^w^n(用于戒指，项链和勋章)
 
 tagCompA053Name=幻象印记
-tagCompA053Desc="一种象征着力量的符号，许多铭文中都会用到它。" ^w^n(用于戒指和项链)
+tagCompA053Desc="一种象征着力量的符号，许多铭文中都会用到它。"^w^n(用于戒指和项链)
 
 tagCompA054Name=恶毒下颚
-tagCompA054Desc="这种野兽的下颌长着整齐的颚骨，如同尖刺一般。" ^w^n(用于项链和勋章)
+tagCompA054Desc="这种野兽的下颌长着整齐的颚骨，如同尖刺一般。"^w^n(用于项链和勋章)
 
 tagCompA055Name=愤怒之石
-tagCompA055Desc="震动不止，活物不近。" ^w^n(用于近战武器，盾牌和法器副手)
+tagCompA055Desc="震动不止，活物不近。"^w^n(用于近战武器，盾牌和法器副手)
 
 tagCompA056Name=裂缝之石
-tagCompA056Desc="充满了虚空中的原始能量。" ^w^n(用于近战武器，盾牌和法器副手)
+tagCompA056Desc="充满了虚空中的原始能量。"^w^n(用于近战武器，盾牌和法器副手)
 
 tagCompA057Name=虚化钢铁弹药
-tagCompA057Desc="用虚化生物的精华增强过的子弹。" ^w^n(用于枪械，双手弩和法器副手)
+tagCompA057Desc="用虚化生物的精华增强过的子弹。"^w^n(用于枪械，双手弩和法器副手)
 
 tagCompA058Name=虚空之触弹药
-tagCompA058Desc="浸染了冥煞的鲜血。" ^w^n(用于枪械，双手弩和法器副手)
+tagCompA058Desc="浸染了冥煞的鲜血。"^w^n(用于枪械，双手弩和法器副手)
 
 tagCompA059Name=强固外壳
-tagCompA059Desc="几乎不可能被穿透的外壳，能够吸收无数次的打击。" ^w^n(用于盾牌)
+tagCompA059Desc="几乎不可能被穿透的外壳，能够吸收无数次的打击。"^w^n(用于盾牌)
 
 tagCompA060Name=磨损外壳
-tagCompA060Desc="承受了难以想象之多次数的打击，这枚外壳依然坚硬如初。" ^w^n(用于盾牌)
+tagCompA060Desc="承受了难以想象之多次数的打击，这枚外壳依然坚硬如初。"^w^n(用于盾牌)
 
 tagCompA061Name=抗毒血清
-tagCompA061Desc="来自一种中和过的特殊有毒生物的胆汁。" ^w^n(用于所有护甲)
+tagCompA061Desc="来自一种中和过的特殊有毒生物的胆汁。"^w^n(用于所有护甲)
 
 tagCompA062Name=锯齿外壳
 tagCompA062Desc="坚硬的甲壳，上面长有成串剃刀般锋利的尖刺。"^w^n(用于盾牌)
 
 
 tagCompB001Name=^k拜斯迈之缚
-tagCompB001Desc="拜斯迈的巫术组织运用魔法编织出的缚魂之物，用来加强对召唤生物的控制。" ^w^n(用于胸甲)
+tagCompB001Desc="拜斯迈的巫术组织运用魔法编织出的缚魂之物，用来加强对召唤生物的控制。"^w^n(用于胸甲)
 
 tagCompB002Name=^k奥莱隆之链
-tagCompB002Desc="挣断的锁链，它曾束缚着神祇奥莱隆的愤怒。" ^w^n(用于胸甲)
+tagCompB002Desc="挣断的锁链，它曾束缚着神祇奥莱隆的愤怒。"^w^n(用于胸甲)
 
 tagCompB003Name=^k神圣之土
-tagCompB003Desc="一块象征着大地之神曼海尔的巨石底部的泥土。" ^w^n(用于胸甲)
+tagCompB003Desc="一块象征着大地之神曼海尔的巨石底部的泥土。"^w^n(用于胸甲)
 
 tagCompB004Name=^k棱光钻石
-tagCompB004Desc="钻石的核心闪耀着无尽的能量。" ^w^n(用于头盔)
+tagCompB004Desc="钻石的核心闪耀着无尽的能量。"^w^n(用于头盔)
 
 tagCompB005Name=^k魔力织物
-tagCompB005Desc="从覆盖着强大魔法的尸衣上切下来的一段织物。" ^w^n(用于手套)
+tagCompB005Desc="从覆盖着强大魔法的尸衣上切下来的一段织物。"^w^n(用于手套)
 
 tagCompB006Name=^k邪恶铭文
-tagCompB006Desc="用一种古代语言书写的词句，蕴含着强大的力量。凡人无法理解这种语言。" ^w^n(用于手套)
+tagCompB006Desc="用一种古代语言书写的词句，蕴含着强大的力量。凡人无法理解这种语言。"^w^n(用于手套)
 
 tagCompB007Name=^k远古盔甲片
-tagCompB007Desc="来自一套曾经坚固无比的铠甲。" ^w^n(用于胸甲和护腿)
+tagCompB007Desc="来自一套曾经坚固无比的铠甲。"^w^n(用于胸甲和护腿)
 
 tagCompB008Name=^k奥术透镜
-tagCompB008Desc="它能揭示出宇宙中奥术洪流的轨迹。" ^w^n(用于项链)
+tagCompB008Desc="它能揭示出宇宙中奥术洪流的轨迹。"^w^n(用于项链)
 
 tagCompB009Name=^k恶魔之触弹药
-tagCompB009Desc="灌注了天谴之焰。" ^w^n(用于枪械，双手弩和法器副手)
+tagCompB009Desc="灌注了天谴之焰。"^w^n(用于枪械，双手弩和法器副手)
 
 tagCompB010Name=^k银核弹药
-tagCompB010Desc="涤荡邪恶，毫发无损。" ^w^n(用于枪械，双手弩和法器副手)
+tagCompB010Desc="涤荡邪恶，毫发无损。"^w^n(用于枪械，双手弩和法器副手)
 
 tagCompB011Name=^k索拉尔的符号
-tagCompB011Desc="索拉尔的信徒使用的绝密符号，用来识别是否是自己人。" ^w^n(用于所有武器，盾牌和法器副手)
+tagCompB011Desc="索拉尔的信徒使用的绝密符号，用来识别是否是自己人。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompB012Name=^k德里格的印记
-tagCompB012Desc="铭文刻画了一只无睑的眼睛，滴落着血泪。" ^w^n(用于所有武器，盾牌和法器副手)
+tagCompB012Desc="铭文刻画了一只无睑的眼睛，滴落着血泪。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompB013Name=^k魂铁
-tagCompB013Desc="禁锢在其中的魂灵让你满脑子都是疯狂的私语。" ^w^n(用于所有武器，盾牌和法器副手)
+tagCompB013Desc="禁锢在其中的魂灵让你满脑子都是疯狂的私语。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompB014Name=^k贝若纳斯的碎片
-tagCompB014Desc="虽然只是传说中杀死贝若纳斯的神圣之矛的一块碎片，但仍残留着强大的力量。" ^w^n(用于所有类型的武器，盾牌和副手法器)
+tagCompB014Desc="虽然只是传说中杀死贝若纳斯的神圣之矛的一块碎片，但仍残留着强大的力量。"^w^n(用于所有类型的武器，盾牌和副手法器)
 
 tagCompB015Name=^k血腥磨石
-tagCompB015Desc="浸透在堕落之血中，这块被诅咒的磨刀石将引发利刃对鲜血无比的饥渴。" ^w^n(用于斧，剑，火枪和十字弩)
+tagCompB015Desc="浸透在堕落之血中，这块被诅咒的磨刀石将引发利刃对鲜血无比的饥渴。"^w^n(用于斧，剑，火枪和十字弩)
 
 tagCompB016Name=^k共鸣磁石
-tagCompB016Desc="蕴生于风暴雷电之中，这些稀有且威力强大的石头上仍然回响着孕育它们的雷电之力。" ^w^n(用于项链和勋章)
+tagCompB016Desc="蕴生于风暴雷电之中，这些稀有且威力强大的石头上仍然回响着孕育它们的雷电之力。"^w^n(用于项链和勋章)
 
 tagCompB017Name=^k莫格卓根的印记
-tagCompB017Desc="野兽之神莫格卓根麾下德鲁伊教徒佩戴的隐秘徽记。" ^w^n(用于足具)
+tagCompB017Desc="野兽之神莫格卓根麾下德鲁伊教徒佩戴的隐秘徽记。"^w^n(用于足具)
 
 tagCompB018Name=^k恐惧头骨
-tagCompB018Desc="一位刺客完成了一项极为危险的赏金任务之后被授予的徽记。" ^w^n(用于项链和勋章)
+tagCompB018Desc="一位刺客完成了一项极为危险的赏金任务之后被授予的徽记。"^w^n(用于项链和勋章)
 
 tagCompB019Name=^k奥术火花
-tagCompB019Desc="闪耀着最纯粹的奥术能量。" ^w^n(用于项链和勋章)
+tagCompB019Desc="闪耀着最纯粹的奥术能量。"^w^n(用于项链和勋章)
 
 tagCompB020Name=^k侍从印记
-tagCompB020Desc="蕴含着强大力量的徽记，授予战场上最勇猛无畏的将士。" ^w^n(用于盾牌)
+tagCompB020Desc="蕴含着强大力量的徽记，授予战场上最勇猛无畏的将士。"^w^n(用于盾牌)
 
 tagCompB021Name=^k奥莱隆之血
-tagCompB021Desc="战神的圣血。" ^w^n(用于所有武器)
+tagCompB021Desc="战神的圣血。"^w^n(用于所有武器)
 
 tagCompB022Name=^k基尔利安的碎裂之魂
-tagCompB022Desc="基尔利安腐化的灵魂，安克维亚地下城的恐惧之源。" ^w^n(用于胸甲)
+tagCompB022Desc="基尔利安腐化的灵魂，安克维亚地下城的恐惧之源。"^w^n(用于胸甲)
 
 
 tagCompAetherCrystal=虚化水晶
@@ -3963,7 +3963,7 @@ tagPrefixB020_Sh_A=白霜的
 tagPrefixB021_Sh_A=恶魔的
 tagPrefixB022_Sh_A=虚火的
 
-#Suffixes后缀
+#Suffixes 后缀
 
 tagSuffixA001=英勇之
 tagSuffixA002=刚毅之
@@ -4305,7 +4305,7 @@ tagChestOneShot_CultistSummoner={^M}卡若兹的宝箱
 tagChestOneShot_ChthonicAbomination={^I}冥煞宝箱
 tagChestOneShot_HiddenWealth={^I}隐藏的宝藏
 
-#InteractiveObjects
+#Interactive Objects 交互物体
 tagShrineConstitutionA01=未动过的食物
 tagShrineBossLocked= {^R} ~ 由强大的存在封印着
 tagShrineMogdrogenLocked= {^R} ~ 由冥煞能量封印着
@@ -4386,7 +4386,7 @@ tagQuestItemSlithRingDesc="这枚戒指上有一股挥之不去的恶臭。"
 tagItemTest=人形凝视者♂
 tagItemTestDesc="一个成就不凡的家伙把凝视者套在了身上。"
 
-#Equipment Locations
+#Equipment Locations 装备位置
 
 tagSlotLeftHand= (左手)
 tagSlotRightHand= (右手)
