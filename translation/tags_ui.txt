@@ -10,7 +10,7 @@ tagAutosort=自动整理
 
 tagPromptButtonYes=是
 tagPromptButtonNo=否
-tagPromptButtonOkay=好
+tagPromptButtonOkay=好的
 tagPromptButtonClose=关闭
 
 tagGraveName=玩家坟墓 ~ {%t0}
@@ -1404,8 +1404,8 @@ tagOptionsMenuExitGameConfirm=确定要退出到桌面吗？
 tagInfoTitle=信息
 tagInfoButtonYes=是
 tagInfoButtonNo=否
-tagInfoButtonOk=好
-tagGameOver=你死了！
+tagInfoButtonOk=确定
+tagGameOver={^r}你已死亡！ {^n}{^n}你的灵魂将永存英灵殿。
 
 SimpleStringFormat={%s0}
 SimpleStringsFormat={%s0}{%s1}
@@ -2293,7 +2293,7 @@ tagPushToTalk=按键说话
 
 tagUC_Button=解锁内容
 tagUC_Message=请输入你的解锁码来解锁新内容。
-tagUC_OK=好
+tagUC_OK=确定
 tagUC_Cancel=取消
 tagUC_Error=你已经为这个角色解锁过该内容。
 
