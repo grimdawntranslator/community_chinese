@@ -410,13 +410,13 @@ tagGDX2TorsoF212=索拉尔邪恶护胸甲
 
 
 #ArmorHands 护手
-tagGDX2HandsB201=瘟疫守卫之握
-tagGDX2HandsB202=灰烬守卫护手
+tagGDX2HandsB201=瘟疫守卫护手
+tagGDX2HandsB202=灰烬守卫手甲
 
-tagGDX2HandsC201=图林的紧握
+tagGDX2HandsC201=图林护手
 tagGDX2HandsC201_Desc="圣像堡破盾者图林的手甲，这名战士陨落于侍奉至高神之路上。"
-tagGDX2HandsC202=死亡仪式手甲
-tagGDX2HandsC203=遗握之手
+tagGDX2HandsC202=死亡仪式手铠
+tagGDX2HandsC203=遗矢护手
 tagGDX2HandsC203_Desc="这东西很适合...拿着些非常刺激的东西。"
 tagGDX2HandsC204=邪恶之蔑护腕
 
@@ -645,8 +645,8 @@ tagGDX2Blueprint_WeaponF209=设计图：索拉尔之语
 tagGDX2Blueprint_WeaponF210=设计图：吸血魔
 tagGDX2Blueprint_WeaponF211=设计图：恶意
 
-tagGDX2Blueprint_ArmorB201=设计图：瘟疫守卫之握
-tagGDX2Blueprint_ArmorB202=设计图：灰烬守卫护手
+tagGDX2Blueprint_ArmorB201=设计图：瘟疫守卫护手
+tagGDX2Blueprint_ArmorB202=设计图：灰烬守卫手甲
 tagGDX2Blueprint_ArmorB203=设计图：风暴守卫紧身裤
 tagGDX2Blueprint_ArmorB204=设计图：寒霜守卫腿铠
 
