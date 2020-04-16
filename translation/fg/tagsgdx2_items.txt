@@ -790,10 +790,10 @@ tagGDX2CraftMaterial_Sacrifice=天界精华
 tagGDX2CraftMaterial_Sacrifice_Desc="现实，或者说存在本身的精华。或许可用于某个用途可疑合适地点的强大仪式。"
 
 tagGDX2CraftMaterial_IronExchange_01=铁锭
-tagGDX2CraftMaterial_IronExchange_01_Desc=在一个被死亡蹂躏的世界中珍贵的资源。^w^n^n三巫神密会处的钢铁保管者盖拉斯会很乐意用50000铁币来交换它。
+tagGDX2CraftMaterial_IronExchange_01_Desc=在一个被死亡蹂躏的世界中珍贵的资源。^w^n^n三巫神秘会处的钢铁保管者盖拉斯会很乐意用50000铁币来交换它。
 
 tagGDX2CraftMaterial_IronExchange_02=高级铁锭堆
-tagGDX2CraftMaterial_IronExchange_02_Desc=在一个被死亡蹂躏的世界中珍贵的资源。^w^n^n三巫神密会处的钢铁保管者盖拉斯会很乐意用500000铁币来交换它。
+tagGDX2CraftMaterial_IronExchange_02_Desc=在一个被死亡蹂躏的世界中珍贵的资源。^w^n^n三巫神秘会处的钢铁保管者盖拉斯会很乐意用500000铁币来交换它。
 
 #Consumables 消耗品
 tagGDX2Consumable_01=神秘球体
