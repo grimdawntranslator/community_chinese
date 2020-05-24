@@ -114,6 +114,9 @@ tagWeaponBluntB010=专家级晨星锤
 tagWeaponBluntB011=专家级凸缘钉头锤
 tagWeaponBluntB012=突变臂膀
 tagWeaponBluntB013=突变短棒
+tagWeaponBluntB014=格兰德佩里斯之尾
+tagWeaponBluntB015=帕斯珪尔之尾
+tagWeaponBluntB016=巴若戈的血腥手臂
 
 tagWeaponBluntC001=虚化之灾
 tagWeaponBluntC002=混沌无序
@@ -172,6 +175,7 @@ tagWeaponAxeB004=骨切斧
 tagWeaponAxeB005=骨钐镰
 tagWeaponAxeB006=奥尔曼的斧头
 tagWeaponAxeB007=虚化扭曲之斧
+tagWeaponAxeB008=虚化焦灼之斧
 
 tagWeaponAxeC001=残忍之锋
 tagWeaponAxeC002=夺魂者之触
@@ -292,6 +296,7 @@ tagWeaponGun2hB004=奇型步枪
 tagWeaponGun2hB005=奇型卡宾枪
 tagWeaponGun2hB006=奇型炎枪
 tagWeaponGun2hB007=奇型焚炉
+tagWeaponGun2hB008=拉格·纳达之喉
 
 tagWeaponGun2hC001=狩猎者
 tagWeaponGun2hC001B=狩猎者
@@ -394,6 +399,10 @@ tagWeaponMelee2hB010=巴索勒姆的战锤
 tagWeaponMelee2hB011=黑曜石断头斧
 tagWeaponMelee2hB012=黑曜石切肉斧
 tagWeaponMelee2hB013=海威尔的巨剑
+tagWeaponMelee2hB014=沃德拉克的压碎者
+tagWeaponMelee2hB015=贝尔戈的压碎者
+tagWeaponMelee2hB016=卢修斯的刃臂
+tagWeaponMelee2hB016_Desc="被虚空扭曲的无法形容。"
 
 tagWeaponMelee2hC001=残暴开膛者
 tagWeaponMelee2hC002=屠戮
@@ -486,6 +495,9 @@ tagWeaponCaster1hB012=血誓魔杖
 tagWeaponCaster1hB013=血誓权杖
 tagWeaponCaster1hB014=洛克斯莫里的霜冻之刃
 tagWeaponCaster1hB015=蛇人之喙
+tagWeaponCaster1hB016=火焰使者
+tagWeaponCaster1hB017=风暴使者
+tagWeaponCaster1hB018=暗夜使者
 
 tagWeaponCaster1hC001=怒火焚身
 tagWeaponCaster1hC002=咒火魔杖
@@ -599,6 +611,9 @@ tagShieldB011=黑曜石壁垒
 tagShieldB012=血肉扭曲盾牌
 tagShieldB013=血肉扭曲壁垒
 tagShieldB014=伯纳德的轻咬圆盾
+tagShieldB015=瓦德里斯的壁垒
+tagShieldB016=贝恩·加戈斯的碎片
+tagShieldB017=卡利斯卡的收割
 
 tagShieldC001=恶魔十字防御者
 tagShieldC002=噬魂者壁垒
@@ -705,6 +720,8 @@ tagFocusB022=凝视者之眼
 tagFocusB023=监察者之眼
 tagFocusB023_Desc="这枚眼珠仍在你的手中扭动着。"
 tagFocusB024=卡弗的唤魔之骨
+tagFocusB025=凯奥格之颅
+tagFocusB026=拉格拉萨之角
 
 tagFocusC001=狂乱秘典
 tagFocusC002=粉碎意志
@@ -1693,6 +1710,13 @@ tagNecklaceB001Desc="这枚头骨外包着一层腐臭的黏液。"
 tagNecklaceB002=死亡守望者坠饰
 tagNecklaceB003=艾莱娜的项链
 tagNecklaceB003Desc="曾属于第一只蛇人艾莱娜的战利品。"
+tagNecklaceB004=扎里亚的坠饰
+tagNecklaceB005=蹒跚者之心
+tagNecklaceB006=墨伽拉之牙
+tagNecklaceB007=乌苟立安特的凝视
+tagNecklaceB008=血荆棘之刺
+tagNecklaceB009=尤拉普莱克斯的刺针
+tagNecklaceB010=罗纳普莱克斯的刺针
 
 tagNecklaceC001=风目之链
 tagNecklaceC001Desc="一只眼球在宝石内前前后后飞快地移动着。"
@@ -1808,6 +1832,13 @@ tagMedalB007=伊尔戈的永恒诅咒
 tagMedalB008=拉苟斯·阿克的虚空束缚
 tagMedalB008_Desc="只是虚空及其主人庞大力量的回响"
 tagMedalB009=拉苟斯·阿克的缚血尘
+tagMedalB010=巴尔萨泽的盾徽
+tagMedalB011=马丁的盾徽
+tagMedalB012=海里昂的盾徽
+tagMedalB013=血之盛宴的徽记
+tagMedalB014=格特沃姆的徽记
+tagMedalB015=纳卡森的徽记
+tagMedalB016=哈弗尔的徽记
 
 tagMedalC001=野兽屠杀者徽记
 tagMedalC002=坚韧徽章

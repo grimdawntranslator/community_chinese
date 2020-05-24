@@ -7,6 +7,7 @@ tagGDX2WeaponSwordB202_Desc="由寇瓦克授予其忠实信徒的武器，用于
 tagGDX2WeaponSwordB203=凯蒙的祝圣之刃
 tagGDX2WeaponSwordB203_Desc="用寇瓦克的血加持过的武器，授予其精锐"
 tagGDX2WeaponSwordB204=鲜血领主的复仇
+tagGDX2WeaponSwordB205=拉夫娜之爪
 
 tagGDX2WeaponSwordC201=烈火雄心
 
@@ -176,6 +177,8 @@ tagGDX2ShieldB202=圣甲虫甲壳
 tagGDX2ShieldB203=巨像防御者
 tagGDX2ShieldB204=血肉扭曲护盾
 tagGDX2ShieldB205=黑曜石防御盾
+
+tagShieldC015B=角斗士
 
 tagGDX2ShieldC201=风暴守卫
 tagGDX2ShieldC201_Desc="充满了从强大的雷暴中捕获的能量。"
@@ -541,6 +544,7 @@ tagGDX2NecklaceB201=凯桑的燃烧之眼
 tagGDX2NecklaceB201_Desc="凯桑那不朽之眼在这挂坠中盯着你。"
 tagGDX2NecklaceB202=凯桑的邪术之眼
 tagGDX2NecklaceB202_Desc="凯桑那不朽之眼在这挂坠中盯着你。"
+tagGDX2NecklaceB203=伯瓦尔的坠饰
 
 tagGDX2NecklaceD113I=神圣低语引导之眼
 
@@ -1098,6 +1102,9 @@ tagGDX2BoosterEldritch_C01=寇瓦克的通缉令
 
 #ItemSets 套装
 tagItemSetC008CName=特赦
+tagItemSetC007CName=占卜师
+tagItemSetC013CName=毁誓者之愚
+tagItemSetC015BName=肆意屠杀
 
 tagGDX2ItemSetC201Name=巴尔迪尔的板甲
 tagGDX2ItemSetC201BName=巴尔迪尔的勋章

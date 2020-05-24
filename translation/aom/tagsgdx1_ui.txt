@@ -77,9 +77,6 @@ tagGDX1w=GrimDawn/images/evil
 tagMapSymbolTransmuteNpc=幻化师
 tagMapSymbolTransmuteNpcDesc=亦真亦幻的幻觉。
 
-#Skills
-tagItemSkillModified= {^E}至 {^Z}{%s0}
-
 #Char Stats Tab 2
 tagCharStatsInquisitorSkillsBonus=审判官技能加成
 tagCharStatsInquisitorSkillsBonusInfo=审判官专精中已习得的所有技能加成。
