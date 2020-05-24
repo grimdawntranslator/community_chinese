@@ -792,7 +792,7 @@ tagItemSkillDescA014=将你的敌人转化成岩石。
 tagItemSkillB001Name=冲击波
 tagItemSkillB001Desc=你的攻击中爆发出一道火焰冲击波。
 
-tagItemSkillB002Name=严冬之潮
+tagItemSkillB002Name=严寒新星
 tagItemSkillB002Desc=用死寒之力反击，对周围的敌人施放投射物并将他们冻结。
 
 tagItemSkillB003Name=夜神之沙
@@ -931,6 +931,9 @@ tagItemSkillB045Desc=一团爆裂的火球从你身上激射出来。
 
 tagItemSkillB046Name=酸性尖刺新星
 tagItemSkillB046Desc=一束酸性尖刺从你的身上激射出来。
+
+tagItemSkillB047Name=空中打击
+tagItemSkillB047Desc=在战场上发射大量的注入了虚化能量的炮火。
 
 tagItemSkillC002Name=闪电光球
 tagItemSkillC002Desc=反击攻击你的敌人，向敌人所在的方向施放一枚闪电光球，伤害并眩晕所有所经之处的敌人。
@@ -2401,7 +2404,7 @@ tagRelicSkillD014Name=复仇
 tagRelicSkillD014Desc=释放你所承受的攻击并转化为毁灭性的冲击波。
 
 tagRelicSkillD015Name=虫群之心
-tagRelicSkillD015Desc=你在无尽抗争中有节奏的步调将召唤虫群来协助你。
+tagRelicSkillD015Desc=你在无尽抗争中有节奏的步调将召唤虫群来协助你。^o虫群会受到战宠加成的影响。
 
 tagRelicSkillD016Name=大屠杀
 tagRelicSkillD016Desc=对敢于攻击所选仆从之人释放索拉尔的愤怒。
@@ -2754,7 +2757,7 @@ tagDevotionEffectB03Desc=你用温迪戈的印记标记了敌人，吸干他们�
 tagDevotionEffectB04=撕裂
 tagDevotionEffectB04Desc=撕碎你的敌人，精妙的割开敌人的动脉并造成内出血。
 tagDevotionEffectB05=槌撞
-tagDevotionEffectB05Desc=以暴熊之力撞击附近的敌人。^o需要一把近战武器。
+tagDevotionEffectB05Desc=以暴熊之力撞击附近的敌人。
 tagDevotionEffectB06=刀锋之怒
 tagDevotionEffectB06Desc=释放一阵爆发的幻影刀阵，轻易地穿透你的敌人。
 tagDevotionEffectB07=裂地

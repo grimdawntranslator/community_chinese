@@ -2239,6 +2239,7 @@ tagGroup01=PVP开启
 tagGroup02=自动组队开启
 tagAutoItemSkill=(从物品获取-被动激活)
 tagExclusiveSkill=^o特有技能-同一时间只能激活一个特有技能。
+tagItemSkillModified= {^E}至 {^Z}{%s0}
 
 tagAutoSort=自动整理
 tagAutoComplete=合并镶嵌物

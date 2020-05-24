@@ -328,6 +328,8 @@ tagGDX1HeadB103=帕克拉的皮肤
 tagGDX1HeadB103_Desc="你不知道这个面具由多少受害者组成。"
 tagGDX1HeadB104=帕克拉的面容
 tagGDX1HeadB104_Desc="这个面具带来的恶臭令人无法忍受。"
+tagGDX1HeadB105=死亡低语兜帽
+tagGDX1HeadB106=裂天者头环
 
 
 tagGDX1HeadC101=灵魂之环
@@ -794,6 +796,7 @@ tagGDX1MedalB107=灵巧徽章
 tagGDX1MedalB108=守望者徽章
 tagGDX1MedalB109=斯拉萨尔的盾徽
 tagGDX1MedalB109_Desc="利齿充满着被虚化力量扭曲的毒液。"
+tagGDX1MedalB110=普拉格尤斯的标记
 
 tagGDX1MedalC101=神圣标记
 tagGDX1MedalC102=罪恶标记
