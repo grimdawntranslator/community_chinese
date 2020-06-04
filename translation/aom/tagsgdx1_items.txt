@@ -141,7 +141,7 @@ tagGDX1WeaponMelee2hB101=血肉扭曲之核
 tagGDX1WeaponMelee2hB102=血肉扭曲碎片
 tagGDX1WeaponMelee2hB103=碎肠者战槌
 
-tagGDX1WeaponMelee2hC101=魂裂
+tagGDX1WeaponMelee2hC101=灵魂分割着
 tagGDX1WeaponMelee2hC101_Desc="传说这把镰刀的刀刃切割的不仅仅是血肉。"
 tagGDX1WeaponMelee2hC102=塞萨兰的信念
 tagGDX1WeaponMelee2hC107=尤尔托斯之拳
