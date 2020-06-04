@@ -136,7 +136,7 @@ tagGDX1Class08SkillDescription01B=体验过生命精华后的饥渴是无法轻�
 tagGDX1Class08SkillName01C=[死灵法师]分解
 tagGDX1Class08SkillDescription01C=在生命从他们的眼中消失之前，你的敌人已经开始分崩离析。
 tagGDX1Class08SkillName01D=[死灵法师]黄泉颤抖
-tagGDX1Class08SkillDescription01D=死灵法师深谙死亡低语可将坟墓的寒意施加于受害者，减缓他们的行动，但会削弱吸取生命精华的能力。
+tagGDX1Class08SkillDescription01D=死灵法师深谙死亡低语可将坟墓的寒意施加于受害者，减缓他们的行动。
 xxtagGDX1Class08SkillName01D=[死灵法师]无尽渴望
 xxtagGDX1Class08SkillDescription01D=生命精华的转移通常是一种只为极端情况而保留的做法，但有些信徒难以抵御鲜活生命力的诱惑，并屈服于自己的力量，以牺牲周围的人为代价来满足自己。
 
