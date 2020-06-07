@@ -620,7 +620,7 @@ tagGDX1RelicSkillD107Desc=释放毁灭性能量的冲击波穿透敌人再返回
 tagGDX1RelicSkillD108Name=尼达拉的最后一击
 tagGDX1RelicSkillD108Desc=夜刃大师尼达拉最喜爱的技能，释放飞刃刀扇穿透敌人，并使他们的裂开的伤口泛起毒泡。魔法刀刃之后会飞回起点。
 
-tagGDX1RelicSkillD109Name=时空循环
+tagGDX1RelicSkillD109Name=时间循环
 tagGDX1RelicSkillD109Desc=你的行动将穿越时空。^o需要装备副手法器。
 
 tagGDX1RelicSkillD110Name=血脊

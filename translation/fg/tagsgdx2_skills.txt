@@ -329,7 +329,7 @@ tagGDX2RelicSkillD201Desc=探索邪术领域的隐藏秘密，三巫神的赠与
 tagGDX2RelicSkillD202Name=维尔爆发
 tagGDX2RelicSkillD202Desc=猛击地面，并且使你面前的地面呈现扇形的破碎区域。
 
-tagGDX2RelicSkillD203Name=沙暴
+tagGDX2RelicSkillD203Name=沙魔
 tagGDX2RelicSkillD203Desc=像你的敌人释放沙暴。^o沙暴会受到玩家伤害加成的影响。
 
 tagGDX2RelicSkillD204Name=饥渴之触
