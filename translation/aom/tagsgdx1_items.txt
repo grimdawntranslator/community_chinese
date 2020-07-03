@@ -754,7 +754,7 @@ tagGDX1NecklaceD114_Desc="水晶里散发着不灭的火焰。"
 tagGDX1NecklaceD115=迷失灵魂碎片
 tagGDX1NecklaceD116=灾变催化剂
 tagGDX1NecklaceD117=岩石守卫护符
-tagGDX1NecklaceD118=黑暗烈焰之源
+tagGDX1NecklaceD118=黑焰之源
 tagGDX1NecklaceD119=法术天灾偏转器
 tagGDX1NecklaceD120=法师杀手保卫者
 tagGDX1NecklaceD121=符文束缚者宝石
@@ -1640,7 +1640,7 @@ tagGDX1ItemSetD108Name=戈尔巴的愤怒
 tagGDX1ItemSetD108Desc="戈尔巴的铠甲，罗斯纳尔的野蛮女儿，绰号白狼毒牙。"
 
 tagGDX1ItemSetD109Name=黑焰装束
-tagGDX1ItemSetD109Desc="女巫之神索拉尔制作的装备，在三巫神之战期间赐予他的仆从。"
+tagGDX1ItemSetD109Desc="在三巫神激战期间，由巫神索拉尔制作并赐予他仆从的法器。"
 
 tagGDX1ItemSetD110Name=法术天灾
 tagGDX1ItemSetD110Desc="战斗与奥术技艺之间难以置信的结合，用符文印刻在这铠甲之上。"

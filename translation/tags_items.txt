@@ -552,7 +552,7 @@ tagWeaponCaster1hD014=蛇怪之爪
 tagWeaponCaster1hD015=洞察者的法杖
 tagWeaponCaster1hD016=德里格的符文匕首
 tagWeaponCaster1hD017=特洛赞的繁星看守者
-tagWeaponCaster1hD018=黑炎剑
+tagWeaponCaster1hD018=黑炎之刃
 tagWeaponCaster1hD019=奥德里奇的命令
 tagWeaponCaster1hD019Desc="在下达他人生中最后一道命令之后，范·奥德里奇将整座城市葬送在了恐怖黎明之中。"
 
@@ -3792,7 +3792,7 @@ tagItemSetD020Name=毒刃契约
 tagItemSetD020Desc="一群精于在武器上涂毒的夜刃穿着的护甲。"
 
 tagItemSetD021Name=黑炎圣约
-tagItemSetD021Desc="苍白之神的圣衣，他乃索拉尔之师，精于使用黑炎。"
+tagItemSetD021Desc="索拉尔黑炎大师，苍白之神的圣衣。"
 
 tagItemSetD022Name=光明卫士
 tagItemSetD022Desc="信仰的守护者，至高神之光的卫士。"
