@@ -171,8 +171,8 @@ tagWeaponAxeA009=鈎斧
 tagWeaponAxeB001=幽光切肉斧
 tagWeaponAxeB002=幽光战斧
 tagWeaponAxeB003=竞技场主之斧
-tagWeaponAxeB004=骨切斧
-tagWeaponAxeB005=骨钐镰
+tagWeaponAxeB004=骨制切肉斧
+tagWeaponAxeB005=骨镰
 tagWeaponAxeB006=奥尔曼的斧头
 tagWeaponAxeB007=虚化扭曲之斧
 tagWeaponAxeB008=虚化焦灼之斧
@@ -195,8 +195,8 @@ tagWeaponAxeC011Desc="每个锯齿都代表着一条性命。"
 tagWeaponAxeC012=死尸亵渎者
 tagWeaponAxeC013=乔纳格·李
 tagWeaponAxeC013Desc="一把由各种人类和动物的骨头组成的萨满斧。"
-tagWeaponAxeC014=阿斯特堪切斧
-tagWeaponAxeC015=地狱之爪切刃
+tagWeaponAxeC014=阿斯特堪切肉斧
+tagWeaponAxeC015=地狱之爪切刀
 
 tagWeaponAxeD001=伯尔维治屠夫
 tagWeaponAxeD001Desc="恐怖黎明之后，凯恩世界的人类崩溃于疯狂与腐化之下的具体体现。"
@@ -608,7 +608,7 @@ tagShieldB008=穴居人骨墙
 tagShieldB009=吸血鬼骨墙
 tagShieldB010=黑曜石守护者
 tagShieldB011=黑曜石壁垒
-tagShieldB012=血肉扭曲盾牌
+tagShieldB012=血肉扭曲盾
 tagShieldB013=血肉扭曲壁垒
 tagShieldB014=伯纳德的轻咬圆盾
 tagShieldB015=瓦德里斯的壁垒
@@ -677,7 +677,7 @@ tagFocusA001=发霉的宝典
 tagFocusA002=鲜血魔典
 tagFocusA003=符文封印档案
 tagFocusA004=封皮魔法书
-tagFocusA005=奇怪的宝典
+tagFocusA005=异能宝典
 tagFocusA006=奥秘手抄本
 tagFocusA013=高阶手抄本
 
@@ -969,7 +969,7 @@ tagHeadC002=狂战士的风帽
 tagHeadC003=幽冥王冠
 tagHeadC003Desc="曾被戴在凯恩世界第一位也是唯一一位奥术师君王塞缪尔·德雷克的头上，当然这是在其被剥夺王位然后被教士以异端的罪名处死之前。"
 tagHeadC004=指挥王冠
-tagHeadC005=隐士的头盔
+tagHeadC005=圣殿骑士头盔
 tagheadC005Desc="曼海尔的守卫者使用的入门级防具。"
 tagHeadC006=帝国卫兵头盔
 tagHeadC007=探险者的头巾
@@ -1098,7 +1098,7 @@ tagShoulderB026_Desc="伴随着虚空的腐化力量，这件装备仍在扭动�
 tagShoulderC001=剃刀背的尖刺披肩
 tagShoulderC001Desc="用剃刀背的尸体缝制而成的披肩。"
 tagShoulderC002=星光披肩
-tagShoulderC003=好战者肩甲
+tagShoulderC003=战争领主肩甲
 tagShoulderC004=帝国卫兵肩甲
 tagShoulderC005=投弹兵护肩
 tagShoulderC005Desc="历经弹片的灼烧与切割，这件护肩却依然保留着大部分防护能力。"
@@ -1400,7 +1400,7 @@ tagWaistF016=神选束带
 tagWaistF017=神选护腰
 tagWaistF018=神选束腰
 
-#ArmorHands 护手
+#ArmorHands 手套
 
 tagHandsA001=手套
 tagHandsA002=护腕
@@ -1416,7 +1416,7 @@ tagHandsB004=侍从手铠
 tagHandsC001=暗影之握
 tagHandsC002=狂战士的手甲
 tagHandsC003=剑舞者的手铠
-tagHandsC004=创咒师之握
+tagHandsC004=创咒师护手
 tagHandsC005=掠夺者的手套
 tagHandsC006=灵魂之触
 tagHandsC007=雕刻护腕
@@ -1430,7 +1430,7 @@ tagHandsC012=使者的手套
 tagHandsC013=药剂师的触摸
 tagHandsC014=破灭手铠
 tagHandsC015=黎明守卫手甲
-tagHandsC016=余烬手铠
+tagHandsC016=余烬之握手铠
 tagHandsC017=速攻手套
 tagHandsC018=东方手套
 tagHandsC019=风暴之触护腕
@@ -1447,7 +1447,7 @@ tagHandsD004=骸骨拾荒者的死亡之握
 tagHandsD004Desc="亡灵法师施法时使用的手套，上面依然存在着恐怖的魔力。"
 tagHandsD005=龙骨手铠
 tagHandsD006=寒冰斯考恩之爪
-tagHandsD007=毒蛇之握
+tagHandsD007=毒蛇之牙护手
 tagHandsD008=虚化之触
 tagHandsD009=巨像之握
 tagHandsD010=正义手铠
@@ -1480,7 +1480,7 @@ tagLegsC004=探险家长裤
 tagLegsC005=污渍长裤
 tagLegsC005Desc="裤子的上个主人似乎在臀部对应的地方留下了些小惊喜。"
 tagLegsC006=蛇人之鳞裹腿
-tagLegsC007=隐士的腿甲
+tagLegsC007=圣殿骑士腿甲
 tagLegsC008=英勇腿甲
 tagLegsC009=血肉捕食者裹腿
 tagLegsC009Desc="有些东西的本来面目还是呆在编年史里面比较好。"
@@ -1686,7 +1686,7 @@ tagRingF012=神选风暴印戒
 #Necklaces 项链
 
 tagNecklaceA00=盐袋
-tagNecklaceA00Desc="装满盐的袋子，似乎能够抵御恶灵。"
+tagNecklaceA00Desc="装满盐的袋子，似乎能够击退恶灵。"
 
 tagNecklaceA001=利爪神像
 tagNecklaceA002=银制护符
@@ -1775,7 +1775,7 @@ tagNecklaceD004=统治者的王权宝石
 tagNecklaceD005=贝若纳斯无双之眼
 tagNecklaceD005Desc="巨兽贝若纳斯的不朽之眼。"
 tagNecklaceD006=星怒绿宝石
-tagNecklaceD007=恐怖黎明结晶
+tagNecklaceD007=恐怖黎明精华
 tagNecklaceD007Desc="此物可证明恐怖黎明开始时带来的磨难与死亡。"
 tagNecklaceD008=亡者之缚紫水晶
 tagNecklaceD009=哈拉科的神石
@@ -1862,18 +1862,18 @@ tagMedalC017=伪神的徽记
 tagMedalC018=格特沃姆的鲜血印章
 tagMedalC018Desc="浸透着他手中受害者的鲜血。"
 tagMedalC019=莫格卓根的魔印
-tagMedalC020=幻术师的标记
+tagMedalC020=幻术师的徽记
 tagMedalC021=暗黑欺诈之星
-tagMedalC022=女神印记
+tagMedalC022=女神徽记
 tagMedalC023=冰封天际之星
 tagMedalC024=火山元素徽记
-tagMedalC025=怒心印记
+tagMedalC025=怒心徽记
 tagMedalC026=密尔弥冬的尊崇之星
 
 tagMedalD001=禁术徽记
 tagMedalD001Desc="它曾是强加给异教徒的徽记，但后来巫神的追随者们以之为傲。"
 tagMedalD002=精通徽章
-tagMedalD003=烈火印记
+tagMedalD003=烈火徽记
 tagMedalD004=熊族之王的魔印
 tagMedalD004Desc="乌萨尔·本尼迪克特四世的魔印，人称熊族之王。"
 tagMedalD005=冥神的鲜血魔印
@@ -1882,9 +1882,9 @@ tagMedalD006Desc="巨型白狼图案的盾徽，冰原狼是北部荒野的守�
 tagMedalD007=不灭誓言
 tagMedalD008=马尔科夫的谋略
 tagMedalD008Desc="以著名的战术家马尔科夫的名字命名的勋章，奖励给最为功勋卓著的将军。"
-tagMedalD009=黑暗幻想标记
-tagMedalD010=诅咒者的标记
-tagMedalD011=神性标记
+tagMedalD009=黑暗幻想徽记
+tagMedalD010=诅咒者的徽记
+tagMedalD011=神性徽记
 tagMedalD012=野兽召唤者的护符
 
 tagMedalF001=恶魔的火焰徽章
@@ -2056,7 +2056,7 @@ tagBlueprint_WeaponF004=设计图：罗瓦里劲弩
 tagBlueprint_WeaponF005=设计图：强化的预兆之剑
 tagBlueprint_WeaponF006=设计图：月光巨锤
 tagBlueprint_WeaponF007=设计图：收割者的防御
-tagBlueprint_WeaponF008=设计图：强化的雷霆喷射者
+tagBlueprint_WeaponF008=设计图：强化的雷霆喷射弩
 tagBlueprint_WeaponF009=设计图：军团切刀
 tagBlueprint_WeaponF010=设计图：强化的黑色军团徽盾
 tagBlueprint_WeaponF011=设计图：亡者的六发左轮
@@ -2144,18 +2144,18 @@ tagBlueprint_ArmorD028=设计图：血怒者的兜帽
 tagBlueprint_AccessoryC001=设计图：麦文的透镜
 tagBlueprint_AccessoryC002=设计图：漩涡之石
 tagBlueprint_AccessoryC003=设计图：狮蝎青金石
-tagBlueprint_AccessoryC004=设计图：怒心印记
+tagBlueprint_AccessoryC004=设计图：怒心徽记
 tagBlueprint_AccessoryC005=设计图：元素平衡红宝石
 tagBlueprint_AccessoryC006=设计图：元素平衡蓝宝石
 tagBlueprint_AccessoryC007=设计图：强化的瘟疫大师护符
-tagBlueprint_AccessoryC008=设计图：强化的贝若纳斯的精华
+tagBlueprint_AccessoryC008=设计图：强化的贝若纳斯精华
 tagBlueprint_AccessoryC009=设计图：强化的风暴魔印
 tagBlueprint_AccessoryC010=设计图：烈焰丝线系带
 tagBlueprint_AccessoryC011=设计图：均衡腰带
 tagBlueprint_AccessoryC012=设计图：强化的冥煞丝线腰带
 
 tagBlueprint_AccessoryD001=设计图：星怒绿宝石
-tagBlueprint_AccessoryD002=设计图：恐怖黎明结晶
+tagBlueprint_AccessoryD002=设计图：恐怖黎明精华
 tagBlueprint_AccessoryD003=设计图：天启使者
 tagBlueprint_AccessoryD004=设计图：德里格的瘟疫
 tagBlueprint_AccessoryD005=设计图：虚空巫师腰索
@@ -2164,7 +2164,7 @@ tagBlueprint_AccessoryD007=设计图：奥莱隆的重铸腰链
 tagBlueprint_AccessoryD008=设计图：奥祖因的苦痛
 tagBlueprint_AccessoryD009=设计图：破法者护腰
 tagBlueprint_AccessoryD010=设计图：精通徽章
-tagBlueprint_AccessoryD011=设计图：神性标记
+tagBlueprint_AccessoryD011=设计图：神性徽记
 
 tagBlueprint_MiscA01=设计图：骸骨钥匙
 tagBlueprint_MiscA01Desc=只有少数被选召的人才知晓打造这把钥匙的远古锻造技法。
@@ -2291,7 +2291,7 @@ tagRelicD022Desc="能够同时持握两把近战武器的象征。"
 tagRelicD023=掠夺者护符
 tagRelicD023Desc="能够同时手持两把手枪进行精准射击的象征。"
 
-#Crafting 制作
+#Crafting 锻造
 tagCraftTabArtifactA=圣物
 tagCraftTabArtifactB=护身符，圣物与强大的手工艺品。
 tagCraftTabMeleeA=近战武器
@@ -3325,7 +3325,7 @@ tagCompA028Name=强酸结石
 tagCompA028Desc="邪恶野兽的胆囊中生成的酸性结石。"^w^n(用于近战武器，盾牌和法器副手)
 
 tagCompA029Name=赐福磨石
-tagCompA029Desc="能够打磨哪怕是最为锋利的刀刃，提高穿透敌人护甲的穿刺伤害。"^w^n(用于斧，剑，火枪和十字弩)
+tagCompA029Desc="能够打磨哪怕是最为锋利的刀刃，提高穿透敌人护甲的穿刺伤害。"^w^n(用于斧，剑，枪械和双手弩)
 
 tagCompA030Name=丝绸
 tagCompA030Desc="西方的游牧民族很早就知道多层的丝绸能够抵御破甲的投射物。"^w^n(用于护肩，胸甲和护腿)
@@ -3470,7 +3470,7 @@ tagCompB014Name=^k贝若纳斯的碎片
 tagCompB014Desc="虽然只是传说中杀死贝若纳斯的神圣之矛的一块碎片，但仍残留着强大的力量。"^w^n(用于所有类型的武器，盾牌和副手法器)
 
 tagCompB015Name=^k血腥磨石
-tagCompB015Desc="浸透在堕落之血中，这块被诅咒的磨刀石将引发利刃对鲜血无比的饥渴。"^w^n(用于斧，剑，火枪和十字弩)
+tagCompB015Desc="浸透在堕落之血中，这块被诅咒的磨刀石将引发利刃对鲜血无比的饥渴。"^w^n(用于斧，剑，枪械和双手弩)
 
 tagCompB016Name=^k共鸣磁石
 tagCompB016Desc="蕴生于风暴雷电之中，这些稀有且威力强大的石头上仍然回响着孕育它们的雷电之力。"^w^n(用于项链和勋章)
@@ -4318,7 +4318,7 @@ tagBreakableDermapteranA01=革翅目集簇
 tagBreakableBonePileA01=骨堆
 tagBreakableObsidianA01=末日遗迹
 tagBreakableObsidianB01=黑曜石碎片
-tagBreakableAetherCrystal=虚化水晶层
+tagBreakableAetherCrystal=虚化水晶体
 
 tagChestLocked={^R} ~ 锁着的
 tagChestLockedBoss={^R} ~ 被强大生物锁着的
@@ -4345,8 +4345,8 @@ tagShrineMogdrogenLocked= {^R} ~ 由冥煞能量封印着
 
 tagWoodenDoor=木门
 tagBarnDoor=谷仓门
-tagCageDoor=大门
-tagTrollDoor=大门
+tagCageDoor=监牢之门
+tagTrollDoor=巨魔之门
 
 tagBreakableStoneWall=破碎之墙
 tagBreakableNaturalWall=松散的土堆
@@ -4364,7 +4364,7 @@ tagUGDoorRuin01=废墟入口
 tagUGDoorIronDoorSecret01=铁门
 tagUGDoorIronGate=铁制大门
 tagUGDoorPortcullisFloor01=吊门
-tagUGDoorBoat=渡船
+tagUGDoorBoat=划艇
 tagUGDoorObsidian=黑曜石尖刺
 tagUGDoorFort=城堡入口
 tagUGDoorCrypt=地下墓室入口
@@ -4414,7 +4414,7 @@ tagQuestItemBrothersAmuletDesc="致亲爱的哥哥：愿这枚护身符护佑你
 tagQuestItemSlithRing=蛇人原始戒指
 tagQuestItemSlithRingDesc="这枚戒指上有一股挥之不去的恶臭。"
 
-tagItemTest=人形凝视者♂
+tagItemTest=人类凝视者♂
 tagItemTestDesc="一个成就不凡的家伙把凝视者套在了身上。"
 
 #Equipment Locations 装备位置
