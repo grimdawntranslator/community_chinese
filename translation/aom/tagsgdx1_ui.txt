@@ -20,7 +20,7 @@ tagFactionUser9Rewards6=新任务 {^n}领取赏金任务 {^n}势力特有武器 
 tagFactionUser9Rewards7=新任务 {^n}势力特有增幅 {^n}势力特有武器 {^n}势力特有饰品 {^n}该势力赦令 {^n}势力特有装备设计图
 tagFactionUser9Rewards8=稀有增幅 {^n}该势力委任状 {^n}精英级势力护甲 {^n}势力传奇装备设计图
 tagFactionUser10=巴罗霍尔姆
-tagFactionUser10Info=营地:巫登沼泽{^n}{^n}巴罗霍尔姆，如同泥泞中的一颗宝石，洁净无瑕又平和安宁的它与其四周危险的沼泽截然不同。它的居民们保护他们的家园，对新的造访者们既热情又提防着。{^n}{^n}总之，在这个被虚灵和冥煞蹂躏着的世界中，如此完美的家园值得不惜一切代价来保护。
+tagFactionUser10Info=营地：巫登沼泽{^n}{^n}巴罗霍尔姆，如同泥泞中的一颗宝石，洁净无瑕又平和安宁的它与其四周危险的沼泽截然不同。它的居民们保护他们的家园，对新的造访者们既热情又提防着。{^n}{^n}总之，在这个被虚灵和冥煞蹂躏着的世界中，如此完美的家园值得不惜一切代价来保护。
 tagFactionUser10Rewards1=刷新复仇级单位
 tagFactionUser10Rewards2=刷新额外英雄单位
 tagFactionUser10Rewards3=刷新额外敌人
@@ -30,7 +30,7 @@ tagFactionUser10Rewards6=新任务 {^n}领取赏金任务 {^n}势力特有武器
 tagFactionUser10Rewards7=新任务 {^n}势力特有增幅 {^n}势力特有武器 {^n}势力特有饰品 {^n}该势力赦令{^n}势力特有装备设计图
 tagFactionUser10Rewards8=稀有增幅 {^n}该势力委任状 {^n}精英级势力护甲 {^n}势力传奇装备设计图
 tagFactionUser11=马尔茅斯反抗军
-tagFactionUser11Info=营地:马尔茅斯{^n}{^n}曾是东方的骄傲，马尔茅斯的发展是伊露兰帝国的工业奇迹。它拥有热闹繁华的港口和欣欣向荣的经济。但它也是最先在恐怖黎明中陷落的城市之一。{^n}{^n}马尔茅斯被操纵人心的虚灵从内部瓦解了，只不过数周的时间，它便从帝国灯塔般闪耀的城市变成了一座人间炼狱。但并非所有的市民都被消灭掉了，有一些人活了下来……忍耐着……抗争着。{^n}{^n}这些人现今成为了这支反抗军的骨干，他们要从诡计多端的入侵者手中夺回他们的城市。但他们的物资短缺，而且有限的人命根本无法和盘踞在马尔茅斯城中那近乎无限的虚灵大军相提并论。
+tagFactionUser11Info=营地：马尔茅斯{^n}{^n}曾是东方的骄傲，马尔茅斯的发展是伊露兰帝国的工业奇迹。它拥有热闹繁华的港口和欣欣向荣的经济。但它也是最先在恐怖黎明中陷落的城市之一。{^n}{^n}马尔茅斯被操纵人心的虚灵从内部瓦解了，只不过数周的时间，它便从帝国灯塔般闪耀的城市变成了一座人间炼狱。但并非所有的市民都被消灭掉了，有一些人活了下来……忍耐着……抗争着。{^n}{^n}这些人现今成为了这支反抗军的骨干，他们要从诡计多端的入侵者手中夺回他们的城市。但他们的物资短缺，而且有限的人命根本无法和盘踞在马尔茅斯城中那近乎无限的虚灵大军相提并论。
 tagFactionUser11Rewards1=N/A
 tagFactionUser11Rewards2=N/A
 tagFactionUser11Rewards3=N/A
@@ -51,9 +51,9 @@ tagFactionUser12Rewards7=N/A
 tagFactionUser12Rewards8=N/A
 
 #Quest
-tagCodexJournalSubHeadingUgdenbog=幸存者-巫登沼泽
-tagCodexJournalSubHeadingBarrowholm=幸存者-巴罗霍尔姆
-tagCodexJournalSubHeadingMalmouth=幸存者-马尔茅斯
+tagCodexJournalSubHeadingUgdenbog=幸存者 - 巫登沼泽
+tagCodexJournalSubHeadingBarrowholm=幸存者 - 巴罗霍尔姆
+tagCodexJournalSubHeadingMalmouth=幸存者 - 马尔茅斯
 
 #SkillUI
 
@@ -79,9 +79,9 @@ tagMapSymbolTransmuteNpcDesc=亦真亦幻的幻觉。
 
 #Char Stats Tab 2
 tagCharStatsInquisitorSkillsBonus=审判官技能加成
-tagCharStatsInquisitorSkillsBonusInfo=审判官专精中已习得的所有技能加成。
+tagCharStatsInquisitorSkillsBonusInfo=所有审判官专精中已习得技能的额外加成。
 tagCharStatsNecroSkillsBonus=死灵法师技能加成
-tagCharStatsNecroSkillsBonusInfo=死灵法师专精中已习得的所有技能加成。
+tagCharStatsNecroSkillsBonusInfo=所有死灵法师专精中已习得技能的额外加成。
 
 #Caravan
 tagCaravanSearchBoxInfo=根据物品名称或所需数据，输入搜索参数来筛选物品。
