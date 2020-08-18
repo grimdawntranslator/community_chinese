@@ -28,7 +28,7 @@ tagGDX2Class09SkillName01D=[守誓者]荆棘庇护
 tagGDX2Class09SkillDescription01D=灌注了伟大守护者的苦痛折磨，曼海尔神盾成为了德里格意志的延伸，他的棘刺上不断滴落着毒血。
 
 tagGDX2Class09SkillName02A=[守誓者]正义狂热
-tagGDX2Class09SkillDescription02A=守誓者在嘴上默念祈祷，使心中充满正义。当作为默认武器攻击时，正义狂热提升你每一次攻击的强度。 ^o提升充能等级可以提高加成效果。
+tagGDX2Class09SkillDescription02A=守誓者在嘴上默念祈祷，使心中充满正义。当作为默认武器攻击时，正义狂热提升你每一次攻击的强度。^o提升充能等级可以提高加成效果。
 tagGDX2Class09SkillName02B=[守誓者]圣化
 tagGDX2Class09SkillDescription02B=你的身髓在天神恩典中变得神圣化，使你获得了不可动摇的决心。
 tagGDX2Class09SkillName02C=[守誓者]惩戒
@@ -88,7 +88,7 @@ tagGDX2Class09SkillDescription10A=无论是以至高神之名举起盾牌，还�
 tagGDX2Class09SkillName11A=[守誓者]护卫
 tagGDX2Class09SkillDescription11A=在久经沙场的守誓者手中，盾牌不仅是坚不可摧的防具，还是令人惧怕的武器。^o这是一项盾牌加成。
 tagGDX2Class09SkillName12A=[守誓者]重击
-tagGDX2Class09SkillDescription12A=由守誓者正义之怒发动的精确打击，能震慑并重创敌人。经过充足的训练，这项技艺甚至可以由盾牌来发动。 ^o所有默认武器攻击均可激活该技能效果。当装备近战武器和盾牌时，盾牌将会同时发动打击。
+tagGDX2Class09SkillDescription12A=由守誓者正义之怒发动的精确打击，能震慑并重创敌人。经过充足的训练，这项技艺甚至可以由盾牌来发动。^o所有默认武器攻击均可激活该技能效果。当装备近战武器和盾牌时，盾牌将会同时发动打击。
 tagGDX2Class09SkillName13A=[守誓者]粉碎猛击
 tagGDX2Class09SkillDescription13A=这是持盾守誓者的超凡技艺，打击所产生的共鸣力量能穿透地面，并从初始目标发出附加的冲击波。^o这是一项盾牌战斗技艺，由默认武器攻击触发。需要一把近战武器与盾牌。
 
@@ -128,10 +128,10 @@ tagGDX2ItemSkillD203Name=粉碎守卫
 tagGDX2ItemSkillD203Desc=持续低迷煽动你的愤怒。
 
 tagGDX2ItemSkillD204Name=灵魂尖啸
-tagGDX2ItemSkillD204Desc=爆发出一阵灵魂尖啸，并且吞噬所有的生命。
+tagGDX2ItemSkillD204Desc=从你身上爆发出一阵灵魂尖啸，吞噬所有的生命。
 
 tagGDX2ItemSkillD205Name=血红波纹
-tagGDX2ItemSkillD205Desc=爆发出蕴含血液的波纹，将你的敌人笼罩在一片血海之中。
+tagGDX2ItemSkillD205Desc=从你身上爆发出一阵鲜血冲击，将你的敌人笼罩在一片血海之中。
 
 tagGDX2ItemSkillD206Name=毒疮
 tagGDX2ItemSkillD206Desc=毒刃加身，留下溃烂腐败的伤口。
@@ -158,7 +158,7 @@ tagGDX2ItemSkillD212Name=时光回溯
 tagGDX2ItemSkillD212Desc=逆转命运的束缚，消除你之前承受的伤害。
 
 tagGDX2ItemSkillD213Name=熵能爆发
-tagGDX2ItemSkillD213Desc=你的存在将会粉碎你敌人的现实存在。 ^o这项技能必须保持开启以持续生效。
+tagGDX2ItemSkillD213Desc=你的存在将会粉碎你敌人的现实存在。^o这项技能必须保持开启以持续生效。
 
 tagGDX2ItemSkillD214Name=莲花的馈赠
 tagGDX2ItemSkillD214Desc=莲花让你焕然一新。
@@ -179,10 +179,10 @@ tagGDX2ItemSkillD219Name=死亡行者
 tagGDX2ItemSkillD219Desc=当你遭受致命攻击时，就会筑起一道抵御死亡召唤的屏障。
 
 tagGDX2ItemSkillD220Name=黎明碎片
-tagGDX2ItemSkillD220Desc=从你这向外爆发出最纯净的索拉丁水晶碎片再返回你之前并灼烧你的敌人。
+tagGDX2ItemSkillD220Desc=从你身上爆发出最纯净的索拉丁水晶碎片，在返回你之前灼烧你的敌人。
 
 tagGDX2ItemSkillD221Name=寇瓦克的复仇
-tagGDX2ItemSkillD221Desc=从你身上爆发出一阵狂暴而可怕的能量，并灼烧你周围的敌人。
+tagGDX2ItemSkillD221Desc=从你身上爆发出一阵狂暴而可怕的能量，灼烧你周围的敌人。
 
 tagGDX2ItemSkillD222Name=死灵新星
 tagGDX2ItemSkillD222Desc=死灵的能量从你体内爆发并且削弱周围敌人的力量。
@@ -318,7 +318,7 @@ tagGDX2CompSkillA033Desc=赋予你的攻击带有虚空的力量。^o这项技�
 
 #Relic Skills
 tagGDX1RelicSkillD106Name=灼热脉冲
-tagGDX1RelicSkillD106Desc=想你的目标释放一阵至高神的神圣愤怒，将它与那些愚蠢的靠的太近的敌人烧成灰烬。
+tagGDX1RelicSkillD106Desc=向你的目标释放一阵至高神的神圣愤怒，将它与那些愚蠢的靠的太近的敌人烧成灰烬。
 
 tagGDX2RelicSkillC201Name=爆炎
 tagGDX2RelicSkillC201Desc=当你攻击时释放一阵地狱烈焰，会在你释放的地方把那些蠢货们焚烧殆尽。
@@ -333,7 +333,7 @@ tagGDX2RelicSkillD203Name=沙魔
 tagGDX2RelicSkillD203Desc=像你的敌人释放沙暴。^o沙暴会受到玩家伤害加成的影响。
 
 tagGDX2RelicSkillD204Name=饥渴之触
-tagGDX2RelicSkillD204Desc=把你的愤怒集中在代表你饥渴的旋风中，只要你持续施法就会消耗你周围人的鲜血。 ^o需要一把近战武器。攻速为100%时，饥渴之触每0.16秒造成伤害并消耗能量。
+tagGDX2RelicSkillD204Desc=把你的愤怒集中在代表你饥渴的旋风中，只要你持续施法就会消耗你周围人的鲜血。^o需要一把近战武器。攻速为100%时，饥渴之触每0.16秒造成伤害并消耗能量。
 
 tagGDX2RelicSkillD205Name=宁静
 tagGDX2RelicSkillD205Desc=宁静会在艰难时刻把你从伤痛中解救出来。
@@ -406,7 +406,7 @@ tagGDX2RuneSkillB204=裂隙闪现
 tagGDX2RuneSkillB204Desc=撕裂现实把自己传送到一个附近的目标位置。
 
 tagGDX2RuneSkillB205=冲撞
-tagGDX2RuneSkillB205Desc=冲撞一个敌人到附近的目标地，没有任何敢阻拦你的道路，即使有也被粉碎了。 ^o当装备盾牌时，盾牌的伤害也会被计算在内。
+tagGDX2RuneSkillB205Desc=冲撞一个敌人到附近的目标地，没有任何敢阻拦你的道路，即使有也被粉碎了。^o当装备盾牌时，盾牌的伤害也会被计算在内。
 
 tagGDX2RuneSkillB206=逃脱
 tagGDX2RuneSkillB206Desc=向后跳跃，迅速摆脱你的敌人，只留下一道眩光。
@@ -440,7 +440,7 @@ tagGDX2RuneSkillC209=精通拉恩之力
 tagGDX2RuneSkillC209Desc=口中默念向拉恩祈祷，英勇地穿过敌人，向目标发起冲锋。^o当装备盾牌时，盾牌的伤害也会被计算在内。
 
 tagGDX2RuneSkillC210=温迪戈冲撞
-tagGDX2RuneSkillC210Desc=将敌人拖向目标地点，使他们在一路上支离破碎。 ^o当装备盾牌时，盾牌的伤害也会被计算在内。
+tagGDX2RuneSkillC210Desc=将敌人拖向目标地点，使他们在一路上支离破碎。^o当装备盾牌时，盾牌的伤害也会被计算在内。
 
 tagGDX2RuneSkillC211=强力撞击
 tagGDX2RuneSkillC211Desc=将敌人撞向目标地点，撕裂敌军的阵形，使他们心惊胆寒。^o当装备盾牌时，盾牌的伤害也会被计算在内。
@@ -455,7 +455,7 @@ tagGDX2RuneSkillC214=雷鸣
 tagGDX2RuneSkillC214Desc=如同雷鸣一般迅速向目标地跳跃。
 
 tagGDX2RuneSkillC215=狮蝎猛扑
-tagGDX2RuneSkillC215Desc=朝目的地猛扑过去并周围喷洒带毒物质。
+tagGDX2RuneSkillC215Desc=朝目的地猛扑过去并向周围喷洒带毒物质。
 
 tagGDX2RuneSkillC216=奥术裂隙
 tagGDX2RuneSkillC216Desc=撕裂现实将自己带向目标地并爆出一阵奥术能量。
@@ -470,7 +470,7 @@ tagGDX2RuneSkillC219=动乱
 tagGDX2RuneSkillC219Desc=当你想前往目标点时现实会屈从你的意志并立即进行传送。
 
 tagGDX2RuneSkillC220=狡狐
-tagGDX2RuneSkillC220Desc=如同狡猾的雪狐一样，壁冰冻你的敌人并且逃离战斗。
+tagGDX2RuneSkillC220Desc=如同狡猾的雪狐一样，冰冻你的敌人并且逃离战斗。
 
 tagGDX2RuneSkillC221=凤凰展翅
 tagGDX2RuneSkillC221Desc=如凤凰一样腾空而起，并留下熊熊燃烧的火焰。
@@ -488,10 +488,10 @@ tagGDX2RuneSkillC225=暴起一击
 tagGDX2RuneSkillC225Desc=突然的暴起给予你的目标敌人粉碎性的打击。^o需要一把近战武器。
 
 tagGDX2RuneSkillC226=蝎尾刺
-tagGDX2RuneSkillC226Desc=你冲向目标就如同蝎子蛰向目标一样。^o需要一把近战武器。 当装备盾牌时，盾牌的伤害也会被计算在内。
+tagGDX2RuneSkillC226Desc=你冲向目标就如同蝎子蛰向目标一样。^o需要一把近战武器。当装备盾牌时，盾牌的伤害也会被计算在内。
 
 tagGDX2RuneSkillC227=灵魂冲击
-tagGDX2RuneSkillC227Desc=冲锋敌军目标将他们挫骨扬灰。^o需要一把近战武器。 当装备盾牌时，盾牌的伤害也会被计算在内。
+tagGDX2RuneSkillC227Desc=冲锋敌军目标将他们挫骨扬灰。^o需要一把近战武器。当装备盾牌时，盾牌的伤害也会被计算在内。
 
 
 tagGDX2RuneSkillD201=阿玛托克的呼吸
@@ -552,10 +552,10 @@ tagGDX2RuneSkillD219=黑暗欲望
 tagGDX2RuneSkillD219Desc=凭借极具破坏力的混乱力量撕开敌人的面纱。^o需要一把近战武器。
 
 tagGDX2RuneSkillD220=风暴巨人冲锋
-tagGDX2RuneSkillD220Desc=携带着风暴泰坦的力量向目标敌人冲锋。^o需要一把近战武器。 当装备盾牌时，盾牌的伤害也会被计算在内。
+tagGDX2RuneSkillD220Desc=携带着风暴泰坦的力量向目标敌人冲锋。^o需要一把近战武器。当装备盾牌时，盾牌的伤害也会被计算在内。
 
 tagGDX2RuneSkillD221=炽热冲锋
-tagGDX2RuneSkillD221Desc=带着已逝之神的火焰冲入战场并把敌人焚烧到灰飞烟灭。 ^o需要一把近战武器。 当装备盾牌时，盾牌的伤害也会被计算在内。
+tagGDX2RuneSkillD221Desc=带着已逝之神的火焰冲入战场并把敌人焚烧到灰飞烟灭。^o需要一把近战武器。当装备盾牌时，盾牌的伤害也会被计算在内。
 
 
 #FactionSkills
