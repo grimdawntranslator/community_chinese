@@ -1154,7 +1154,7 @@ tagGDX1RelicD110Desc="沉醉杀戮。"
 tagGDX1RelicD111=尤若布鲁克的收割
 tagGDX1RelicD111Desc="不死领主的亲传。"
 tagGDX1RelicD112=伊格纳法的燃烧
-tagGDX1RelicD112Desc="伊格纳法之石是光明会修复并净化的古代墓葬中的神器 。"
+tagGDX1RelicD112Desc="伊格纳法之石是光明会修复并净化的古代墓葬中的神器。"
 tagGDX1RelicD113=莫格卓根的热忱
 tagGDX1RelicD113Desc="孤狼之死，群狼而生。"
 tagGDX1RelicD114=死亡追猎者
@@ -1479,34 +1479,34 @@ tagGDX1EnchantC109Desc="来自掠夺者的礼物，强化凡体。"^w^n(用于�
 #ItemComponents 镶嵌物
 
 tagGDX1CompA101Name=力量之印
-tagGDX1CompA101Desc="伟大尤尔加德佩戴的印章，聚集了大量造物主的奥术能量转为无与伦比的物理力量。"^w^n(用于所有类型的武器，盾牌和副手法器)
+tagGDX1CompA101Desc="伟大尤尔加德佩戴的印章，聚集了大量造物主的奥术能量转为无与伦比的物理力量。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagGDX1CompA102Name=刀刃之印
-tagGDX1CompA102Desc="传说夜刃贝尔戈斯安设计的印章，加强刺客的致命攻击并使目标血流不止。"^w^n(用于所有类型的武器，盾牌和副手法器)
+tagGDX1CompA102Desc="传说夜刃贝尔戈斯安设计的印章，加强刺客的致命攻击并使目标血流不止。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagGDX1CompA103Name=天空之印
-tagGDX1CompA103Desc="奥术大师特洛赞佩戴的第一枚印章，能够召唤天空的力量。"^w^n(用于所有类型的武器，盾牌和副手法器)
+tagGDX1CompA103Desc="奥术大师特洛赞佩戴的第一枚印章，能够召唤天空的力量。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagGDX1CompA104Name=疫病之印
-tagGDX1CompA104Desc="这枚印章注入了三巫神的力量，能唤起受害者曾遭受过的每一种疾病。"^w^n(用于所有类型的武器，盾牌和副手法器)
+tagGDX1CompA104Desc="这枚印章注入了三巫神的力量，能唤起受害者曾遭受过的每一种疾病。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagGDX1CompA105Name=腐败之印
-tagGDX1CompA105Desc="虽然这枚印章的创造者已被历史遗忘，但它仍有驾驭虚化的能力。"^w^n(用于所有类型的武器，盾牌和副手法器)
+tagGDX1CompA105Desc="虽然这枚印章的创造者已被历史遗忘，但它仍有驾驭虚化的能力。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagGDX1CompA106Name=虚空之印
-tagGDX1CompA106Desc="制做这枚印章的方法非常邪恶。那些使用它的人堕落且渴望力量。"^w^n(用于所有类型的武器，盾牌和副手法器)
+tagGDX1CompA106Desc="制做这枚印章的方法非常邪恶。那些使用它的人堕落且渴望力量。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagGDX1CompA107Name=黑夜之印
-tagGDX1CompA107Desc="夜刃阿玛拉斯塔为了实现一个特殊目标而设计的印章。"^w^n(用于所有类型的武器，盾牌和副手法器)
+tagGDX1CompA107Desc="夜刃阿玛拉斯塔为了实现一个特殊目标而设计的印章。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagGDX1CompA108Name=毁灭之印
-tagGDX1CompA108Desc="为了奥祖因的荣耀而创造的印章，燃烧将毁灭那些藐视天神之人。"^w^n(用于所有类型的武器，盾牌和副手法器)
+tagGDX1CompA108Desc="为了奥祖因的荣耀而创造的印章，燃烧将毁灭那些藐视天神之人。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagGDX1CompA109Name=暗影之印
-tagGDX1CompA109Desc="夜刃尼达拉的最爱，能将刺骨的酸性注入武器。"^w^n(用于所有类型的武器，盾牌和副手法器)
+tagGDX1CompA109Desc="夜刃尼达拉的最爱，能将刺骨的酸性注入武器。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagGDX1CompA110Name=共鸣之印
-tagGDX1CompA110Desc="按照光明会精确的标准制成，这枚印章可以强化武器的魔法属性，甚至不精通奥术的人也可使用。"^w^n(用于所有类型的武器，盾牌和副手法器)
+tagGDX1CompA110Desc="按照光明会精确的标准制成，这枚印章可以强化武器的魔法属性，甚至不精通奥术的人也可使用。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagGDX1CompA111Name=污染之心
 tagGDX1CompA111Desc="一颗仍在跳动的心脏，跳动伴随着虚化腐败。"^w^n(用于项链和勋章)

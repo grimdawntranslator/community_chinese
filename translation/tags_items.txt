@@ -903,12 +903,12 @@ tagGloves=护手
 #QualityClass 物品质量等级
 tagMagic=魔法
 tagRare=稀有
-tagEpic=史诗级
+tagEpic=史诗
 tagLegend=传奇
 
-tagStyleUniqueTier2=强化的
-tagStyleUniqueTier3=神话的
-tagStyleFactionTier2=精英级
+tagStyleUniqueTier2=强化
+tagStyleUniqueTier3=神话
+tagStyleFactionTier2=精英
 
 tagSoulbound=灵魂绑定
 tagDestroySoulbound=摧毁灵魂绑定的物品？
@@ -3373,7 +3373,7 @@ tagCompA044Name=粗硬毛皮
 tagCompA044Desc="一片来自一种非自然魔兽的厚厚的毛皮"^w^n(用于所有护甲)
 
 tagCompA045Name=弹性铠甲片
-tagCompA045Desc="从一件经历了无数战斗的盔甲上取下的凯甲片，看起来让它退役还早得很。"^w^n(用于盾牌，副手，胸甲和护肩)
+tagCompA045Desc="从一件经历了无数战斗的盔甲上取下的凯甲片，看起来让它退役还早得很。"^w^n(用于盾牌，法器副手，胸甲和护肩)
 
 tagCompA046Name=抛光翡翠
 tagCompA046Desc="纯净的宝石，抛光后已臻完美。"^w^n(用于盾牌，法器副手，戒指，头盔和胸甲)
@@ -3467,7 +3467,7 @@ tagCompB013Name=^k魂铁
 tagCompB013Desc="禁锢在其中的魂灵让你满脑子都是疯狂的私语。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompB014Name=^k贝若纳斯的碎片
-tagCompB014Desc="虽然只是传说中杀死贝若纳斯的神圣之矛的一块碎片，但仍残留着强大的力量。"^w^n(用于所有类型的武器，盾牌和副手法器)
+tagCompB014Desc="虽然只是传说中杀死贝若纳斯的神圣之矛的一块碎片，但仍残留着强大的力量。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompB015Name=^k血腥磨石
 tagCompB015Desc="浸透在堕落之血中，这块被诅咒的磨刀石将引发利刃对鲜血无比的饥渴。"^w^n(用于斧，剑，枪械和双手弩)
@@ -3598,28 +3598,28 @@ tagPotionEnergyA01=能量药水
 tagPotionEnergyA01Desc="恢复精力，补充灵魂。"
 
 tagPotionConstitutionA01=食物补给
-tagPotionConstitutionA01Desc="尝起来像腐烂的污物，不过却能永久保存，还能回复体力。"
+tagPotionConstitutionA01Desc="尝起来像腐烂的污物，不过却能永久保存，还能恢复体力。"
 
 tagPotionConstitutionB01=生命精华
-tagPotionConstitutionB01Desc="拥有着挥之不去的生命能量，能够被吸收以回复体力。"
+tagPotionConstitutionB01Desc="拥有着挥之不去的生命能量，能够被吸收以恢复体力。"
 
 tagPotionDirections=[右键点击以使用]
 tagCombineStacks=[Ctrl+左键来拆分堆叠物品]
 tagHideTooltip=[按住Ctrl 来隐藏装备信息窗口]
 
 #Bonuses 奖励
-tagBonusLifePercentAbsPercent={^E}恢复 {^H}{%.0f0}%+{%.0f1} {^E}生命 {^H}+{%.0f2}% {^E}持续恢复量
-tagBonusLifePercentPercent={^w}恢复 {^H}{%.0f0}% {^w}生命 {^H}+{%.0f1}% {^w}持续恢复量
-tagBonusLifePercentAbs={^w}恢复{^H}{%.0f0}%+{%.0f1}{^w}生命
-tagBonusLifePercent={^w}恢复{^H}{%.0f0}%{^w}的生命
-tagBonusLifeAbs={^w}恢复{^H}{%.0f0}{^w}生命
-tagBonusManaPercentAbs={^w}恢复{^H}{%.0f0}%+{%.0f1}{^w}能量
-tagBonusManaPercent={^w}恢复{^H}{%.0f0}%{^w}的能量
-tagBonusManaAbs={^w}恢复{^H}{%.0f0}%{^w}能量
-tagBonusExperience={%+d0}的经验值
-tagBonusMoney={%+d0}铁币
-tagBonusSkillPoint={%+d0}技能点数
-tagBonusAttribPoint={%+d0}属性点数
+tagBonusLifePercentAbsPercent={^E}恢复 {^H}{%.0f0}% + {%.0f1} {^E}生命 {^H}+{%.0f2}% {^E}持续恢复量
+tagBonusLifePercentPercent={^E}恢复 {^H}{%.0f0}% {^E}生命 {^H}+{%.0f1}% {^E}持续恢复量
+tagBonusLifePercentAbs={^E}恢复 {^H}{%.0f0}% + {%.0f1} {^E}生命
+tagBonusLifePercent={^E}恢复 {^H}{%.0f0}% {^E}生命
+tagBonusLifeAbs={^E}恢复 {^H}{%.0f0} {^E}生命
+tagBonusManaPercentAbs={^E}恢复 {^H}{%.0f0}% + {%.0f1} {^E}能量
+tagBonusManaPercent={^E}恢复 {^H}{%.0f0}% {^E}能量
+tagBonusManaAbs={^E}恢复 {^H}{%.0f0} {^E}能量
+tagBonusExperience={%+d0} 经验值
+tagBonusMoney={%+d0} 铁币
+tagBonusSkillPoint={%+d0} 技能点数
+tagBonusAttribPoint={%+d0} 属性点数
 
 
 #Devotion 虔诚
