@@ -26,7 +26,7 @@ tagRepAwarded={^g}{%s1}的声望 +{%d0}
 tagLoreBonus=学识奖励
 
 tagLevelUp=等级提升
-tagLevelReached=你已经到达了 {^y}{%d0} 级
+tagLevelReached=你已经到达了 {^y}{%d0}{^-} 级
 
 #Devotion
 
@@ -927,7 +927,7 @@ tagCharStatsVitality=活力
 tagCharStatsChaos=混乱
 tagCharStatsAether=虚化
 tagCharStatsLifeLeech=生命吸取
-tagCharStatsManaLeech=法力吸取
+tagCharStatsManaLeech=能量吸取
 tagCharStatsDurInternalTrauma=创伤
 tagCharStatsDurFrostburn=霜燃
 tagCharStatsDurBurn=燃烧
@@ -936,7 +936,7 @@ tagCharStatsDurElectrocute=电击
 tagCharStatsDurVitalityDecay=活力衰减
 tagCharStatsDurBleeding=流血
 tagCharStatsDurLifeLeech=生命吸取
-tagCharStatsDurManaLeech=法力吸取
+tagCharStatsDurManaLeech=能量吸取
 
 #Pets 宠物
 tagCharStatsPetHealth=战宠生命值加成
@@ -1440,11 +1440,11 @@ tagCharConstitutionModifier={%+.0f0}% {^E}体力
 tagCharLifeRegenModifier={^E}生命回复速度提高 {^H}{%.0f0}%
 tagCharManaRegenModifier={^E}能量回复速度提高 {^H}{%.0f0}%
 
-tagCharManaLimitReserve={%.0f0} {^E}点预留能量值
-tagCharManaLimitReserveMod={%+.0f0} {^E}点预留能量值
-tagCharManaLimitReserveReduction={^E}预留能量值减少 {^H}{%.0f0}
-tagCharManaLimitReserveModifier={^E}预留能量值 {^H}{+%.0f0}%
-tagCharManaLimitReserveReductionModifier={^E}预留能量值减少效果提高 {^H}{%.0f0}%
+tagCharManaLimitReserve={%.0f0} {^E}预留能量值
+tagCharManaLimitReserveMod={%+.0f0} {^E}预留能量值
+tagCharManaLimitReserveReduction=-{%.0f0} {^E}预留能量值消耗
+tagCharManaLimitReserveModifier={+%.0f0}% {^E}预留能量值
+tagCharManaLimitReserveReductionModifier=-{%.0f0}% {^E}预留能量值
 
 tagCharRunSpeed={%+.0f0}% {^E}移动速度
 tagCharSpellCastSpeed={%+.0f0}% {^E}施法速度
@@ -1489,7 +1489,7 @@ tagCharDodgePercentR={%.0f0}-{%.0f1}% {^E}的几率无视近战攻击
 tagCharDeflectProjectilesR={%.0f0}-{%.0f1}% {^E}的几率无视投射物
 tagCharIncreasedExperienceR={^E}经验获取 {^H}{%+.0f0}-{%.0f1}%
 tagCharLightRadiusR={^E}光照范围 {^H}{%+.0f0}-{%.0f1}%
-tagCharItemGlobalReductionR={^E}装备物品所需属性减少 {^H}{%.0f0}-{%.0f1}%
+tagCharItemGlobalReductionR={^E}装备物品所需属性 {^H}-({%.0f0}-{%.0f1}%)
 tagCharLevelReqReductionR={^E}装备物品所需等级 {^H}-({%.0f0}-{%.0f1})
 tagCharArmorStrengthReqReductionR={^E}装备护甲所需体格 {^H}-({%.0f0}-{%.0f1}%)
 tagCharArmorDexterityReqReductionR={^E}装备护甲所需灵巧 {^H}-({%.0f0}--{%.0f1}%)
@@ -1516,11 +1516,11 @@ tagCharWeaponIntelligenceReqReductionR={^E}装备所有武器所需精神 {^H}-(
 tagCharWeaponStrengthReqReductionR={^E}装备所有武器所需体格 {^H}-({%.0f0}-{%.0f1}%)
 tagCharWeaponDexterityReqReductionR={^E}装备所有武器所需灵巧 {^H}-({%.0f0}-{%.0f1}%)
 
-SkillManaCostReductionR={^E}技能能量消耗减少 {^H}{%.0f0}%
-SkillCooldownReductionR={^E}技能冷却时间减少 {^H}{%.0f0}%
-SkillProjectileSpeedModifierR={^E}投射物飞行速度 {^H}{%+.0f0}%
-SkillManaCostReductionModifierR={^E}技能能量消耗减少效果提高 {^H}{%.0f0}%
-SkillCooldownReductionModifierR={^E}技能冷却时间减少效果提高 {^H}{%.0f0}%
+SkillManaCostReductionR=-{%.0f0}% {^E}技能能量消耗
+SkillCooldownReductionR=-{%.0f0}% {^E}技能冷却时间
+SkillProjectileSpeedModifierR={%+.0f0}% {^E}投射物飞行速度
+SkillManaCostReductionModifierR=-{%.0f0}% {^E}技能能量消耗
+SkillCooldownReductionModifierR=-{%.0f0}% {^E}技能冷却时间
 
 tagDamageConversion={%.0f0}% {^E}的{%s1}转换为{%s2}
 tagDamageRemoval={^E}{%s1}减少 {^s}{%.0f0}%
@@ -1543,23 +1543,23 @@ tagAttackSpeedAverage=速度：中等
 tagAttackSpeedFast=速度：快速
 tagAttackSpeedVeryFast=速度：非常快
 
-tagAttackSpeed={^S}每秒攻击 {^W}{%.2f0}{^S} 次
-tagAttackSpeedR={^S}每秒攻击 {^W}{%.2f0}-{%.2f1}{^S} 次
+tagAttackSpeed={^S}每秒攻击 {^W}{%.2f0} {^S}次
+tagAttackSpeedR={^S}每秒攻击 {^W}{%.2f0}-{%.2f1} {^S}次
 
 tagCharOffensiveAbility={%+.0f0} {^E}攻击能力
 tagCharDefensiveAbility={%+.0f0} {^E}防御能力
-tagCharOffensiveAbilityModifier={^H}{%+.0f0}% {^E}攻击能力
-tagCharDefensiveAbilityModifier={^H}{%+.0f0}% {^E}防御能力
+tagCharOffensiveAbilityModifier={%+.0f0}% {^E}攻击能力
+tagCharDefensiveAbilityModifier={%+.0f0}% {^E}防御能力
 
-tagCharDefensiveBlockRecoveryReduction={^E}格挡恢复时间 {^H}{-%.0f0}%
-tagCharEnergyAbsorptionPercent={^E}敌人法术能量吸收 {^H}{%+.0f0}%
+tagCharDefensiveBlockRecoveryReduction={-%.0f0}% {^E}格挡恢复时间
+tagCharEnergyAbsorptionPercent={%+.0f0}% {^E}敌人法术能量吸收
 tagCharDodgePercent={%.0f0}% {^E}的几率无视近战攻击
 tagCharDeflectProjectiles={%.0f0}% {^E}的几率无视投射物
 
 tagCharIncreasedExperience={^E}经验获取 {^H}{%+.0f0}%
 tagCharLightRadius={^E}光照范围 {^H}{%+.0f0}%
 
-tagCharItemGlobalReduction={^E}装备需求的所有属性减少 {^H}{%.0f0}%
+tagCharItemGlobalReduction={^E}装备物品所需属性 {^H}-{%.0f0}%
 tagCharLevelReqReduction={^E}装备物品所需等级 {^H}-{%.0f0}
 tagCharArmorStrengthReqReduction={^E}装备护甲所需体格 {^H}-{%.0f0}%
 tagCharArmorDexterityReqReduction={^E}装备护甲所需灵巧 {^H}-{%.0f0}%
@@ -1623,8 +1623,8 @@ tagDodge=闪避
 tagBlock=格挡
 tagDeflect=偏斜
 tagInvulnerable=无敌的
-GiveMoneyFormat=+{%d0}铁币
-TakeMoneyFormat={%d0}铁币
+GiveMoneyFormat=+{%d0} 铁币
+TakeMoneyFormat={%d0} 铁币
 ExperienceFormat=经验值 +{%d0}
 FactionFormat={%s1}声望 +{%d0}
 FactionUnlocked=解锁{%s0}
@@ -1653,9 +1653,9 @@ SkillFloatFormat={%.0f0 %s1}
 SkillFloat1Format={%.1f0 %s1}
 SkillFloat2Format={%.2f0 %s1}
 SkillSecondFormat={%.1f0 {^E}秒%s1}
-SkillSecondFormatMod=+{%.1f0 {^E}秒 %s1}
+SkillSecondFormatMod=+{%.1f0 {^E}秒%s1}
 SkillDistanceFormat={%.1f0 {^E}米%s1}
-SkillDistanceFormatMod=+{%.1f0 {^E}米 %s1}
+SkillDistanceFormatMod=+{%.1f0 {^E}米%s1}
 SkillCostFormat={%.1f0 %s1}
 SkillCostFormatMod=+{%.1f0 %s1}
 SkillPercentFormat={%.0f0% %s1}
@@ -1664,7 +1664,7 @@ SkillWeaponDamageFormat={%.0f0%} {^E}的武器伤害
 SkillWeaponDamageValuesFormat={%.0f0%} {^E}武器伤害 ({^H}{%.0f1}-{%.0f2}{^E})
 SkillWeaponDamageMainhandFormat={%.0f0%} {^E}主手伤害 ({^H}{%.0f1}-{%.0f2}{^E})
 SkillWeaponDamageOffhandFormat={%.0f0%} {^E}副手伤害 ({^H}{%.0f1}-{%.0f2}{^E})
-SkillWeaponDamagePetFormat={%.0f0%} {^E} 战宠基础攻击伤害
+SkillWeaponDamagePetFormat={%.0f0%} {^E}战宠基础攻击伤害
 SkillChargeFactor=每次充能级数
 SkillChargeMax={^E}充能等级：
 SkillChargeLevel={^H}{%d0}%
@@ -1687,7 +1687,7 @@ SkillPetLimitMod=+{%d0} {^E}最大召唤个数
 SkillLifeBonus={%+.1f0} {^E}生命回复
 SkillManaBonus={%+.1f0} {^E}能量回复
 SkillLifePercent={%.1f0}% {^E}生命回复
-SkillManaPercent= {%.1f0}% {^E}能量回复
+SkillManaPercent={%.1f0}% {^E}能量回复
 SkillLifeBonusAndPercent={%.0f1}% + {%.0f0} {^E}生命回复
 SkillManaBonusAndPercent={%.0f1}% + {%.0f0} {^E}能量回复
 SkillPetDescriptionHeading={%s0}的属性：
@@ -1788,11 +1788,11 @@ tagShieldBlockInfo={%.0f0}% 的几率格挡 {^W}{%.0f1} 伤害
 
 
 
-SkillManaCostReduction={^E}技能能量消耗减少 {^H}{%.0f0}%
-SkillCooldownReduction={^E}技能冷却时间减少 {^H}{%.0f0}%
-SkillProjectileSpeedModifier={^E}投射物飞行速度 {^H}{%+.0f0}%
-SkillManaCostReductionModifier={^E}技能能量消耗减少效果提高 {^H}{%.0f0}%
-SkillCooldownReductionModifier={^E}技能冷却时间减少效果提高 {^H}{%.0f0}%
+SkillManaCostReduction=-{%.0f0}% {^E}技能能量消耗
+SkillCooldownReduction=-{%.0f0}% {^E}技能冷却时间
+SkillProjectileSpeedModifier={%+.0f0}% {^E}投射物飞行速度
+SkillManaCostReductionModifier=-{%.0f0}% {^E}技能能量消耗
+SkillCooldownReductionModifier=-{%.0f0}% {^E}技能冷却时间
 
 GlobalChanceOfAllTag={^E}的几率：{^H}
 GlobalChanceOfOneTag={^E}的几率随机触发下列效果之一：{^H}
@@ -1906,9 +1906,9 @@ DamageFear={^E}恐惧目标{%t0}
 DamageConfusion={^E}迷惑目标{%t0}
 DamageDisruption={^E}打断目标技能{%t0}
 DamagePercentCurrentLife={%t0}% {^E}减少敌人当前生命值
-DamageManaDrain={%t0}% {^E}法力燃烧
-DamageManaBurnRatio= {^E}({^H}{%.0f0}% {^E}燃烧的法力造成伤害)
-DamageModifierManaBurn={%.0f0}% {^E}燃烧的法力造成伤害
+DamageManaDrain={%t0}% {^E}能量燃烧
+DamageManaBurnRatio= {^E}({^H}{%.0f0}% {^E}燃烧的能量造成伤害)
+DamageModifierManaBurn={%.0f0}% {^E}燃烧的能量造成伤害
 
 DamageDurationAttackSpeed=% {^E}减慢敌人攻击速度
 DamageDurationCold= {^E}霜燃伤害
@@ -1991,7 +1991,7 @@ DamageDurationModifierDefensiveAbility={%+.0f0}% {^E}减少目标防御能力
 DamageDurationModifierOffensiveReduction={%+.0f0}% {^E}减少目标物理伤害
 ImprovedTimeFormat= {^E}持续时间 {^H}{%+.0f0}%
 ImprovedTimeFormatR= {^E}持续时间 {^H}{%+.0f0}-{%.0f1}%
-IncreasedDuration= {^E}{%s1}的持续时间 {^H}{%+.0f0}%
+IncreasedDuration={^E}{%s1}的持续时间 {^H}{%+.0f0}%
 
 RetaliationCold={%t0} {^E}冰冷反击
 RetaliationFire={%t0} {^E}火焰反击
@@ -2053,12 +2053,12 @@ RetaliationDurationModifierOffensiveAbility={%+.0f0}% {^E}减少攻击能力反�
 RetaliationDurationModifierOffensiveReduction={%+.0f0}% {^E}减少伤害反击
 RetaliationDurationModifierPoison={%+.0f0}% {^E}毒素反击
 
-DefenseAbsorptionProtection={%.0f0} 点护甲
-DefenseAbsorptionProtectionR={%.0f0}-{%.0f1} 点护甲
-DefenseAbsorptionProtectionPlus=+{%.0f0} {^E}点护甲
-DefenseAbsorptionProtectionPlusR=+{%.0f0}-{%.0f1} {^E}点护甲
-DefenseAbsorptionProtectionBonus=+{%.0f0} {^E}点护甲加成
-DefenseAbsorptionProtectionBonusR=+{%.0f0}-{%.0f1} {^E}点护甲加成
+DefenseAbsorptionProtection={%.0f0} 护甲
+DefenseAbsorptionProtectionR={%.0f0}-{%.0f1} 护甲
+DefenseAbsorptionProtectionPlus=+{%.0f0} {^E}护甲
+DefenseAbsorptionProtectionPlusR=+{%.0f0}-{%.0f1} {^E}护甲
+DefenseAbsorptionProtectionBonus=+{%.0f0} {^E}护甲加成
+DefenseAbsorptionProtectionBonusR=+{%.0f0}-{%.0f1} {^E}护甲加成
 DefensePhysical={%.0f0}% {^E}物理抗性
 DefensePhysicalR={%.0f0}-{%.0f1}% {^E}物理抗性
 DefensePierce={%.0f0}% {^E}穿刺抗性
@@ -2119,7 +2119,7 @@ DefenseLifeDuration={^E}活力衰减时间减少 {^H}{%.0f0}%
 DefenseLifeLeachDuration={^E}生命吸取时间减少 {^H}{%.0f0}%
 DefenseManaLeachDuration={^E}能量吸取时间减少 {^H}{%.0f0}%
 DefensePercentCurrentLife=+{%.0f0}% {^E}生命值百分比减少抗性
-DefenseManaBurnRatio=+{%.0f0}% {^E}法力燃烧抗性
+DefenseManaBurnRatio=+{%.0f0}% {^E}能量燃烧抗性
 DefenseProtectionModifier={^E}护甲提高 {^H}{%.0f0}%
 DefenseProtectionModifierR={^E}护甲提高 {^H}{%.0f0}-{%.0f1}%
 DefenseAbsorptionModifier={^E}护甲吸收提高 {^H}{%.0f0}%
@@ -2291,7 +2291,6 @@ tagForceMove=强制移动
 tagUse=互动
 tagPickup=拾取
 tagPushToTalk=按键说话
-
 tagUC_Button=解锁内容
 tagUC_Message=请输入你的解锁码来解锁新内容。
 tagUC_OK=确定

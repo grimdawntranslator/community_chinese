@@ -145,7 +145,7 @@ Mutator_Player_10=虚弱
 Mutator_Player_10Desc=玩家的暴击减少，但更容易命中目标。
 
 SkillRetaliationDamageFormat={%.0f0%} {^E}的反击伤害附加至攻击
-SkillRetaliationDamageFormatNumbers={%.0f0%} {^E}反击伤害附加至攻击 ({^H}{%.0f1}-{%.0f2}{^E})
+SkillRetaliationDamageFormatNumbers={%.0f0%} {^E}的反击伤害附加至攻击 ({^H}{%.0f1}-{%.0f2}{^E})
 
 tagCharHealIncreaseModifier={^E}治疗效果提高 {^H}{%.0f0}%
 tagCharHealIncreaseModifierR={^E}治疗效果提高 {^H}{%.0f0}%-{%.0f1}%

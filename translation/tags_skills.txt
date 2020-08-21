@@ -353,11 +353,11 @@ tagClass03SkillDescription14A=施放一束能够撕裂现实世界的熵能闪�
 
 
 tagClass03SkillName07A=[神秘学者]妖术净化
-tagClass03SkillDescription07A=使敌人的法术失效，并且基于敌人剩余的能量值造成法力燃烧伤害。
+tagClass03SkillDescription07A=使敌人的法术失效，并且基于敌人剩余的能量值造成能量燃烧伤害。
 tagClass03SkillName08A=[神秘学者]混沌之箭
 tagClass03SkillDescription08A=施放大量的熵能，撕碎敌人的肉身。
 tagClass03SkillName08B=[神秘学者]能量燃烧
-tagClass03SkillDescription08B=在增强混沌伤害的同时，燃烧掉一部分敌人的能量并且造成法力燃烧伤害。
+tagClass03SkillDescription08B=在增强混沌伤害的同时，燃烧掉一部分敌人的能量并且造成能量燃烧伤害。
 tagClass03SkillName09A=[神秘学者]守护之环
 tagClass03SkillDescription09A=在施法者周围制造一个魔法圆环，圆环能够恢复生命并且击退敌人。
 tagClass03SkillName15A=[神秘学者]拜斯迈的庇护
