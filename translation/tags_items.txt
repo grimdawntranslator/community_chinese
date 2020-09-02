@@ -4414,7 +4414,7 @@ tagQuestItemBrothersAmuletDesc="致亲爱的哥哥：愿这枚护身符护佑你
 tagQuestItemSlithRing=蛇人原始戒指
 tagQuestItemSlithRingDesc="这枚戒指上有一股挥之不去的恶臭。"
 
-tagItemTest=人类凝视者♂
+tagItemTest=人形凝视者♂
 tagItemTestDesc="一个成就不凡的家伙把凝视者套在了身上。"
 
 #Equipment Locations 装备位置
