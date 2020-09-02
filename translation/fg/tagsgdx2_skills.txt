@@ -330,7 +330,7 @@ tagGDX2RelicSkillD202Name=维尔爆发
 tagGDX2RelicSkillD202Desc=猛击地面，并且使你面前的地面呈现扇形的破碎区域。
 
 tagGDX2RelicSkillD203Name=沙魔
-tagGDX2RelicSkillD203Desc=像你的敌人释放沙暴。^o沙暴会受到玩家伤害加成的影响。
+tagGDX2RelicSkillD203Desc=向你的敌人释放沙暴。^o沙暴会受到玩家伤害加成的影响。
 
 tagGDX2RelicSkillD204Name=饥渴之触
 tagGDX2RelicSkillD204Desc=把你的愤怒集中在代表你饥渴的旋风中，只要你持续施法就会消耗你周围人的鲜血。^o需要一把近战武器。攻速为100%时，饥渴之触每0.16秒造成伤害并消耗能量。

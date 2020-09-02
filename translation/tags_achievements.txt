@@ -36,10 +36,10 @@ ach008Title=尸山血海
 ach008Desc=清除凯恩世界的 100000只 怪物。
 
 ach009Title=末世友谊
-ach009Desc=与 1个 派系关系达到崇敬。
+ach009Desc=与 1个 势力关系达到崇敬。
 
 ach010Title=凯恩世界的典范
-ach010Desc=与 6个 派系关系达到崇敬。
+ach010Desc=与 6个 势力关系达到崇敬。
 
 ach011Title=至高之神的仆从
 ach011Desc=在凯蒙的神选者的声望达到崇敬。

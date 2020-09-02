@@ -15,7 +15,7 @@ tagGDX2WeaponSwordD201=毒疤之裔
 tagGDX2WeaponSwordD201_Desc="这柄剑刃淬入的毒液散发着腐烂与胆汁的气味。"
 tagGDX2WeaponSwordD202=灵魂之刃
 tagGDX2WeaponSwordD205=冷冽之心
-tagGDX2WeaponSwordD205_Desc=" '困于异界，速来救援' 的字样被匆忙地刻在了剑柄上。"
+tagGDX2WeaponSwordD205_Desc="“困于异界，速来救援”的字样被匆忙地刻在了剑柄上。"
 tagGDX2WeaponSwordD206=沙魔之刃
 tagGDX2WeaponSwordD207=沙魔切刀
 tagGDX2WeaponSwordD208=夜之祈祷
@@ -118,7 +118,7 @@ tagGDX2WeaponMelee2hC202=怒刃
 tagGDX2WeaponMelee2hC203=摩根尼斯之怒
 tagGDX2WeaponMelee2hC203_Desc="摩根尼斯在堕入黑暗之前挥舞的强大战锤。"
 
-tagGDX2WeaponMelee2hD201=德里格拉'阿诺尔
+tagGDX2WeaponMelee2hD201=德里格拉·阿诺尔
 tagGDX2WeaponMelee2hD201_Desc="宏伟守护者的次席斗士，瘟疫亚瑟的宝贵武器。"
 tagGDX2WeaponMelee2hD202=纳丹之触
 tagGDX2WeaponMelee2hD202_Desc="用于纪念盗贼与刺客的守护神的传奇兵刃，在遗失在漫长的岁月中之前曾被无数的夜刃持有过。"

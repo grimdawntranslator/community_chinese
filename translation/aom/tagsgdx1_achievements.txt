@@ -86,7 +86,7 @@ achGDX1027Title=人民英雄
 achGDX1027Desc=马尔茅斯反抗军的声望达到崇敬。
 
 achGDX1028Title=崇敬冠军
-achGDX1028Desc=与 9个 派系关系达到崇敬。
+achGDX1028Desc=与 9个 势力关系达到崇敬。
 
 achGDX1029Title=马尔茅斯保卫者
 achGDX1029Desc=完成马尔茅斯的灰烬。
