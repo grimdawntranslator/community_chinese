@@ -45,7 +45,7 @@ tagGDX1WeaponBluntF104=温迪戈之嚎
 
 tagGDX1WeaponAxeB101=仆从的切刀
 tagGDX1WeaponAxeB102=仆从的腐化者
-tagGDX1WeaponAxeB103=溢血切肉刀
+tagGDX1WeaponAxeB103=溢血切肉斧
 
 tagGDX1WeaponAxeC101=哈尔沃的剥皮者
 
@@ -57,9 +57,9 @@ tagGDX1WeaponAxeD104_Desc="目前还不确定这种武器最终是否会使受�
 tagGDX1WeaponAxeD105=戈尔巴的刽子手
 tagGDX1WeaponAxeD106=戈尔巴的狂怒
 
-tagGDX1WeaponAxeF101=女巫团切肉刀
+tagGDX1WeaponAxeF101=女巫团切肉斧
 tagGDX1WeaponAxeF102=女巫团战斧
-tagGDX1WeaponAxeF103=温迪戈切肉刀
+tagGDX1WeaponAxeF103=温迪戈切肉斧
 tagGDX1WeaponAxeF104=女巫之月
 
 
@@ -904,7 +904,7 @@ tagGDX1Blueprint_WaistF106B=设计图：温迪戈守卫束腰
 
 tagGDX1Blueprint_WeaponB101=设计图：风暴电涌手枪
 tagGDX1Blueprint_WeaponB102=设计图：火焰守卫步枪
-tagGDX1Blueprint_WeaponB103=设计图：溢血切斧
+tagGDX1Blueprint_WeaponB103=设计图：溢血切肉斧
 tagGDX1Blueprint_WeaponB104=设计图：碎肠者战槌
 tagGDX1Blueprint_WeaponB105=设计图：石墙防御者
 tagGDX1Blueprint_WeaponB106=设计图：法术冲击宝典
@@ -1021,7 +1021,7 @@ tagGDX1Blueprint_ArmorD136=设计图：神话 马尔科夫的面甲
 tagGDX1Blueprint_ArmorD137=设计图：神话 奥祖因的护面
 tagGDX1Blueprint_ArmorD138=设计图：神话 德里格的兜帽
 tagGDX1Blueprint_ArmorD139=设计图：神话 死亡印记兜帽
-tagGDX1Blueprint_ArmorD140=设计图：神话 伊斯坎德拉的罩帽
+tagGDX1Blueprint_ArmorD140=设计图：神话 伊斯坎德拉的兜帽
 tagGDX1Blueprint_ArmorD141=设计图：神话 尤尔托斯的头巾
 tagGDX1Blueprint_ArmorD142=设计图：神话 凛冬之王的头冠
 tagGDX1Blueprint_ArmorD143=设计图：神话 特洛赞的风帽
@@ -1154,7 +1154,7 @@ tagGDX1RelicD110Desc="沉醉杀戮。"
 tagGDX1RelicD111=尤若布鲁克的收割
 tagGDX1RelicD111Desc="不死领主的亲传。"
 tagGDX1RelicD112=伊格纳法的燃烧
-tagGDX1RelicD112Desc="伊格纳法之石是光明会修复并净化的古代墓葬中的神器 。"
+tagGDX1RelicD112Desc="伊格纳法之石是光明会修复并净化的古代墓葬中的神器。"
 tagGDX1RelicD113=莫格卓根的热忱
 tagGDX1RelicD113Desc="孤狼之死，群狼而生。"
 tagGDX1RelicD114=死亡追猎者
@@ -1197,7 +1197,7 @@ tagGDX1ConsumableBlueprintB103=配方：邪恶创伤药膏
 tagGDX1ConsumableBlueprintB104=配方：怒吼巨兽药剂
 tagGDX1ConsumableBlueprintB105=配方：莫格卓根药剂
 
-tagGDX1ConsumableB101=巫登果汁
+tagGDX1ConsumableB101=巫登汁液
 tagGDX1ConsumableB101Desc="一瓶由巫登之花提取物制成的香甜混合物。"
 tagGDX1ConsumableB102=巫登药膏
 tagGDX1ConsumableB102Desc="一瓶由巫登之花浓缩制成的抚痛混合物。"
@@ -1479,34 +1479,34 @@ tagGDX1EnchantC109Desc="来自掠夺者的礼物，强化凡体。"^w^n(用于�
 #ItemComponents 镶嵌物
 
 tagGDX1CompA101Name=力量之印
-tagGDX1CompA101Desc="伟大尤尔加德佩戴的印章，聚集了大量造物主的奥术能量转为无与伦比的物理力量。"^w^n(用于所有类型的武器，盾牌和副手法器)
+tagGDX1CompA101Desc="伟大尤尔加德佩戴的印章，聚集了大量造物主的奥术能量转为无与伦比的物理力量。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagGDX1CompA102Name=刀刃之印
-tagGDX1CompA102Desc="传说夜刃贝尔戈斯安设计的印章，加强刺客的致命攻击并使目标血流不止。"^w^n(用于所有类型的武器，盾牌和副手法器)
+tagGDX1CompA102Desc="传说夜刃贝尔戈斯安设计的印章，加强刺客的致命攻击并使目标血流不止。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagGDX1CompA103Name=天空之印
-tagGDX1CompA103Desc="奥术大师特洛赞佩戴的第一枚印章，能够召唤天空的力量。"^w^n(用于所有类型的武器，盾牌和副手法器)
+tagGDX1CompA103Desc="奥术大师特洛赞佩戴的第一枚印章，能够召唤天空的力量。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagGDX1CompA104Name=疫病之印
-tagGDX1CompA104Desc="这枚印章注入了三巫神的力量，能唤起受害者曾遭受过的每一种疾病。"^w^n(用于所有类型的武器，盾牌和副手法器)
+tagGDX1CompA104Desc="这枚印章注入了三巫神的力量，能唤起受害者曾遭受过的每一种疾病。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagGDX1CompA105Name=腐败之印
-tagGDX1CompA105Desc="虽然这枚印章的创造者已被历史遗忘，但它仍有驾驭虚化的能力。"^w^n(用于所有类型的武器，盾牌和副手法器)
+tagGDX1CompA105Desc="虽然这枚印章的创造者已被历史遗忘，但它仍有驾驭虚化的能力。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagGDX1CompA106Name=虚空之印
-tagGDX1CompA106Desc="制做这枚印章的方法非常邪恶。那些使用它的人堕落且渴望力量。"^w^n(用于所有类型的武器，盾牌和副手法器)
+tagGDX1CompA106Desc="制做这枚印章的方法非常邪恶。那些使用它的人堕落且渴望力量。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagGDX1CompA107Name=黑夜之印
-tagGDX1CompA107Desc="夜刃阿玛拉斯塔为了实现一个特殊目标而设计的印章。"^w^n(用于所有类型的武器，盾牌和副手法器)
+tagGDX1CompA107Desc="夜刃阿玛拉斯塔为了实现一个特殊目标而设计的印章。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagGDX1CompA108Name=毁灭之印
-tagGDX1CompA108Desc="为了奥祖因的荣耀而创造的印章，燃烧将毁灭那些藐视天神之人。"^w^n(用于所有类型的武器，盾牌和副手法器)
+tagGDX1CompA108Desc="为了奥祖因的荣耀而创造的印章，燃烧将毁灭那些藐视天神之人。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagGDX1CompA109Name=暗影之印
-tagGDX1CompA109Desc="夜刃尼达拉的最爱，能将刺骨的酸性注入武器。"^w^n(用于所有类型的武器，盾牌和副手法器)
+tagGDX1CompA109Desc="夜刃尼达拉的最爱，能将刺骨的酸性注入武器。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagGDX1CompA110Name=共鸣之印
-tagGDX1CompA110Desc="按照光明会精确的标准制成，这枚印章可以强化武器的魔法属性，甚至不精通奥术的人也可使用。"^w^n(用于所有类型的武器，盾牌和副手法器)
+tagGDX1CompA110Desc="按照光明会精确的标准制成，这枚印章可以强化武器的魔法属性，甚至不精通奥术的人也可使用。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagGDX1CompA111Name=污染之心
 tagGDX1CompA111Desc="一颗仍在跳动的心脏，跳动伴随着虚化腐败。"^w^n(用于项链和勋章)
@@ -1564,7 +1564,7 @@ tagGDX1BoosterPM_B01=马尔茅斯人民的委任状
 tagGDX1BoosterAetherialVanguard_C01=虚灵先锋通缉令
 tagGDX1BoosterWendigo_C01=巴罗霍尔姆通缉令
 tagGDX1BoosterBeast_C01=野兽 "通缉令"
-tagGDX1BoosterBeastDesc=这很明显是格罗布“写”的，字里行间充满怒气而且你很确定这潦草画像中的人物就是你。
+tagGDX1BoosterBeastDesc=这很明显是格罗布 "写" 的，字里行间充满怒气而且你很确定这潦草画像中的人物就是你。
 
 #Misc
 
@@ -1826,7 +1826,7 @@ tagGDX1Chest_KatrineCorpse=卡特琳的遗骸
 tagGDX1Chest_RenochCorpse=瑞诺什的遗骸
 tagGDX1Chest_UnknownCorpse=腐尸
 
-tagGDX1ChestGauntletChestD01=遗失的圣骨箱
+tagGDX1ChestGauntletChestD01=遗失的圣物箱
 
 
 #Interactive Objects

@@ -15,7 +15,7 @@ tagGDX2WeaponSwordD201=毒疤之裔
 tagGDX2WeaponSwordD201_Desc="这柄剑刃淬入的毒液散发着腐烂与胆汁的气味。"
 tagGDX2WeaponSwordD202=灵魂之刃
 tagGDX2WeaponSwordD205=冷冽之心
-tagGDX2WeaponSwordD205_Desc=" '困于异界，速来救援' 的字样被匆忙地刻在了剑柄上。"
+tagGDX2WeaponSwordD205_Desc="“困于异界，速来救援”的字样被匆忙地刻在了剑柄上。"
 tagGDX2WeaponSwordD206=沙魔之刃
 tagGDX2WeaponSwordD207=沙魔切刀
 tagGDX2WeaponSwordD208=夜之祈祷
@@ -46,11 +46,11 @@ tagGDX2WeaponBluntF202=索拉尔战锤
 tagGDX2WeaponBluntF203=拜斯迈之握
 
 
-tagGDX2WeaponAxeB201=沙爪切斧
-tagGDX2WeaponAxeB202=熔爪切斧
-tagGDX2WeaponAxeB203=裂爪切斧
-tagGDX2WeaponAxeB204=骨切者
-tagGDX2WeaponAxeB205=仆从的剃刃
+tagGDX2WeaponAxeB201=沙爪切刀
+tagGDX2WeaponAxeB202=熔爪切刀
+tagGDX2WeaponAxeB203=裂爪切刀
+tagGDX2WeaponAxeB204=骨切刀
+tagGDX2WeaponAxeB205=仆从的切肉斧
 
 tagGDX2WeaponAxeC201=帷幕之锋
 
@@ -60,8 +60,8 @@ tagGDX2WeaponAxeD202_Desc="这柄武器的炽热的锋刃让空气泛起了涟�
 tagGDX2WeaponAxeD203=风暴撕裂者
 tagGDX2WeaponAxeD203_Desc="斧刃用风暴的原始力量撕裂空气。"
 
-tagGDX2WeaponAxeF201=拜斯迈切斧
-tagGDX2WeaponAxeF202=德里格切斧
+tagGDX2WeaponAxeF201=拜斯迈切肉斧
+tagGDX2WeaponAxeF202=德里格切肉斧
 tagGDX2WeaponAxeF203=腐化师
 
 
@@ -118,7 +118,7 @@ tagGDX2WeaponMelee2hC202=怒刃
 tagGDX2WeaponMelee2hC203=摩根尼斯之怒
 tagGDX2WeaponMelee2hC203_Desc="摩根尼斯在堕入黑暗之前挥舞的强大战锤。"
 
-tagGDX2WeaponMelee2hD201=德里格拉'阿诺尔
+tagGDX2WeaponMelee2hD201=德里格拉·阿诺尔
 tagGDX2WeaponMelee2hD201_Desc="宏伟守护者的次席斗士，瘟疫亚瑟的宝贵武器。"
 tagGDX2WeaponMelee2hD202=纳丹之触
 tagGDX2WeaponMelee2hD202_Desc="用于纪念盗贼与刺客的守护神的传奇兵刃，在遗失在漫长的岁月中之前曾被无数的夜刃持有过。"
@@ -154,7 +154,7 @@ tagGDX2WeaponCaster1hD202=五圣圈之判决
 tagGDX2WeaponCaster1hD202_Desc="他们的意志，他们的声音，他们的命令..."
 tagGDX2WeaponCaster1hD203=仇苦烈风之裔
 tagGDX2WeaponCaster1hD203_Desc="这柄权杖周围回荡着山口的仇苦之风。"
-tagGDX2WeaponCaster1hD204=天之仁慈
+tagGDX2WeaponCaster1hD204=至高神之仁慈
 tagGDX2WeaponCaster1hD205=凌冽轻语之剑
 tagGDX2WeaponCaster1hD206=三巫神之裁决
 tagGDX2WeaponCaster1hD207=枯萎领主的切刀
@@ -228,8 +228,8 @@ tagGDX2FocusD209_Desc="科凡历史守护者的头颅，最好把它忘记。"
 tagGDX2FocusD210=哈兰克斯的头颅
 tagGDX2FocusD210_Desc="守护者的头虽然是用石头做的，却散发着腐朽的气味。"
 tagGDX2FocusD211=天界征兆之裔
-tagGDX2FocusD212=界门
-tagGDX2FocusD212_Desc="现实的织物自身就在扭曲，还有被拆解的危险。"
+tagGDX2FocusD212=多界之门
+tagGDX2FocusD212_Desc="现实的交织本身就在扭曲，并有被拆解的危险。"
 
 tagGDX2FocusF201=拜斯迈邪火神像
 tagGDX2FocusF202=拜斯迈污染神像
@@ -280,7 +280,7 @@ tagGDX2HeadD207=征服者头盔
 tagGDX2HeadD208=凌冽轻语王冠
 tagGDX2HeadD209=路德里根的檐帽
 tagGDX2HeadD210=贩骨者的兜帽
-tagGDX2HeadD211=美德之视
+tagGDX2HeadD211=美德之凝视
 tagGDX2HeadD212=哈拉的兜帽
 tagGDX2HeadD213=飓风面具
 tagGDX2HeadD214=枯萎领主的兜帽
@@ -323,7 +323,7 @@ tagGDX2ShoulderC204=腐败之焰斗篷
 tagGDX2ShoulderC205=戴迦的斗篷
 
 tagGDX2ShoulderD201=黎明碎片肩铠
-tagGDX2ShoulderD201_Desc="由最纯净的索拉丁水晶碎片锻造而成。"
+tagGDX2ShoulderD201_Desc="由最纯净的索拉丁水晶碎片铸造而成。"
 tagGDX2ShoulderD202=骨灵肩铠
 tagGDX2ShoulderD203=霜铸斗篷
 tagGDX2ShoulderD204=碎境斗篷
@@ -430,7 +430,7 @@ tagGDX2HandsD202_Desc="由最纯净的索拉丁水晶碎片铸造而成。"
 tagGDX2HandsD203=沙漠抢匪手甲
 tagGDX2HandsD203_Desc="这双手套的前主人已经将不知多少人的血洒入了无尽的沙粒中。"
 tagGDX2HandsD204=高尔之手
-tagGDX2HandsD205=摩根尼斯之握
+tagGDX2HandsD205=摩根尼斯护手
 
 
 
@@ -495,7 +495,7 @@ tagGDX2WaistF203B=索拉尔邪恶束腰
 
 
 #Rings 戒指
-tagGDX2RingB201=爬藤指环
+tagGDX2RingB201=爬藤戒指
 
 tagGDX2RingC201=血红荆棘指环
 tagGDX2RingC202=纱幕守望指环
@@ -558,11 +558,11 @@ tagGDX2NecklaceD203=混乱化身
 tagGDX2NecklaceD203_Desc="人类七大神圣美德之三，被虚空扭曲至面目全非。"
 tagGDX2NecklaceD204=剑刃意志
 tagGDX2NecklaceD205=沙王之心
-tagGDX2NecklaceD205_Desc="沙漠之王 ~ 甘纳·瓦卡的心脏。"
+tagGDX2NecklaceD205_Desc="科凡沙漠之王 ~ 甘纳·瓦卡的心脏。"
 tagGDX2NecklaceD206=碎境护符
 tagGDX2NecklaceD207=征服者的宝石
 tagGDX2NecklaceD208=贩骨者的宝石
-tagGDX2NecklaceD209=美德守护之链
+tagGDX2NecklaceD209=美德护身符
 tagGDX2NecklaceD210=哈拉的护身符
 tagGDX2NecklaceD211=拉辛的宝石
 tagGDX2NecklaceD212=枯萎领主之引
@@ -666,7 +666,7 @@ tagGDX2Blueprint_ArmorD206=设计图：神话 阳焰头盔
 tagGDX2Blueprint_ArmorD207=设计图：凌冽轻语王冠
 tagGDX2Blueprint_ArmorD208=设计图：路德里根的檐帽
 tagGDX2Blueprint_ArmorD209=设计图：贩骨者的兜帽
-tagGDX2Blueprint_ArmorD210=设计图：美德之视
+tagGDX2Blueprint_ArmorD210=设计图：美德之凝视
 tagGDX2Blueprint_ArmorD211=设计图：哈拉的兜帽
 tagGDX2Blueprint_ArmorD212=设计图：飓风面具
 tagGDX2Blueprint_ArmorD213=设计图：拉辛的护甲
@@ -812,212 +812,212 @@ tagGDX2Consumable_03_Desc="这法球闪烁着虚空能量。拿在手里可能�
 
 #ItemEnchantment 附魔
 tagGDX2EnchantA201A=科凡太阳尘
-tagGDX2EnchantA201Desc="注入了科凡高原那灼人阳光的水晶。"^w^n（用于全部单手武器，盾牌，以及副手法器）
+tagGDX2EnchantA201Desc="注入了科凡高原那灼人阳光的水晶。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX2EnchantA202A=强效科凡太阳尘
-tagGDX2EnchantA202Desc="注入了科凡高原那灼人阳光的水晶。"^w^n（用于全部双手武器）
+tagGDX2EnchantA202Desc="注入了科凡高原那灼人阳光的水晶。"^w^n(用于所有双手武器)
 
 tagGDX2EnchantA203A=毒蛇毒液
-tagGDX2EnchantA203Desc="来自科凡毒蛇的毒液，被精心提炼储存在一个附魔小包中以免其将容器溶解掉。"^w^n（用于全部单手武器，盾牌，以及副手法器）
+tagGDX2EnchantA203Desc="来自科凡毒蛇的毒液，被精心提炼储存在一个附魔小包中以免其将容器溶解掉。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX2EnchantA204A=强效毒蛇毒液
-tagGDX2EnchantA204Desc="来自科凡毒蛇的毒液，被精心提炼储存在一个附魔小包中以免其将容器溶解掉。"^w^n（用于全部双手武器）
+tagGDX2EnchantA204Desc="来自科凡毒蛇的毒液，被精心提炼储存在一个附魔小包中以免其将容器溶解掉。"^w^n(用于所有双手武器)
 
 tagGDX2EnchantA205A=沙爪利齿
-tagGDX2EnchantA205Desc="用一颗毒牙细细磨成的魔法粉末，取自游荡在科凡沙丘中的沙爪。"^w^n（用于全部单手武器，盾牌，以及副手法器）
+tagGDX2EnchantA205Desc="用一颗毒牙细细磨成的魔法粉末，取自游荡在科凡沙丘中的沙爪。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX2EnchantA206A=强效沙爪利齿
-tagGDX2EnchantA206Desc="用一颗毒牙细细磨成的魔法粉末，取自游荡在科凡沙丘中的沙爪。"^w^n（用于全部双手武器）
+tagGDX2EnchantA206Desc="用一颗毒牙细细磨成的魔法粉末，取自游荡在科凡沙丘中的沙爪。"^w^n(用于所有双手武器)
 
 tagGDX2EnchantA207A=沙爪鳞片
-tagGDX2EnchantA207Desc="当沙爪族母蜕皮时，其一部分鳞片会吸收更多周围环境中的邪术能量。这种鳞片可以用于释放最强大的法术。"^w^n（用于戒指和护符）
+tagGDX2EnchantA207Desc="当沙爪族母蜕皮时，其一部分鳞片会吸收更多周围环境中的邪术能量。这种鳞片可以用于释放最强大的法术。"^w^n(用于戒指和项链)
 
 tagGDX2EnchantA208A=毒蛇鳞片
-tagGDX2EnchantA208Desc="取自科凡毒蛇的鳞片，和其毒牙一样难以采集。"^w^n（用于戒指和护符）
+tagGDX2EnchantA208Desc="取自科凡毒蛇的鳞片，和其毒牙一样难以采集。"^w^n(用于戒指和项链)
 
 tagGDX2EnchantA209A=灰烬树皮粉末
-tagGDX2EnchantA209Desc="取自在被遗忘之神的怒火中烧尽的树木遗灰。"^w^n（用于戒指和护符）
+tagGDX2EnchantA209Desc="取自在被遗忘之神的怒火中烧尽的树木遗灰。"^w^n(用于戒指和项链)
 
 tagGDX2EnchantA210A=腐藤粉末
-tagGDX2EnchantA210Desc="这种粉末散发出的恶臭气味仅仅来自于对原本植物诡异气味的一点点取样。"^w^n（用于戒指和护符）
+tagGDX2EnchantA210Desc="这种粉末散发出的恶臭气味仅仅来自于对原本植物诡异气味的一点点取样。"^w^n(用于戒指和项链)
 
 tagGDX2EnchantA211A=科凡仙人掌粉末
-tagGDX2EnchantA211Desc="科凡仙人掌贪婪地吸取着科凡高原上珍贵的水， 同时也汲取了水中满溢的邪术能量。"^w^n（用于全部单手武器，盾牌，以及副手法器）
+tagGDX2EnchantA211Desc="科凡仙人掌贪婪地吸取着科凡高原上珍贵的水， 同时也汲取了水中满溢的邪术能量。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX2EnchantA212A=强效科凡仙人掌粉末
-tagGDX2EnchantA212Desc="科凡仙人掌贪婪地吸取着科凡高原上珍贵的水， 同时也汲取了水中满溢的邪术能量。"^w^n（用于全部双手武器）
+tagGDX2EnchantA212Desc="科凡仙人掌贪婪地吸取着科凡高原上珍贵的水， 同时也汲取了水中满溢的邪术能量。"^w^n(用于所有双手武器)
 
 tagGDX2EnchantA213A=邪术之花药粉
-tagGDX2EnchantA213Desc="这些药粉是从一株科凡高原的稀有植物中提取出来的。这株植物的生物形态和当地其他任何生物都完全不同。"^w^n（用于全部单手武器，盾牌，以及副手法器）
+tagGDX2EnchantA213Desc="这些药粉是从一株科凡高原的稀有植物中提取出来的。这株植物的生物形态和当地其他任何生物都完全不同。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX2EnchantA214A=强效邪术之花药粉
-tagGDX2EnchantA214Desc="这些药粉是从一株科凡高原的稀有植物中提取出来的。这株植物的生物形态和当地其他任何生物都完全不同。"^w^n（用于全部双手武器）
+tagGDX2EnchantA214Desc="这些药粉是从一株科凡高原的稀有植物中提取出来的。这株植物的生物形态和当地其他任何生物都完全不同。"^w^n(用于所有双手武器)
 
 tagGDX2EnchantA215A=圣甲虫甲壳粉
-tagGDX2EnchantA215Desc="科凡圣甲虫的甲壳粉是很好的魔法素材，前提条件是你得有办法磨碎它们。"^w^n（用于全部单手武器，盾牌，以及副手法器）
+tagGDX2EnchantA215Desc="科凡圣甲虫的甲壳粉是很好的魔法素材，前提条件是你得有办法磨碎它们。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX2EnchantA216A=强效圣甲虫甲壳粉
-tagGDX2EnchantA216Desc="科凡圣甲虫的甲壳粉是很好的魔法素材，前提条件是你得有办法磨碎它们。"^w^n（用于全部双手武器）
+tagGDX2EnchantA216Desc="科凡圣甲虫的甲壳粉是很好的魔法素材，前提条件是你得有办法磨碎它们。"^w^n(用于所有双手武器)
 
 tagGDX2EnchantA217A=石像鬼之牙
-tagGDX2EnchantA217Desc="取自一种传说中的邪术生物，这种生物几乎从未出现在邪术领域之外过。"^w^n（用于戒指和护符）
+tagGDX2EnchantA217Desc="取自一种传说中的邪术生物，这种生物几乎从未出现在邪术领域之外过。"^w^n(用于戒指和项链)
 
 tagGDX2EnchantA218A=贤者荆棘粉末
-tagGDX2EnchantA218Desc="贤者荆棘因其流出的暗红色墨汁而被学者们认为是无价之宝，但是采集那种汁液的人必须极其小心地避开那些刺，以免受到永远无法真正治愈的伤害。"^w^n（用于戒指和护符）
+tagGDX2EnchantA218Desc="贤者荆棘因其流出的暗红色墨汁而被学者们认为是无价之宝，但是采集那种汁液的人必须极其小心地避开那些刺，以免受到永远无法真正治愈的伤害。"^w^n(用于戒指和项链)
 
-tagGDX2EnchantA219A=帷幕虫粉
-tagGDX2EnchantA219Desc="由虚空中令人不安的现象中得到的粉末，似乎虚空正以世界间的屏障为食。"^w^n（用于戒指和护符）
+tagGDX2EnchantA219A=帷幕虫粉末
+tagGDX2EnchantA219Desc="由虚空中令人不安的现象中得到的粉末，似乎虚空正以世界间的屏障为食。"^w^n(用于戒指和项链)
 
 tagGDX2EnchantA220A=虚空之盐
-tagGDX2EnchantA220Desc="这些魔法粉末提取自虚空本身中的灰烬。你在这混合物中察觉到了一点人类灵魂的气息，你不知道那是一种额外添加进去的材料，还是虚空本身更令人不安的一面。"^w^n（用于戒指和护符）
+tagGDX2EnchantA220Desc="这些魔法粉末提取自虚空本身中的灰烬。你在这混合物中察觉到了一点人类灵魂的气息，你不知道那是一种额外添加进去的材料，还是虚空本身更令人不安的一面。"^w^n(用于戒指和项链)
 
 tagGDX2EnchantA221A=石像鬼鳞片
-tagGDX2EnchantA221Desc="充满了邪术能量，如果没有合适的奥术工具，这东西根本不可能磨成粉。"^w^n（用于全部单手武器，盾牌，以及副手法器）
+tagGDX2EnchantA221Desc="充满了邪术能量，如果没有合适的奥术工具，这东西根本不可能磨成粉。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX2EnchantA222A=强效石像鬼鳞片
-tagGDX2EnchantA222Desc="充满了邪术能量，如果没有合适的奥术工具，这东西根本不可能磨成粉。"^w^n（用于全部双手武器）
+tagGDX2EnchantA222Desc="充满了邪术能量，如果没有合适的奥术工具，这东西根本不可能磨成粉。"^w^n(用于所有双手武器)
 
 tagGDX2EnchantA223A=黄昏花
-tagGDX2EnchantA223Desc="这些花瓣粉末来自一种生长在科凡高原已经很罕见的水塘旁边的魔法植物。"^w^n（用于全部单手武器，盾牌，以及副手法器）
+tagGDX2EnchantA223Desc="这些花瓣粉末来自一种生长在科凡高原已经很罕见的水塘旁边的魔法植物。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX2EnchantA224A=强效黄昏花
-tagGDX2EnchantA224Desc="这些花瓣粉末来自一种生长在科凡高原已经很罕见的水塘旁边的魔法植物。"^w^n（用于全部双手武器）
+tagGDX2EnchantA224Desc="这些花瓣粉末来自一种生长在科凡高原已经很罕见的水塘旁边的魔法植物。"^w^n(用于所有双手武器)
 
 tagGDX2EnchantA225A=狮鹫之爪
-tagGDX2EnchantA225Desc="这种粉末取自栖息于科凡高原的狮鹫利爪。"^w^n（用于全部单手武器，盾牌，以及副手法器）
+tagGDX2EnchantA225Desc="这种粉末取自栖息于科凡高原的狮鹫利爪。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX2EnchantA226A=强效狮鹫之爪
-tagGDX2EnchantA226Desc="这种粉末取自栖息于科凡高原的狮鹫利爪。"^w^n（用于全部双手武器）
+tagGDX2EnchantA226Desc="这种粉末取自栖息于科凡高原的狮鹫利爪。"^w^n(用于所有双手武器)
 
 tagGDX2EnchantA227A=沙漠之舌
-tagGDX2EnchantA227Desc="这种粉末取自科凡高原中生长的一种生命力旺盛的红色植物。"^w^n（用于戒指和护符）
+tagGDX2EnchantA227Desc="这种粉末取自科凡高原中生长的一种生命力旺盛的红色植物。"^w^n(用于戒指和项链)
 
 tagGDX2EnchantA228A=巨蝎之毒
-tagGDX2EnchantA228Desc="取自游荡于沙漠中的剧毒之物的刺尾。"^w^n（用于戒指和护符）
+tagGDX2EnchantA228Desc="取自游荡于沙漠中的剧毒之物的刺尾。"^w^n(用于戒指和项链)
 
 tagGDX2EnchantA229A=守护者精华
-tagGDX2EnchantA229Desc="这些奥术精华来自游荡在科凡高原的守护者。"^w^n（用于戒指和护符）
+tagGDX2EnchantA229Desc="这些奥术精华来自游荡在科凡高原的守护者。"^w^n(用于戒指和项链)
 
 tagGDX2EnchantA230A=扭曲灵魂粉末
-tagGDX2EnchantA230Desc="为了实施某种秘术，一个怨灵的精华被注入到了骨粉中。"^w^n（用于戒指和护符）
+tagGDX2EnchantA230Desc="为了实施某种秘术，一个怨灵的精华被注入到了骨粉中。"^w^n(用于戒指和项链)
 
 
 tagGDX2EnchantB201A=拜斯迈的控制
-tagGDX2EnchantB201Desc="一件来自巫神拜斯迈的馈赠，完美适应召唤物的心智。"^w^n（用于全部单手武器，盾牌，以及副手法器）
+tagGDX2EnchantB201Desc="一件来自巫神拜斯迈的馈赠，完美适应召唤物的心智。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX2EnchantB202A=强效 拜斯迈的控制
-tagGDX2EnchantB202Desc="一件来自巫神拜斯迈的馈赠，完美适应召唤物的心智。"^w^n（用于全部双手武器）
+tagGDX2EnchantB202Desc="一件来自巫神拜斯迈的馈赠，完美适应召唤物的心智。"^w^n(用于所有双手武器)
 
 tagGDX2EnchantB203A=拜斯迈之狡诈
-tagGDX2EnchantB203Desc="一件来自巫神拜斯迈的馈赠，当无法选择撤退时，这让她的仆从得以在短兵相接中取得优势。"^w^n（用于全部单手武器，盾牌，以及副手法器）
+tagGDX2EnchantB203Desc="一件来自巫神拜斯迈的馈赠，当无法选择撤退时，这让她的仆从得以在短兵相接中取得优势。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX2EnchantB204A=强效拜斯迈之狡诈
-tagGDX2EnchantB204Desc="一件来自巫神拜斯迈的馈赠，当无法选择撤退时，这让她的仆从得以在短兵相接中取得优势。"^w^n（用于全部双手武器）
+tagGDX2EnchantB204Desc="一件来自巫神拜斯迈的馈赠，当无法选择撤退时，这让她的仆从得以在短兵相接中取得优势。"^w^n(用于所有双手武器)
 
 tagGDX2EnchantB205A=拜斯迈的织幕
-tagGDX2EnchantB205Desc="一件来自巫神拜斯迈的馈赠，经过编织以适应那分隔生死的帷幕。"^w^n（用于全部单手武器，盾牌，以及副手法器）
+tagGDX2EnchantB205Desc="一件来自巫神拜斯迈的馈赠，经过编织以适应那分隔生死的帷幕。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX2EnchantB206A=强效拜斯迈的织幕
-tagGDX2EnchantB206Desc="一件来自巫神拜斯迈的馈赠，经过编织以适应那分隔生死的帷幕。"^w^n（用于全部双手武器）
+tagGDX2EnchantB206Desc="一件来自巫神拜斯迈的馈赠，经过编织以适应那分隔生死的帷幕。"^w^n(用于所有双手武器)
 
 tagGDX2EnchantB207A=阿特弗的意志
-tagGDX2EnchantB207Desc="这种强效魔法粉末取自阿特弗神庙中的圣物，用于强化主人和召唤物之间的联系。"^w^n（用于戒指和护符）
+tagGDX2EnchantB207Desc="这种强效魔法粉末取自阿特弗神庙中的圣物，用于强化主人和召唤物之间的联系。"^w^n(用于戒指和项链)
 
 tagGDX2EnchantB208A=阿特弗的眩光
-tagGDX2EnchantB208Desc="这种强效魔法粉末取自阿特弗神庙中的圣物，会为装备注入冰冷之息。 "^w^n（用于戒指和护符）
+tagGDX2EnchantB208Desc="这种强效魔法粉末取自阿特弗神庙中的圣物，会为装备注入冰冷之息。 "^w^n(用于戒指和项链)
 
 tagGDX2EnchantB209A=阿特弗之令
-tagGDX2EnchantB209Desc="这种强效魔法粉末取自阿特弗神庙中的圣物，可以让持有者尝到血的滋味。"^w^n（用于戒指和护符）
+tagGDX2EnchantB209Desc="这种强效魔法粉末取自阿特弗神庙中的圣物，可以让持有者尝到血的滋味。"^w^n(用于戒指和项链)
 
 tagGDX2EnchantB210A=阿特弗的许诺
-tagGDX2EnchantB210Desc="这种强效魔法粉末取自阿特弗神庙中的圣物，可以保护持有者免受伤害。"^w^n（用于戒指和护符）
+tagGDX2EnchantB210Desc="这种强效魔法粉末取自阿特弗神庙中的圣物，可以保护持有者免受伤害。"^w^n(用于戒指和项链)
 
 tagGDX2EnchantB211A=德里格的未来视
-tagGDX2EnchantB211Desc="一件来自巫神德里格的馈赠，使其持有者得以短暂体味到宏伟守卫对凯恩世界的预见。"^w^n（用于全部单手武器，盾牌，以及副手法器）
+tagGDX2EnchantB211Desc="一件来自巫神德里格的馈赠，使其持有者得以短暂体味到宏伟守卫对凯恩世界的预见。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX2EnchantB212A=强效德里格的未来视
-tagGDX2EnchantB212Desc="一件来自巫神德里格的馈赠，使其持有者得以短暂体味到宏伟守卫对凯恩世界的预见。"^w^n（用于全部双手武器）
+tagGDX2EnchantB212Desc="一件来自巫神德里格的馈赠，使其持有者得以短暂体味到宏伟守卫对凯恩世界的预见。"^w^n(用于所有双手武器)
 
 tagGDX2EnchantB213A=德里格棘刺之灰
-tagGDX2EnchantB213Desc="一件来自巫神德里格的馈赠，取自宏伟守卫的尖刺，永不停歇地滴着酸液。"^w^n（用于全部单手武器，盾牌，以及副手法器）
+tagGDX2EnchantB213Desc="一件来自巫神德里格的馈赠，取自宏伟守卫的尖刺，永不停歇地滴着酸液。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX2EnchantB214A=强效德里格棘刺之灰
-tagGDX2EnchantB214Desc="一件来自巫神德里格的馈赠，取自宏伟守卫的尖刺，永不停歇地滴着酸液。"^w^n（用于全部双手武器）
+tagGDX2EnchantB214Desc="一件来自巫神德里格的馈赠，取自宏伟守卫的尖刺，永不停歇地滴着酸液。"^w^n(用于所有双手武器)
 
 tagGDX2EnchantB215A=德里格之恐怖
-tagGDX2EnchantB215Desc="一件来自巫神德里格的礼物，或是诅咒，它让持有者得以见到一种未来，在这个未来中，那虚空军团所向披靡，征服了一切。"^w^n（用于全部单手武器，盾牌，以及副手法器）
+tagGDX2EnchantB215Desc="一件来自巫神德里格的礼物，或是诅咒，它让持有者得以见到一种未来，在这个未来中，那虚空军团所向披靡，征服了一切。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX2EnchantB216A=强效德里格之恐怖
-tagGDX2EnchantB216Desc="一件来自巫神德里格的礼物，或是诅咒，它让持有者得以见到一种未来，在这个未来中，那虚空军团所向披靡，征服了一切。"^w^n（用于全部双手武器）
+tagGDX2EnchantB216Desc="一件来自巫神德里格的礼物，或是诅咒，它让持有者得以见到一种未来，在这个未来中，那虚空军团所向披靡，征服了一切。"^w^n(用于所有双手武器)
 
 tagGDX2EnchantB217A=奥西尔的秉性
-tagGDX2EnchantB217Desc="这种致密的魔法粉末提取自奥西尔祭司的干枯遗体上，被无名的黑暗所沾染。"^w^n（用于戒指和护符）
+tagGDX2EnchantB217Desc="这种致密的魔法粉末提取自奥西尔祭司的干枯遗体上，被无名的黑暗所沾染。"^w^n(用于戒指和项链)
 
 tagGDX2EnchantB218A=奥西尔的坚毅
-tagGDX2EnchantB218Desc="这种致密的魔法粉末提取自奥西尔祭司的干枯遗体上，依旧受遗失之神的言语护佑。"^w^n（用于戒指和护符）
+tagGDX2EnchantB218Desc="这种致密的魔法粉末提取自奥西尔祭司的干枯遗体上，依旧受遗失之神的言语护佑。"^w^n(用于戒指和项链)
 
 tagGDX2EnchantB219A=奥西尔的引导
-tagGDX2EnchantB219Desc="这种致密的魔法粉末提取自奥西尔祭司的干枯遗体上，调谐后用以更好地掌控幻术生物。"^w^n（用于戒指和护符）
+tagGDX2EnchantB219Desc="这种致密的魔法粉末提取自奥西尔祭司的干枯遗体上，调谐后用以更好地掌控幻术生物。"^w^n(用于戒指和项链)
 
 tagGDX2EnchantB220A=奥西尔的智慧
-tagGDX2EnchantB220Desc="这种致密的粉末提取自奥西尔祭司的干枯遗体上，仍然充满着原始的奥术能量。"^w^n（用于戒指和护符）
+tagGDX2EnchantB220Desc="这种致密的粉末提取自奥西尔祭司的干枯遗体上，仍然充满着原始的奥术能量。"^w^n(用于戒指和项链)
 
 tagGDX2EnchantB221A=索拉尔的预示
-tagGDX2EnchantB221Desc="一件来自巫神索拉尔的馈赠，将不可言说的毁灭许以其敌人。"^w^n（用于全部单手武器，盾牌，以及副手法器）
+tagGDX2EnchantB221Desc="一件来自巫神索拉尔的馈赠，将不可言说的毁灭许以其敌人。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX2EnchantB222A=强效索拉尔的预示
-tagGDX2EnchantB222Desc="一件来自巫神索拉尔的馈赠，将不可言说的毁灭许以其敌人。"^w^n（用于全部双手武器）
+tagGDX2EnchantB222Desc="一件来自巫神索拉尔的馈赠，将不可言说的毁灭许以其敌人。"^w^n(用于所有双手武器)
 
 tagGDX2EnchantB223A=索拉尔的贪婪
-tagGDX2EnchantB223Desc="一件来自巫神索拉尔的馈赠， 会让持有者体味到邪术烈焰那无穷的食欲。"^w^n（用于全部单手武器，盾牌，以及副手法器）
+tagGDX2EnchantB223Desc="一件来自巫神索拉尔的馈赠， 会让持有者体味到邪术烈焰那无穷的食欲。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX2EnchantB224A=强效索拉尔的贪婪
-tagGDX2EnchantB224Desc="一件来自巫神索拉尔的馈赠， 会让持有者体味到邪术烈焰那无穷的食欲。"^w^n（用于全部双手武器）
+tagGDX2EnchantB224Desc="一件来自巫神索拉尔的馈赠， 会让持有者体味到邪术烈焰那无穷的食欲。"^w^n(用于所有双手武器)
 
 tagGDX2EnchantB225A=索拉尔的眩光
-tagGDX2EnchantB225Desc="一件来自巫神索拉尔的馈赠， 注入了邪术烈焰意志的精华。"^w^n（用于全部单手武器，盾牌，以及副手法器）
+tagGDX2EnchantB225Desc="一件来自巫神索拉尔的馈赠， 注入了邪术烈焰意志的精华。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX2EnchantB226A=强效索拉尔的眩光
-tagGDX2EnchantB226Desc="一件来自巫神索拉尔的馈赠，注入了邪术烈焰意志的精华。"^w^n（用于全部双手武器）
+tagGDX2EnchantB226Desc="一件来自巫神索拉尔的馈赠，注入了邪术烈焰意志的精华。"^w^n(用于所有双手武器)
 
 tagGDX2EnchantB227A=伊拉的灵魂火
-tagGDX2EnchantB227Desc="这些上好的魔法粉末是从伊拉神庙中的圣火灰烬中获得的，祭祀牺牲者的灵魂碎片依旧附着其上久久不散。"^w^n（用于戒指和护符）
+tagGDX2EnchantB227Desc="这些上好的魔法粉末是从伊拉神庙中的圣火灰烬中获得的，祭祀牺牲者的灵魂碎片依旧附着其上久久不散。"^w^n(用于戒指和项链)
 
 tagGDX2EnchantB228A=伊拉的耐心
-tagGDX2EnchantB228Desc="这些上好的魔法粉末是从伊拉神庙中的圣火灰烬中获得的，可以让持有者充满不自然的镇定。"^w^n（用于戒指和护符）
+tagGDX2EnchantB228Desc="这些上好的魔法粉末是从伊拉神庙中的圣火灰烬中获得的，可以让持有者充满不自然的镇定。"^w^n(用于戒指和项链)
 
 tagGDX2EnchantB229A=伊拉的毒舌
-tagGDX2EnchantB229Desc="这些上好的魔法粉末是从伊拉神庙中的圣火灰烬中获得的，其中灌注了取自科凡高原各种毒物之精华。"^w^n（用于戒指和护符）
+tagGDX2EnchantB229Desc="这些上好的魔法粉末是从伊拉神庙中的圣火灰烬中获得的，其中灌注了取自科凡高原各种毒物之精华。"^w^n(用于戒指和项链)
 
 tagGDX2EnchantB230A=伊拉之血
-tagGDX2EnchantB230Desc="这些上好的魔法粉末是从伊拉神庙中的圣火灰烬中获得的，据说其中渗入了天神的血。"^w^n（用于戒指和护符）
+tagGDX2EnchantB230Desc="这些上好的魔法粉末是从伊拉神庙中的圣火灰烬中获得的，据说其中渗入了天神的血。"^w^n(用于戒指和项链)
 
 tagGDX2EnchantC201A=拜斯迈的银沙
-tagGDX2EnchantC201Desc="一件来自巫神拜斯迈的馈赠，这些品质极佳的银粉通常用于幻象，但是也是很不错的护符素材。"^w^n（用于全部护甲）
+tagGDX2EnchantC201Desc="一件来自巫神拜斯迈的馈赠，这些品质极佳的银粉通常用于幻象，但是也是很不错的护符素材。"^w^n(用于所有护甲)
 
 tagGDX2EnchantC202A=拜斯迈的沙语
-tagGDX2EnchantC202Desc="一件来自巫神拜斯迈的馈赠，诡计之神的死亡之吻附在了这些注入了魔力的粉末中。"^w^n（用于全部护甲）
+tagGDX2EnchantC202Desc="一件来自巫神拜斯迈的馈赠，诡计之神的死亡之吻附在了这些注入了魔力的粉末中。"^w^n(用于所有护甲)
 
 tagGDX2EnchantC203A=拜斯迈的帷幕之触
-tagGDX2EnchantC203Desc="一件来自巫神拜斯迈的馈赠，这种粉末以魔力连接着分隔生与死的帷幕。"^w^n（用于全部护甲）
+tagGDX2EnchantC203Desc="一件来自巫神拜斯迈的馈赠，这种粉末以魔力连接着分隔生与死的帷幕。"^w^n(用于所有护甲)
 
 tagGDX2EnchantC204A=德里格的预知
-tagGDX2EnchantC204Desc="一件来自巫神德里格的馈赠，可以让持有者得以短暂窥见未来的一角。"^w^n（用于全部护甲）
+tagGDX2EnchantC204Desc="一件来自巫神德里格的馈赠，可以让持有者得以短暂窥见未来的一角。"^w^n(用于所有护甲)
 
 tagGDX2EnchantC205A=德里格的帷幕守护
-tagGDX2EnchantC205Desc="一件来自巫神德里格的馈赠，用于抵御宏伟守卫对其追随者施加的能扭曲心灵的幻象。"^w^n（用于全部护甲）
+tagGDX2EnchantC205Desc="一件来自巫神德里格的馈赠，用于抵御宏伟守卫对其追随者施加的能扭曲心灵的幻象。"^w^n(用于所有护甲)
 
 tagGDX2EnchantC206A=德里格的恶魔血
-tagGDX2EnchantC206Desc="一件来自巫神德里格的馈赠，这是从邪术领域大门前被宏伟守卫碾碎的冥煞恶魔身上抽取的。"^w^n（用于全部护甲）
+tagGDX2EnchantC206Desc="一件来自巫神德里格的馈赠，这是从邪术领域大门前被宏伟守卫碾碎的冥煞恶魔身上抽取的。"^w^n(用于所有护甲)
 
 tagGDX2EnchantC207A=索拉尔的缚血尘
-tagGDX2EnchantC207Desc="一件来自巫神索拉尔的馈赠，这种邪秽的粉末用于索拉尔的契约签订仪式。"^w^n（用于全部护甲）
+tagGDX2EnchantC207Desc="一件来自巫神索拉尔的馈赠，这种邪秽的粉末用于索拉尔的契约签订仪式。"^w^n(用于所有护甲)
 
 tagGDX2EnchantC208A=索拉尔的虚空守护
-tagGDX2EnchantC208Desc="一件来自巫神索拉尔的馈赠，用于抵御虚空的破坏力，以此，邪术之火才可以畅通无阻地研究虚空的奥秘。"^w^n（用于全部护甲）
+tagGDX2EnchantC208Desc="一件来自巫神索拉尔的馈赠，用于抵御虚空的破坏力，以此，邪术之火才可以畅通无阻地研究虚空的奥秘。"^w^n(用于所有护甲)
 
 tagGDX2EnchantC209A=索拉尔的缚魂尘
-tagGDX2EnchantC209Desc="一件来自巫神索拉尔的馈赠，这种邪恶的粉末用于灵魂绑定仪式，为邪术之火提供食粮。"^w^n（用于全部护甲）
+tagGDX2EnchantC209Desc="一件来自巫神索拉尔的馈赠，这种邪恶的粉末用于灵魂绑定仪式，为邪术之火提供食粮。"^w^n(用于所有护甲)
 
 #Mobility Runes 位移符文
 tagGDX2RuneBDesc="由巫神秘教使用的一种普通的能力符文。"^w^n(用于勋章)
@@ -1138,7 +1138,7 @@ tagGDX2ItemSetD205Name=贩骨者
 tagGDX2ItemSetD205Desc="来自贩骨者的盔甲，那是一个背叛了自己信仰的人，同时也是恐怖战利品的收藏家。"
 
 tagGDX2ItemSetD206Name=美德之光
-tagGDX2ItemSetD206Desc="传说曾受到万神中最伟大的至高之神所祝福。美德之光是希望与正义的明灯，尤其是在一个渴望这二者的世界中。"
+tagGDX2ItemSetD206Desc="据说曾受到万神中最伟大的至高神的祝福。美德之光是希望与正义的明灯，尤其是在一个渴望这二者的世界中。"
 
 tagGDX2ItemSetD207Name=三巫神的哨卫
 tagGDX2ItemSetD207Desc="这是哨卫的盔甲，哨卫是三巫神的誓约守卫，也是他们凡间利益的捍卫者。"

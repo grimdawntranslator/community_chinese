@@ -29,22 +29,22 @@ achGDX208Title=主宰
 achGDX208Desc=使用冲锋式技能(例如：维尔之力)一次穿越 15名 敌人。
 
 achGDX209Title=狮鹫君王
-achGDX209Desc=击杀位于向阳尖塔的狮鹫君王 ~ 阿泽隆。
+achGDX209Desc=在向阳尖塔击杀狮鹫君王 ~ 阿泽隆。
 
 achGDX210Title=天空君王
-achGDX210Desc=在终极难度中击杀位于向阳尖塔的狮鹫君王 ~ 阿泽隆。
+achGDX210Desc=在终极难度的向阳尖塔击杀狮鹫君王 ~ 阿泽隆。
 
 achGDX211Title=峭壁猎人
-achGDX211Desc=击杀位于玄武岩崖的猎犬首领 ~ 格雷莫尔。
+achGDX211Desc=在玄武岩崖击杀猎犬首领 ~ 格雷莫尔。
 
 achGDX212Title=猎犬追猎者
-achGDX212Desc=在终极难度中击杀位于玄武岩崖的猎犬首领 ~ 格雷莫尔。
+achGDX212Desc=在终极难度的玄武岩崖击杀猎犬首领 ~ 格雷莫尔。
 
 achGDX213Title=科凡暴龙
-achGDX213Desc=击杀位于科凡沙漠的科凡 ~ 泰坦诺沃尔。
-
+achGDX213Desc=在科凡沙漠击杀科凡 ~ 泰坦诺沃尔。
+物
 achGDX214Title=侏罗纪狩猎
-achGDX214Desc=在终极难度中击杀位于科凡沙漠的科凡 ~ 泰坦诺沃尔。
+achGDX214Desc=在终极难度的科凡沙漠击杀科凡 ~ 泰坦诺沃尔。
 
 achGDX215Title=断子绝孙
 achGDX215Desc=击杀邪术后裔 ~ 凯桑。
@@ -59,16 +59,16 @@ achGDX218Title=信件终结
 achGDX218Desc=在终极难度中让"信使" ~ 奥卡洛斯永远闭嘴。
 
 achGDX219Title=人类叛徒
-achGDX219Desc=击杀位于邪阳之墓的神父凯蒙。
+achGDX219Desc=在邪阳之墓击杀神父凯蒙。
 
 achGDX220Title=沉默先知
-achGDX220Desc=在终极难度中击杀位于邪阳之墓的神父凯蒙。
+achGDX220Desc=在终极难度的邪阳之墓击杀神父凯蒙。
 
 achGDX221Title=弑神者
-achGDX221Desc=击杀位于三巫神王座的邪术之阳 ~ 寇瓦克。
+achGDX221Desc=在三巫神王座击杀邪术之阳 ~ 寇瓦克。
 
 achGDX222Title=永远被遗忘
-achGDX222Desc=在终极难度中击杀位于三巫神王座的邪术之阳 ~ 寇瓦克。
+achGDX222Desc=在终极难度的三巫神王座击杀邪术之阳 ~ 寇瓦克。
 
 achGDX223Title=扼杀后裔
 achGDX223Desc=召唤并击败沙漠之嗣 ~ 卡拉加德拉。
@@ -83,7 +83,7 @@ achGDX226Title=最终献祭
 achGDX226Desc=索拉尔教团的声望达到崇敬。
 
 achGDX227Title=崇高的勇士
-achGDX227Desc=与 12个 势力声望达到崇敬。
+achGDX227Desc=与 12个 势力关系达到崇敬。
 
 achGDX228Title=科凡保护者
 achGDX228Desc=完成被遗忘的诸神。
@@ -100,7 +100,7 @@ achGDX231Desc=在专家模式的终极难度中完成被遗忘的诸神。
 achGDX232Title=科凡杀手
 achGDX232Desc=消灭 2500只 精英怪物(带有星形标记)。
 
-achGDX233Title=像沙漠中的沙子
+achGDX233Title=沙海一粟
 achGDX233Desc=清除凯恩世界的 250000只 怪物。
 
 achGDX234Title=科凡虔诚
@@ -146,19 +146,19 @@ achGDX247Title=碎裂交易
 achGDX247Desc=获得 1种 碎裂之境神龛效果。
 
 achGDX248Title=完成交易
-achGDX248Desc=获得所有 5种 碎裂之境神龛效果。
+achGDX248Desc=(同时)获得所有 5种 碎裂之境神龛效果。
 
 achGDX249Title=暗夜吞噬
 achGDX249Desc=在异教徒墓地的暗夜吞噬中活下来。
 
 achGDX250Title=驱逐暗夜
-achGDX250Desc=在异教徒墓地解决大法师摩根尼斯。
+achGDX250Desc=在异教徒墓地击杀大法师摩根尼斯。
 
 achGDX251Title=暗夜烛光
-achGDX251Desc=在终极难度中击杀位于异教徒墓地的大法师摩根尼斯。
+achGDX251Desc=在终极难度的异教徒墓地击杀大法师摩根尼斯。
 
 achGDX252Title=不灭暗夜烛光
-achGDX252Desc=在专家模式中击杀位于异教徒墓地的大法师摩根尼斯。
+achGDX252Desc=在专家模式的异教徒墓地击杀大法师摩根尼斯。
 
 achGDX253Title=债务追讨
 achGDX253Desc=在单局游戏中解决 5个 里格斯的同伴。

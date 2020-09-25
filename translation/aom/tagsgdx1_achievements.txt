@@ -32,7 +32,7 @@ achGDX1009Title=一神百年
 achGDX1009Desc=在专家模式达到等级 100级。
 
 achGDX1010Title=黑暗之刺
-achGDX1010Desc=击杀虚空边缘的黑暗先驱 ~ 艾柯特·祖尔。
+achGDX1010Desc=在虚空边缘击杀黑暗先驱 ~ 艾柯特·祖尔。
 
 achGDX1011Title=黑暗的尽头
 achGDX1011Desc=在终极难度的虚空边缘击杀黑暗先驱 ~ 艾柯特·祖尔。
@@ -59,7 +59,7 @@ achGDX1018Title=与我无关
 achGDX1018Desc=与缠住你的虚灵算账。
 
 achGDX1019Title=我是自己命运的主宰
-achGDX1019Desc=在终极难度与缠住你的虚灵算账。
+achGDX1019Desc=在终极难度中与缠住你的虚灵算账。
 
 achGDX1020Title=粉碎大山
 achGDX1020Desc=在马尔茅斯下水道击杀大山 ~ 加拉克洛斯。
@@ -74,7 +74,7 @@ achGDX1023Title=为倒下的人复仇
 achGDX1023Desc=在终极难度的血肉密室击杀血肉领主 ~ 西奥丁·马塞尔。
 
 achGDX1024Title=掠夺
-achGDX1024Desc=击败一次掠夺者 ~ 温迪戈之魂的化身。
+achGDX1024Desc=击败掠夺者 ~ 温迪戈之魂的化身之一。
 
 achGDX1025Title=泥中的宝石
 achGDX1025Desc=巴罗霍尔姆的声望达到崇敬。
@@ -86,16 +86,16 @@ achGDX1027Title=人民英雄
 achGDX1027Desc=马尔茅斯反抗军的声望达到崇敬。
 
 achGDX1028Title=崇敬冠军
-achGDX1028Desc=与 9个 派系关系达到崇敬。
+achGDX1028Desc=与 9个 势力关系达到崇敬。
 
 achGDX1029Title=马尔茅斯保卫者
 achGDX1029Desc=完成马尔茅斯的灰烬。
 
 achGDX1030Title=马尔茅斯冠军
-achGDX1030Desc=精英难度完成马尔茅斯的灰烬。
+achGDX1030Desc=在精英难度中完成马尔茅斯的灰烬。
 
 achGDX1031Title=马尔茅斯救世主
-achGDX1031Desc=终极难度完成马尔茅斯的灰烬。
+achGDX1031Desc=在终极难度中完成马尔茅斯的灰烬。
 
 achGDX1032Title=大规模灭绝
 achGDX1032Desc=清除凯恩世界的 200000只 怪物。
@@ -107,7 +107,7 @@ achGDX1034Title=疯狂的藏匿
 achGDX1034Desc=找到伊旺达神秘的藏匿物。
 
 achGDX1035Title=报仇？我看更像是报酬。
-achGDX1035Desc=精英或者终极难度击杀 10名 复仇级怪 (名称为红色)。
+achGDX1035Desc=在精英或终极难度中击杀 10名 复仇级怪物(名称为红色)。
 
 achGDX1036Title=宠物囤积者
 achGDX1036Desc=同时召唤出 18只 宠物。
@@ -122,7 +122,7 @@ achGDX1039Title=博学士
 achGDX1039Desc=收集 70条 学识记录。
 
 achGDX1040Title=不朽的马尔茅斯救世主
-achGDX1040Desc=专家模式终极难度完成马尔茅斯的灰烬。
+achGDX1040Desc=在专家模式的终极难度中完成马尔茅斯的灰烬。
 
 achGDX1041Title=腐化试练
 achGDX1041Desc=在远古树林的腐化试练中活下来。
@@ -134,13 +134,13 @@ achGDX1043Title=驯服未驯服的
 achGDX1043Desc=在终极难度的远古树林击杀野性之心 ~ 加尔加伯。
 
 achGDX1044Title=不朽的野性驯化
-achGDX1044Desc=在专家模式终极难度的远古树林击杀野性之心 ~ 加尔加伯。
+achGDX1044Desc=在专家模式的远古树林击杀野性之心 ~ 加尔加伯。
 
 achGDX1045Title=巫登古魔
 achGDX1045Desc=击杀水域古魔 ~ 克拉·瓦尔。
 
 achGDX1046Title=神话杀手
-achGDX1046Desc=在终极难度击杀水域古魔 ~ 克拉·瓦尔。
+achGDX1046Desc=在终极难度中击杀水域古魔 ~ 克拉·瓦尔。
 
 achGDX1047Title=
 achGDX1047Desc=

@@ -121,7 +121,7 @@ tagGDX1Class07SkillName15A=[审判官]致命瞄准
 tagGDX1Class07SkillDescription15A=当审判官面对人类最强大的敌人时，有时一发射击或精确的^o致命一击^w是他们仅有的机会，然而克敌制胜只需一发足矣。
 
 tagGDX1Class07SkillName16A=[审判官]神器技艺
-tagGDX1Class07SkillDescription16A=谨慎运用从光明会宝库中复制的危险圣物和神器，是所有审判官训练的核心。在没有经验的人手里，即使出于好意使用它们也可能对其和周围的人造成毁灭的厄运。 ^o[影响哈格拉符文和卡拉斯特符文并需要其中的技能之一才能生效]
+tagGDX1Class07SkillDescription16A=谨慎运用从光明会宝库中复制的危险圣物和神器，是所有审判官训练的核心。在没有经验的人手里，即使出于好意使用它们也可能对其和周围的人造成毁灭的厄运。^o影响哈格拉符文和卡拉斯特符文并需要其中的技能之一才能生效。
 
 
 #Class08
@@ -166,7 +166,7 @@ tagGDX1Class08SkillDescription03B=死灵骨刺刺穿并撕裂了敌人体内的�
 tagGDX1Class08SkillName03C=[死灵法师]灵魂收割
 tagGDX1Class08SkillDescription03C=碎裂亡者的尸骨，吸收敌人的灵魂，赋予你和你的仆从以死亡的力量。^o灵魂收割影响所有攻击和激活的宠物。
 tagGDX1Class08SkillName03D=[死灵法师]死亡收割
-tagGDX1Class08SkillDescription03D=训练近身作战的死灵法师并不罕见，那些挥舞着沉重的双手武器席卷驰骋疆场者理应获得尸骨收割者之名。有传言说黑暗军团雇佣了这些人进入队伍，免去他们因为违抗帝国法令的死刑。 ^o需要一把双手近战武器。
+tagGDX1Class08SkillDescription03D=训练近身作战的死灵法师并不罕见，那些挥舞着沉重的双手武器席卷驰骋疆场者理应获得尸骨收割者之名。有传言说黑暗军团雇佣了这些人进入队伍，免去他们因为违抗帝国法令的死刑。^o需要一把双手近战武器。
 
 tagGDX1Class08SkillName04A=[死灵法师]贪婪大地
 tagGDX1Class08SkillDescription04A=在你的指挥下，疾病和腐烂会从大地的裂口喷涌而出并感染所有不幸靠近的敌人。
@@ -214,7 +214,7 @@ tagGDX1Class08SkillName11A=[死灵法师]死亡主宰
 tagGDX1Class08SkillDescription11A=训练有素的死灵法师是一种可怕的存在，他们的到来预示着无尽的死亡军团，死者将被他们永远掌控。^o这项技能必须保持开启以持续生效。
 
 tagGDX1Class08SkillName12A=[死灵法师]收割打击
-tagGDX1Class08SkillDescription12A=将致命的死灵能量注入武器，死灵法师可以造成比肉体切割更深的伤害。 ^o所有默认武器攻击均可激活该技能效果。
+tagGDX1Class08SkillDescription12A=将致命的死灵能量注入武器，死灵法师可以造成比肉体切割更深的伤害。^o所有默认武器攻击均可激活该技能效果。
 tagGDX1Class08SkillName13A=[死灵法师]死灵刀锋
 tagGDX1Class08SkillDescription13A=打击中附带着死亡寒气，你的攻击能使伤口立即坏死，这一景象甚至会使意志最坚定的敌人动摇。^o所有默认武器攻击均可激活该技能效果。当使用近战武器发动时，会击中附近多个目标。
 
@@ -309,7 +309,7 @@ tagGDX1ItemSkillD111Name=恶魔的凝视
 tagGDX1ItemSkillD111Desc=恶魔的凝视落在敌人的身上，燃烧着他们的灵魂。
 
 tagGDX1ItemSkillD112Name=火焰碎片
-tagGDX1ItemSkillD112Desc=你点燃了敌人所站的土地。
+tagGDX1ItemSkillD112Desc=点燃敌人所站的土地。
 
 tagGDX1ItemSkillD113Name=真理之光
 tagGDX1ItemSkillD113Desc=神圣的真理之光笼罩你的敌人。
@@ -408,7 +408,7 @@ tagGDX1ItemSkillD144Name=符文守卫
 tagGDX1ItemSkillD144Desc=符文被刻在护甲上，保护你免受奥术伤害。
 
 tagGDX1ItemSkillD145Name=余烬之风
-tagGDX1ItemSkillD145Desc=召唤火焰生命体焚烧你的敌人。 ^o余烬之风会受到玩家伤害加成的影响。
+tagGDX1ItemSkillD145Desc=召唤火焰生命体焚烧你的敌人。^o余烬之风会受到玩家伤害加成的影响。
 
 tagGDX1ItemSkillD146Name=掠夺者的死亡凝视
 tagGDX1ItemSkillD146Desc=掠夺者的凝视落在附近敌人身上，削弱他们的防御能力。
@@ -426,19 +426,19 @@ tagGDX1ItemSkillD150Name=生命火焰
 tagGDX1ItemSkillD150Desc=火焰生命体将燃烧你的敌人，不仅仅是燃烧肉体。
 
 tagGDX1ItemSkillD151Name=剧毒术士光环
-tagGDX1ItemSkillD151Desc=用恐怖毒液强化你和附近盟友的武器。 ^o这项技能必须保持开启以持续生效。
+tagGDX1ItemSkillD151Desc=用恐怖毒液强化你和附近盟友的武器。^o这项技能必须保持开启以持续生效。
 
 tagGDX1ItemSkillD152Name=死灵领主光环
-tagGDX1ItemSkillD152Desc=用不死力量充满你和附近盟友的武器。 ^o这项技能必须保持开启以持续生效。
+tagGDX1ItemSkillD152Desc=用不死力量强化你和附近盟友的武器。^o这项技能必须保持开启以持续生效。
 
 tagGDX1ItemSkillD153Name=伊格纳法降临
-tagGDX1ItemSkillD153Desc=用伊格纳法的火焰充满你的护甲，灼烧附近的敌人。 ^o这项技能必须保持开启以持续生效。
+tagGDX1ItemSkillD153Desc=用伊格纳法的火焰强化你的护甲，灼烧附近的敌人。^o这项技能必须保持开启以持续生效。
 
 tagGDX1ItemSkillD154Name=吉尔多守卫
 tagGDX1ItemSkillD154Desc=预判举起你的盾牌，反击任何近战攻击。
 
 tagGDX1ItemSkillD155Name=棱镜光环
-tagGDX1ItemSkillD155Desc=将保护符文充满你和附近盟友的护甲。^o这项技能必须保持开启以持续生效。
+tagGDX1ItemSkillD155Desc=将保护符文强化你和附近盟友的护甲。^o这项技能必须保持开启以持续生效。
 
 tagGDX1ItemSkillD156Name=虚化尖刺
 tagGDX1ItemSkillD156Desc=释放一阵虚化骨刺穿刺你的敌人。
@@ -468,13 +468,13 @@ tagGDX1ItemSkillD164Name=石之守卫
 tagGDX1ItemSkillD164Desc=石之守卫能硬化你的皮肤抵御物理打击并攻击伤害你的敌人。
 
 tagGDX1ItemSkillD165Name=枪手的庇护
-tagGDX1ItemSkillD165Desc=最好的进攻和防御都在枪管的前端。 ^o这是一个单手远程武器被动加成。
+tagGDX1ItemSkillD165Desc=最好的进攻和防御都在枪管的前端。^o这是一个单手远程武器被动加成。
 
 tagGDX1ItemSkillD166Name=子弹冲击
 tagGDX1ItemSkillD166Desc=发射高速子弹穿透所有目标。
 
 tagGDX1ItemSkillD167Name=眩晕爆炸
-tagGDX1ItemSkillD167Desc=发射一阵弹幕击穿并眩晕敌人。 ^o这是一项远程技能，由默认武器攻击触发。
+tagGDX1ItemSkillD167Desc=发射一阵弹幕击穿并眩晕敌人。^o这是一项远程技能，由默认武器攻击触发。
 
 tagGDX1ItemSkillD168Name=戈尔巴之咬
 tagGDX1ItemSkillD168Desc=用戈尔巴之斧的寒冷刀锋砍杀你的敌人。
@@ -483,16 +483,16 @@ tagGDX1ItemSkillD169Name=释放混乱
 tagGDX1ItemSkillD169Desc=在你周围释放黑暗的毁灭冲击波伤害敌人。
 
 tagGDX1ItemSkillD170Name=勇气咒语
-tagGDX1ItemSkillD170Desc=通过纯粹的意志，把魔法力量转为物理力量。 ^o这项技能必须保持开启以持续生效。
+tagGDX1ItemSkillD170Desc=通过纯粹的意志，把魔法力量转为物理力量。^o这项技能必须保持开启以持续生效。
 
 tagGDX1ItemSkillD171Name=生命吸取者
 tagGDX1ItemSkillD171Desc=你对生命的渴望永不满足。甚至在你吸取敌人的生命精华时，附近的受害者也会遭受同样的命运。
 
 tagGDX1ItemSkillD172Name=贝尔戈斯安打击
-tagGDX1ItemSkillD172Desc=用贝尔戈斯安的愤怒打击你的敌人。当你使用默认武器攻击时，贝尔戈斯安打击会提升你的每一次攻击强度。 ^o提高充能层数会提高加成效果。
+tagGDX1ItemSkillD172Desc=用贝尔戈斯安的愤怒打击你的敌人。当你使用默认武器攻击时，贝尔戈斯安打击会提升你的每一次攻击强度。^o提高充能层数会提高加成效果。
 
 tagGDX1ItemSkillD173Name=符文箭
-tagGDX1ItemSkillD173Desc=战斗武器和奥术特性巧妙的结合，造就了一种特别致命的组合。 ^o当你使用默认武器攻击时，霹雳符文会造成额外伤害。
+tagGDX1ItemSkillD173Desc=战斗武器和奥术特性巧妙的结合，造就了一种特别致命的组合。^o当你使用默认武器攻击时，霹雳符文会造成额外伤害。
 
 tagGDX1ItemSkillD174Name=陷阱符文
 tagGDX1ItemSkillD174Desc=用陷阱符文标记敌人，限制他们的移动能力。
@@ -531,7 +531,7 @@ tagGDX1w=GrimDawn/images/evil
 #Component Skills
 
 tagGDX1CompSkillA101Name=神灵之力
-tagGDX1CompSkillA101Desc=使你轻松摆脱敌人的打击。 ^o这项技能必须保持开启以持续生效。
+tagGDX1CompSkillA101Desc=使你轻松摆脱敌人的打击。^o这项技能必须保持开启以持续生效。
 
 tagGDX1CompSkillA102Name=旋转刀刃
 tagGDX1CompSkillA102Desc=在你的命令下旋转的刀刃围绕着你，撕碎所有靠近的敌人。^o这项技能必须保持开启以持续生效。
@@ -623,7 +623,7 @@ tagGDX1RelicSkillD108Desc=夜刃大师尼达拉最喜爱的技能，释放飞刃
 tagGDX1RelicSkillD109Name=时间循环
 tagGDX1RelicSkillD109Desc=你的行动将穿越时空。^o需要装备副手法器。
 
-tagGDX1RelicSkillD110Name=血脊
+tagGDX1RelicSkillD110Name=鲜血脊刺
 tagGDX1RelicSkillD110Desc=以扇形向敌人施放数根涂满鲜血的脊骨。
 
 tagGDX1RelicSkillD111Name=收割弧
@@ -709,15 +709,15 @@ tagGDX1Devotion_B102=莱托什的权杖
 tagGDX1Devotion_B102Desc=飞行的莱托什权杖据说是揭开物质与精神境界面纱的关键。当它在天空中显现之时，人们相信此时生者和亡者之间的屏障是最薄的。
 tagGDX1Devotion_B103=阿拉德拉的凤凰
 tagGDX1Devotion_B103Desc=神忠实的宠物，阿拉德拉的凤凰在星空中划过一条燃烧的火光。
-tagGDX1Devotion_B104=堤丰 ~ 灵魂狱卒
+tagGDX1Devotion_B104=灵魂狱卒 ~ 堤丰
 tagGDX1Devotion_B104Desc=堤丰是莱托什忠实的仆人，一个警觉的猎人，狩猎那些拒绝登上死亡战车的恶灵。
 tagGDX1Devotion_B105=吟游诗人的竖琴
 tagGDX1Devotion_B105Desc=佳丽亚吟游诗人的音乐是如此迷人，以至于众神将她升入天空，这样她就能款待他们直至永恒。
 
-tagGDX1Devotion_C101=尤尔托斯 ~ 风暴牧羊人
+tagGDX1Devotion_C101=风暴牧羊人 ~ 尤尔托斯
 tagGDX1Devotion_C101Desc=在安克维亚传说中尤尔托斯的地位较低于其他天神兄弟，但他仍然是一个强大的象征，他撒下的雨水让作物丰收，他降下闪电能造成可怕的毁灭。不过具有讽刺意味的是，尤尔托斯却是安克维亚神中唯一一个受到的信奉超越了帝国兴衰。
 tagGDX1Devotion_C102=春之少女 ~ 伊师塔克
-tagGDX1Devotion_C102Desc=在安克维亚时期很多人经常找伊诗塔克疗伤。万物皆是春之少女的孩子，所有人都会在她温柔的拥抱中找到安慰。
+tagGDX1Devotion_C102Desc=在安克维亚时期很多人经常找伊师塔克疗伤。万物皆是春之少女的孩子，所有人都会在她温柔的拥抱中找到安慰。
 tagGDX1Devotion_C103=石夫人 ~ 维尔
 tagGDX1Devotion_C103Desc=安克维亚传说中的众神之母，最强大的石夫人代表了凯恩本身，她拥有来自石头的刚毅和力量，巍然不动地对抗最大的困境。
 tagGDX1Devotion_C104=幻影 ~ 阿塔克瑟如

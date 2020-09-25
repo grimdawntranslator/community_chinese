@@ -55,7 +55,7 @@ tagChallengeArea_Hard=极其危险的区域
 tagChallengeArea_Hard_Desc=你进入了一个充满了敌人极其危险的区域。这里的怪物被增强了，同时数个异化也被激活，但是掉落奖励也得到了显著提升。
 
 tagChallengeArea_Roguelike=被禁止的区域
-tagChallengeArea_Roguelike_Desc=你进入了一个随机地下城。这里的怪物被注入了邪恶的力量，使他们变得更加强大，同时数个异化也被激活。当前游戏进程也无法再次进入。然而掉落奖励也得到了极大提升。
+tagChallengeArea_Roguelike_Desc=你进入了一个随机地下城。这里的怪物被注入了邪恶的力量，使他们变得更加强大，同时数个异化也被激活，本局游戏也无法再次进入，但是掉落奖励也得到了极大提升。
 
 #Endless Dungeon
 tagEndlessFloorNotComplete=消灭敌人，收集碎裂之魂
@@ -69,7 +69,7 @@ tagEndlessFloorCounterName=区块
 tagEndlessFloorCounterInfo=当前碎界内的区块
 tagEndlessTimerName=计时器
 tagEndlessTimerNameInfo=碎裂之境变得不稳定之前的剩余时间。 ^n^n击杀强大的敌人或者迅速消除大量的敌人可以获得奖励时间。 ^n^n在时间耗尽前击杀碎界的Boss可以在碎裂之境的辉煌中领取额外的奖励。
-tagEndlessDungeonBonusTime=屠杀: {%d0} 怪物被击杀！^n^n+{%.0f1} 秒到计时器！
+tagEndlessDungeonBonusTime=屠杀：{%d0} 怪物被击杀！^n^n+{%.0f1} 秒到计时器！
 tagEndlessDungeonHeroBonusTime=击杀强力敌人！^n^n+{%.0f0} 秒到计时器！
 
 #Inventor - Transmute
@@ -81,7 +81,7 @@ tagConvertRandomSetInfo=将套装中的某件物品随机转为其他同种品�
 tagConvert=转换
 tagConvertCreateInfo=进行转换将摧毁这件物品^o(从固定来源掉落的套装物品不能用于转换)
 tagConvertInfo=转换室可以将一件属于某个套装的强大物品转换为相同套装中的另一件物品亦或者是转换为其他套装中的某件物品。发明家尚未掌握能力。
-tagConvertInfoB=转换室可以将一件属于某个套装的强大物品转换为相同套装中的另一件物品亦或者是转换为其他套装中的某件物品。这个过程需要一些强大的奥术能量，所以发明者直接找到了源头。
+tagConvertInfoB=转换室可以将一件属于某个套装的强大物品转换为相同套装中的另一件物品亦或者是转换为其他套装中的某件物品。这个过程需要一些强大的奥术能量，所以发明家直接找到了源头。
 tagConvertBlacklist=这个物品无法被转换。
 
 #Crafter - Subheadings
@@ -91,69 +91,69 @@ tagCraftingRunes=符文
 Mutator_Monster_01=虚化扭曲
 Mutator_Monster_01Desc=怪物具有虚化抗性，但易受混乱伤害。
 Mutator_Monster_02=全副武装
-Mutator_Monster_02Desc=怪物基本无视物理伤害与护甲穿透，但易受元素伤害。
+Mutator_Monster_02Desc=怪物近乎无视物理伤害与护甲穿透，但易受元素伤害。
 Mutator_Monster_03=狂暴
-Mutator_Monster_03Desc=怪物处于狂暴状态，更快速的攻击但同时更易受到攻击。
+Mutator_Monster_03Desc=怪物处于狂暴状态，攻击的更快但同时更易受到攻击。
 Mutator_Monster_04=野蛮
-Mutator_Monster_04Desc=怪物会造成更多的暴击，但伤害降低。
+Mutator_Monster_04Desc=怪物更容易暴击，但伤害减少。
 Mutator_Monster_05=腐坏
 Mutator_Monster_05Desc=怪物具有混乱抗性，但更易受虚化伤害。
 Mutator_Monster_06=削弱
-Mutator_Monster_06Desc=怪物攻击减速的对手，但自身攻击速度降低。
+Mutator_Monster_06Desc=怪物的攻击使目标减速，但自身攻击速度减慢。
 Mutator_Monster_07=残忍
-Mutator_Monster_07Desc=怪物的暴击更加致命，但同时也降低其命中率。
+Mutator_Monster_07Desc=怪物的暴击更加致命，但自身命中率减少。
 Mutator_Monster_08=点燃
 Mutator_Monster_08Desc=怪物被灌注了火焰，造成额外火焰伤害并能反击火焰伤害，但更易受冰冷伤害。
 Mutator_Monster_09=时间扭曲
 Mutator_Monster_09Desc=怪物的施法间隔缩短并加快了施法速度，但造成更少的物理伤害。
 Mutator_Monster_10=吸血
-Mutator_Monster_10Desc=怪物的每一击都会吸取生命，但总体生命值较低。
+Mutator_Monster_10Desc=怪物的每一击都会吸取生命，但自身生命值减少。
 Mutator_Monster_11=恶毒
 Mutator_Monster_11Desc=怪物被毒素感染，造成额外的毒素伤害并能反击毒素伤害，但更易受活力吸取伤害。
 Mutator_Monster_12=恢复
-Mutator_Monster_12Desc=怪物具有大幅加强的生命与能量恢复能力，但更易受酸性，毒素与流血伤害。
+Mutator_Monster_12Desc=怪物的生命与能量恢复能力大幅加强，但更易受酸性，毒素与流血伤害。
 Mutator_Monster_13=抗性
 Mutator_Monster_13Desc=怪物近乎无视魔法伤害，但更易受物理伤害。
 Mutator_Monster_14=坚韧
-Mutator_Monster_14Desc=怪物具有大幅增加的生命值，但降低了生命恢复速度。
+Mutator_Monster_14Desc=怪物的生命值大幅增加，但生命恢复速度减少。
 Mutator_Monster_15=势不可挡
-Mutator_Monster_15Desc=怪物对群体控制具有极高的抗性，但移动速度降低。
+Mutator_Monster_15Desc=怪物对群体控制具有极高的抗性，但移动速度减慢。
 Mutator_Monster_16=复仇
-Mutator_Monster_16Desc=怪物具有极高的反击能力，但降低了护甲。
+Mutator_Monster_16Desc=怪物具有极高的反击能力，但护甲减少。
 Mutator_Monster_17=迅捷
-Mutator_Monster_17Desc=怪物的移动速度得到极大的提高，但更易受群体控制影响。
+Mutator_Monster_17Desc=怪物的移动速度大幅提高，但更易受群体控制影响。
 
 Mutator_Player_01=虚化标记
-Mutator_Player_01Desc=玩家攻击速度降低，但对虚化伤害有更高的抗性。
+Mutator_Player_01Desc=玩家攻击速度减慢，但对虚化伤害有更高的抗性。
 Mutator_Player_02=虚空标记
-Mutator_Player_02Desc=玩家施法速度降低但对混乱伤害有更高的抗性。
+Mutator_Player_02Desc=玩家施法速度减慢，但对混乱伤害有更高的抗性。
 Mutator_Player_03=标记
-Mutator_Player_03Desc=玩家防御能力降低，但伤害加强了。
+Mutator_Player_03Desc=玩家防御能力减少，但伤害加强。
 Mutator_Player_04=疲劳
-Mutator_Player_04Desc=玩家生命恢复速度降低，但对毒素与流血有更高的抗性。
+Mutator_Player_04Desc=玩家生命恢复速度减少，但对毒素与流血有更高的抗性。
 Mutator_Player_05=击碎
-Mutator_Player_05Desc=玩家伤害与反击效果降低，但护甲提高。
+Mutator_Player_05Desc=玩家伤害与反击效果减少，但护甲提高。
 Mutator_Player_06=折磨
-Mutator_Player_06Desc=玩家的生命降低，但对活力吸取有更高的抗性。
+Mutator_Player_06Desc=玩家的生命值减少，但对活力吸取有更高的抗性。
 Mutator_Player_07=减速
-Mutator_Player_07Desc=玩家的移动速度降低，但降低受到群体控制效果的时间。
+Mutator_Player_07Desc=玩家的移动速度减慢，但减少受到群体控制效果的时间。
 Mutator_Player_08=感染
-Mutator_Player_08Desc=玩家速度降低，但暴击伤害提高了。
+Mutator_Player_08Desc=玩家速度减慢，但暴击伤害提高了。
 Mutator_Player_09=暴露
-Mutator_Player_09Desc=玩家的护甲降低，但冷却时间缩短。
+Mutator_Player_09Desc=玩家的护甲减少，但冷却时间缩短。
 Mutator_Player_10=虚弱
-Mutator_Player_10Desc=玩家的暴击能力降低，但更容易命中目标。
+Mutator_Player_10Desc=玩家的暴击减少，但更容易命中目标。
 
 SkillRetaliationDamageFormat={%.0f0%} {^E}的反击伤害附加至攻击
-SkillRetaliationDamageFormatNumbers={%.0f0%} {^E}反击伤害附加至攻击 ({^H}{%.0f1} - {%.0f2}{^E})
+SkillRetaliationDamageFormatNumbers={%.0f0%} {^E}的反击伤害附加至攻击 ({^H}{%.0f1}-{%.0f2}{^E})
 
-tagCharHealIncreaseModifier={^E}治疗效果提升 {^H}{%.0f0}%
-tagCharHealIncreaseModifierR={^E}治疗效果提升 {^H}{%.0f0}% - {%.0f1}%
+tagCharHealIncreaseModifier={^E}治疗效果提高 {^H}{%.0f0}%
+tagCharHealIncreaseModifierR={^E}治疗效果提高 {^H}{%.0f0}%-{%.0f1}%
 
 #Char Stats Tab 2
 
 #Character
-tagCharStatsHealIncrease=治疗强化
-tagCharStatsHealIncreaseInfo=所有治疗效果的百分比加强，包括药水和攻击伤害转化为生命值。不增加生命恢复速度。
-tagCharStatsOathkeeperSkillsBonus=守誓者技能
-tagCharStatsOathkeeperSkillsBonusInfo=对所有已学守誓者专精技能的加成。
+tagCharStatsHealIncrease=治疗效果提高
+tagCharStatsHealIncreaseInfo=所有治疗效果的百分比加成，包括药水和攻击伤害转化为生命值。不增加生命恢复速度。
+tagCharStatsOathkeeperSkillsBonus=守誓者技能加成
+tagCharStatsOathkeeperSkillsBonusInfo=所有守誓者专精中已习得技能的额外加成。
