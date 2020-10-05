@@ -49,7 +49,7 @@ tagGDX2WeaponBluntF203=拜斯迈之握
 tagGDX2WeaponAxeB201=沙爪切刀
 tagGDX2WeaponAxeB202=熔爪切刀
 tagGDX2WeaponAxeB203=裂爪切刀
-tagGDX2WeaponAxeB204=骨切刀
+tagGDX2WeaponAxeB204=骨制切刀
 tagGDX2WeaponAxeB205=仆从的切肉斧
 
 tagGDX2WeaponAxeC201=帷幕之锋
@@ -142,7 +142,7 @@ tagGDX2WeaponCaster1hB202=塞格留斯的神圣之刃
 tagGDX2WeaponCaster1hB202_Desc="神父凯蒙本人传下的神圣之刃。"
 tagGDX2WeaponCaster1hB203=绯红修女的邪恶权杖
 tagGDX2WeaponCaster1hB204=绯红修女的奥术权杖
-tagGDX2WeaponCaster1hB205=飞升威权
+tagGDX2WeaponCaster1hB205=升灵权杖
 
 tagGDX2WeaponCaster1hC201=微光面纱
 tagGDX2WeaponCaster1hC202=阿拉卡里安的祈求者
@@ -562,7 +562,7 @@ tagGDX2NecklaceD205_Desc="科凡沙漠之王 ~ 甘纳·瓦卡的心脏。"
 tagGDX2NecklaceD206=碎境护符
 tagGDX2NecklaceD207=征服者的宝石
 tagGDX2NecklaceD208=贩骨者的宝石
-tagGDX2NecklaceD209=美德护身符
+tagGDX2NecklaceD209=美德守护
 tagGDX2NecklaceD210=哈拉的护身符
 tagGDX2NecklaceD211=拉辛的宝石
 tagGDX2NecklaceD212=枯萎领主之引
@@ -865,7 +865,7 @@ tagGDX2EnchantA217Desc="取自一种传说中的邪术生物，这种生物几�
 tagGDX2EnchantA218A=贤者荆棘粉末
 tagGDX2EnchantA218Desc="贤者荆棘因其流出的暗红色墨汁而被学者们认为是无价之宝，但是采集那种汁液的人必须极其小心地避开那些刺，以免受到永远无法真正治愈的伤害。"^w^n(用于戒指和项链)
 
-tagGDX2EnchantA219A=帷幕虫粉末
+tagGDX2EnchantA219A=帷幕虫粉
 tagGDX2EnchantA219Desc="由虚空中令人不安的现象中得到的粉末，似乎虚空正以世界间的屏障为食。"^w^n(用于戒指和项链)
 
 tagGDX2EnchantA220A=虚空之盐

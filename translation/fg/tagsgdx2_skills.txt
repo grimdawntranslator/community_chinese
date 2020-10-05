@@ -128,10 +128,10 @@ tagGDX2ItemSkillD203Name=粉碎守卫
 tagGDX2ItemSkillD203Desc=持续低迷煽动你的愤怒。
 
 tagGDX2ItemSkillD204Name=灵魂尖啸
-tagGDX2ItemSkillD204Desc=从你身上爆发出一阵灵魂尖啸，吞噬所有的生命。
+tagGDX2ItemSkillD204Desc=从你身上爆发出灵魂尖啸，吞噬所有的生命。
 
-tagGDX2ItemSkillD205Name=血红波纹
-tagGDX2ItemSkillD205Desc=从你身上爆发出一阵鲜血冲击，将你的敌人笼罩在一片血海之中。
+tagGDX2ItemSkillD205Name=血色波纹
+tagGDX2ItemSkillD205Desc=从你身上爆发出鲜血冲击，将你的敌人笼罩在一片血海之中。
 
 tagGDX2ItemSkillD206Name=毒疮
 tagGDX2ItemSkillD206Desc=毒刃加身，留下溃烂腐败的伤口。
@@ -611,11 +611,11 @@ tagGDX2EnemySkillA11_Desc=幽灵的狂暴将会灼烧你，暴露你的防御和
 tagGDX2EnemySkillA12=看守者降临
 tagGDX2EnemySkillA12_Desc=石狮鹫守卫着这个区域，让你感到不安并降低你的注意力。
 
-tagGDX2EnemySkillA13=燃烧焚炉
-tagGDX2EnemySkillA13_Desc=附近猛然升起的炙热火焰将会使你的肉体灼伤并阻碍的你攻击和回复。
+tagGDX2EnemySkillA13=燃烧熔炉
+tagGDX2EnemySkillA13_Desc=附近升灵体内燃烧的怒火会灼伤你的肉体并阻碍的你攻击和回复。
 
 tagGDX2EnemySkillA14=风暴熔炉
-tagGDX2EnemySkillA14_Desc=附近突然爆发起风暴击打你的肉体并阻碍你的施法与回复。
+tagGDX2EnemySkillA14_Desc=附近升灵体内激荡的风暴会冲击你的肉体并阻碍你的施法与回复。
 
 tagGDX2EnemySkillA15=寇瓦克标记
 tagGDX2EnemySkillA15_Desc=寇瓦克的仆人诅咒着你，粉碎你的防御，将会活活烧死你。

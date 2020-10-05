@@ -45,7 +45,7 @@ tagGDX1WeaponBluntF104=温迪戈之嚎
 
 tagGDX1WeaponAxeB101=仆从的切刀
 tagGDX1WeaponAxeB102=仆从的腐化者
-tagGDX1WeaponAxeB103=溢血切肉斧
+tagGDX1WeaponAxeB103=溢血切肉刀
 
 tagGDX1WeaponAxeC101=哈尔沃的剥皮者
 
@@ -57,9 +57,9 @@ tagGDX1WeaponAxeD104_Desc="目前还不确定这种武器最终是否会使受�
 tagGDX1WeaponAxeD105=戈尔巴的刽子手
 tagGDX1WeaponAxeD106=戈尔巴的狂怒
 
-tagGDX1WeaponAxeF101=女巫团切肉斧
+tagGDX1WeaponAxeF101=女巫团切肉刀
 tagGDX1WeaponAxeF102=女巫团战斧
-tagGDX1WeaponAxeF103=温迪戈切肉斧
+tagGDX1WeaponAxeF103=温迪戈切肉刀
 tagGDX1WeaponAxeF104=女巫之月
 
 
@@ -904,7 +904,7 @@ tagGDX1Blueprint_WaistF106B=设计图：温迪戈守卫束腰
 
 tagGDX1Blueprint_WeaponB101=设计图：风暴电涌手枪
 tagGDX1Blueprint_WeaponB102=设计图：火焰守卫步枪
-tagGDX1Blueprint_WeaponB103=设计图：溢血切肉斧
+tagGDX1Blueprint_WeaponB103=设计图：溢血切肉刀
 tagGDX1Blueprint_WeaponB104=设计图：碎肠者战槌
 tagGDX1Blueprint_WeaponB105=设计图：石墙防御者
 tagGDX1Blueprint_WeaponB106=设计图：法术冲击宝典
@@ -1021,7 +1021,7 @@ tagGDX1Blueprint_ArmorD136=设计图：神话 马尔科夫的面甲
 tagGDX1Blueprint_ArmorD137=设计图：神话 奥祖因的护面
 tagGDX1Blueprint_ArmorD138=设计图：神话 德里格的兜帽
 tagGDX1Blueprint_ArmorD139=设计图：神话 死亡印记兜帽
-tagGDX1Blueprint_ArmorD140=设计图：神话 伊斯坎德拉的兜帽
+tagGDX1Blueprint_ArmorD140=设计图：神话 伊斯坎德拉的罩帽
 tagGDX1Blueprint_ArmorD141=设计图：神话 尤尔托斯的头巾
 tagGDX1Blueprint_ArmorD142=设计图：神话 凛冬之王的头冠
 tagGDX1Blueprint_ArmorD143=设计图：神话 特洛赞的风帽
@@ -1197,7 +1197,7 @@ tagGDX1ConsumableBlueprintB103=配方：邪恶创伤药膏
 tagGDX1ConsumableBlueprintB104=配方：怒吼巨兽药剂
 tagGDX1ConsumableBlueprintB105=配方：莫格卓根药剂
 
-tagGDX1ConsumableB101=巫登汁液
+tagGDX1ConsumableB101=巫登果汁
 tagGDX1ConsumableB101Desc="一瓶由巫登之花提取物制成的香甜混合物。"
 tagGDX1ConsumableB102=巫登药膏
 tagGDX1ConsumableB102Desc="一瓶由巫登之花浓缩制成的抚痛混合物。"
@@ -1564,7 +1564,7 @@ tagGDX1BoosterPM_B01=马尔茅斯人民的委任状
 tagGDX1BoosterAetherialVanguard_C01=虚灵先锋通缉令
 tagGDX1BoosterWendigo_C01=巴罗霍尔姆通缉令
 tagGDX1BoosterBeast_C01=野兽 "通缉令"
-tagGDX1BoosterBeastDesc=这很明显是格罗布 "写" 的，字里行间充满怒气而且你很确定这潦草画像中的人物就是你。
+tagGDX1BoosterBeastDesc=这很明显是格罗布“写”的，字里行间充满怒气而且你很确定这潦草画像中的人物就是你。
 
 #Misc
 

@@ -196,7 +196,7 @@ tagWeaponAxeC012=死尸亵渎者
 tagWeaponAxeC013=乔纳格·李
 tagWeaponAxeC013Desc="一把由各种人类和动物的骨头组成的萨满斧。"
 tagWeaponAxeC014=阿斯特堪切肉斧
-tagWeaponAxeC015=地狱之爪切刀
+tagWeaponAxeC015=地狱之爪切刃
 
 tagWeaponAxeD001=伯尔维治屠夫
 tagWeaponAxeD001Desc="恐怖黎明之后，凯恩世界的人类崩溃于疯狂与腐化之下的具体体现。"
@@ -341,7 +341,7 @@ tagWeaponCrossbow2hB001=幽光十字弩
 tagWeaponCrossbow2hB002=幽光强弩
 tagWeaponCrossbow2hB003=加福林的十字弩
 
-tagWeaponCrossbow2hC001=雷霆喷射弩
+tagWeaponCrossbow2hC001=雷霆喷射者
 tagWeaponCrossbow2hC001Desc="一支原型武器。不幸的是，发明者在该武器能够被量产之前已死于非命。"
 tagWeaponCrossbow2hC002=疾病
 tagWeaponCrossbow2hC003=伯尔维治的诅咒
@@ -608,7 +608,7 @@ tagShieldB008=穴居人骨墙
 tagShieldB009=吸血鬼骨墙
 tagShieldB010=黑曜石守护者
 tagShieldB011=黑曜石壁垒
-tagShieldB012=血肉扭曲盾
+tagShieldB012=血肉扭曲盾牌
 tagShieldB013=血肉扭曲壁垒
 tagShieldB014=伯纳德的轻咬圆盾
 tagShieldB015=瓦德里斯的壁垒
@@ -969,7 +969,7 @@ tagHeadC002=狂战士的风帽
 tagHeadC003=幽冥王冠
 tagHeadC003Desc="曾被戴在凯恩世界第一位也是唯一一位奥术师君王塞缪尔·德雷克的头上，当然这是在其被剥夺王位然后被教士以异端的罪名处死之前。"
 tagHeadC004=指挥王冠
-tagHeadC005=圣殿骑士头盔
+tagHeadC005=隐卫头盔
 tagheadC005Desc="曼海尔的守卫者使用的入门级防具。"
 tagHeadC006=帝国卫兵头盔
 tagHeadC007=探险者的头巾
@@ -1098,7 +1098,7 @@ tagShoulderB026_Desc="伴随着虚空的腐化力量，这件装备仍在扭动�
 tagShoulderC001=剃刀背的尖刺披肩
 tagShoulderC001Desc="用剃刀背的尸体缝制而成的披肩。"
 tagShoulderC002=星光披肩
-tagShoulderC003=战争领主肩甲
+tagShoulderC003=好战者肩甲
 tagShoulderC004=帝国卫兵肩甲
 tagShoulderC005=投弹兵护肩
 tagShoulderC005Desc="历经弹片的灼烧与切割，这件护肩却依然保留着大部分防护能力。"
@@ -1400,7 +1400,7 @@ tagWaistF016=神选束带
 tagWaistF017=神选护腰
 tagWaistF018=神选束腰
 
-#ArmorHands 手套
+#ArmorHands 手部护甲
 
 tagHandsA001=手套
 tagHandsA002=护腕
@@ -1430,7 +1430,7 @@ tagHandsC012=使者的手套
 tagHandsC013=药剂师的触摸
 tagHandsC014=破灭手铠
 tagHandsC015=黎明守卫手甲
-tagHandsC016=余烬之握手铠
+tagHandsC016=余烬手铠
 tagHandsC017=速攻手套
 tagHandsC018=东方手套
 tagHandsC019=风暴之触护腕
@@ -1480,7 +1480,7 @@ tagLegsC004=探险家长裤
 tagLegsC005=污渍长裤
 tagLegsC005Desc="裤子的上个主人似乎在臀部对应的地方留下了些小惊喜。"
 tagLegsC006=蛇人之鳞裹腿
-tagLegsC007=圣殿骑士腿甲
+tagLegsC007=隐卫腿甲
 tagLegsC008=英勇腿甲
 tagLegsC009=血肉捕食者裹腿
 tagLegsC009Desc="有些东西的本来面目还是呆在编年史里面比较好。"
@@ -1631,7 +1631,7 @@ tagRingC023=寒意汹涌之戒
 tagRingC023Desc="哪怕只是轻微的接触戒指上的蓝宝石也会被吸走热量。"
 tagRingC024=永世腐朽之戒
 tagRingC025=烈焰地狱印戒
-tagRingC026=哨兵的印戒
+tagRingC026=隐卫印戒
 tagRingC027=跃动宝石
 tagRingC028=荆棘指环
 tagRingC029=生命绽放指环
@@ -1686,7 +1686,7 @@ tagRingF012=神选风暴印戒
 #Necklaces 项链
 
 tagNecklaceA00=盐袋
-tagNecklaceA00Desc="装满盐的袋子，似乎能够击退恶灵。"
+tagNecklaceA00Desc="装满盐的袋子，似乎能够抵御恶灵。"
 
 tagNecklaceA001=利爪神像
 tagNecklaceA002=银制护符
@@ -2056,7 +2056,7 @@ tagBlueprint_WeaponF004=设计图：罗瓦里劲弩
 tagBlueprint_WeaponF005=设计图：强化 预兆之剑
 tagBlueprint_WeaponF006=设计图：月光巨锤
 tagBlueprint_WeaponF007=设计图：收割者的防御
-tagBlueprint_WeaponF008=设计图：强化 雷霆喷射弩
+tagBlueprint_WeaponF008=设计图：强化 雷霆喷射者
 tagBlueprint_WeaponF009=设计图：军团切刀
 tagBlueprint_WeaponF010=设计图：强化 黑色军团徽盾
 tagBlueprint_WeaponF011=设计图：亡者的六发左轮
@@ -2148,7 +2148,7 @@ tagBlueprint_AccessoryC004=设计图：怒心徽记
 tagBlueprint_AccessoryC005=设计图：元素平衡红宝石
 tagBlueprint_AccessoryC006=设计图：元素平衡蓝宝石
 tagBlueprint_AccessoryC007=设计图：强化 瘟疫大师护符
-tagBlueprint_AccessoryC008=设计图：强化 贝若纳斯精华
+tagBlueprint_AccessoryC008=设计图：强化 贝若纳斯的精华
 tagBlueprint_AccessoryC009=设计图：强化 风暴魔印
 tagBlueprint_AccessoryC010=设计图：烈焰丝线系带
 tagBlueprint_AccessoryC011=设计图：均衡腰带
@@ -2291,7 +2291,7 @@ tagRelicD022Desc="能够同时持握两把近战武器的象征。"
 tagRelicD023=掠夺者护符
 tagRelicD023Desc="能够同时手持两把手枪进行精准射击的象征。"
 
-#Crafting 锻造
+#Crafting 制作
 tagCraftTabArtifactA=圣物
 tagCraftTabArtifactB=护身符，圣物与强大的手工艺品。
 tagCraftTabMeleeA=近战武器
@@ -3615,7 +3615,7 @@ tagBonusLifePercent={^E}恢复 {^H}{%.0f0}% {^E}生命
 tagBonusLifeAbs={^E}恢复 {^H}{%.0f0} {^E}生命
 tagBonusManaPercentAbs={^E}恢复 {^H}{%.0f0}% + {%.0f1} {^E}能量
 tagBonusManaPercent={^E}恢复 {^H}{%.0f0}% {^E}能量
-tagBonusManaAbs={^E}恢复 {^H}{%.0f0} {^E}能量
+tagBonusManaAbs={^E}恢复 {^H}{%.0f0}% {^E}能量
 tagBonusExperience={%+d0} 经验值
 tagBonusMoney={%+d0} 铁币
 tagBonusSkillPoint={%+d0} 技能点数
@@ -4318,7 +4318,7 @@ tagBreakableDermapteranA01=革翅目集簇
 tagBreakableBonePileA01=骨堆
 tagBreakableObsidianA01=末日遗迹
 tagBreakableObsidianB01=黑曜石碎片
-tagBreakableAetherCrystal=虚化水晶体
+tagBreakableAetherCrystal=虚化水晶层
 
 tagChestLocked={^R} ~ 锁着的
 tagChestLockedBoss={^R} ~ 被强大生物锁着的
@@ -4345,8 +4345,8 @@ tagShrineMogdrogenLocked= {^R} ~ 由冥煞能量封印着
 
 tagWoodenDoor=木门
 tagBarnDoor=谷仓门
-tagCageDoor=监牢之门
-tagTrollDoor=巨魔之门
+tagCageDoor=大门
+tagTrollDoor=大门
 
 tagBreakableStoneWall=破碎之墙
 tagBreakableNaturalWall=松散的土堆
