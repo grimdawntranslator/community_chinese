@@ -1,3 +1,9 @@
+
+*
+!.github
+!tools
+!translation
+
 *.zip
 gen_gdmap_i18n.py
 settings.json
