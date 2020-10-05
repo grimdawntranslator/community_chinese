@@ -146,7 +146,7 @@ tagClass01SkillName12A=[士兵]功勋卓著
 tagClass01SkillDescription12A=在白热化的战场上保持冷静思考的能力，使老兵们能够更轻易地切入敌人的防御空档，或是预判敌人的攻击节奏来实施反击。
 
 tagClass01SkillName13A=[士兵]曼海尔的壁垒
-tagClass01SkillDescription13A=召唤大地之神曼海尔，护佑其追随者拥有大地般的坚韧。^o需要一面盾牌。这项技能必须保持开启以持续生效。
+tagClass01SkillDescription13A=召唤大地之神曼海尔，护佑其追随者拥有大地般的坚韧。^o需要一面盾牌或双手近战武器。这项技能必须保持开启以持续生效。
 
 tagClass01SkillName14A=[士兵]奥莱隆之怒
 tagClass01SkillDescription14A=召唤远古战神奥莱隆，鼓舞其追随者燃起无法动摇的凶猛战意。^o这项技能必须保持开启以持续生效。
@@ -211,7 +211,7 @@ tagClass02SkillDescription05A=放置持续向空中抛射爆炸物的迫击炮�
 tagClass02SkillName05B=[爆破者]重型武器
 tagClass02SkillDescription05B=强力的法术提升迫击炮弹的伤害并附加电能伤害。^o同时影响基本的迫击炮技能和巨型炸弹。
 tagClass02SkillName05C=[爆破者]巨型炸弹
-tagClass02SkillDescription05C=向迫击抛射器装载代号为“大家伙”的毁灭性炸弹，将向迫击抛射炮弹幕的初始方向发射。即便你的敌人存活下来，由此产生的巨大的爆炸也将给他们造成极度的恐慌。
+tagClass02SkillDescription05C=向迫击抛射器装载代号为“大家伙”的毁灭性炸弹，将向迫击抛射炮弹幕的初始方向发射并在随后的射击中周期性的装载。即便你的敌人存活下来，由此产生的巨大的爆炸也将给他们造成极度的恐慌。
 tagClass02SkillName05D=[爆破者]火力迫击炮
 tagClass02SkillDescription05D=向敌人发射爆炸的迫击炮弹。
 tagClass02SkillName05E=[爆破者]电击迫击炮
@@ -527,7 +527,7 @@ tagClass05SkillName05B=[奥术师]转化
 tagClass05SkillDescription05B=球形护盾将吸收有害的虚弱效果，转化成为能量为你所用。
 
 tagClass05SkillName06A=[奥术师]阿尔布雷特的虚化射线
-tagClass05SkillDescription06A=一种强大奥术，能将原始的奥术能量引导为高能的毁灭射线并穿透所有敌人。阿尔布雷特大师在恐怖黎明来临之前经过多年的时间使它臻至完美。^o需要装备副手法器。施法速度为100%时，虚化射线每0.3s造成伤害并消耗能量。
+tagClass05SkillDescription06A=一种强大奥术，能将原始的奥术能量引导为高能的毁灭射线并穿透所有敌人。阿尔布雷特大师在恐怖黎明来临之前经过多年的时间使它臻至完美。^o需要装备法器副手。施法速度为100%时，虚化射线每0.3s造成伤害并消耗能量。
 tagClass05SkillName06B=[奥术师]崩解
 tagClass05SkillDescription06B=倾泻你所有的能量灌注在虚化射线之中，毁灭性的力量将粉碎所有它接触到的物体。^o每次造成伤害的时间间隔之后魔法消耗都会提高。
 tagClass05SkillName06C=[奥术师]堕落之力
@@ -537,7 +537,7 @@ tagClass05SkillName07A=[奥术师]净化
 tagClass05SkillDescription07A=在目标区域集中大量负面能量，清除敌人所有的有益的光环和法术，同时清除友军的有害状态，包括持续性伤害效果。
 
 tagClass05SkillName08A=[奥术师]毁灭
-tagClass05SkillDescription08A=这种法术被称为奥术师的终极毁灭力量，它将在现实世界中撕裂出一道能倾泻出原始奥术能量余烬的裂隙。这项危险而又极为耗能的法术不该被轻易使用。^o需要副手法器。在法术的持续时间内，余波会持续降落。同一时间只能施放一次毁灭。
+tagClass05SkillDescription08A=这种法术被称为奥术师的终极毁灭力量，它将在现实世界中撕裂出一道能倾泻出原始奥术能量余烬的裂隙。这项危险而又极为耗能的法术不该被轻易使用。^o需要法器副手。在法术的持续时间内，余波会持续降落。同一时间只能施放一次毁灭。
 
 tagClass05SkillName09A=[奥术师]心灵专注
 tagClass05SkillDescription09A=以专注的身心作为奥术能量的洪炉，有志于成为奥术师的人都会首先学习这种冥想术。
@@ -2544,7 +2544,7 @@ tagDevotion_RequiresSword=^o需要一把剑。
 tagDevotion_RequiresAxe=^o需要一把斧子。
 tagDevotion_RequiresMace=^o需要一把锤子。
 tagDevotion_RequiresCaster=^o需要一把权杖或匕首。
-tagDevotion_RequiresFocus=^o需要一件副手法器。
+tagDevotion_RequiresFocus=^o需要一件法器副手。
 tagDevotion_Requires1hRange=^o需要一把单手远程武器。
 tagDevotion_Requires2hRange=^o需要一把双手远程武器。
 tagDevotion_RequiresRange=^o需要一把远程武器。
@@ -2757,7 +2757,7 @@ tagDevotionEffectB03Desc=你用温迪戈的印记标记了敌人，吸干他们�
 tagDevotionEffectB04=撕裂
 tagDevotionEffectB04Desc=撕碎你的敌人，精妙的割开敌人的动脉并造成内出血。
 tagDevotionEffectB05=槌撞
-tagDevotionEffectB05Desc=以暴熊之力撞击附近的敌人。
+tagDevotionEffectB05Desc=以暴熊之力撞击附近的敌人，吞噬他们暴露的内脏。
 tagDevotionEffectB06=刀锋之怒
 tagDevotionEffectB06Desc=释放一阵爆发的幻影刀阵，轻易地穿透你的敌人。
 tagDevotionEffectB07=裂地

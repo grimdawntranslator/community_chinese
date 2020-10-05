@@ -21,7 +21,7 @@ tagGDX1WeaponSwordD107=贝尔戈斯安的切刀
 
 tagGDX1WeaponSwordF101=马尔茅斯切刀
 tagGDX1WeaponSwordF102=马尔茅斯之刃
-tagGDX1WeaponSwordF103=温迪戈之爪
+tagGDX1WeaponSwordF103=温迪戈下颚
 tagGDX1WeaponSwordF104=马尔茅斯的救世主
 
 
@@ -330,7 +330,8 @@ tagGDX1HeadB104=帕克拉的面容
 tagGDX1HeadB104_Desc="这个面具带来的恶臭令人无法忍受。"
 tagGDX1HeadB105=死亡低语兜帽
 tagGDX1HeadB106=裂天者头环
-
+tagGDX1HeadB107=纳梅迪亚之角
+tagGDX1HeadB107_Desc="死亡的寒意笼罩在这个帽子之上。"
 
 tagGDX1HeadC101=灵魂之环
 tagGDX1HeadC101_Desc="被困在圈中的灵魂有时会把秘密告诉持有者，虽然也许不总是把持有者的最佳利益放在心上。"
@@ -403,14 +404,14 @@ tagGDX1HeadF118=温迪戈暴躁头盔
 
 #ArmorShoulders 护肩
 tagGDX1ShoulderB101=升灵肩铠
-tagGDX1ShoulderB102=升灵肩胄
-tagGDX1ShoulderB103=克拉瓦尔肩胄
+tagGDX1ShoulderB102=升灵护肩
+tagGDX1ShoulderB103=克拉瓦尔护肩
 tagGDX1ShoulderB103_Desc="巫登沼泽巨妖的皮肤太坚硬，可能很难用来制作，但这也是它被工匠们所珍视的好理由。"
-tagGDX1ShoulderB104=克拉瓦尔护肩
+tagGDX1ShoulderB104=克拉瓦尔肩垫
 
 tagGDX1ShoulderC101=幽灵呼唤者斗篷
 tagGDX1ShoulderC102=幽灵骑士的肩铠
-tagGDX1ShoulderC103=风暴焚烧的肩胄
+tagGDX1ShoulderC103=风暴焚烧的护肩
 tagGDX1ShoulderC103_Desc="即使上百个风暴也不足以打破这个铠甲。"
 tagGDX1ShoulderC104=赏金猎人的护肩
 tagGDX1ShoulderC105=腐蚀者斗篷
@@ -426,7 +427,7 @@ tagGDX1ShoulderD104=烈焰降生斗篷
 tagGDX1ShoulderD109=毒液之舌斗篷
 tagGDX1ShoulderD110=余烬之核护肩
 tagGDX1ShoulderD110_Desc="铠甲让使用者充满了永不退却的愤怒火焰。"
-tagGDX1ShoulderD111=克里格的肩胄
+tagGDX1ShoulderD111=克里格的护肩
 tagGDX1ShoulderD112=复仇者的肩铠
 tagGDX1ShoulderD113=迷失灵魂斗篷
 tagGDX1ShoulderD114=奥克塔维尔斯的肩铠
@@ -446,9 +447,9 @@ tagGDX1ShoulderD126=血骑士卷轴
 tagGDX1ShoulderF101=女巫团愤怒斗篷
 tagGDX1ShoulderF102=女巫团生命束缚者斗篷
 tagGDX1ShoulderF103=女巫团奥术斗篷
-tagGDX1ShoulderF104=女巫团战斗护肩
-tagGDX1ShoulderF105=女巫团守卫护肩
-tagGDX1ShoulderF106=女巫团奥术护肩
+tagGDX1ShoulderF104=女巫团战斗肩甲
+tagGDX1ShoulderF105=女巫团守卫肩甲
+tagGDX1ShoulderF106=女巫团奥术肩甲
 tagGDX1ShoulderF107=马尔茅斯寒冷斗篷
 tagGDX1ShoulderF108=马尔茅斯虚灵火焰斗篷
 tagGDX1ShoulderF109=马尔茅斯污染斗篷
@@ -456,8 +457,8 @@ tagGDX1ShoulderF110=马尔茅斯先锋肩铠
 tagGDX1ShoulderF111=马尔茅斯虚空肩铠
 tagGDX1ShoulderF112=马尔茅斯防御者肩铠
 tagGDX1ShoulderF113=温迪戈刀刃肩铠
-tagGDX1ShoulderF114=温迪戈邪恶护肩
-tagGDX1ShoulderF115=温迪戈织法者护肩
+tagGDX1ShoulderF114=温迪戈邪恶肩甲
+tagGDX1ShoulderF115=温迪戈织法者肩甲
 tagGDX1ShoulderF116=温迪戈暴躁肩铠
 tagGDX1ShoulderF117=温迪戈邪恶肩铠
 tagGDX1ShoulderF118=温迪戈守护者肩铠
@@ -797,6 +798,8 @@ tagGDX1MedalB108=守望者徽章
 tagGDX1MedalB109=斯拉萨尔的盾徽
 tagGDX1MedalB109_Desc="利齿充满着被虚化力量扭曲的毒液。"
 tagGDX1MedalB110=普拉格尤斯的标记
+tagGDX1MedalB111=纳梅迪亚之眼
+tagGDX1MedalB111_Desc="毫无生机的眼球仍在抽搐。"
 
 tagGDX1MedalC101=神圣标记
 tagGDX1MedalC102=罪恶标记
@@ -1593,7 +1596,7 @@ tagGDX1ItemSetC103Name=烈火先知
 tagGDX1ItemSetC103Desc="你的心脏是燃烧的余烬，无法熄灭且渴望破坏。"
 
 tagGDX1ItemSetC104Name=法师领主
-tagGDX1ItemSetC104Desc="霍尔戈斯·伊芙琳曾经佩戴的徽章，帝国宫廷的尊敬成员，一名奥术师。"
+tagGDX1ItemSetC104Desc="霍尔戈斯·伊芙琳曾经穿过的华服，帝国宫廷的尊敬成员，一名奥术师。"
 
 tagGDX1ItemSetC105Name=恐惧行者
 tagGDX1ItemSetC105Desc="恐惧行者的出现使附近的活物陷入不可思议的疾病。"

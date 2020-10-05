@@ -8,6 +8,8 @@ tagGDX2WeaponSwordB203=凯蒙的祝圣之刃
 tagGDX2WeaponSwordB203_Desc="用寇瓦克的血加持过的武器，授予其精锐"
 tagGDX2WeaponSwordB204=鲜血领主的复仇
 tagGDX2WeaponSwordB205=拉夫娜之爪
+tagGDX2WeaponSwordB206=纳伦库尔之刃
+tagGDX2WeaponSwordB206_Desc="事实证明，即使是安克维亚的执政者也不敢越界。"
 
 tagGDX2WeaponSwordC201=烈火雄心
 
@@ -40,6 +42,10 @@ tagGDX2WeaponBluntD204=完全正常的圆盾
 tagGDX2WeaponBluntD205=完全正常的黎明碎片
 tagGDX2WeaponBluntD206=完全正常的壁垒
 tagGDX2WeaponBluntD207=地穴追猎者
+tagGDX2WeaponBluntD208=完全正常的仲裁者
+tagGDX2WeaponBluntD208_Desc="这不是你要找的盾牌。
+tagGDX2WeaponBluntD209=完全正常的守护者
+tagGDX2WeaponBluntD209_Desc="疯狂的左撇子"
 
 tagGDX2WeaponBluntF201=拜斯迈战锤
 tagGDX2WeaponBluntF202=索拉尔战锤
@@ -51,6 +57,7 @@ tagGDX2WeaponAxeB202=熔爪切刀
 tagGDX2WeaponAxeB203=裂爪切刀
 tagGDX2WeaponAxeB204=骨制切刀
 tagGDX2WeaponAxeB205=仆从的切肉斧
+tagGDX2WeaponAxeB206=布鲁格鲁的染疫之锋
 
 tagGDX2WeaponAxeC201=帷幕之锋
 
@@ -69,6 +76,8 @@ tagGDX2WeaponGun1hB201=毒蛇喷砂枪
 tagGDX2WeaponGun1hB202=毒蛇放血枪
 tagGDX2WeaponGun1hB203=巫登沼泽连发枪
 tagGDX2WeaponGun1hB103Desc="枪中注入了温迪戈的灵魂。"
+tagGDX2WeaponGun1hB204=鲁特尼克的爆破枪
+tagGDX2WeaponGun1hB204Desc="渴望残酷的终结。
 
 tagGDX2WeaponGun1hC201=沙刺
 tagGDX2WeaponGun1hC202=影脊执法者
@@ -112,6 +121,7 @@ tagGDX2WeaponMelee2hB205=科凡邪术戟
 tagGDX2WeaponMelee2hB206=科凡收割戟
 tagGDX2WeaponMelee2hB207=科凡天界戟
 tagGDX2WeaponMelee2hB207_Desc="锋利的刀锋渴望杀戮。"
+tagGDX2WeaponMelee2hB209=太阳先驱的阔剑
 
 tagGDX2WeaponMelee2hC201=游魂之锋
 tagGDX2WeaponMelee2hC202=怒刃
@@ -177,6 +187,7 @@ tagGDX2ShieldB202=圣甲虫甲壳
 tagGDX2ShieldB203=巨像防御者
 tagGDX2ShieldB204=血肉扭曲护盾
 tagGDX2ShieldB205=黑曜石防御盾
+tagGDX2ShieldB206=冷血的尸体
 
 tagShieldC015B=角斗士
 
@@ -191,6 +202,7 @@ tagGDX2ShieldD203=美德防御者
 tagGDX2ShieldD204=三巫神防御者
 tagGDX2ShieldD205=虚魂壁垒
 tagGDX2ShieldD206=海瑞恩的壁垒
+tagGDX2ShieldD207=暗夜碎片
 
 tagGDX2ShieldF201=拜斯迈防御者
 tagGDX2ShieldF202=德里格保护者
@@ -204,6 +216,8 @@ tagGDX2FocusB202=格罗布邪恶神像
 tagGDX2FocusB203=受压迫的灵魂
 tagGDX2FocusB204=受压制的灵魂
 tagGDX2FocusB205=扎尔泽兰的档案
+tagGDX2FocusB206=阿巴多斯的布道
+tagGDX2FocusB206_Desc="目前尚不清楚阿巴多斯的说教是何时从曼海尔的仁慈之语转向虚无的邪恶黑暗，也不清楚有多少人因他而入了邪教。"
 
 tagGDX2FocusC201=清算法典
 tagGDX2FocusC202=宣言
@@ -280,7 +294,7 @@ tagGDX2HeadD207=征服者头盔
 tagGDX2HeadD208=凌冽轻语王冠
 tagGDX2HeadD209=路德里根的檐帽
 tagGDX2HeadD210=贩骨者的兜帽
-tagGDX2HeadD211=美德之凝视
+tagGDX2HeadD211=美德之视
 tagGDX2HeadD212=哈拉的兜帽
 tagGDX2HeadD213=飓风面具
 tagGDX2HeadD214=枯萎领主的兜帽
@@ -292,6 +306,10 @@ tagGDX2HeadD218=塔戈的头盔
 tagGDX2HeadD219=虚魂面容
 tagGDX2HeadD220=腐魔面具
 tagGDX2HeadD221=摩根尼斯的面容
+tagGDX2HeadD222=碎境仪式面具
+tagGDX2HeadD223=帷幕守卫的面具
+tagGDX2HeadD224=污血饮者的面具
+tagGDX2HeadD225=余烬召唤面具
 
 tagGDX2HeadF201=拜斯迈夜幕华丽头盔
 tagGDX2HeadF202=拜斯迈恐怖兜帽
@@ -342,8 +360,12 @@ tagGDX2ShoulderD216=塔戈的护肩
 tagGDX2ShoulderD217=虚魂斗篷
 tagGDX2ShoulderD218=腐魔护肩
 tagGDX2ShoulderD219=摩根尼斯的黑暗斗篷
+tagGDX2ShoulderD220=碎境仪式披肩
+tagGDX2ShoulderD221=帷幕守卫的披肩
+tagGDX2ShoulderD222=污血饮者的披肩
+tagGDX2ShoulderD223=余烬召唤披肩
 
-tagGDX2ShoulderF201=拜斯迈奥术护肩
+tagGDX2ShoulderF201=拜斯迈奥术肩甲
 tagGDX2ShoulderF202=拜斯迈风幕斗篷
 tagGDX2ShoulderF203=拜斯迈防御者肩铠
 tagGDX2ShoulderF204=拜斯迈焰幕肩铠
@@ -396,6 +418,10 @@ tagGDX2TorsoD216=塔戈的胸甲
 tagGDX2TorsoD217=虚魂护甲
 tagGDX2TorsoD218=腐魔胸甲
 tagGDX2TorsoD219=摩根尼斯的黑暗之心
+tagGDX2TorsoD220=碎境仪式护甲
+tagGDX2TorsoD221=帷幕守卫的护甲
+tagGDX2TorsoD222=污血饮者的护甲
+tagGDX2TorsoD223=余烬召唤护甲
 
 tagGDX2TorsoF201=拜斯迈夜幕胸甲
 tagGDX2TorsoF202=拜斯迈邪恶法衣
@@ -430,7 +456,7 @@ tagGDX2HandsD202_Desc="由最纯净的索拉丁水晶碎片铸造而成。"
 tagGDX2HandsD203=沙漠抢匪手甲
 tagGDX2HandsD203_Desc="这双手套的前主人已经将不知多少人的血洒入了无尽的沙粒中。"
 tagGDX2HandsD204=高尔之手
-tagGDX2HandsD205=摩根尼斯护手
+tagGDX2HandsD205=摩根尼斯之握
 
 
 
@@ -495,7 +521,7 @@ tagGDX2WaistF203B=索拉尔邪恶束腰
 
 
 #Rings 戒指
-tagGDX2RingB201=爬藤戒指
+tagGDX2RingB201=爬藤指环
 
 tagGDX2RingC201=血红荆棘指环
 tagGDX2RingC202=纱幕守望指环
@@ -562,12 +588,13 @@ tagGDX2NecklaceD205_Desc="科凡沙漠之王 ~ 甘纳·瓦卡的心脏。"
 tagGDX2NecklaceD206=碎境护符
 tagGDX2NecklaceD207=征服者的宝石
 tagGDX2NecklaceD208=贩骨者的宝石
-tagGDX2NecklaceD209=美德守护
-tagGDX2NecklaceD210=哈拉的护身符
+tagGDX2NecklaceD209=美德守护之链
+tagGDX2NecklaceD210=哈拉守护之链
 tagGDX2NecklaceD211=拉辛的宝石
 tagGDX2NecklaceD212=枯萎领主之引
 tagGDX2NecklaceD213=拜斯迈之虹膜
 tagGDX2NecklaceD214=腐魔徽章
+tagGDX2NecklaceD215=污血饮者守护之链
 
 tagGDX2NecklaceF201=拜斯迈斗士坠饰
 tagGDX2NecklaceF202=拜斯迈面纱坠饰
@@ -588,6 +615,10 @@ tagGDX2MedalB201=蛇怪长牙
 tagGDX2MedalB201_Desc="那尖牙还在滴着毒液。"
 tagGDX2MedalB202=温迪戈怒视
 tagGDX2MedalB202_Desc="那布满血丝的眼睛饥渴地盯着你的猎物。"
+tagGDX2MedalB203=旋风斩标记
+tagGDX2MedalB203_Desc="用刀刃在空气中回旋切割是所有咆哮巨兽都需要掌握的。"
+tagGDX2MedalB204=争斗者勋章
+tagGDX2MedalB204_Desc="龙争虎斗，鹿死谁手。"
 
 tagGDX2MedalC201=痛苦谎言之印
 tagGDX2MedalC202=死者哀嚎印记
@@ -604,6 +635,8 @@ tagGDX2MedalD206=路德里根的印记
 tagGDX2MedalD207=飓风印记
 tagGDX2MedalD208=高尔之印
 tagGDX2MedalD209=拜斯迈之印
+tagGDX2MedalD210=帷幕守卫的纹章
+tagGDX2MedalD211=余烬召唤纹章
 
 tagGDX2MedalF201=拜斯迈掌控之印
 tagGDX2MedalF202=拜斯迈风暴印记
@@ -666,7 +699,7 @@ tagGDX2Blueprint_ArmorD206=设计图：神话 阳焰头盔
 tagGDX2Blueprint_ArmorD207=设计图：凌冽轻语王冠
 tagGDX2Blueprint_ArmorD208=设计图：路德里根的檐帽
 tagGDX2Blueprint_ArmorD209=设计图：贩骨者的兜帽
-tagGDX2Blueprint_ArmorD210=设计图：美德之凝视
+tagGDX2Blueprint_ArmorD210=设计图：美德之视
 tagGDX2Blueprint_ArmorD211=设计图：哈拉的兜帽
 tagGDX2Blueprint_ArmorD212=设计图：飓风面具
 tagGDX2Blueprint_ArmorD213=设计图：拉辛的护甲
@@ -1107,7 +1140,7 @@ tagItemSetC013CName=毁誓者之愚
 tagItemSetC015BName=肆意屠杀
 
 tagGDX2ItemSetC201Name=巴尔迪尔的板甲
-tagGDX2ItemSetC201BName=巴尔迪尔的勋章
+tagGDX2ItemSetC201BName=巴尔迪尔的盛装
 tagGDX2ItemSetC201Desc="巴尔迪尔是伊露兰的英雄，也是美德的典范。他在皇宫的台阶前立誓守护良善，使其免遭这世界邪恶的摧残。那誓言从未被打破。"
 
 tagGDX2ItemSetC202Name=风暴巨蛇
@@ -1138,7 +1171,7 @@ tagGDX2ItemSetD205Name=贩骨者
 tagGDX2ItemSetD205Desc="来自贩骨者的盔甲，那是一个背叛了自己信仰的人，同时也是恐怖战利品的收藏家。"
 
 tagGDX2ItemSetD206Name=美德之光
-tagGDX2ItemSetD206Desc="据说曾受到万神中最伟大的至高神的祝福。美德之光是希望与正义的明灯，尤其是在一个渴望这二者的世界中。"
+tagGDX2ItemSetD206Desc="据说曾受到万神中最伟大的至高神所祝福。美德之光是希望与正义的明灯，尤其是在一个渴望这二者的世界中。"
 
 tagGDX2ItemSetD207Name=三巫神的哨卫
 tagGDX2ItemSetD207Desc="这是哨卫的盔甲，哨卫是三巫神的誓约守卫，也是他们凡间利益的捍卫者。"
@@ -1178,6 +1211,15 @@ tagGDX2ItemSetD218Desc=腐魔酷爱杀戮，甚至在猎物腐烂很久之后还
 
 tagGDX2ItemSetD219Name=永恒之夜的盔甲
 tagGDX2ItemSetD219Desc="摩根尼斯凝视着黑暗，直到黑暗的回眸。"
+
+tagGDX2ItemSetD220Name=帷幕守卫
+tagGDX2ItemSetD220Desc="罗约的坚定守护者穿过的盛装，他们曾是被遗忘之神的永恒守护者。"
+
+tagGDX2ItemSetD221Name=污血饮者
+tagGDX2ItemSetD221Desc="罗约的坚定守护者穿过的盛装，他们曾是被遗忘之神的永恒守护者。"
+
+tagGDX2ItemSetD222Name=余烬召唤
+tagGDX2ItemSetD222Desc="罗约的坚定守护者穿过的盛装，他们曾是被遗忘之神的永恒守护者。"
 
 
 

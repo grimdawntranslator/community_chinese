@@ -114,7 +114,8 @@ tagGameStateStarting=开始游戏……
 tagGameStateConnecting=正在连接至服务器……
 tagGameStateData=等待服务器……
 
-tagGogMustBeSignedIn=你必须登录GOG Galaxy才能进行多人游戏。请登录GOG Galaxy然后从GOG启动器中启动恐怖黎明！
+tagGogMustBeSignedIn=你必须登录 GOG Galaxy 才能进行多人游戏。请登录 GOG Galaxy 然后从 GOG 启动器中启动恐怖黎明！
+tagEosMustBeSignedIn=你必须登录 Epic 游戏启动器才能进行多人游戏。请从 Epic 游戏启动器中启动恐怖黎明!
 tagSteamCloudLimit=你的Steam云存档已达上限，必须先删除一个人物才能创建新的人物。
 
 #
@@ -651,3 +652,4 @@ tagOnscreenKeyboardBackspace=删除
 tagOnscreenKeyboardCaps=大写
 tagOnscreenKeyboardReturn=回车
 tagOnscreenKeyboardSpace=空格
+

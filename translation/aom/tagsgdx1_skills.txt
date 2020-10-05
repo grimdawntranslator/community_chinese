@@ -66,7 +66,7 @@ tagGDX1Class07SkillName03D=[审判官]武器之语
 tagGDX1Class07SkillDescription03D=将意志注入强大的双手武器，审判官可以将更多的符文刻进他们的装备并且能更频繁地使用重生之语。^o需要装备双手近战武器或双手远程武器。
 
 tagGDX1Class07SkillName04A=[审判官]伊格纳法之焰
-tagGDX1Class07SkillDescription04A=把伊格纳法之石置于胸前，只要将意志持续引导进神器，就能从掌中爆发出一道烈焰奔流。^o这是一项引导技能，必须按下保持施法。^o施法速度为100%时，伊格纳法之焰每0.3秒造成一次伤害。
+tagGDX1Class07SkillDescription04A=把伊格纳法之石置于胸前，只要将意志持续引导进神器，就能从掌中爆发出一道烈焰奔流。^o这是一项引导技能，必须按下保持施法。施法速度为100%时，伊格纳法之焰每0.3秒造成一次伤害。
 tagGDX1Class07SkillName04B=[审判官]增强
 tagGDX1Class07SkillDescription04B=强化伊格纳法之焰，融穿护甲并将敌人烧成灰烬。
 tagGDX1Class07SkillName04C=[审判官]地狱肃清
@@ -77,7 +77,7 @@ tagGDX1Class07SkillName04E=[审判官]污染之焰
 tagGDX1Class07SkillDescription04E=罕见的是，一些审判官已经堕落并信奉他们曾经对抗的力量。将虚无之力注入伊格纳法之石，使其释放出一道污染之焰。
 
 tagGDX1Class07SkillName05A=[审判官]哈加拉德符文
-tagGDX1Class07SkillDescription05A=哈格拉符文最初只是收藏于光明会宝库的藏品之一，但在消灭了给帝国首都带来巨大压力的神秘活动之后，它成为了第一个被批准研究的圣物，并被光明会复制用以切断敌人的逃生路线。^o哈加拉德符文需要1.5秒部署时间并会受到玩家伤害加成的影响。冰锥最初的伤害会降低25%，向外扩散之后会造成全额伤害。
+tagGDX1Class07SkillDescription05A=哈加拉德符文最初只是收藏于光明会宝库的藏品之一，但在消灭了给帝国首都带来巨大压力的神秘活动之后，它成为了第一个被批准研究的圣物，并被光明会复制用以切断敌人的逃生路线。^o哈加拉德符文需要1.5秒部署时间并会受到玩家伤害加成的影响。冰锥最初的伤害会降低25%，向外扩散之后会造成全额伤害。
 tagGDX1Class07SkillName05A_PetSkill=寒冷冲击
 tagGDX1Class07SkillName05B=[审判官]凛冽
 tagGDX1Class07SkillDescription05B=哈加拉德符文散发的寒冷能量能使敌人思维迟缓更利于猎杀。
@@ -222,7 +222,7 @@ tagGDX1Class08SkillName14A=[死灵法师]折磨印记
 tagGDX1Class08SkillDescription14A=虽然所有人都必须面对最终的命运，但是对死亡的掌控使你可以延缓不可避免的宿命。将灵魂连接到附近的敌人，把部分伤害转移到他们身上。^o同一时间只能标记一个敌人。
 
 tagGDX1Class08SkillName15A=[死灵法师]坟墓呼唤
-tagGDX1Class08SkillDescription15A=在主人的命令下，你的仆从能释放坟墓的力量来激励他们，使他们陷入邪恶的狂乱之中。
+tagGDX1Class08SkillDescription15A=呼唤坟墓中的腐朽之力激励你的不死仆从，使他们陷入邪恶的狂乱之中。
 
 #ItemSkills
 
@@ -351,7 +351,7 @@ tagGDX1ItemSkillD125Name=愤怒之火
 tagGDX1ItemSkillD125Desc=从大地爆发出一阵污染火焰。
 
 tagGDX1ItemSkillD126Name=加达尔之焰
-tagGDX1ItemSkillD126Desc=沉浸于加达尔的邪恶火焰之中，不会伤害到你和盟友，但是会灼烧任何靠近的敌人。
+tagGDX1ItemSkillD126Desc=沉浸于加达尔的邪恶火焰之中，不会伤害到你和盟友，但是会灼烧任何靠近的敌人。^o这项技能必须保持开启以持续生效。
 
 tagGDX1ItemSkillD127Name=行刑者的刀锋
 tagGDX1ItemSkillD127Desc=释放出一阵致命的旋转刀刃杀死你的敌人。
@@ -621,7 +621,7 @@ tagGDX1RelicSkillD108Name=尼达拉的最后一击
 tagGDX1RelicSkillD108Desc=夜刃大师尼达拉最喜爱的技能，释放飞刃刀扇穿透敌人，并使他们的裂开的伤口泛起毒泡。魔法刀刃之后会飞回起点。
 
 tagGDX1RelicSkillD109Name=时间循环
-tagGDX1RelicSkillD109Desc=你的行动将穿越时空。^o需要装备副手法器。
+tagGDX1RelicSkillD109Desc=你的行动将穿越时空。^o需要装备法器副手。
 
 tagGDX1RelicSkillD110Name=鲜血脊刺
 tagGDX1RelicSkillD110Desc=以扇形向敌人施放数根涂满鲜血的脊骨。

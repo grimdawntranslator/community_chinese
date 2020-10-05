@@ -100,6 +100,18 @@ tagGDX2Class09SkillDescription14A=对于守誓者来说坚定的信仰就是最�
 tagGDX2ItemSkillB201Name=火焰冲击波
 tagGDX2ItemSkillB201Desc=在攻击时爆发出一道烈焰冲击。
 
+tagGDX2ItemSkillB202Name=日阳新星
+tagGDX2ItemSkillB202Desc=向四周爆发出一阵熔火，焚烧附近的敌人。
+
+tagGDX2ItemSkillB203Name=寒冰骨刺
+tagGDX2ItemSkillB203Desc=召唤寒冷的骨刺击穿你面前的大地。
+
+tagGDX2ItemSkillB204Name=争斗者的竭力
+tagGDX2ItemSkillB204Desc=在你无情的攻势下，敌人将会殚精竭力。
+
+tagGDX2ItemSkillB205Name=虚化散射
+tagGDX2ItemSkillB205Desc=向目标区域疯狂地倾泻注入虚化能量的弹药。^o这是一项远程武器技能。同时开启双持远程武器的能力。
+
 tagGDX2ItemSkillC201Name=毒刺新星
 tagGDX2ItemSkillC201Desc=在你周围爆发带毒的尖刺，刺穿附近的敌人。
 
@@ -128,10 +140,10 @@ tagGDX2ItemSkillD203Name=粉碎守卫
 tagGDX2ItemSkillD203Desc=持续低迷煽动你的愤怒。
 
 tagGDX2ItemSkillD204Name=灵魂尖啸
-tagGDX2ItemSkillD204Desc=从你身上爆发出灵魂尖啸，吞噬所有的生命。
+tagGDX2ItemSkillD204Desc=从你身上爆发出一阵灵魂尖啸，并且吞噬所有的生命。
 
-tagGDX2ItemSkillD205Name=血色波纹
-tagGDX2ItemSkillD205Desc=从你身上爆发出鲜血冲击，将你的敌人笼罩在一片血海之中。
+tagGDX2ItemSkillD205Name=血色冲击
+tagGDX2ItemSkillD205Desc=从你身上爆发出一阵鲜血冲击，将你的敌人笼罩在一片血海之中。
 
 tagGDX2ItemSkillD206Name=毒疮
 tagGDX2ItemSkillD206Desc=毒刃加身，留下溃烂腐败的伤口。
@@ -310,6 +322,8 @@ tagGDX2ItemSkillD262Name=世界之门
 tagGDX2ItemSkillD262Desc=在现实中撕开一道裂隙，将站在其中的敌人分割开来。^o世界之门会受到战宠加成的影响。
 tagGDX2ItemSkillD262PetSkill_Name=分割
 
+tagGDX2ItemSkillD263Name=帷幕守卫
+tagGDX2ItemSkillD263Desc=碎裂之境的不稳定能量让你获得坚定的决心。
 
 #Component Skills
 tagGDX2CompSkillA033Name=虚空弹药
@@ -706,3 +720,15 @@ tagGDX2EnemySkillD18_Desc=黑暗巫师削弱了你的身髓，吞噬了你的生
 
 tagGDX2EnemySkillD19=瓦解意志
 tagGDX2EnemySkillD19_Desc=你的意识无法处理目睹的恐怖景象，破坏了你瞄准和施法的能力。
+
+tagGDX2EnemySkillD20=无尽的瘟疫
+tagGDX2EnemySkillD20_Desc=无情的疾病感染了你，减缓你的反应速度。
+
+tagGDX2EnemySkillD21=出血热
+tagGDX2EnemySkillD21_Desc=一种引起出血热的疾病削弱了你的防御能力。
+
+tagGDX2EnemySkillD22=死亡光环
+tagGDX2EnemySkillD22_Desc=纳伦库尔的灵魂消耗你的生存意志，降低你的防御能力和速度。
+
+tagGDX2EnemySkillD23=瘟疫降临
+tagGDX2EnemySkillD23_Desc=附近有种生物让空气中充满了有毒气体。

@@ -67,7 +67,7 @@ achGDX220Desc=在终极难度中击杀邪阳之墓的神父凯蒙。
 achGDX221Title=弑神者
 achGDX221Desc=击杀三巫神王座的邪术之阳 ~ 寇瓦克。
 
-achGDX222Title=永远被遗忘
+achGDX222Title=永恒遗忘
 achGDX222Desc=在终极难度中击杀三巫神王座的邪术之阳 ~ 寇瓦克。
 
 achGDX223Title=扼杀后裔

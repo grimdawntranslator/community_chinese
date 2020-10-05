@@ -1472,6 +1472,8 @@ tagLegsA006=护腿
 tagLegsB001=德里格宗派护腿
 tagLegsB002=索拉尔宗派护腿
 tagLegsB003=拜斯迈宗派护腿
+tagLegsB004=安娜斯特瑞娅的护腿
+tagLegsB005=安娜斯特瑞娅的绑腿
 
 tagLegsC001=雾行长裤
 tagLegsC002=隐士护腿
@@ -3488,7 +3490,7 @@ tagCompB020Name=^k侍从印记
 tagCompB020Desc="蕴含着强大力量的徽记，授予战场上最勇猛无畏的将士。"^w^n(用于盾牌)
 
 tagCompB021Name=^k奥莱隆之血
-tagCompB021Desc="战神的圣血。"^w^n(用于所有武器)
+tagCompB021Desc="战神的圣血。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompB022Name=^k基尔利安的碎裂之魂
 tagCompB022Desc="基尔利安腐化的灵魂，安克维亚地下城的恐惧之源。"^w^n(用于胸甲)
@@ -3716,8 +3718,8 @@ tagItemSetC023Desc="久战沙场的老兵所穿的装甲，是对他们在战场
 tagItemSetC024Name=持火者
 tagItemSetC024Desc="一颗炽烈的心脏，内部灌注了一只火焰之灵。"
 
-tagItemSetC025Name=卡里多的徽记
-tagItemSetC025Desc="卡里多大师的器物，崇尚奥术师并创造了奥术风暴的技艺。"
+tagItemSetC025Name=卡里多的华服
+tagItemSetC025Desc="大师卡里多的装备，受尊崇的奥术师以及奥术风暴技艺的创造者。"
 
 tagItemSetC026Name=密尔弥冬的装甲
 tagItemSetC026Desc="黑色军团发放给精英先锋的装甲。"
