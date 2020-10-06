@@ -1,9 +1,14 @@
 
-*
-!.github
-!tools
-!translation
+# Exclude all files
+/*
 
-*.zip
-gen_gdmap_i18n.py
-settings.json
+# Include folders
+!/.github
+!/tools
+!/translation
+
+# Include files
+!.gitignore
+!build_zip.bat
+!README.md
+!*.txt
