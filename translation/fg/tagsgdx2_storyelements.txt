@@ -288,7 +288,7 @@ tagGDX2NPC_AreaG_38=被遗忘的通道
 
 tagGDX2NPC_AreaG_39=马尔
 
-tagGDX2NPC_ArkoviaBridge=暴君要塞桥梁维修站
+tagGDX2NPC_ArkoviaBridge=暴君要塞桥梁维修点
 
 #Flavor NPC Names
 #Solael Camp
