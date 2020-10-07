@@ -2331,7 +2331,7 @@ tagCraftComponentRareDesc=失传已久的卓越锻造技术。
 tagCraftShardBeronathDesc=将钢铁变幻为神兽贝若纳斯的鳞片。
 tagCraftRelicDesc=因恐怖黎明而失传的远古锻造技术。
 tagCraftTransmuteDesc=通过熔炉的高温以及一些炼金术，稀有材料能够被炼成其他等值的稀有物品。
-tagCraftRandomLegendaryDesc=铁匠把原始奥术能量注入这些物体来创造传奇装备，物品等级上限为75级。57级以下的人物会锻造可能出一件史诗级装备。
+tagCraftRandomLegendaryDesc=铁匠把原始奥术能量注入这些物体来创造传奇装备，物品等级上限为75级。58级以下的人物会锻造可能出一件史诗级装备。
 tagCraftRandomLegendaryAccessoryDesc=铁匠把原始奥术能量注入这些物体来创造传奇装备，物品等级上限为75级。58级以下的人物会锻造出一件史诗级装备。
 
 tagCraftRandomAxe=附魔之斧
