@@ -1164,10 +1164,10 @@ tagGDX1RelicD114=死亡追猎者
 tagGDX1RelicD114Desc="恶灵寻求着解脱"
 
 
-#Crafting 锻造
-tagGDX1CraftRandomLegendaryDesc2=铁匠把原始奥术能量注入这些物体来创造传奇装备，物品等级上限为94级。58级以下的人物可能会锻造出一件史诗级装备。
-tagGDX1CraftRandomLegendaryAccessoryDesc2=铁匠把原始奥术能量注入这些物体来创造传奇装备，物品等级上限为94级。58级以下的人物会锻造出一件史诗级装备。
-tagGDX1CraftRandomLegendaryItemDesc2=铁匠能打造一件符合你的等级的传奇装备，物品等级上限为94级。
+#Crafting 制作
+tagGDX1CraftRandomLegendaryDesc2=铁匠把原始的奥术能量与这些物品结合起来，创造出一件具有传奇潜力的物品，物品等级上限为94级。58级以下的人物有机会打造出一件史诗级的物品。
+tagGDX1CraftRandomLegendaryAccessoryDesc2=铁匠把原始的奥术能量与这些物品结合起来，创造出一件具有传奇潜力的物品，物品等级上限为94级。58级以下的人物将会打造出一件史诗级的物品。
+tagGDX1CraftRandomLegendaryItemDesc2=铁匠会制作一件适应你等级并具有传奇品质的附魔物品，物品等级上限为94级。
 
 tagGDX1CraftMaterial_AetherialVanguard=虚灵信件
 tagGDX1CraftMaterial_AetherialVanguard_Desc="奥术文本注入了虚灵能量。可能是用于传输信息，凡人之眼过于敏感而无法阅读。"
