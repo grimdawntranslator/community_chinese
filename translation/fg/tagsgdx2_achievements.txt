@@ -74,13 +74,13 @@ achGDX223Title=扼杀后裔
 achGDX223Desc=召唤并击败沙漠之嗣 ~ 卡拉加德拉。
 
 achGDX224Title=噢，那是我们编织的魔网
-achGDX224Desc=拜斯迈教团的声望达到崇敬。
+achGDX224Desc=与拜斯迈教团的关系达到崇敬。
 
 achGDX225Title=永恒凝视
-achGDX225Desc=德里格教团的声望达到崇敬。
+achGDX225Desc=与德里格教团的关系达到崇敬。
 
 achGDX226Title=最终献祭
-achGDX226Desc=索拉尔教团的声望达到崇敬。
+achGDX226Desc=与索拉尔教团的关系达到崇敬。
 
 achGDX227Title=崇高的勇士
 achGDX227Desc=与 12个 势力关系达到崇敬。
@@ -95,7 +95,7 @@ achGDX230Title=天神胜利者
 achGDX230Desc=在终极难度中完成被遗忘的诸神。
 
 achGDX231Title=不朽的天神胜利者
-achGDX231Desc=在专家模式的终极难度中完成被遗忘的诸神。
+achGDX231Desc=在专家模式中以终极难度完成被遗忘的诸神。
 
 achGDX232Title=科凡杀手
 achGDX232Desc=消灭 2500只 精英怪物(带有星形标记)。
@@ -131,7 +131,7 @@ achGDX242Title=碎裂征服者
 achGDX242Desc=在终极难度中征服碎裂之境的第 25 碎界。
 
 achGDX243Title=不朽的碎裂征服者
-achGDX243Desc=在专家模式的终极难度中征服碎裂之境的第 25 碎界。
+achGDX243Desc=在专家模式中以终极难度征服碎裂之境的第 25 碎界。
 
 achGDX244Title=灵魂饮食
 achGDX244Desc=在碎裂之境中吸收 50个 碎裂之魂。

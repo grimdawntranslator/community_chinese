@@ -77,13 +77,13 @@ achGDX1024Title=掠夺
 achGDX1024Desc=击败掠夺者 ~ 温迪戈之魂的化身之一。
 
 achGDX1025Title=泥中的宝石
-achGDX1025Desc=巴罗霍尔姆的声望达到崇敬。
+achGDX1025Desc=与巴罗霍尔姆的关系达到崇敬。
 
 achGDX1026Title=巫登沼泽仪式
-achGDX1026Desc=巫登沼泽女巫团的声望达到崇敬。
+achGDX1026Desc=与巫登沼泽女巫团的关系达到崇敬。
 
 achGDX1027Title=人民英雄
-achGDX1027Desc=马尔茅斯反抗军的声望达到崇敬。
+achGDX1027Desc=与马尔茅斯反抗军的关系达到崇敬。
 
 achGDX1028Title=崇敬冠军
 achGDX1028Desc=与 9个 势力关系达到崇敬。
@@ -122,7 +122,7 @@ achGDX1039Title=博学士
 achGDX1039Desc=收集 70条 学识记录。
 
 achGDX1040Title=不朽的马尔茅斯救世主
-achGDX1040Desc=在专家模式下以终极难度完成马尔茅斯的灰烬。
+achGDX1040Desc=在专家模式中以终极难度完成马尔茅斯的灰烬。
 
 achGDX1041Title=腐化试练
 achGDX1041Desc=在远古树林的腐化试练中活下来。
@@ -134,7 +134,7 @@ achGDX1043Title=驯服未驯服的
 achGDX1043Desc=在终极难度中击杀远古树林的野性之心 ~ 加尔加伯。
 
 achGDX1044Title=不朽的野性驯化
-achGDX1044Desc=在专家模式下度击杀远古树林的野性之心 ~ 加尔加伯。
+achGDX1044Desc=在专家模式中击杀远古树林的野性之心 ~ 加尔加伯。
 
 achGDX1045Title=巫登古魔
 achGDX1045Desc=击杀水域古魔 ~ 克拉·瓦尔。
