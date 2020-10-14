@@ -402,7 +402,7 @@ tagGDX1ItemSkillD142Name=虚空诅咒
 tagGDX1ItemSkillD142Desc=目标已经被虚空标记，狂语将从内部开始慢慢地摧毁它。
 
 tagGDX1ItemSkillD143Name=风暴领域
-tagGDX1ItemSkillD143Desc=在你号令下形成的闪电立场，将电击任何经过的敌人。
+tagGDX1ItemSkillD143Desc=在你号令下形成的闪电力场，将电击任何经过的敌人。
 
 tagGDX1ItemSkillD144Name=符文守卫
 tagGDX1ItemSkillD144Desc=符文被刻在护甲上，保护你免受奥术伤害。
