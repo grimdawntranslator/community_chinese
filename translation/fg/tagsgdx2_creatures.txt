@@ -319,7 +319,7 @@ tagGDX2EnemySummon_NightCrystal=天界导管
 tagGDX2EnemySummon_FireHound=烈火猎犬
 
 
-#Boss&Quest
+#Boss&Quest  格式：头衔 ~ 职业 名称<阵营> [其他]
 tagGDX2Quest_BysmielSummon_01=阿特弗召唤物
 tagGDX2Quest_WitchGodAlly=束缚野兽
 
@@ -355,24 +355,24 @@ tagGDX2Boss_RoguelikePath_Boss_03=消化者 戈布利克斯
 tagGDX2Boss_RiggsCollector_01=里格斯的“同伙”
 
 
-tagGDX2Miniboss_Kymon_01=凯蒙的复仇 ~ 塞格留斯修士
-tagGDX2Miniboss_Kymon_02=凯蒙的复仇 ~ 绯红修女
+tagGDX2Miniboss_Kymon_01=凯蒙复仇者 ~ 修士 塞格留斯
+tagGDX2Miniboss_Kymon_02=凯蒙复仇者 ~ 修女 克里姆荪
 tagGDX2Miniboss_Kymon_03=奥西尔的高阶祭司 ~ 雷姆祖尔
 
 tagGDX2Miniboss_Beast_01=科凡沙漠之王 ~ 甘纳·瓦卡
 tagGDX2Miniboss_Beast_02=科凡 ~ 泰坦诺沃尔
 tagGDX2Miniboss_Beast_03=猎犬首领 ~ 格雷莫尔
 tagGDX2Miniboss_Beast_04=狮鹫君王 ~ 阿泽隆
-tagGDX2Miniboss_Beast_05=杜尔格·风暴降生
-tagGDX2Miniboss_Beast_06=玛古尔·腐坏者
+tagGDX2Miniboss_Beast_05=风暴降生 ~ 杜尔格
+tagGDX2Miniboss_Beast_06=腐坏者 ~ 玛古尔
 
-tagGDX2Miniboss_Side_01=冷血卡纳斯，角斗场老混子
-tagGDX2Miniboss_Side_02=神父阿巴多斯 ~ 曼海尔的背叛者
+tagGDX2Miniboss_Side_01=角斗场老混子 ~ 卡纳斯·冷血
+tagGDX2Miniboss_Side_02=曼海尔的背叛者 ~ 神父阿巴多斯
 tagGDX2Miniboss_Side_03=无情的旋风斩
-tagGDX2Miniboss_Side_04=被放逐的纳伦库尔
+tagGDX2Miniboss_Side_04=被放逐的纳伦·库尔
 tagGDX2Miniboss_Side_05=残暴的鲁特尼克
-tagGDX2Miniboss_Side_06=太阳先驱 阿斯特罗斯
-tagGDX2Miniboss_Side_07=活体瘟疫 布鲁格鲁
+tagGDX2Miniboss_Side_06=太阳先驱 ~ 阿斯特罗斯
+tagGDX2Miniboss_Side_07=活体瘟疫 ~ 布鲁格鲁
 
 tagGDX2Miniboss_PVP_01=玩星际被神族虐爆 ~ 角斗场冠军(论坛玩家:RektbyProtoss)
 tagGDX2Miniboss_PVP_02=阿塞迪安·奥德里克 ~ 角斗场冠军
