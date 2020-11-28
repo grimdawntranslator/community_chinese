@@ -279,8 +279,6 @@ iatag_ui_backup_details=详细信息
 iatag_ui_backup_logout=注销
 iatag_ui_backup_status_label=状态：
 iatag_ui_backup_logout_sucessful_body=您已经退出在线备份
-
-Good luck!
 iatag_ui_backup_logout_sucessful_header=禁用在线备份
 iatag_ui_backup_deleteaccount_header=刪除在线备份
 iatag_ui_backup_deleteaccount_body=您確定要刪除在线备份吗？
