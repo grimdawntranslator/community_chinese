@@ -214,6 +214,7 @@ BasePierce=穿刺
 BaseAether=虚化
 BaseLife=活力
 Resistance=抗性
+ResistanceMaxResist=最大 
 iatag_html_choose_a_relic=选择遗物
 iatag_html_choose_a_recipe=选择配方
 iatag_html_choose_a_component=选择部位
