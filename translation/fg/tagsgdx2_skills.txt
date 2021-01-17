@@ -325,6 +325,7 @@ tagGDX2ItemSkillD262PetSkill_Name=分割
 tagGDX2ItemSkillD263Name=帷幕守卫
 tagGDX2ItemSkillD263Desc=碎裂之境的不稳定能量让你获得坚定的决心。
 
+
 #Component Skills
 tagGDX2CompSkillA033Name=虚空弹药
 tagGDX2CompSkillA033Desc=赋予你的攻击带有虚空的力量。^o这项技能必须保持开启以持续生效。
@@ -536,7 +537,7 @@ tagGDX2RuneSkillD209=纳丹之击
 tagGDX2RuneSkillD209Desc=在阴影中穿行到目标地点并产生一圈刀刃攻击周围的敌人。
 
 tagGDX2RuneSkillD210=尤尔托斯降临
-tagGDX2RuneSkillD210Desc=在火焰的笼罩中瞬间穿越现实到达目的地。
+tagGDX2RuneSkillD210Desc=在雷鸣般的爆发中瞬间穿越现实到达目的地。
 
 tagGDX2RuneSkillD211=星光裂隙
 tagGDX2RuneSkillD211Desc=附上一层面纱立即传送到目标地点并释放一股凶猛的能量浪潮。

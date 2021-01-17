@@ -242,7 +242,7 @@ tagGDX2FocusD209_Desc="科凡历史守护者的头颅，最好把它忘记。"
 tagGDX2FocusD210=哈兰克斯的头颅
 tagGDX2FocusD210_Desc="守护者的头虽然是用石头做的，却散发着腐朽的气味。"
 tagGDX2FocusD211=天界征兆之裔
-tagGDX2FocusD212=多界之门
+tagGDX2FocusD212=界门
 tagGDX2FocusD212_Desc="现实的交织本身就在扭曲，并有被拆解的危险。"
 
 tagGDX2FocusF201=拜斯迈邪火神像
