@@ -12,7 +12,7 @@ tagSkillClassName0102=突击者
 tagSkillClassName0103=巫师之刃
 tagSkillClassName0104=剑圣
 tagSkillClassName0105=战斗法师
-tagSkillClassName0106=典狱官
+tagSkillClassName0106=守卫
 tagSkillClassName0107=
 tagSkillClassName0108=
 tagSkillClassName0109=
@@ -1063,7 +1063,7 @@ tagItemSkillC041Name=幽魂洪流
 tagItemSkillC041Desc=释放一波愤怒幽魂的无尽之浪使你的敌人流失生命。
 
 tagItemSkillC042Name=刻痕
-tagItemSkillC042Desc=在成千上万道痕迹中再加上一道，不过又有谁在数呢？^o这项技能会由默认武器攻击触发。
+tagItemSkillC042Desc=在成千上万道痕迹中再加上一道，不过又有谁在数呢？^o这是一项近战技能，会由默认武器攻击触发。
 
 tagItemSkillC043Name=不熄烈焰之环
 tagItemSkillC043Desc=沐浴在能够将周围一切焚烧成灰的烈焰之中，而你本身却能毫发无损。^o这项技能必须保持开启以持续生效。
@@ -1077,7 +1077,7 @@ tagItemSkillC045Name=虚化守卫
 tagItemSkillC045Desc=拥抱伟大的虚化力量，获得对奥术的抵抗力和坚强的意志。
 
 tagItemSkillC046Name=吸魂
-tagItemSkillC046Desc=吞食目标精元并回复自身。^o这项技能会由默认武器攻击激活。
+tagItemSkillC046Desc=吞食目标精元并回复自身。^o这是一项近战技能，会由默认武器攻击触发。
 
 tagItemSkillC047Name=石心毒药
 tagItemSkillC047Desc=释放刀锋中蕴含的毒药，将血肉石化。
@@ -1127,7 +1127,7 @@ tagItemSkillC061Name=毒蛇猛击
 tagItemSkillC061Desc=像毒蛇一样猛地袭击敌人，向目标注入致命的毒液。^o需要一把近战武器。
 
 tagItemSkillC062Name=击倒
-tagItemSkillC062Desc=用快速精确的一击将你的对手击倒。^o需要一把近战武器。这项特效会由近战默认武器攻击触发。
+tagItemSkillC062Desc=用快速精确的一击将你的对手击倒。^o这项技能会由默认武器攻击触发。
 
 tagItemSkillC063Name=棱光护盾
 tagItemSkillC063Desc=发动护甲之上的符文刻印，在周围制造一面保护盾。
@@ -1166,10 +1166,10 @@ tagItemSkillC074Name=守护者的意志
 tagItemSkillC074Desc=即使是在死神的魔爪之下，你那顽强的求生意志仍能拯救你的生命。^o需要一面盾牌。
 
 tagItemSkillC075Name=掠夺者的怒火
-tagItemSkillC075Desc=释放一阵注火弹药的齐射。^o激活双持远程武器的能力。
+tagItemSkillC075Desc=释放一阵注火弹药的齐射。^o这是一项远程技能，会由默认武器攻击触发。并激活双持远程武器的能力。
 
 tagItemSkillC076Name=掠夺者的审判
-tagItemSkillC076Desc=释放一阵浸寒弹药的齐射。^o激活双持远程武器的能力。
+tagItemSkillC076Desc=释放一阵浸寒弹药的齐射。^o这是一项远程技能，会由默认武器攻击触发。并激活双持远程武器的能力。
 
 tagItemSkillC077Name=惊慌
 tagItemSkillC077Desc=以绝对的恐惧击溃敌人的内心。
@@ -1190,7 +1190,7 @@ tagItemSkillC082Name=虚空之火新星
 tagItemSkillC082Desc=从你身上爆发出大量高度集中的负能量。
 
 tagItemSkillC083Name=掠夺者的齐射
-tagItemSkillC083Desc=当双持手枪时，你偶尔会释放一阵装满弹药的奥术齐射。^o激活双持远程武器的能力。这项技能会由默认武器攻击触发。
+tagItemSkillC083Desc=当双持手枪时，你偶尔会释放一阵装满弹药的奥术齐射。^o这是一项远程技能，会由默认武器攻击触发。并激活双持远程武器的能力。
 
 tagItemSkillC084Name=瘴气
 tagItemSkillC084Desc=释放一片毒气之云窒息并使敌人混乱。
@@ -1579,7 +1579,7 @@ tagItemSkillD077Name=德里格的统御
 tagItemSkillD077Desc=德里格的统御之力在你受到威胁时充满全身，允许你不间断的连续施法。
 
 tagItemSkillD078Name=决斗者
-tagItemSkillD078Desc=对双枪技法的精通使你化身为致命的武器。你可以随意的同时使用双枪进行攻击，并造成致命的效果。
+tagItemSkillD078Desc=对双枪技法的精通使你化身为致命的武器。你可以随意的同时使用双枪进行攻击，并造成致命的效果。^o这项技能会由默认武器攻击触发。
 
 tagItemSkillD079Name=元素爆发
 tagItemSkillD079Desc=从你体内爆发出一波元素能量，推开附近所有的敌人。
@@ -1597,7 +1597,7 @@ tagItemSkillD083Name=永恒鬼影
 tagItemSkillD083Desc=向你的敌人放射一只痛苦的鬼魂并在敌人之间传播。
 
 tagItemSkillD084Name=清除
-tagItemSkillD084Desc=用精准一击结束敌人的性命。
+tagItemSkillD084Desc=用精准一击结束敌人的性命。^o这是一项远程技能，由默认武器攻击触发。
 
 tagItemSkillD085Name=流逝现实
 tagItemSkillD085Desc=当危险来袭时，这种屏障会使你淡出物质世界，给你一个短暂的庇护。
