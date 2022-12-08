@@ -1,5 +1,5 @@
-MonsterDB_tagMonsterDB=Grim Dawn 怪物数据库
-MonsterDB_tagMonsterDBPets=Grim Dawn 战宠数据库
+MonsterDB_tagMonsterDB=恐怖黎明怪物数据库
+MonsterDB_tagMonsterDBPets=恐怖黎明战宠数据库
 
 # buff types, e.g. "Permanent buffs: OFF"
 MonsterDB_tagBuffsPermanent=永久buffs: {%s0}
@@ -15,7 +15,7 @@ MonsterDB_tagDifficulty=难度:
 
 MonsterDB_tagMonsterLevel=怪物等级
 // Shattered Realm shard #
-MonsterDB_tagShardNumber=破碎之境碎界
+MonsterDB_tagShardNumber=碎裂之境层数
 // Player level for pet db
 MonsterDB_tagPlayerLevel=玩家等级
 MonsterDB_tagPetLevel=战宠等级

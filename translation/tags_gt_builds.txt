@@ -1,0 +1,58 @@
+Builds_tagTitle=恐怖黎明外网BD库
+Builds_tagDescription=自动更新动作RPG恐怖黎明的BD和指南合集
+
+Builds_tagSearchNoResults=没有符合条件的BD
+
+Builds_tagFilteredRecentlyCreatedBuilds=最近创建的BD
+# used as base: "[Builds ]...", e.g. "Builds for patch 1.1.9.1"
+Builds_tagFilteredBuilds=BD
+# used as base: "[Classless Builds ]...", e.g. Classless Builds for patch 1.1.9.1
+Builds_tagFilteredClasslessBuilds=无职业BD
+# used as base: "[.X Builds]...", e.g. "Soldier Builds" or "Shaman Builds for patch 1.1.9.1"
+# !!! Class name is in subjective case, so it might be better to translate differently, e.g. in the form of "Builds for class {%s0}"
+Builds_tagFilteredBuildsForClass={%s0}BD
+# used as suffix: "[Builds ]for patch 1.1.9.1"
+Builds_tagFilteredForPatch=于版本{%s0}
+# used as suffix: "[Builds ]created by John"
+Builds_tagFilteredCreatedBy=由{%s0}创建
+# used as suffix: "[Builds ]using Belgothian's Slicer item"
+Builds_tagFilteredUsingItem=使用{%s0}物品
+Builds_tagFilteredUsingItems=使用{%s0}物品
+Builds_tagFilteredNoEpicOrLegendaryItem=不使用史诗或传奇物品
+# used as suffix: "[Builds ]using Cadence skill"
+Builds_tagFilteredUsingSkill=使用{%s0}技能
+Builds_tagFilteredUsingSkills=使用{%s0}技能
+# used as suffix: "[Builds ]from YouTube"
+Builds_tagFilteredFromYoutube=从YouTube
+# used as suffix: "[Builds ]from Grim Dawn Forum"
+Builds_tagFilteredFromForum=从恐怖黎明官方论坛
+# used as prefix: "Hardcore[ Builds]"
+Builds_tagFilteredHardcore=专家模式
+# used as prefix: "Beginner[ Builds]"
+Builds_tagFilteredBeginner=新手
+# used as prefix: "Leveling[ Builds]"
+Builds_tagFilteredLeveling=从零开始（有升级过程）
+
+Builds_tagFilterValueNoClasses=(无职业)
+Builds_tagFilterValueNoEpicOrLegendaryClass=(无史诗/传说物品)
+Builds_tagFilterTitleGameVersion=游戏版本
+Builds_tagFilterTitleClass=职业
+Builds_tagFilterTitleUsedSkill=使用的技能
+Builds_tagFilterTitleUsedItem=使用的物品
+Builds_tagFilterTitleAuthor=作者
+Builds_tagFilterTitleSource=来源
+Builds_tagFilterTitleFlagHardcore=专家模式
+Builds_tagFilterTitleFlagBeginner=新手
+Builds_tagFilterTitleFlagLeveling=从零开始（有升级过程）
+
+Builds_tagSourceYoutube=YouTube
+Builds_tagSourceForum=恐怖黎明官方论坛
+
+# Example usage: Created by John at Sep 19, 2021
+Builds_tagCreatedByAt=由{%s0}在{%s1}创建
+Builds_tagBuildFromYoutube=BD来源于YouTube
+Builds_tagBuildFromForum=BD来源于恐怖黎明官方论坛
+Builds_tagBuildVideoLink=BD视频
+Builds_tagBuildNoClass=无职业
+# should be kept short
+Builds_tagBuildPlannerLink=BD模拟器

@@ -1,4 +1,4 @@
-ItemDB_tagItemDB=Grim Dawn 物品数据库
+ItemDB_tagItemDB=恐怖黎明物品数据库
 
 # Menu
 ItemDB_tagMenuLanguage=语言
@@ -150,12 +150,12 @@ ItemDB_tagAdvSearchSectionMisc=杂项
 ItemDB_tagAdvSearchItemName=名称
 ItemDB_tagAdvSearchItemType=类型
 ItemDB_tagAdvSearchItemRarity=稀有度
-ItemDB_tagAdvSearchItemAPS=每秒攻击
+ItemDB_tagAdvSearchItemAPS=每秒攻击次数
 ItemDB_tagAdvSearchItemPierceRatio=穿刺比例
 ItemDB_tagAdvSearchItemWeaponDamage=武器伤害
 ItemDB_tagAdvSearchItemBaseArmor=基础护甲
 ItemDB_tagAdvSearchItemBlock=伤害格挡
-ItemDB_tagAdvSearchItemBlockChance=格挡数量
+ItemDB_tagAdvSearchItemBlockChance=格挡概率
 ItemDB_tagAdvSearchItemBlockRecovery=格挡恢复
 ItemDB_tagAdvSearchItemMasteryBonus=专精加成
 ItemDB_tagAdvSearchItemSkillBonus=技能加成

@@ -303,25 +303,25 @@ tagGDX1EnemyTrapA02=巫登沼泽蘑菇
 
 #Pets
 
-tagGDX1PetArcaneSeal=奥术秘印
-tagGDX1PetConcussiveRune=震荡神符
-tagGDX1PetIceRune=寒潮神符
+tagGDX1PetArcaneSeal=审判官秘印
+tagGDX1PetConcussiveRune=卡拉斯特符文
+tagGDX1PetIceRune=哈加拉德符文
 tagGDX1PetManticore02=死亡追猎者
 
-tagGDX1PetBlightBeast=疫病野兽
+tagGDX1PetBlightBeast=疫病恶魔
 tagGDX1PetBlightBeastB=不稳定畸变
 tagGDX1PetMaggot=蛆虫
-tagGDX1PetWraith=碎裂的幽灵
+tagGDX1PetWraith=精魂幽灵
 tagGDX1PetSkeleton01=骷髅战士
 tagGDX1PetSkeleton01b=骷髅弓箭手
-tagGDX1PetSkeleton01c=骷髅奥术师
+tagGDX1PetSkeleton01c=骷髅法师
 tagGDX1PetSkeleton01d=骷髅亡魂
 
 tagGDX1DevotionPet_ArcaneCurrent=奥术电流
 
 tagGDX1ItemPetGhostCrab=灵魂蟹
-tagGDX1ItemPetSkeletalGolem=骷髅仆从
-tagGDX1ItemPetWraith=束缚的幽灵
+tagGDX1ItemPetSkeletalGolem=骸骨仆从
+tagGDX1ItemPetWraith=束缚幽灵
 tagGDX1ItemPetKasparov=净化水晶
 tagGDX1ItemPetHargate=虚化水晶
 tagGDX1ItemPetKasparovSkill=结晶

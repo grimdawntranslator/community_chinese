@@ -1000,11 +1000,11 @@ tagReanimatorBossH04=堕落者 ~ 纳扎格拉德
 
 #Pets 宠物
 
-tagPetRavenA01=风暴乌鸦
-tagPetHellhoundA01=地狱魔犬
+tagPetRavenA01=乌鸦
+tagPetHellhoundA01=地狱犬
 tagPetWhirlwindA01=旋风
-tagPetThornedHorrorA01=荆棘
-tagPetManticoreA01=原始灵魂
+tagPetThornedHorrorA01=荆棘兽
+tagPetManticoreA01=原始之灵
 tagPetWindDevilA01=风魔
 tagPetTotemA01=温迪戈图腾
 tagPetTotemA02=风暴图腾
@@ -1012,27 +1012,27 @@ tagPetTotemA02B=腐坏图腾
 tagPetBlackScourge=黑暗之灾
 tagPetGazeOfDreeg=德里格的凝视
 tagPetEyeOfGuardian=守护者之眼
-tagPetHeraldOfDoom=末日之旗
-tagPetSpirit=束缚灵魂
+tagPetHeraldOfDoom=末日战旗
+tagPetSpirit=复生幽灵
 tagPetRitualCircle=仪式之环
-tagPetStormShard=风暴碎片
+tagPetStormShard=风暴裂片
 tagPetArcaneWisp=奥术精灵
 
 
-tagDevotionPet_Skeleton=骸骨骷髅
+tagDevotionPet_Skeleton=亡魂复生
 tagDevotionPet_ArcaneBomb=奥术炸弹
-tagDevotionPet_Hound=畏惧猎犬
+tagDevotionPet_Hound=拜斯迈的猎犬
 tagDevotionPet_Hungerling=饥饿鱼群
 tagDevotionPet_ElementalSeeker=元素探寻者
-tagDevotionPet_LivingShadow=原生暗影
+tagDevotionPet_LivingShadow=暗影复生
 tagDevotionPet_Volcano=爆发
 
 tagPetIceWallA01=寒冰屏障
 
 tagPetBladeSwarmA01=刀锋之灵
 
-tagPetThermiteMineA01=燃烧地雷
-tagPetMortarTrapA01=砂浆陷阱
+tagPetThermiteMineA01=铝热地雷
+tagPetMortarTrapA01=迫击抛射炮
 
 tagItemFleshHulkA01=血肉巨人
 tagItemGuardianA01=坚毅守卫

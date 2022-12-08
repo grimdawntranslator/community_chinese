@@ -1,7 +1,7 @@
 #Faction
 
 tagFactionUser13=拜斯迈教团
-tagFactionUser13Info=营地：三巫神秘会 {^n}{^n} 信奉难以捉摸的低语女士，拜斯迈教团以伪造和诡计为荣。{^n}{^n} 正是由于拜斯迈的阴谋诡计，帝国的审判官们花了几个世纪漫无目的地寻找巫神教团，他们的努力被无尽的诱骗和谎言所困扰。{^n}{^n}所有这一切都是通过庞大的间谍和线人网络实现的，这些网络被称为拜斯迈的情报网，只有极少数被熏人的人才知道拜斯迈计划的全貌。
+tagFactionUser13Info=营地：三巫神秘会 {^n}{^n} 信奉难以捉摸的低语女士，拜斯迈教团以伪造和诡计为荣。{^n}{^n} 正是由于拜斯迈的阴谋诡计，帝国的审判官们花了几个世纪漫无目的地寻找巫神教团，他们的努力被无尽的诱骗和谎言所困扰。{^n}{^n}所有这一切都是通过庞大的间谍和线人网络实现的，这些网络被称为拜斯迈的情报网，只有极少数被选中的人才知道拜斯迈计划的全貌。
 tagFactionUser13Rewards1=N/A
 tagFactionUser13Rewards2=N/A
 tagFactionUser13Rewards3=N/A
@@ -63,12 +63,12 @@ tagEndlessFloorComplete=前往下一个传送门
 tagEndlessFloorBoss=击败你的敌人
 tagEndlessFloorBossDead=与玛赞对话
 tagEndlessFloorLoot=获取你的奖励
-tagEndlessDungeonCounterName=碎界
-tagEndlessDungeonCounterInfo=碎裂之境的当前碎界
+tagEndlessDungeonCounterName=碎境
+tagEndlessDungeonCounterInfo=碎裂之境的当前碎境
 tagEndlessFloorCounterName=区块
-tagEndlessFloorCounterInfo=当前碎界内的区块
+tagEndlessFloorCounterInfo=当前碎境内的区块
 tagEndlessTimerName=计时器
-tagEndlessTimerNameInfo=碎裂之境变得不稳定之前的剩余时间。 ^n^n击杀强大的敌人或者迅速消除大量的敌人可以获得奖励时间。 ^n^n在时间耗尽前击杀碎界的Boss可以在碎裂之境的辉煌中领取额外的奖励。
+tagEndlessTimerNameInfo=碎裂之境变得不稳定之前的剩余时间。 ^n^n击杀强大的敌人或者迅速消除大量的敌人可以获得奖励时间。 ^n^n在时间耗尽前击杀碎境的Boss可以在碎裂之境的辉煌中领取额外的奖励。
 tagEndlessDungeonBonusTime=屠杀：{%d0} 怪物被击杀！^n^n+{%.0f1} 秒到计时器！
 tagEndlessDungeonHeroBonusTime=击杀强力敌人！^n^n+{%.0f0} 秒到计时器！
 

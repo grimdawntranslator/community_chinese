@@ -13,13 +13,14 @@ Map_tagNavigationAreasSortAZ=按字母顺序排列
 Map_tagNavigationAreasSortHierarchichally=按等级排列
 
 Map_tagMarkerRift=裂隙传送门
-Map_tagMarkerShrine=祭坛
+Map_tagMarkerShrine=神龛
 Map_tagMarkerPOI=入口 / 出口
 Map_tagMarkerRogueDungeon=地牢入口
 Map_tagMarkerChest=珍贵宝箱
 Map_tagMarkerOneShotChest=一次性宝箱
 Map_tagMarkerLockedChest=上锁的宝箱
 Map_tagMarkerTreasureTrove=宝藏
+Map_tagMarkerMonsterTotem=怪物图腾
 Map_tagMarkerBoss=值得注意的敌人
 Map_tagMarkerBounty=赏金目标
 Map_tagMarkerNemesis=复仇Boss

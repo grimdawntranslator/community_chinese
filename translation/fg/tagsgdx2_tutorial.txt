@@ -12,8 +12,8 @@ tagTutorialTip66TextB=你在碎裂之境中击杀的每一个敌人都将提高�
 tagTutorialTip66TextC=强大的敌人有机会掉落一个碎裂之魂。当你收集这个物品时，你将获得进度条奖励，并获得一个临时增益，增加你的伤害和生存能力。{^n}{^n}收集一个新的碎裂之魂可以刷新此效果的持续时间并使其更强大。你在碎裂之境中越深入，你可以同时收集越多的增益效果。
 tagTutorialTip66SubtitleB=时间不等人
 tagTutorialTip66TextD=碎裂之境本质上是不稳定的。如果你花太多时间去收集那些该死的生物的灵魂，那么一些奖励就会被破坏，永远消失在虚无之中。快点，时间不等人！
-tagTutorialTip66SubtitleC=碎界守卫
-tagTutorialTip66TextE=在每个碎界的尽头都有一个碎界守卫的领地在等着你。在那里你必须打败所有等待着你的强大的敌人，来领取你的奖励！
+tagTutorialTip66SubtitleC=碎境守卫
+tagTutorialTip66TextE=在每个碎境的尽头都有一个碎境守卫的领地在等着你。在那里你必须打败所有等待着你的强大的敌人，来领取你的奖励！
 tagTutorialTip66SubtitleD=关闭碎裂之境
 tagTutorialTip66TextF=如果你觉得碎裂之境太过危险，你可以与三巫神秘会的玛赞对话，以关闭传送门并重新开始。
 
@@ -24,9 +24,9 @@ tagTutorialTip67TextB=如果你愿意，现在你可以领取你的奖励。你�
 tagTutorialTip67SubtitleB=关闭碎裂之境
 tagTutorialTip67TextC=当你领取完你的奖励，你可以与三巫神秘会的玛赞对话，以关闭传送门并重新开始。注意，任何没有领取的宝箱都将消失。
 tagTutorialTip67SubtitleC=向更深的地方前进...
-tagTutorialTip67TextD=与其领取奖励，不如前往碎裂之境的更深处，并在另一个碎界中对付敌人。你的敌人会更强大，但最终的奖励也更加的丰厚。
+tagTutorialTip67TextD=与其领取奖励，不如前往碎裂之境的更深处，并在另一个碎境中对付敌人。你的敌人会更强大，但最终的奖励也更加的丰厚。
 tagTutorialTip67SubtitleD=引路石
-tagTutorialTip67TextE=当你进入到碎裂之境的深处时，你会发现在铁匠那里制造引路石的秘密。这些引路石允许你在一个更困难的碎界处开始一个新的碎裂之境的旅途。
+tagTutorialTip67TextE=当你进入到碎裂之境的深处时，你会发现在铁匠那里制造引路石的秘密。这些引路石允许你在一个更困难的碎境处开始一个新的碎裂之境的旅途。
 tagTutorialTip67TextF=根据你角色探索进度的多少，每个引路石都有各自的有效范围。引路石一旦被使用就会消失。
 
 tagTutorialTip68Title=套装转换
@@ -39,5 +39,5 @@ tagTutorialTip68TextC=将你套装中一件物品转换为其他套装中的某�
 
 #Quick Tips
 tagQuickTip66={^z}碎裂之境等待着你...{^-}{^n}{^n}你必须击杀被困在碎裂之境中的敌人来收集碎裂之魂。收集到足够的碎裂之魂后，继续前进的道路将会打开。{^n}{^n}点击这里了解更多关于碎裂之境的信息。
-tagQuickTip67={^z}征服碎裂之境{^-}{^n}{^n}你击败了这个碎界的守卫。{^n}{^n}你现在可以与玛赞对话向更深处探索，或者领取你的奖励。
+tagQuickTip67={^z}征服碎裂之境{^-}{^n}{^n}你击败了这个碎境的守卫。{^n}{^n}你现在可以与玛赞对话向更深处探索，或者领取你的奖励。
 tagQuickTip68={^z}套装转换{^-}{^n}{^n}这个转换窗口允许你将套装的某件物品转换为其他套装的某件物品。

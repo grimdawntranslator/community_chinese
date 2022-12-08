@@ -476,9 +476,9 @@ tagGDX2LegsD204=摩根尼斯的腿甲
 
 #ArmorFeet 靴子
 tagGDX2FeetC201=图林的步伐
-tagGDX2FeetC201_Desc="圣像堡破盾者图林的手甲，这名战士陨落于侍奉至高神之路上。"
-tagGDX2FeetC202=裂隙护腿
-tagGDX2FeetC203=蔑视护腿
+tagGDX2FeetC201_Desc="穿着这双战靴的圣像堡破盾者图林，他的脚步最后一次为侍奉至高神而踏出。"
+tagGDX2FeetC202=裂隙护胫
+tagGDX2FeetC203=蔑视护胫
 
 tagGDX2FeetD201=原始狂怒之靴
 tagGDX2FeetD202=读石者
@@ -503,7 +503,7 @@ tagGDX2WaistD202_Desc="上面烙印着血红莲花，血红莲花将见证这世
 tagGDX2WaistD203=夜火之链
 tagGDX2WaistD204=白莲花
 tagGDX2WaistD204_Desc="上面有着白莲花的徽记，照料着科凡大地上绽开的天界之花。"
-tagGDX2WaistD205=诺斯费拉提斯
+tagGDX2WaistD205=吸血鬼
 tagGDX2WaistD206=拉辛的护腰
 tagGDX2WaistD207=穆谟之吻
 tagGDX2WaistD208=致命的手段
@@ -823,7 +823,7 @@ tagGDX2CraftMaterial_Eldritch_Desc="从这粘稠的东西中滴落着来自邪�
 tagGDX2CraftMaterial_Lotus=天界莲花
 tagGDX2CraftMaterial_Lotus_Desc="一种仅在科凡高原和其中的神秘遗迹中发现的花。人们相信那些花曾经受到众神星光的照耀，而且还是好运气的象征。"
 
-tagGDX2CraftMaterial_Sacrifice=天界精华
+tagGDX2CraftMaterial_Sacrifice=天神精华
 tagGDX2CraftMaterial_Sacrifice_Desc="现实，或者说存在本身的精华。或许可用于某个用途可疑合适地点的强大仪式。"
 
 tagGDX2CraftMaterial_IronExchange_01=铁锭
@@ -1156,7 +1156,7 @@ tagGDX2ItemSetC205Name=石父
 tagGDX2ItemSetC205Desc="坚定不移的曼海尔卫士石父所穿的盔甲。"
 
 tagGDX2ItemSetD201Name=破碎守卫
-tagGDX2ItemSetD201Desc="一个被黑暗吞没之地的守卫，无人守护，无人守护。"
+tagGDX2ItemSetD201Desc="守卫着失去庇佑的黑暗吞没之地。"
 
 tagGDX2ItemSetD202Name=征服者
 tagGDX2ItemSetD202Desc="征服禁区者，击败一切敌人。"
@@ -1311,7 +1311,7 @@ tagGDX2Door_PortcullisGold=黄金闸门
 tagGDX2Door_Lava=熔岩路障
 tagGDX2EldritchRift=邪术裂隙
 tagGDX2TombOfHereticDoor=浮现的黑暗
-tagGDX2TombOfHereticSeal=异教徒的封印
+tagGDX2TombOfHereticSeal=异端的封印
 
 tagGDX2DoorOneWayTombOfHeretic=黑夜逃脱口
 tagGDX2EpicDoor_TombOfHeretic=摩根尼斯之愚的封印

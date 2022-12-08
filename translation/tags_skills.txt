@@ -104,7 +104,7 @@ tagClass01SkillDescription02C=力场波粉碎骨骼并损伤内脏，造成大�
 tagClass01SkillName02D=[士兵]震颤
 tagClass01SkillDescription02D=以曼海尔的意志为名，使用强有力的双手武器撕裂大地。对敌人施放出具有毁灭力量的能量波。^o需要一把双手近战武器。震颤不是一种默认增强型武器攻击技能，不能触发类似马尔科夫优势的特效。
 
-tagClass01SkillName03A=[士兵]迅猛冲击
+tagClass01SkillName03A=[士兵]闪击
 tagClass01SkillDescription03A=带着毁灭性的动能冲入敌群，发动突袭。^o需要一把近战武器。当装备盾牌时，盾牌的伤害也会被计算在内。
 tagClass01SkillName03B=[士兵]攻其不备
 tagClass01SkillDescription03B=你的攻击突然而猛烈，使敌人失去平衡，降低作战能力。
@@ -146,10 +146,10 @@ tagClass01SkillName12A=[士兵]功勋卓著
 tagClass01SkillDescription12A=在白热化的战场上保持冷静思考的能力，使老兵们能够更轻易地切入敌人的防御空档，或是预判敌人的攻击节奏来实施反击。
 
 tagClass01SkillName13A=[士兵]曼海尔的壁垒
-tagClass01SkillDescription13A=召唤大地之神曼海尔，护佑其追随者拥有大地般的坚韧。^o需要一面盾牌或双手近战武器。这项技能必须保持开启以持续生效。
+tagClass01SkillDescription13A=呼唤大地之神曼海尔，护佑其追随者拥有大地般的坚韧。^o需要一面盾牌或双手近战武器。这项技能必须保持开启以持续生效。
 
 tagClass01SkillName14A=[士兵]奥莱隆之怒
-tagClass01SkillDescription14A=召唤远古战神奥莱隆，鼓舞其追随者燃起无法动摇的凶猛战意。^o这项技能必须保持开启以持续生效。
+tagClass01SkillDescription14A=呼唤远古战神奥莱隆，鼓舞其追随者燃起无法动摇的凶猛战意。^o这项技能必须保持开启以持续生效。
 
 tagClass01SkillName15A=[士兵]战斗警觉
 tagClass01SkillDescription15A=进入防御姿态，极大的增强你的战斗意志。你只能在很短的时间内维持该状态。^o需要一面盾牌。
@@ -381,7 +381,7 @@ tagClass04SkillDescription01X=更加精准而且强力地投掷幻影刀，将�
 tagClass04SkillName01D=[夜刃]狂热掷
 tagClass04SkillDescription01D=以狂热的速度连续投掷幻影刀，但是单个刀锋的杀伤力降低。
 
-tagClass04SkillName02A=[夜刃]影击
+tagClass04SkillName02A=[夜刃]暗影袭
 tagClass04SkillDescription02A=幻术与精神力量的巧妙结合使你几近消失并像梦魇中的幽灵一样现身在你的目标上方。^o需要一把近战武器。
 tagClass04SkillName02B=[夜刃]尼达拉的正义裁决
 tagClass04SkillDescription02B=作为一个被大多数夜刃所厌弃的用毒大师，尼达拉主张结果证明一切。在传统暗影袭上辅以毒药，确保了任何在初始攻击下还存活的敌人均会以悲剧收场。
@@ -407,7 +407,7 @@ tagClass04SkillDescription05C=因其速度而成为传奇，阿玛拉斯塔的�
 tagClass04SkillName05D=[夜刃]死亡旋风
 tagClass04SkillDescription05D=针对多名敌人的一种毁灭性的战斗技艺，敌人即便存活也会像遭受千刀万剐一般血流不止。^o这是一项近战双持技能，由默认武器攻击触发。
 tagClass04SkillName05E=[夜刃]尼达拉的隐手
-tagClass04SkillDescription05E=颇具争议的夜刃大师尼达拉在她尚不理性的年纪通过将剧毒与其他夜刃的技艺结合，这近乎残忍的强大技巧使得她战胜了众多敌手。^o这项技能将改变贝尔戈斯安的力斩，阿玛拉斯塔的瞬影和死亡旋风。
+tagClass04SkillDescription05E=颇具争议的夜刃大师尼达拉在她尚不理性的年纪通过将剧毒与其他夜刃的技艺结合，这近乎残忍的强大技巧使得她战胜了众多敌手。^o这项技能将改变贝尔戈斯安的切割，阿玛拉斯塔的瞬影和死亡旋风。
 tagClass04SkillName05F=[夜刃]处决
 tagClass04SkillDescription05F=伺机发动出无情的一击，以迅速解决敌人。遭此攻击侥幸存活者，也不会苟延残喘太久。^o这是一项近战双持技能，由默认武器攻击触发。
 
@@ -1759,7 +1759,7 @@ tagItemSkillD137Name=仁慈
 tagItemSkillD137Desc=在你最黑暗的时刻，神灵的仁慈会降临于你。
 
 tagItemSkillD138Name=流星
-tagItemSkillD138Desc=撕裂冥界与现实世界最脆弱的屏障，召唤大量的燃烧岩石降临到敌人上方。
+tagItemSkillD138Desc=撕裂幽冥与现实世界间最脆弱的屏障，召唤巨大的燃烧岩石降临到敌人上方。
 
 tagItemSkillD139Name=贝若纳斯之力
 tagItemSkillD139Desc=引导伟大野兽贝若纳斯的力量，甚至可将你的奥术力量转化为致命的物理攻击。
@@ -2642,7 +2642,7 @@ tagDevotion_B05Desc=残暴之熊是傲慢与强壮力量的标志。在它的光
 tagDevotion_B06=刺客
 tagDevotion_B06Desc=刺杀者即死亡行刑者，很少会出现在夜空中。他的到来经常伴随着浓厚的阴云，短暂的出现后再次没入其中，一闪而逝。
 tagDevotion_B07=魔法长者
-tagDevotion_B07Desc=魔法长者是所有魔法师的保护者。那些在他的注视下诞生的人据说都被赐予了祝福或者被施加了诅咒，这取决于他的视角，伴随着对奥术力量无与伦比的控制力。
+tagDevotion_B07Desc=魔法长者是所有魔法师的保护者。那些在他的注视下诞生的人据说都被赐予了对于奥术力量无与伦比的控制力，有人认为这是祝福，也有人会认为是诅咒。
 tagDevotion_B08=深秋野猪
 tagDevotion_B08Desc=深秋野猪的到来标志着秋季的庆典开端以及树叶的更替。这项活动始于一场盛大的狩猎并结束于肉类与啤酒都吃干喝尽的盛宴。
 tagDevotion_B09=寡妇
@@ -2709,7 +2709,7 @@ tagDevotion_C07Desc=奥祖因曾经是治愈和庆典之神，但是来自爱人
 tagDevotion_C08=垂死之神
 tagDevotion_C08Desc=在凡人位面被开创出来之前，一位古老的神灵被他的子孙所背叛。他的身体被撕裂，血液被吸干，这样他们就能使用这些力量来注入他们所创造的事物中去。他的残体被放逐到虚空，但是他并没有死。这位神灵在黑暗中垂死，注定要投入到痛苦与疯狂的来世中去，感受用他的血液来赋予的所有凡世生物所遭受的痛苦与死亡。他的名字在时光中流逝，这名垂死之神仅以冥神之名为人所知。他实际上还存活在创造之物的下方位面。
 tagDevotion_C09=生命之树
-tagDevotion_C09Desc=传说中当这个世界刚刚从黑暗的虚空中诞生时，仅有的一颗树被种下并承受了世界上所有的动物和果实。
+tagDevotion_C09Desc=传说中当这个世界刚刚从黑暗的虚空中诞生时，这颗树被种下并孕育了世界上所有的动物和果实。
 tagDevotion_C10=狼神莫格卓根
 tagDevotion_C10Desc=诸神之战中所创造出来的一名泰坦，曾经是野兽之神并传言在凯恩的荒野边缘游荡。传说中声称莫格卓根是一个变形者，经常以一只巨狼的形态出现，但偶尔会变为其他形态，甚至是一个人类。莫格卓根在凯恩边远地区游荡，以防文明社会的入侵。
 tagDevotion_C11=盲眼圣者
@@ -2808,7 +2808,7 @@ tagDevotionEffectC03Desc=虚空的混沌之力透体而过，使你的武器充�
 tagDevotionEffectC04=至高之神的圣光
 tagDevotionEffectC04Desc=至高之神的圣光驱散黑暗并灼烧你的敌人。
 tagDevotionEffectC05=雷霆暴怒
-tagDevotionEffectC05Desc=被你所流出的鲜血激怒，你迅猛且恶毒的攻击附近的所有敌人。
+tagDevotionEffectC05Desc=为挥洒的热血而亢奋，你狂暴且迅猛地攻击附近的所有敌人。
 tagDevotionEffectC06=岩石形态
 tagDevotionEffectC06Desc=你的血肉变得像岩石一般，强韧不可穿透。
 tagDevotionEffectC07=天堂之矛

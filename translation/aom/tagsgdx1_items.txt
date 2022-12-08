@@ -982,7 +982,7 @@ tagGDX1Blueprint_ArmorC115=设计图：神话 圣契的不洁面容
 tagGDX1Blueprint_ArmorC116=设计图：神话 黎明守卫头盔
 tagGDX1Blueprint_ArmorC117=设计图：神话 持火者的夹克
 tagGDX1Blueprint_ArmorC118=设计图：神话 卡里多的战衣
-tagGDX1Blueprint_ArmorC119=设计图：神话 密耳弥冬的面甲
+tagGDX1Blueprint_ArmorC119=设计图：神话 密尔弥冬的面甲
 tagGDX1Blueprint_ArmorC120=设计图：神话 莫格卓根的风帽
 tagGDX1Blueprint_ArmorC121=设计图：神话 完美主义者的风帽
 
@@ -1503,10 +1503,10 @@ tagGDX1CompA107Name=黑夜之印
 tagGDX1CompA107Desc="夜刃阿玛拉斯塔为了实现一个特殊目标而设计的印章。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagGDX1CompA108Name=毁灭之印
-tagGDX1CompA108Desc="为了奥祖因的荣耀而创造的印章，燃烧将毁灭那些藐视天神之人。"^w^n(用于所有武器，盾牌和法器副手)
+tagGDX1CompA108Desc="为了奥祖因的荣耀而创造的印章，那些藐视天神之人将在燃烧中毁灭。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagGDX1CompA109Name=暗影之印
-tagGDX1CompA109Desc="夜刃尼达拉的最爱，能将刺骨的酸性注入武器。"^w^n(用于所有武器，盾牌和法器副手)
+tagGDX1CompA109Desc="夜刃尼达拉的最爱，能将刺骨毒酸注入武器。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagGDX1CompA110Name=共鸣之印
 tagGDX1CompA110Desc="按照光明会精确的标准制成，这枚印章可以强化武器的魔法属性，甚至不精通奥术的人也可使用。"^w^n(用于所有武器，盾牌和法器副手)
@@ -1523,11 +1523,11 @@ tagGDX1CompA113Desc="刻在宝石侧面的符文可以强化防护性能。"^w^n
 tagGDX1CompA114Name=血腥水晶
 tagGDX1CompA114Desc="曾经白如珍珠的水晶吸收了无数杀戮的鲜血。"^w^n(用于戒指，项链和勋章)
 
-tagGDX1CompA115Name=魔法大地
-tagGDX1CompA115Desc="充满大地的生命精华能促进健康生长。"^w^n(用于所有护甲)
+tagGDX1CompA115Name=魔法之土
+tagGDX1CompA115Desc="泥土中被注入了生命精华以促发生机。"^w^n(用于所有护甲)
 
 tagGDX1CompA116Name=魔法焚烧铠甲片
-tagGDX1CompA116Desc="破碎的铠甲片吸收了致命奥数攻击的魔法能量。"^w^n(用于所有护甲)
+tagGDX1CompA116Desc="破碎的铠甲片吸收了致命奥术攻击的魔法能量。"^w^n(用于所有护甲)
 
 tagGDX1CompA117Name=刀刃铠甲片
 tagGDX1CompA117Desc="铠甲上装满了成排的致命刀刃。是强盗和残酷暴君的最爱。"^w^n(用于所有护甲)
@@ -1637,7 +1637,7 @@ tagGDX1ItemSetD106Name=岩石守卫
 tagGDX1ItemSetD106Desc="岩石守卫的装备，曼海尔信仰的忠诚守护者。"
 
 tagGDX1ItemSetD107Name=军团之要塞
-tagGDX1ItemSetD107Desc="帕里奥纳·达尔的装备，黑色军团的持盾少女。"
+tagGDX1ItemSetD107Desc="黑色军团的持盾少女，帕里奥纳·达尔的装备。"
 
 tagGDX1ItemSetD108Name=戈尔巴的愤怒
 tagGDX1ItemSetD108Desc="戈尔巴的铠甲，罗斯纳尔的野蛮女儿，绰号白狼毒牙。"

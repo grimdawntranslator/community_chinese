@@ -113,25 +113,25 @@ achGDX236Title=科凡博学者
 achGDX236Desc=收集 85条 学识记录。
 
 achGDX237Title=进入碎裂之境
-achGDX237Desc=征服碎裂之境的第 5 碎界。
+achGDX237Desc=征服碎裂之境的第 5 层碎境。
 
 achGDX238Title=直面碎裂之境
-achGDX238Desc=在终极难度中征服碎裂之境的第 5 碎界。
+achGDX238Desc=在终极难度中征服碎裂之境的第 5 层碎境。
 
 achGDX239Title=碎裂探险家
-achGDX239Desc=征服碎裂之境的第 15 碎界。
+achGDX239Desc=征服碎裂之境的第 15 层碎境。
 
 achGDX240Title=碎裂开拓者
-achGDX240Desc=在终极难度中征服碎裂之境的第 15 碎界。
+achGDX240Desc=在终极难度中征服碎裂之境的第 15 层碎境。
 
 achGDX241Title=碎裂胜利者
-achGDX241Desc=征服碎裂之境的第 25 碎界。
+achGDX241Desc=征服碎裂之境的第 25 层碎境。
 
 achGDX242Title=碎裂征服者
-achGDX242Desc=在终极难度中征服碎裂之境的第 25 碎界。
+achGDX242Desc=在终极难度中征服碎裂之境的第 25 层碎境。
 
 achGDX243Title=不朽的碎裂征服者
-achGDX243Desc=在专家模式中以终极难度征服碎裂之境的第 25 碎界。
+achGDX243Desc=在专家模式中以终极难度征服碎裂之境的第 25 层碎境。
 
 achGDX244Title=灵魂饮食
 achGDX244Desc=在碎裂之境中吸收 50个 碎裂之魂。
@@ -140,7 +140,7 @@ achGDX245Title=灵魂盛宴
 achGDX245Desc=在碎裂之境中吸收 300个 碎裂之魂。
 
 achGDX246Title=灵魂至尊
-achGDX246Desc=在碎裂之境中吸收 8组 成堆的碎裂之境精华。
+achGDX246Desc=在碎裂之境中吸收 8层 碎裂之境精华。
 
 achGDX247Title=碎裂交易
 achGDX247Desc=获得 1种 碎裂之境神龛效果。
@@ -149,16 +149,16 @@ achGDX248Title=完成交易
 achGDX248Desc=获得所有 5种 碎裂之境神龛效果。
 
 achGDX249Title=暗夜吞噬
-achGDX249Desc=在异教徒墓地的暗夜吞噬中活下来。
+achGDX249Desc=在异端之墓的暗夜吞噬中活下来。
 
 achGDX250Title=驱逐暗夜
-achGDX250Desc=击杀异教徒墓地的大法师摩根尼斯。
+achGDX250Desc=击杀异端之墓的大法师摩根尼斯。
 
 achGDX251Title=暗夜烛光
-achGDX251Desc=在终极难度中击杀异教徒墓地的大法师摩根尼斯。
+achGDX251Desc=在终极难度中击杀异端之墓的大法师摩根尼斯。
 
 achGDX252Title=不灭暗夜烛光
-achGDX252Desc=在专家模式中击杀异教徒墓地的大法师摩根尼斯。
+achGDX252Desc=在专家模式中击杀异端之墓的大法师摩根尼斯。
 
 achGDX253Title=债务追讨
 achGDX253Desc=在单局游戏中解决 5个 里格斯的同伴。
@@ -167,7 +167,7 @@ achGDX254Title=偿还债务
 achGDX254Desc=偿还你在里格斯那里的债务。
 
 achGDX255Title=七法师
-achGDX255Desc=在异教徒墓地解决七位科凡法师。
+achGDX255Desc=在异端之墓解决七位科凡法师。
 
 
 

@@ -282,7 +282,7 @@ tagGDX2EnemyWormB01=愤怒肠虫
 
 
 #Pets
-tagGDX2Pet_CelestialGuardian01=至高之神的仆从
+tagGDX2Pet_CelestialGuardian01=至高神守护者
 tagGDX2Pet_CelestialGuardian01B=德里格之嗣
 
 tagGDX2Pet_Item_SandDevil01=沙魔
@@ -356,7 +356,7 @@ tagGDX2Boss_RiggsCollector_01=里格斯的“同伙”
 
 
 tagGDX2Miniboss_Kymon_01=凯蒙复仇者 ~ 修士 塞格留斯
-tagGDX2Miniboss_Kymon_02=凯蒙复仇者 ~ 修女 克里姆荪
+tagGDX2Miniboss_Kymon_02=凯蒙复仇者 ~ 绯红修女
 tagGDX2Miniboss_Kymon_03=奥西尔的高阶祭司 ~ 雷姆祖尔
 
 tagGDX2Miniboss_Beast_01=科凡沙漠之王 ~ 甘纳·瓦卡

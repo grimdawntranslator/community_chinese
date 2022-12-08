@@ -118,8 +118,8 @@ tagGDX2ItemSkillC201Desc=在你周围爆发带毒的尖刺，刺穿附近的敌�
 tagGDX2ItemSkillC202Name=风暴雪球
 tagGDX2ItemSkillC202Desc=一个带电的冰球，穿透并减缓敌人的移速。
 
-tagGDX2ItemSkillC203Name=戴加的诅咒
-tagGDX2ItemSkillC203Desc=德里格通过戴加的诅咒驱使着你。
+tagGDX2ItemSkillC203Name=戴迦的诅咒
+tagGDX2ItemSkillC203Desc=德里格通过戴迦的诅咒驱使着你。
 
 tagGDX2ItemSkillC204Name=毒火
 tagGDX2ItemSkillC204Desc=通过巫术的蔓延来使你敌人自身溃烂。
@@ -136,7 +136,7 @@ tagGDX2ItemSkillD201Desc=血红的喷泉从敌人脚下爆发，让他们被血�
 tagGDX2ItemSkillD202Name=守卫者指引
 tagGDX2ItemSkillD202Desc=接受巫神德里格的训练将会把你的武器作为他意志的载体。
 
-tagGDX2ItemSkillD203Name=粉碎守卫
+tagGDX2ItemSkillD203Name=破碎守卫
 tagGDX2ItemSkillD203Desc=持续低迷煽动你的愤怒。
 
 tagGDX2ItemSkillD204Name=灵魂尖啸
@@ -298,8 +298,8 @@ tagGDX2ItemSkillD254Name=舒罗斯之眼
 tagGDX2ItemSkillD255Name=孔萨尔的凝视
 tagGDX2ItemSkillD255Desc=孔萨尔的凝视落在你的仆从身上，使他们充满愤恨。
 
-tagGDX2ItemSkillD256Name=尤戈尔的祈祷
-tagGDX2ItemSkillD256Desc=祈求诅咒星辰的仪式，召唤出巨大的天界饥渴的表象。^o表象会受到玩家伤害加成的影响。
+tagGDX2ItemSkillD256Name=祈求尤戈尔
+tagGDX2ItemSkillD256Desc=祈求毁灭星辰的仪式，召唤出巨大的天界饥渴的表象。^o表象会受到玩家伤害加成的影响。
 tagGDX2ItemSkillD256PetSkill_Name=挥打
 tagGDX2ItemSkillD256PetSkill2_Name=黑暗降临
 
@@ -384,14 +384,14 @@ tagGDX2Devotion_A204Desc=幸运的天兆。据说在光明中出生的人将会�
 tagGDX2Devotion_B201=寇瓦克的使者 ~ 奥扎德
 tagGDX2Devotion_B201Desc=一个只忠于寇瓦克的巨人，奥扎德向所有臣民宣布他的主人即将降临。在失去主人的号令后，奥扎德变得幻灭且迷茫，最终陷入疯狂和绝望之中。
 tagGDX2Devotion_B202=天国之门的守护者 ~ 海瑞恩
-tagGDX2Devotion_B202Desc=海瑞恩是创建者塔戈的不朽造物，数千年前是为了守护原始神灵所居住的神之壁毯而创造。
+tagGDX2Devotion_B202Desc=海瑞恩是创建者塔戈的不朽造物，在千万年前为了守护原始神灵所居的神之壁毯而被创造。
 
 tagGDX2Devotion_C201=邪术之阳 ~ 寇瓦克
 tagGDX2Devotion_C201Desc=邪术之阳再次升起，自宣天神之王。
 tagGDX2Devotion_C202=永恒之沙 ~ 阿兹拉卡
-tagGDX2Devotion_C202Desc=阿兹拉卡，伊恩的永恒伴星，是她创造了，决定凡人命运的时光守护者手中的时之沙。她是他的配偶，也是最值得信赖的顾问，她能缓和伊恩的严苛审判，并为她所怜爱的凡人提供慰藉。
+tagGDX2Devotion_C202Desc=阿兹拉卡，伊恩的永恒伴星，是她创造了决定凡人命运的时光守护者手中的时之沙。她是他的配偶，也是最值得信赖的顾问，她能缓和伊恩的严苛审判，并为她所怜爱的凡人提供慰藉。
 tagGDX2Devotion_C203=无尽贪夜 ~ 尤戈尔
-tagGDX2Devotion_C203Desc=当至高神的光辉第一次照耀到众生之外时，众神发现一个巨大的黑暗在虚无中膨胀。只有一个名字：尤戈尔。尤戈尔那无尽的饥渴威胁着要吞噬原神精心创造的一切，只有千万颗星星的怜悯之光才能阻止它的前进。
+tagGDX2Devotion_C203Desc=当至高神的光辉第一次照耀到众生之外时，众神发现一个巨大的黑暗在虚无中膨胀。只有一个名字：尤戈尔。尤戈尔那无尽的饥渴威胁着要吞噬原初神灵精心创造的一切，只有千万颗星星的怜悯之光才能阻止它的前进。
 
 tagGDX2DevotionEffectB201=奥扎德的法令
 tagGDX2DevotionEffectB201Desc=寇瓦克传令官的法令将会稳固你的意志与坚定你的信心。
@@ -647,7 +647,7 @@ tagGDX2EnemySkillA18_Desc=幽灵火焰正在融化你的盔甲。
 tagGDX2EnemySkillA19=拜斯迈光环
 tagGDX2EnemySkillA19_Desc=在附近的拜斯迈祭司鼓舞着你，增强你的防御和攻击能力。
 
-tagGDX2EnemySkillA20=德里戈光环
+tagGDX2EnemySkillA20=德里格光环
 tagGDX2EnemySkillA20_Desc=在附近的德里格祭司鼓舞着你，增强你的防御和攻击能力。
 
 tagGDX2EnemySkillA21=索拉尔光环

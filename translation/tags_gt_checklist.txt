@@ -1,13 +1,15 @@
-Checklist_tagChecklist=Grim Dawn 清单
+Checklist_tagChecklist=恐怖黎明清单
 
 Checklist_tagDevotionShrines=神龛列表
 Checklist_tagOneShotChests=一次性箱子
 Checklist_tagImportantQuests=重要任务
 Checklist_tagLoreNotes=知识笔记
+Checklist_tagBlueprints=设计图
 Checklist_tagPreviewNotAvailable=有预览而不可用
 Checklist_tagDesecratedShrineGoal=击败怪物
 Checklist_tagViewOnWorldMap=在世界地图上查看
 Checklist_tagActNumber=Act {%d0}
+Checklist_tagActRandom=随机
 Checklist_tagBaseGame=基础游戏
 Checklist_tagAoM=马尔茅斯的灰烬
 Checklist_tagFG=被遗忘的诸神
@@ -21,6 +23,7 @@ Checklist_tagLoadFromCharacterFiles=从人物文件中载入数据
 Checklist_tagCharacterFilesLocation1=如果你打开了云存储（默认打开），那么你的存档会在：
 Checklist_tagCharacterFilesLocation2=否则它们会在：
 Checklist_tagDevotionShrineDataLocation=神龛列表和知识笔记数据存储在人物文件夹的存档文件中：
+Checklist_tagBlueprintsLocation=设计图数据存储在游戏存档文件夹根目录的存档文件中：
 Checklist_tagOneShotChestsAndQuestsDataLocation=一次性箱子和任务数据存储在人物文件夹的任务文件中：
 Checklist_tagApplyCharacterDataFromSave=应用到用户配置{^w}{%s0}
 

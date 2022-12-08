@@ -1,6 +1,8 @@
+Nav_tagBuilds=外网BD
 Nav_tagItemDatabase=物品数据库
 Nav_tagMonsterDatabase=怪物数据库
 Nav_tagMonsterDatabasePets=战宠数据库
+Nav_tagMonsterDatabaseForShatteredRealm=碎境怪物版
 Nav_tagBuildCalculator=BD模拟器
 Nav_tagWorldMap=世界地图
 Nav_tagChecklist=清单
